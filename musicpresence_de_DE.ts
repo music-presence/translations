@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="1146"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished">Status deaktiviert</translation>
+        <translation>Status deaktiviert</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1149"/>
@@ -43,19 +43,19 @@
         <location filename="../src/app/app.cpp" line="1391"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished">Spenden</translation>
+        <translation>Spenden</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1393"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished">Unterstütze meine Arbeit mit einer kleinen Spende</translation>
+        <translation>Unterstütze meine Arbeit mit einer kleinen Spende</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1400"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished">Beenden</translation>
+        <translation>Beenden</translation>
     </message>
 </context>
 </TS>
