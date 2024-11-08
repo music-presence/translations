@@ -25,37 +25,37 @@
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obecność wyłączony</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1152"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij aby włączyć</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1156"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obecność jest włączony</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1161"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Czekanie na Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1167"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Czekanie na odtwarzanie multimediów</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obecność jest aktywny</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
@@ -67,43 +67,43 @@
         <location filename="../src/app/app.cpp" line="1396"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wesprzyj moją pracę niewielką darowizną</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1403"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyjdz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Włącz obecność na aplikację</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzacz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1654"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia dla {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1670"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze pokazuj &quot;{podcast_activity_name}&quot; podczas słuchania podcastów</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1673"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spróbuj odfiltrować reklamy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1679"/>
