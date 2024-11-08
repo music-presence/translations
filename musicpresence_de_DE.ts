@@ -4,55 +4,55 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="1146"/>
+        <location filename="../src/app/app.cpp" line="1155"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation type="unfinished">Status deaktiviert</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1149"/>
+        <location filename="../src/app/app.cpp" line="1158"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>Klicke zum aktivieren</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1153"/>
+        <location filename="../src/app/app.cpp" line="1162"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>Status aktiviert</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1158"/>
+        <location filename="../src/app/app.cpp" line="1167"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>Warte auf Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1164"/>
+        <location filename="../src/app/app.cpp" line="1173"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>Warte auf Medienwiedergabe</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1168"/>
+        <location filename="../src/app/app.cpp" line="1177"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>Status ist aktiv</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1391"/>
+        <location filename="../src/app/app.cpp" line="1400"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>Spenden</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1393"/>
+        <location filename="../src/app/app.cpp" line="1402"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>Unterstütze meine Arbeit mit einer kleinen Spende</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1400"/>
+        <location filename="../src/app/app.cpp" line="1409"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>Beenden</translation>
