@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="1146"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>Status deaktiviert</translation>
+        <translation type="unfinished">Status deaktiviert</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1149"/>
