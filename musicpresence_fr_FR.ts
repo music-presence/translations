@@ -7,169 +7,169 @@
         <location filename="../src/app/app.cpp" line="1062"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>désactivé</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1069"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>activé</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1074"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>maintenant actif</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Présence désactivée</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1152"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour activer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1156"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Présence activée</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1161"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>En attente de Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1167"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>En attente de lecture d&apos;un média</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>La présence est active</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Faire un don</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1396"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Soutenez mon travail à l&apos;aide d&apos;un petit don</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1403"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Quitter</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Activer/désactiver la présence par application</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1654"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres concernant {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1670"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toujours afficher &quot;{podcast_activity_name}&quot; lorsque vous écoutez des podcasts</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1673"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tenter de filtrer les publicités</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1679"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher uniquement les podcasts dans votre statut</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1786"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ignore les paramètres globaux pour ce lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1802"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser tous les paramètres modifiés pour un lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1812"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maintenez SHIFT pour réinitialiser un paramètre modifié</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1967"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2022"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Certains paramètres sont remplacés pour {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2038"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurez l&apos;apparence de votre présence</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2044"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher votre statut comme une activité &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le nom du lecteur au lieu de &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher &quot;{branding_text}&quot; dans la présence</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comment afficher un média en pause</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2100"/>
