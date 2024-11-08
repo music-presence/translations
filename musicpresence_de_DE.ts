@@ -13,7 +13,7 @@
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klicke zum aktivieren</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1153"/>
