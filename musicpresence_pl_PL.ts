@@ -217,37 +217,37 @@
         <location filename="../src/app/app.cpp" line="2206"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jak wyświetlić informacje o utworze</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2210"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż tytuł utworu i wykonawcę na tej samej lini</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2231"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż wykonawca i album na tej samej lini</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2253"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zamień kolejność tytułu utworu i wykonawcy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2267"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poprzedź nazwę artysty z &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2283"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poprzedź nazwę albumu z &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
