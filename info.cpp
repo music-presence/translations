@@ -27,6 +27,13 @@ std::vector<Contributor> const& translations::contributors()
     // People that have contributed majorily to translations.
     // The list of codes must contain one or more codes from the above list.
     static std::vector<Contributor> contributors = {
+            {
+            .name = "Jonas van den Berg",
+            .github_name = "ungive",
+            .codeberg_name = "ungive",
+            .link_to_github = true,
+            .country_language_codes = {"de-DE"}
+        },
         {
             .name = "VNCE",
             .github_name = "VZCE",
