@@ -19,6 +19,7 @@ std::vector<std::string> const& translations::country_language_codes()
         "it-IT",
         "pl-PL",
         "es-ES",
+        "fr-FR",
     };
     return codes;
 }
