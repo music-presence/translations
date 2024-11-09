@@ -277,7 +277,7 @@
         <location filename="../src/app/app.cpp" line="2412"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation>Como funciona esto?</translation>
+        <translation>¿Como funciona esto?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2419"/>
@@ -313,7 +313,7 @@
         <location filename="../src/app/app.cpp" line="2465"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation>Como funcionan las actualizaciones automáticas?</translation>
+        <translation>¿Como funcionan las actualizaciones automáticas?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2472"/>
@@ -410,7 +410,7 @@
         <location filename="../src/app/app.cpp" line="2648"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>Que se añadirá?</translation>
+        <translation>¿Que se añadirá?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2655"/>
@@ -583,7 +583,7 @@
         <location filename="../src/app/app.cpp" line="4016"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation>Que hay de nuevo?</translation>
+        <translation>¿Que hay de nuevo?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4023"/>
@@ -613,7 +613,7 @@
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Entendido!</translation>
+        <translation>¡Entendido!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
@@ -630,7 +630,7 @@
         <location filename="../src/app/app.cpp" line="1628"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation>Tu reproductor no es detectado?</translation>
+        <translation>¿Tu reproductor no es detectado?</translation>
     </message>
 </context>
 </TS>
