@@ -109,7 +109,7 @@
         <location filename="../src/app/app.cpp" line="1679"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj tylko podcasty w swoim statusie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1786"/>
