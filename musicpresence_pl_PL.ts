@@ -253,92 +253,92 @@
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż nazwe albumu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2313"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaż informacje o odtwarzaniu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2374"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2381"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Użyj obrazów okładek z odtwarzacza</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2412"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jak to działa?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2419"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usługi zewnętrzne</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2423"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Korzystaj z TIDAL API podczas słuchania TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2435"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Korzystaj z Deezer API podczas słuchania Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2447"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Korzystaj z MusicBrainz API inaczej</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2465"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jak działają automatyczne aktualizacje?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2472"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj aktualizacje automatycznie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2488"/>
         <location filename="../src/app/app.cpp" line="2808"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdź aktualizacje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2499"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdzanie aktualizacje...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2506"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Powiadom kiedy dostępna będzie nowa wersja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2519"/>
