@@ -199,19 +199,19 @@
         <location filename="../src/app/app.cpp" line="2151"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le média en pause dans votre statut</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2166"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Figer la barre de progression lorsque le média est en pause</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le temps depuis que le média est en pause</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
