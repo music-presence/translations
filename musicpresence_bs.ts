@@ -103,7 +103,7 @@
         <location filename="../src/app/app.cpp" line="1673"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokušaj filtrirati oglase</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1679"/>
