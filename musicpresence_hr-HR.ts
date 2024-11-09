@@ -559,72 +559,72 @@
         <location filename="../src/app/app.cpp" line="3241"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi samostalno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3868"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Više ne prikazuj ovo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3984"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažuriranje je dostupno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4003"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4016"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Što je novo?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4023"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Razumijem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4025"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ovo se prikazuje samo prilikom pokretanje nove verzije.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4035"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Promjene</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4048"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prvo pokretanje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Razumijem!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusti glazbu za konfiguraciju određenog uređaja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1624"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vaše individualne postavke biti će prikazane ovdje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1628"/>
