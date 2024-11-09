@@ -356,19 +356,19 @@
         <location filename="../src/app/app.cpp" line="2541"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Różny</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2545"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uruchom aplikację {app_name} przy logowaniu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2606"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
