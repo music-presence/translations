@@ -571,43 +571,43 @@
         <location filename="../src/app/app.cpp" line="3984"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Update beschikbaar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4003"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Download</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4016"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wat is er nieuw?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4023"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ik snap het</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4025"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dit wordt alleen getoond als een nieuwe versie gestart wordt.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4035"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Changelog</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4048"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eerste start</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4078"/>
