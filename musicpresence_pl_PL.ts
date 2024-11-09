@@ -211,7 +211,7 @@
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż na jak długo multimedia jest wstrzymane</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
