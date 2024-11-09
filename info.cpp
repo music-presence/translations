@@ -9,6 +9,7 @@ std::vector<std::string> const& translations::country_language_codes()
     // List of all translations that are ready to be used in production.
     // These must have all or almost all strings translated.
     static std::vector<std::string> codes = {
+        "en",
         "de-DE",
         "af-ZA",
         "zh-TW",
