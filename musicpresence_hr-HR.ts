@@ -630,7 +630,7 @@
         <location filename="../src/app/app.cpp" line="1628"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rješavanje problema s povezivanjem</translation>
     </message>
 </context>
 </TS>
