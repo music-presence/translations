@@ -13,7 +13,7 @@
         <location filename="../src/app/app.cpp" line="1069"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation>aktivno</translation>
+        <translation>uključeno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1074"/>
@@ -115,7 +115,7 @@
         <location filename="../src/app/app.cpp" line="1786"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi postavke samo za ovaj player</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1802"/>
@@ -145,303 +145,303 @@
         <location filename="../src/app/app.cpp" line="2038"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodite izgled vašeg presenca</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2044"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži svoj status kao aktivnost &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ime medijskog playera umjesto &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži &quot;{branding_text}&quot; u presenceu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Način prikazivanja pauziranih medija</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2100"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Postavke za lokalne medijske playere</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2106"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži logotip medijskog playera</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ikonu reprodukcije tijekom reprodukcije glazbe</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2136"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ikonu pauze kada je glazba pauzirana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2151"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prižazi pauzirane medije u svom statusu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2166"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaustavi traku napretka ako je medij pauziran</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži koliko dugo je medij pauziran</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Način prikazivanja informacija o pjesmi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2210"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naziv pjesme i izvođača u istom retku</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2231"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naziv albuma i izvođača u istom retku</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2253"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Promijeni redoslijed izvođača i naslova pjesme</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2267"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj prefiks &quot;{prefix}&quot; ispred imena izvođača</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2283"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj prefiks &quot;{prefix}&quot; ispred imena albuma</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naslov albuma</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2313"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži informacije o reprodukciji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2374"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Postavke</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2381"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koristi slike albuma iz medijskih playera</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2412"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kako ovo funkcionira?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2419"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vanjske usluge</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2423"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koristi TIDAL API pri slušanju TIDAL-a</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2435"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koristi Deezer API tijekom slušanja Deezer-a</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2447"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inače koristi MusicBrainz API</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2465"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kako rade automatska ažuriranja?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2472"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatski instaliraj ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2488"/>
         <location filename="../src/app/app.cpp" line="2808"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Provjeri ima li ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2499"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Provjeravam ima li ažuriranja...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2506"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obavijesti me čim je dostupna nova verzija</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2519"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži nove značajke pri pokretanju nove verzije</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2532"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Provjeri listu promjena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2541"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ostalo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2545"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatski pokreni {app_name} prilikom prijave</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2606"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moj medijski player nije detektiran</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2617"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži sve detektirane medijske playere</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2624"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prijavi problem na GitHub-u</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2630"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pridruži se našem Discord serveru</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2636"/>
         <source>Make a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podrži nas donacijom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2642"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Označi projekt zvjezdicom na GitHub-u</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2648"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Što nas čeka u budućim ažuriranjima?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2655"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obavijest o privatnosti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2663"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koristite verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otkazivanje preuzimanja...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2874"/>
         <location filename="../src/app/app.cpp" line="3988"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2892"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatska ažuriranja su uključena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2894"/>
@@ -449,111 +449,111 @@
         <location filename="../src/app/app.cpp" line="3129"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uključi automatska ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2914"/>
         <location filename="../src/app/app.cpp" line="3989"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2947"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatska ažuriranja su isključena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3023"/>
         <location filename="../src/app/app.cpp" line="3049"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nova verzija je dostupna</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3036"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Posjetite stranicu za preuzimanje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3047"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje ažuriranja...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3074"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nema dostupnih ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3101"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažurirano na verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3104"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovno pokreni aplikaciju</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3112"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do pogreške</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3118"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalirana je nova verzija</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3122"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalirano</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3125"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažuriranje instalirano</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3126"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovno pokreni</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3190"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pogreška: Instalacija nije uspjela</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3215"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prijavi ovaj problem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3225"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažuriranje nije uspjelo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3229"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pogreška</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3241"/>
