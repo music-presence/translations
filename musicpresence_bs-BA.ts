@@ -43,19 +43,19 @@
         <location filename="../src/app/app.cpp" line="1161"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uspostavljanje veze s Discordom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1167"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čeka se reprodukcija medija</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence je aktivan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
