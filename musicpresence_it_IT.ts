@@ -25,19 +25,19 @@
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>Attività disabilitata</translation>
+        <translation>L’attività è disabilitata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1152"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>Clicca per attivare</translation>
+        <translation>Clicca per abilitare</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1156"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>Attività abilitata</translation>
+        <translation>L’attività è abilitata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1161"/>
@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>Attività attiva</translation>
+        <translation>L’attività è attiva</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
@@ -97,7 +97,7 @@
         <location filename="../src/app/app.cpp" line="1670"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation>Mostra sempre &quot;{podcast_activity_name}&quot; quando ascolti dei podcast</translation>
+        <translation>Mostra sempre &quot;{podcast_activity_name}&quot; durante l’ascolto di podcast</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1673"/>
@@ -109,7 +109,7 @@
         <location filename="../src/app/app.cpp" line="1679"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation>Mostra solo i podcast nella tua attività</translation>
+        <translation>Mostra solo i podcast nell’attività</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1786"/>
@@ -121,7 +121,7 @@
         <location filename="../src/app/app.cpp" line="1802"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation>Resetta tutte le impostazioni sovrascritte</translation>
+        <translation>Ripristina tutte le impostazioni sovrascritte</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1812"/>
@@ -169,13 +169,13 @@
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation>Come mostrare un media in pausa</translation>
+        <translation>Come mostrare la musica in pausa</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2100"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation>Impostazioni per lettori multimediali offline</translation>
+        <translation>Impostazioni per i lettori multimediali offline</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2106"/>
@@ -229,13 +229,13 @@
         <location filename="../src/app/app.cpp" line="2231"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostra l’artista e il nome dell’album in una singola riga</translation>
+        <translation>Mostra l’artista e il titolo dell’album in una singola riga</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2253"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Inverti l’ordine del nome della canzone e l’artista</translation>
+        <translation>Inverti l’ordine del titolo della musica e dell’artista</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2267"/>
@@ -247,19 +247,19 @@
         <location filename="../src/app/app.cpp" line="2283"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>Mostra &quot;{prefix}&quot; prima del nome dell’album</translation>
+        <translation>Mostra &quot;{prefix}&quot; prima del titolo dell’album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation>Mostra il nome dell’album</translation>
+        <translation>Mostra il titolo dell’album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2313"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation>Mostra le informazioni di durata</translation>
+        <translation>Mostra le informazioni della durata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2374"/>
@@ -332,7 +332,7 @@
         <location filename="../src/app/app.cpp" line="2499"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation>Verificando...</translation>
+        <translation>Verifica in corso...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2506"/>
@@ -410,7 +410,7 @@
         <location filename="../src/app/app.cpp" line="2648"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>Contenuti dei futuri aggiornamenti</translation>
+        <translation>Novità in arrivo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2655"/>
@@ -428,7 +428,7 @@
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation>Annullando i download...</translation>
+        <translation>Annullamento dei download in corso...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2874"/>
@@ -456,7 +456,7 @@
         <location filename="../src/app/app.cpp" line="3989"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation>Installando...</translation>
+        <translation>Installazione in corso...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2947"/>
@@ -481,7 +481,7 @@
         <location filename="../src/app/app.cpp" line="3047"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation>Installando l’aggiornamento...</translation>
+        <translation>Installazione dell’aggiornamento in corso...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3074"/>
@@ -517,7 +517,7 @@
         <location filename="../src/app/app.cpp" line="3122"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation>Installata</translation>
+        <translation>Installato</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3125"/>
@@ -624,13 +624,13 @@
         <location filename="../src/app/app.cpp" line="1624"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le impostazioni individuali appariranno qui</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1628"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo lettore multimediale non è rilevato?</translation>
     </message>
 </context>
 </TS>
