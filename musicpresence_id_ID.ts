@@ -211,31 +211,31 @@
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan untuk berapa lama media dijeda</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bagaimana cara menampilkan informasi lagu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2210"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan judul lagu dan artis dalam satu baris</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2231"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan artis dan album dalam satu baris</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2253"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tukar urutan judul lagu dan artis</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2267"/>
