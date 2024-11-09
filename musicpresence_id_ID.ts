@@ -241,207 +241,207 @@
         <location filename="../src/app/app.cpp" line="2267"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan awalan &quot;{prefix}&quot; pada nama artis</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2283"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan awalan &quot;{prefix}&quot; pada nama album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan nama album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2313"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan informasi pemutaran</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2374"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2381"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan gambar sampul dari pemutar media</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2412"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bagaimana ini bekerja?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2419"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Layanan eksternal</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2423"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan API TIDAL, ketika mendengarkan TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2435"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan API Deezer, ketika mendengarkan Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2447"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan API MusicBrainz jika memungkinkan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perbarui</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2465"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bagaimana pembaruan otomatis bekerja?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2472"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otomatis pasang pembaruan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2488"/>
         <location filename="../src/app/app.cpp" line="2808"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Periksa pembaruan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2499"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Memeriksa pembaruan...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2506"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beritahu ketika versi terbaru tersedia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2519"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lihat apa yang baru ketika meluncurkan versi terbaru</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2532"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lihat catatan perubahan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2541"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2545"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mulai {app_name} saat masuk</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2606"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bantuan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemutar media saya tidak terdeteksi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2617"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kirim pemutar media yang terdeteksi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2624"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laporkan masalah ke GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2630"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bergabung ke peladen Discord kami</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2636"/>
         <source>Make a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Berdonasi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2642"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mulai project di GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2648"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apa yang akan segera datang?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2655"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemberitahuan Privasi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2663"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kamu menggunakan versi {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Membatalkan unduhan...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2874"/>
         <location filename="../src/app/app.cpp" line="3988"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pasang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2892"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan otomatis diaktifkan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2894"/>
@@ -449,188 +449,188 @@
         <location filename="../src/app/app.cpp" line="3129"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan pembaruan otomatis</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2914"/>
         <location filename="../src/app/app.cpp" line="3989"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Memasang...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2947"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan otomatis dinonaktifkan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3023"/>
         <location filename="../src/app/app.cpp" line="3049"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versi baru tersedia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3036"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kunjungi halaman unduhan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3047"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Memasang pembaruan...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3074"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada pembaruan yang tersedia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3101"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diperbarui ke versi {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3104"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mulai ulang aplikasi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3112"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi kesalahan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3118"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versi baru terpasang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3122"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terpasang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3125"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan terpasang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3126"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mulai ulang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3190"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan: Gagal dipasang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3215"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laporkan masalah ini</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3225"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemasangan pembaruan gagal</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3229"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3241"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unduh manual</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3868"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jangan tampilkan sekali lagi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3984"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan tersedia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4003"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unduh</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4016"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apa yang baru?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4023"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mengerti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4025"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ini hanya ditampilkan ketika versi baru diluncurkan.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4035"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Catatan perubahan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4048"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luncurkan pertama kali</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mengerti!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>Putar musik untuk mengkonfigurasi pemutar tertentu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1624"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan individual akan ditampilkan disini</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1628"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemutar mediamu tidak terdeteksi?</translation>
     </message>
 </context>
 </TS>
