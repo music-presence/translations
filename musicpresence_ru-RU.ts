@@ -67,109 +67,109 @@
         <location filename="../src/app/app.cpp" line="1396"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Поддержите мою работу небольшим донатом</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1403"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выйти</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Включить активность для приложения</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Плеер</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1654"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настройки для {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1670"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Всегда показывать &quot;{podcast_activity_name}&quot; во время прослушивания подкастов</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1673"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Стараться фильтровать рекламу</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1679"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать только подкасты в статусе</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1786"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Установить общие настройки для этого плеера</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1802"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить все общие настройки</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1812"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Зажмите SHIFT для сброса установленных настроек</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1967"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Внешность</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2022"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые настройки переопределены для {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2038"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настроить как будет выглядеть ваш статус</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2044"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать статус активности как &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать название плеера вместо &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать &quot;{branding_text}&quot; в активности</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Как отображать медиа на паузе</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2100"/>
