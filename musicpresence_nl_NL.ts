@@ -613,24 +613,24 @@
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laten we gaan!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>Speel muziek af om een speler te configureren</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1624"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Individuele instellingen worden hier getoond</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1628"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wordt jouw mediaspeler niet herkend?</translation>
     </message>
 </context>
 </TS>
