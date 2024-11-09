@@ -277,7 +277,7 @@
         <location filename="../src/app/app.cpp" line="2511"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>Beim Übersetzen helfen</translation>
+        <translation>Helfe beim Übersetzen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2526"/>
