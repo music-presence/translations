@@ -10,16 +10,16 @@ std::vector<std::string> const& translations::country_language_codes()
     // These must have all or almost all strings translated.
     static std::vector<std::string> codes = {
         "en",
-        "de-DE",
-        "af-ZA",
+        "de",
+        "af",
         "zh-TW",
-        "hr-HR",
-        "nl-NL",
-        "id-ID",
-        "it-IT",
-        "pl-PL",
-        "es-ES",
-        "fr-FR",
+        "hr",
+        "nl",
+        "id",
+        "it",
+        "pl",
+        "es",
+        "fr",
     };
     return codes;
 }
@@ -34,7 +34,7 @@ std::vector<Contributor> const& translations::contributors()
             .github_name = "ungive",
             .codeberg_name = "ungive",
             .link_to_github = true,
-            .country_language_codes = {"de-DE"}
+            .country_language_codes = {"de"}
         },
     };
     return contributors;
