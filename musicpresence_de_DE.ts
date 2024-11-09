@@ -139,7 +139,7 @@
         <location filename="../src/app/app.cpp" line="2022"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation>Einige {player_name} Einstellungen werden überschrieben</translation>
+        <translation>{player_name} überschreibt einige Einstellungen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2038"/>
@@ -211,7 +211,7 @@
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>Zeige wie lange Medien pausiert sind</translation>
+        <translation>Zeige an für wie lange Medien pausiert sind</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
@@ -613,7 +613,7 @@
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Okay!</translation>
+        <translation>Verstanden!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
