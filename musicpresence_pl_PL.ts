@@ -7,19 +7,19 @@
         <location filename="../src/app/app.cpp" line="1062"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>wyłączony</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1069"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>włączony</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1074"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>aktualnie aktywny</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1149"/>
@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="1394"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wesprzyj</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1396"/>
