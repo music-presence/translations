@@ -175,25 +175,25 @@
         <location filename="../src/app/app.cpp" line="2100"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres pour les lecteurs non liés à un service</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2106"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le logo du lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher une icône de lecture lorsque de la musique est en cours</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2136"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher une icône de pause lorsque la musique est en pause</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2151"/>
