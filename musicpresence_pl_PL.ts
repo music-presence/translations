@@ -223,13 +223,13 @@
         <location filename="../src/app/app.cpp" line="2210"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Pokaż tytuł utworu i wykonawcę na tej samej lini</translation>
+        <translation>Pokaż tytuł utworu i wykonawcę w tej samej linii</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2231"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Pokaż wykonawca i album na tej samej lini</translation>
+        <translation>Pokaż wykonawcę i album w tej samej linii</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2253"/>
@@ -241,25 +241,25 @@
         <location filename="../src/app/app.cpp" line="2267"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Poprzedź nazwę artysty z &quot;{prefix}&quot;</translation>
+        <translation>Poprzedź nazwę artysty z &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2283"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Poprzedź nazwę albumu z &quot;{prefix}&quot;</translation>
+        <translation>Poprzedź nazwę albumu z &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation>Pokaż nazwe albumu</translation>
+        <translation>Pokaż nazwę albumu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2313"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Pokaż informacje o odtwarzaniu</translation>
+        <translation>Pokaż informacje o odtwarzaniu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2374"/>
@@ -271,7 +271,7 @@
         <location filename="../src/app/app.cpp" line="2381"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Użyj obrazów okładek z odtwarzacza</translation>
+        <translation>Użyj okładek z odtwarzacza</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2412"/>
@@ -289,7 +289,7 @@
         <location filename="../src/app/app.cpp" line="2423"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Korzystaj z TIDAL API podczas słuchania TIDAL</translation>
+        <translation>Korzystaj z TIDAL API podczas słuchania TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2435"/>
@@ -301,7 +301,7 @@
         <location filename="../src/app/app.cpp" line="2447"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation>Korzystaj z MusicBrainz API inaczej</translation>
+        <translation>Korzystaj z MusicBrainz API w innym przypadku</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
@@ -319,38 +319,38 @@
         <location filename="../src/app/app.cpp" line="2472"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation>Zainstaluj aktualizacje automatycznie</translation>
+        <translation>Instaluj aktualizacje automatycznie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2488"/>
         <location filename="../src/app/app.cpp" line="2808"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Sprawdź aktualizacje</translation>
+        <translation>Sprawdź aktualizacje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2499"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Sprawdzanie aktualizacje...</translation>
+        <translation>Sprawdzanie aktualizacji...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2506"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Powiadom kiedy dostępna będzie nowa wersja</translation>
+        <translation>Powiadom, kiedy będzie dostępna nowa wersja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2519"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobacz co nowego podczas uruchamiania nowej wersji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2532"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobacz zmiany</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2541"/>
