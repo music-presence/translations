@@ -398,13 +398,13 @@
         <location filename="../src/app/app.cpp" line="2636"/>
         <source>Make a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eine Spende tätigen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2642"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gebe dem Projekt einen Stern auf GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2648"/>
