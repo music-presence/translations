@@ -356,13 +356,13 @@
         <location filename="../src/app/app.cpp" line="2541"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished">Różny</translation>
+        <translation>Różne</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2545"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Uruchom aplikację {app_name} przy logowaniu</translation>
+        <translation>Uruchom {app_name} przy logowaniu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2606"/>
@@ -374,74 +374,74 @@
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mój odtwarzacz nie jest wykryty</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2617"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś wykryte odtwarzacze</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2624"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś problem na GitHubie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2630"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dołącz na nasz Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2636"/>
         <source>Make a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wesprzyj nas</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2642"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Daj &quot;gwiazdkę&quot; projektowi na GitHubie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2648"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Co będzie następne?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2655"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Polityka Prywatności</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2663"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Używasz wersji {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anulowanie pobierania...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2874"/>
         <location filename="../src/app/app.cpp" line="3988"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2892"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne aktualizacje są włączone</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2894"/>
@@ -449,188 +449,188 @@
         <location filename="../src/app/app.cpp" line="3129"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włącz automatyczne aktualizacje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2914"/>
         <location filename="../src/app/app.cpp" line="3989"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalowanie...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2947"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne aktualizacje są wyłączone</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3023"/>
         <location filename="../src/app/app.cpp" line="3049"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowa wersja dostępna</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3036"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odwiedź stronę pobierania</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3047"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja aktualizacji...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3074"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak dostępnych aktualizacji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3101"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizowano do wersji {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3104"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zrestartuj aplikację</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3112"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coś poszło nie tak</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3118"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowa wersja zainstalowana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3122"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowano</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3125"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja zainstalowana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3126"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zrestartuj</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3190"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: Instalacja nieudana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3215"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś ten problem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3225"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja aktualizacji nieudana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3229"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3241"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz ręcznie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3868"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj tego ponownie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3984"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja dostępna</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4003"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4016"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Co nowego?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4023"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przyjmij</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4025"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>To widać tylko gdy nowa wersja zostanie uruchomiona.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4035"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lista zmian</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4048"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsze uruchomienie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przyjęto!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwórz muzykę, żeby skonfigurować odtwarzacz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1624"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Osobne ustawienia się wtedy tutaj pojawią</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1628"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie widać Twojego odtwarzacza?</translation>
     </message>
 </context>
 </TS>
