@@ -7,55 +7,55 @@
         <location filename="../src/app/app.cpp" line="1062"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>isključeno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1069"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>uključeno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1074"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>sada aktivan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence onemogućen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1152"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite kako biste omogućili</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1156"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence je isključen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1161"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uspostavljanje veze s Discordom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1167"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čeka se reprodukcija medija</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence je aktivan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
