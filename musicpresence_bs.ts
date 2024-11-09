@@ -109,25 +109,25 @@
         <location filename="../src/app/app.cpp" line="1679"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži samo podcaste u statusu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1786"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Promijeni globalne postavke za ovaj reproduktor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1802"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vrati sva podešavanja na zadane vrijednosti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1812"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Držite SHIFT</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1967"/>
