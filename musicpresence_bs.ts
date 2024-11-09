@@ -61,43 +61,43 @@
         <location filename="../src/app/app.cpp" line="1394"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doniraj</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1396"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podrži moj rad malom donacijom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1403"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Izlaz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mijenjaj presence po aplikaciji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reproduktor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1654"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja za {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1670"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uvijek pokaži &quot;{podcast_activity_name}&quot; tijekom slušanja podcasta</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1673"/>
