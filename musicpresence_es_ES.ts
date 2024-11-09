@@ -19,61 +19,61 @@
         <location filename="../src/app/app.cpp" line="1074"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>ahora activo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presencia deshabilitada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1152"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Click para habilitar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1156"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presencia habilitada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1161"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esperando a Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1167"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esperando reproducción</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presencia activa</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Donar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1396"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apoya mi trabajo con una pequeña donación</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1403"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1462"/>
