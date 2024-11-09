@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="1152"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>Kliknij aby włączyć</translation>
+        <translation>Kliknij, żeby włączyć</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1156"/>
