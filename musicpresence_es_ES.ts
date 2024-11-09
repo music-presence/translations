@@ -79,139 +79,139 @@
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar presencia por aplicación</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reproductor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1654"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes para {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1670"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Siempre mostrar &quot;{podcast_activity_name}&quot; al escuchar podcasts</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1673"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intentar ocultar los anuncios</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1679"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solo mostrar podcasts en tu estado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1786"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescribir ajustes globales para este reproductor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1802"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar todos los ajustes sobrescritos</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1812"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mantén SHIFT para reiniciar un ajuste sobrescrito</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1967"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apariencia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2022"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Algunos ajustes están sobrescritos para {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2038"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configura como se vera tu estado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2044"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar tu estado como una &quot;{playing_activity_label}&quot; actividad</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el nombre del reproductor en vez de &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar &quot;{branding_text}&quot; en el estado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Como mostrar reproducción pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2100"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes para reproductores offline</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2106"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el logo del reproductor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar un icono cuando se reproduzca música</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2136"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar un icono cuando la reproducción este pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2151"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostar reproducción pausada en tu estado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2166"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pausar la barra de progreso para reproducción pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar por cuanto la reproducción fue pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
