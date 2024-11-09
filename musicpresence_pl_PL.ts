@@ -139,73 +139,73 @@
         <location filename="../src/app/app.cpp" line="2022"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Część ustawień jest nadpisana dla {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2038"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skonfiguruj wygląd swojej aktywności</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2044"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl swój status jako aktywność &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl nazwę odtwarzacza zamiast &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl &quot;{branding_text}&quot; w aktywności</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jak wyświetlać wstrzymane media</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2100"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia dla odtwarzaczy offline</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2106"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl logo odtwarzacza</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ikonę odtwarzania podczas słuchania</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2136"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ikonę wstrzymania po wstrzymaniu muzyki</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2151"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl wstrzymane media w statusie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2166"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymaj pasek postępu dla wstrzymanych</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2186"/>
