@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Attiva/disattiva l’attività per ogni applicazione</translation>
+        <translation>Abilita/disabilita l’attività</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
