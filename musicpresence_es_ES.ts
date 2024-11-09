@@ -43,7 +43,7 @@
         <location filename="../src/app/app.cpp" line="1161"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation>Esperando por Discord</translation>
+        <translation>Esperando a Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1167"/>
@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="2151"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>Mostar reproducción pausada en tu estado</translation>
+        <translation>Mostrar reproducción pausada en tu estado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2166"/>
@@ -211,7 +211,7 @@
         <location filename="../src/app/app.cpp" line="2186"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>Mostrar por cuanto la reproducción fue pausada</translation>
+        <translation>Mostrar por cuanto tiempo la reproducción fue pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2206"/>
@@ -223,7 +223,7 @@
         <location filename="../src/app/app.cpp" line="2210"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar titulo de la canción y el artista en una sola línea</translation>
+        <translation>Mostrar el titulo de la canción y artista en una sola línea</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2231"/>
@@ -271,7 +271,7 @@
         <location filename="../src/app/app.cpp" line="2381"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation>Usar portadas de los reproductores</translation>
+        <translation>Utilizar portadas desde los reproductores</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2412"/>
@@ -289,13 +289,13 @@
         <location filename="../src/app/app.cpp" line="2423"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation>Usar la TIDAL API, cuando reproduciendo desde TIDAL</translation>
+        <translation>Usar la API de TIDAL, cuando reproduciendo desde TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2435"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation>Usar la Deezer API, cuando reproduciendo desde Deezer</translation>
+        <translation>Usar la API de Deezer, cuando reproduciendo desde Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2447"/>
@@ -326,13 +326,13 @@
         <location filename="../src/app/app.cpp" line="2808"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation>Comprobar por actualizaciones</translation>
+        <translation>Comprobar actualizaciones</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2499"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation>Comprobando por actualizaciones...</translation>
+        <translation>Comprobando actualizaciones...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2506"/>
@@ -517,7 +517,7 @@
         <location filename="../src/app/app.cpp" line="3122"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation>Instalada</translation>
+        <translation>Instalado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3125"/>
