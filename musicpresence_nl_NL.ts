@@ -25,7 +25,7 @@
         <location filename="../src/app/app.cpp" line="1149"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>Presence uitgeschakeld</translation>
+        <translation>Status uitgeschakeld</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1152"/>
@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="1156"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>Presence is ingeschakeld</translation>
+        <translation>Status is ingeschakeld</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1161"/>
@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1171"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>Presence is actief</translation>
+        <translation>Status is actief</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1394"/>
@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="1462"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Presence inschakelen per applicatie</translation>
+        <translation>Status inschakelen per applicatie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1553"/>
@@ -145,7 +145,7 @@
         <location filename="../src/app/app.cpp" line="2038"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>Stel in hoe jouw presence er uit ziet</translation>
+        <translation>Stel in hoe jouw status er uit ziet</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2044"/>
@@ -163,7 +163,7 @@
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>Toon &quot;{branding_text}&quot; in de presence</translation>
+        <translation>Toon &quot;{branding_text}&quot; in de status</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
@@ -613,7 +613,7 @@
         <location filename="../src/app/app.cpp" line="4078"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Laten we gaan!</translation>
+        <translation>Begrepen!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1619"/>
