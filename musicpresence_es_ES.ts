@@ -7,13 +7,13 @@
         <location filename="../src/app/app.cpp" line="1062"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>deshabilitado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1069"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>habilitado</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1074"/>
