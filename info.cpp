@@ -28,11 +28,13 @@ std::vector<Contributor> const& translations::contributors()
     // The list of codes must contain one or more codes from the above list.
     static std::vector<Contributor> contributors = {
         {
-            .name = "Jonas van den Berg",
-            .github_name = "ungive",
-            .codeberg_name = "ungive",
+            .name = "Matej",
+            .github_name = "matej4real",
+            .codeberg_name = "matej4real",
             .link_to_github = true,
-            .country_language_codes = {"de-DE"}
+            .country_language_codes = {"hr-HR"}
+            .country_language_codes = {"ba-BA"}
+            .country_language_codes = {"rs-RS"}
         },
     };
     return contributors;
