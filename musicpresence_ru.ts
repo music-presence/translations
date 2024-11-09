@@ -175,7 +175,7 @@
         <location filename="../src/app/app.cpp" line="2157"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настройки для несервисных плееров</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2163"/>
