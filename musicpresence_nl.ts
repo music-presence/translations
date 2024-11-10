@@ -265,19 +265,19 @@
         <location filename="../src/app/app.cpp" line="2459"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Taal / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2467"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>De systeemtaal gebruiken</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2511"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hulp bij het vertalen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2526"/>
