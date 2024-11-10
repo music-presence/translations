@@ -205,7 +205,7 @@
         <location filename="../src/app/app.cpp" line="2224"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>Pausar la barra de progreso para la reproducción pausada</translation>
+        <translation>Pausar la barra de progreso cuando la reproducción este pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2244"/>
@@ -642,7 +642,7 @@
         <location filename="../src/app/app.cpp" line="1682"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation>Entonces ajustes individuales aparecerán aquí</translation>
+        <translation>Entonces algunos ajustes individuales aparecerán aquí</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1686"/>
