@@ -12,10 +12,10 @@ struct Contributor
     std::string github_name;
     std::string codeberg_name;
     bool link_to_github{ false };
-    std::vector<std::string> country_language_codes;
+    std::vector<std::string> translated_languages;
 };
 
-std::vector<std::string> const& country_language_codes();
+std::vector<std::string> const& languages();
 std::vector<Contributor> const& contributors();
 
 }
