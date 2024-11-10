@@ -25,7 +25,7 @@
         <location filename="../src/app/app.cpp" line="1205"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>L’attività è disabilitata</translation>
+        <translation>L’attività di Discord è disabilitata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1208"/>
@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="1212"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>L’attività è abilitata</translation>
+        <translation>L’attività di Discord è abilitata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1217"/>
@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1227"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>L’attività è attiva</translation>
+        <translation>L’attività di Discord è attiva</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1450"/>
@@ -109,13 +109,13 @@
         <location filename="../src/app/app.cpp" line="1737"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation>Mostra solo i podcast nell’attività</translation>
+        <translation>Mostra solo i podcast nell’attività di Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1844"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation>Sovrascrivi le impostazioni globali per questo lettore</translation>
+        <translation>Sovrascrivi le impostazioni globali per questo lettore multimediale</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1860"/>
@@ -127,7 +127,7 @@
         <location filename="../src/app/app.cpp" line="1870"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>Tieni premuto SHIFT per resettare un’impostazione sovrascritta</translation>
+        <translation>Tieni premuto SHIFT per ripristinare un’impostazione sovrascritta</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2025"/>
@@ -145,25 +145,25 @@
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>Configura l’aspetto dell’attività</translation>
+        <translation>Configura l’aspetto dell’attività di Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2102"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation>Mostra la tua attività come &quot;{playing_activity_label}&quot;</translation>
+        <translation>Mostra la tua attività di Discord come &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation>Mostra il nome del lettore invece di &quot;{music_activity_name}&quot;</translation>
+        <translation>Mostra il nome del lettore multimediale invece di &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2138"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>Mostra &quot;{branding_text}&quot; nell’attività</translation>
+        <translation>Mostra &quot;{branding_text}&quot; nell’attività di Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="2209"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>Mostra la musica in pausa nell’attività</translation>
+        <translation>Mostra la musica in pausa nell’attività di Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2224"/>
@@ -223,19 +223,19 @@
         <location filename="../src/app/app.cpp" line="2268"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostra il titolo della musica e l’artista in una singola riga</translation>
+        <translation>Mostra il titolo della musica e il nome dell’artista in una singola riga</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2289"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostra l’artista e il titolo dell’album in una singola riga</translation>
+        <translation>Mostra il nome dell’artista e il titolo dell’album in una singola riga</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2311"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Inverti l’ordine del titolo della musica e dell’artista</translation>
+        <translation>Inverti l’ordine del titolo della musica e del nome dell’artista</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2325"/>
@@ -259,25 +259,25 @@
         <location filename="../src/app/app.cpp" line="2371"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation>Mostra le informazioni della durata</translation>
+        <translation>Mostra le informazioni della durata della musica</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lingua / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2471"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usa la lingua di sistema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2515"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aiuta con la traduzione</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2530"/>
@@ -289,7 +289,7 @@
         <location filename="../src/app/app.cpp" line="2540"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation>Usa le immagini di copertina prese dal lettore</translation>
+        <translation>Usa le immagini di copertina prese dal lettore multimediale</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2571"/>
@@ -362,7 +362,7 @@
         <location filename="../src/app/app.cpp" line="2678"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation>Mostra le novità all’apertura di una nuova versione</translation>
+        <translation>Mostra le novità all’avvio di una nuova versione</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2691"/>
