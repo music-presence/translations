@@ -19,13 +19,13 @@
         <location filename="../src/app/app.cpp" line="1130"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation>지금 활성화됨</translation>
+        <translation>방금 활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1205"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>프레즌스 비활성화됨</translation>
+        <translation>Presence 비활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1208"/>
@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="1212"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>프레젠스가 활성화되었습니다</translation>
+        <translation>Presence가 활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1217"/>
@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1227"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>프레젠스가 활성 상태입니다</translation>
+        <translation>Presence가 활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1450"/>
@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="1520"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>애플리케이션별 프레젠스 전환</translation>
+        <translation>애플리케이션마다 Presence 전환</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1611"/>
@@ -127,25 +127,25 @@
         <location filename="../src/app/app.cpp" line="1870"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>덮어쓴 설정을 초기화하려면 SHIFT 키를 누르고 계세요</translation>
+        <translation>Shift 키를 눌러 덮어쓴 설정을 초기화하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2025"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation>외관</translation>
+        <translation>환경 설정</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation>{player_name}에 대해 일부 설정이 덮어쓰기되었습니다</translation>
+        <translation>{player_name}에 대해 일부 설정이 재정의되었습니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>프레젠스가 어떻게 보일지 설정하세요</translation>
+        <translation>Presence가 어떻게 보일지 설정하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2102"/>
@@ -163,7 +163,7 @@
         <location filename="../src/app/app.cpp" line="2138"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>프레젠스에 &quot;{branding_text}&quot; 표시</translation>
+        <translation>Presence에 &quot;{branding_text}&quot; 표시</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
@@ -181,7 +181,7 @@
         <location filename="../src/app/app.cpp" line="2164"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>미디어 플레이어 로고 표시</translation>
+        <translation>미디어 플레이어의 로고 표시</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2179"/>
@@ -205,7 +205,7 @@
         <location filename="../src/app/app.cpp" line="2224"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>일시 정지된 미디어에 대한 진행 바 고정</translation>
+        <translation>일시 정지된 미디어의 진행 바 고정</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2244"/>
@@ -277,7 +277,7 @@
         <location filename="../src/app/app.cpp" line="2515"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>번역 도와주세요</translation>
+        <translation>번역을 도와주세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2530"/>
@@ -289,13 +289,13 @@
         <location filename="../src/app/app.cpp" line="2540"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation>미디어 플레이어에서 커버 이미지를 사용</translation>
+        <translation>미디어 플레이어의 커버 이미지를 사용</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2571"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation>이 기능은 어떻게 작동하나요?</translation>
+        <translation>이것은 어떻게 작동하나요?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2578"/>
@@ -319,7 +319,7 @@
         <location filename="../src/app/app.cpp" line="2606"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation>그렇지 않으면 MusicBrainz API 사용</translation>
+        <translation>다른 방법으로 MusicBrainz API 사용</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2619"/>
@@ -337,7 +337,7 @@
         <location filename="../src/app/app.cpp" line="2631"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation>업데이트 자동으로 설치</translation>
+        <translation>자동으로 업데이트 설치</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2647"/>
@@ -434,7 +434,7 @@
         <location filename="../src/app/app.cpp" line="2816"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation>개인정보 보호 고지</translation>
+        <translation>개인정보 처리방침</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2824"/>
@@ -446,7 +446,7 @@
         <location filename="../src/app/app.cpp" line="3027"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation>다운로드 취소하기...</translation>
+        <translation>다운로드 취소하는 중...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3035"/>
@@ -459,7 +459,7 @@
         <location filename="../src/app/app.cpp" line="3053"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation>자동 업데이트 사용</translation>
+        <translation>자동 업데이트 활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3055"/>
@@ -467,7 +467,7 @@
         <location filename="../src/app/app.cpp" line="3290"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation>자동 업데이트 사용</translation>
+        <translation>자동 업데이트 활성화</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3075"/>
@@ -480,7 +480,7 @@
         <location filename="../src/app/app.cpp" line="3108"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation>자동 업데이트가 비활성화됩니다</translation>
+        <translation>자동 업데이트가 비활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3184"/>
@@ -511,25 +511,25 @@
         <location filename="../src/app/app.cpp" line="3262"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation>버전으로 업데이트됨 {version}</translation>
+        <translation>{version} 버전으로 업데이트됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3265"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation>애플리케이션을 다시 시작합니다</translation>
+        <translation>애플리케이션을 다시 시작하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3273"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation>문제가 발생했습니다</translation>
+        <translation>무언가 잘못됐습니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3279"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation>새 버전이 성공적으로 설치되었습니다!</translation>
+        <translation>새 버전이 설치됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3283"/>
@@ -547,13 +547,13 @@
         <location filename="../src/app/app.cpp" line="3287"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation>다시 시작</translation>
+        <translation>재시작</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3351"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation>오류입니다: 설치 실패</translation>
+        <translation>오류: 설치 실패</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3376"/>
@@ -577,13 +577,13 @@
         <location filename="../src/app/app.cpp" line="3402"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation>수동 다운로드</translation>
+        <translation>수동으로 다운로드</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4029"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation>다시 표시하지 마세요</translation>
+        <translation>다시 보여주지 마세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4145"/>
@@ -607,7 +607,7 @@
         <location filename="../src/app/app.cpp" line="4184"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation>알겠습니다</translation>
+        <translation>확인</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4186"/>
@@ -619,13 +619,13 @@
         <location filename="../src/app/app.cpp" line="4196"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation>변경 로그</translation>
+        <translation>변경 사항</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4209"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation>첫 출시</translation>
+        <translation>첫 실행</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4239"/>
@@ -642,7 +642,7 @@
         <location filename="../src/app/app.cpp" line="1682"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation>그러면 개별 설정이 여기에 표시됩니다</translation>
+        <translation>개별 설정이 여기에 표시됩니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1686"/>
