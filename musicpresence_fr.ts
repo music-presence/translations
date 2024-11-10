@@ -247,7 +247,7 @@
         <location filename="../src/app/app.cpp" line="2341"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>Préfixer le nom de l&apos;album avec</translation>
+        <translation>Préfixer le nom de l&apos;album avec &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2357"/>
