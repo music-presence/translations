@@ -375,13 +375,13 @@
         <location filename="../src/app/app.cpp" line="2704"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation>Notificar cuando se lance una nueva version</translation>
+        <translation>Notificar cuando se lance una nueva versión</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2717"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation>Mostrar que se añadió al iniciar una nueva version</translation>
+        <translation>Mostrar que se añadió al iniciar una nueva versión</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2730"/>
@@ -459,14 +459,14 @@
         <location filename="../src/app/app.cpp" line="2863"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation>Estas usando version {version}</translation>
+        <translation>Estas usando versión {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2949"/>
         <location filename="../src/app/app.cpp" line="3387"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>Click para descargar version {version}</translation>
+        <translation>Click para descargar versión {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
@@ -514,7 +514,7 @@
         <location filename="../src/app/app.cpp" line="3250"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation>Nueva version disponible</translation>
+        <translation>Nueva versión disponible</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3237"/>
@@ -538,7 +538,7 @@
         <location filename="../src/app/app.cpp" line="3302"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation>Actualizado a version {version}</translation>
+        <translation>Actualizado a versión {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3305"/>
@@ -556,7 +556,7 @@
         <location filename="../src/app/app.cpp" line="3319"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation>Nueva version instalada</translation>
+        <translation>Nueva versión instalada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3323"/>
@@ -581,8 +581,8 @@
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Actualizado a version {version}.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Reinicia la aplicación para iniciar la nueva version.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Actualizado a versión {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reinicia la aplicación para iniciar la nueva versión.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -652,7 +652,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="4173"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Una nueva version de {app_name} esta disponible.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lee el registro de cambios para ver que hay de nuevo.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Una nueva versión de {app_name} esta disponible.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lee el registro de cambios para ver que hay de nuevo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4189"/>
@@ -705,7 +705,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     <message>
         <location filename="../src/app/app.cpp" line="4249"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Haga clic en el icono del menú de la bandeja para abrir los controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} se ejecuta en segundo plano y siempre se puede acceder a él de esta manera. Puede controlar qué reproductores multimedia se comparten en su estado y cómo se ve su estado.</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Haga clic en el icono del menú de la bandeja para abrir los controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} se ejecuta en segundo plano y siempre se puede acceder a él de esta manera. Puede controlar qué reproductores multimedia se comparten en su estado y cómo se ve su estado.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4274"/>
