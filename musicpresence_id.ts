@@ -476,7 +476,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3075"/>
-        <location filename="../src/app/app.cpp" line="4179"/>
+        <location filename="../src/app/app.cpp" line="4181"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Pasang</translation>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3115"/>
-        <location filename="../src/app/app.cpp" line="4180"/>
+        <location filename="../src/app/app.cpp" line="4182"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Memasang...</translation>
@@ -507,6 +507,13 @@
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Pembaruan otomatis dinonaktifkan</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3648"/>
+        <source>Do you like {app_name}?
+You can support the development with a donation. Click here or in the tray menu for more info.</source>
+        <comment>desktop notification</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -627,85 +634,78 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3648"/>
-        <source>Do you like Music Presence?
-You can support the development with a donation. Click here or in the tray menu for more info.</source>
-        <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="4056"/>
+        <location filename="../src/app/app.cpp" line="4058"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>Jangan tampilkan sekali lagi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4172"/>
+        <location filename="../src/app/app.cpp" line="4174"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Pembaruan tersedia</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4173"/>
+        <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4189"/>
+        <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4195"/>
+        <location filename="../src/app/app.cpp" line="4197"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Unduh</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4206"/>
+        <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation type="unfinished">Versi baru terpasang</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4211"/>
+        <location filename="../src/app/app.cpp" line="4213"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>Apa yang baru?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4218"/>
+        <location filename="../src/app/app.cpp" line="4220"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Mengerti</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4220"/>
+        <location filename="../src/app/app.cpp" line="4222"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Ini hanya ditampilkan ketika versi baru diluncurkan.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4231"/>
+        <location filename="../src/app/app.cpp" line="4233"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Catatan perubahan</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4244"/>
+        <location filename="../src/app/app.cpp" line="4246"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Luncurkan pertama kali</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4249"/>
+        <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4274"/>
+        <location filename="../src/app/app.cpp" line="4276"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>Mengerti!</translation>

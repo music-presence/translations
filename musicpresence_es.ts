@@ -476,7 +476,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3075"/>
-        <location filename="../src/app/app.cpp" line="4179"/>
+        <location filename="../src/app/app.cpp" line="4181"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Instalar</translation>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3115"/>
-        <location filename="../src/app/app.cpp" line="4180"/>
+        <location filename="../src/app/app.cpp" line="4182"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Instalando...</translation>
@@ -507,6 +507,13 @@
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Actualizaciones automáticas están deshabilitadas</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3648"/>
+        <source>Do you like {app_name}?
+You can support the development with a donation. Click here or in the tray menu for more info.</source>
+        <comment>desktop notification</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -629,86 +636,78 @@
         <translation>Siéntete libre de unirte a nuestro Discord! Conoce a otros usuarios, haz sugerencias y quédate al tanto. Haz click aquí o en el menu de Ayuda para unirte.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3648"/>
-        <source>Do you like Music Presence?
-You can support the development with a donation. Click here or in the tray menu for more info.</source>
-        <comment>desktop notification</comment>
-        <translation>Te gusta Music Presence?
-Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja para mas información.</translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="4056"/>
+        <location filename="../src/app/app.cpp" line="4058"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>No mostrar esto de nuevo</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4172"/>
+        <location filename="../src/app/app.cpp" line="4174"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Actualización disponible</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4173"/>
+        <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;Una nueva versión de {app_name} esta disponible.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lee el registro de cambios para ver que hay de nuevo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4189"/>
+        <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Reintentar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4195"/>
+        <location filename="../src/app/app.cpp" line="4197"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Descargar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4206"/>
+        <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Nueva versión instalada</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4211"/>
+        <location filename="../src/app/app.cpp" line="4213"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>¿Que hay de nuevo?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4218"/>
+        <location filename="../src/app/app.cpp" line="4220"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Entendido</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4220"/>
+        <location filename="../src/app/app.cpp" line="4222"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Esto solo se muestra cuando se lanza una nueva version.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4231"/>
+        <location filename="../src/app/app.cpp" line="4233"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Registro de cambios</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4244"/>
+        <location filename="../src/app/app.cpp" line="4246"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Primer inicio</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4249"/>
+        <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Haga clic en el icono del menú de la bandeja para abrir los controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} se ejecuta en segundo plano y siempre se puede acceder a él de esta manera. Puede controlar qué reproductores multimedia se comparten en su estado y cómo se ve su estado.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4274"/>
+        <location filename="../src/app/app.cpp" line="4276"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>¡Entendido!</translation>

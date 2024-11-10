@@ -476,7 +476,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3075"/>
-        <location filename="../src/app/app.cpp" line="4179"/>
+        <location filename="../src/app/app.cpp" line="4181"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>설치</translation>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3115"/>
-        <location filename="../src/app/app.cpp" line="4180"/>
+        <location filename="../src/app/app.cpp" line="4182"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>설치 중...</translation>
@@ -507,6 +507,13 @@
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>자동 업데이트가 비활성화됨</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3648"/>
+        <source>Do you like {app_name}?
+You can support the development with a donation. Click here or in the tray menu for more info.</source>
+        <comment>desktop notification</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -629,86 +636,78 @@
         <translation>저희 Discord 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 여기를 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3648"/>
-        <source>Do you like Music Presence?
-You can support the development with a donation. Click here or in the tray menu for more info.</source>
-        <comment>desktop notification</comment>
-        <translation>Music Presence를 좋아하시나요?
-기부를 통해 개발을 지원할 수 있습니다. 자세한 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="4056"/>
+        <location filename="../src/app/app.cpp" line="4058"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>다시 보여주지 마세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4172"/>
+        <location filename="../src/app/app.cpp" line="4174"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>업데이트 가능</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4173"/>
+        <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;새 버전 {app_name} 이(가) 가능합니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;아래의 변경 사항을 읽고 새로운 내용을 확인하세요.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4189"/>
+        <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>디시 시도하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4195"/>
+        <location filename="../src/app/app.cpp" line="4197"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>다운로드</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4206"/>
+        <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>새 버전이 설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4211"/>
+        <location filename="../src/app/app.cpp" line="4213"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>새로운 기능은 무엇인가요?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4218"/>
+        <location filename="../src/app/app.cpp" line="4220"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>확인했습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4220"/>
+        <location filename="../src/app/app.cpp" line="4222"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>이것은 새 버전이 시행될 때만 표시됩니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4231"/>
+        <location filename="../src/app/app.cpp" line="4233"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>변경 사항</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4244"/>
+        <location filename="../src/app/app.cpp" line="4246"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>첫 실행</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4249"/>
+        <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;숨겨진 아이콘 메뉴에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4274"/>
+        <location filename="../src/app/app.cpp" line="4276"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>알았어요!</translation>
