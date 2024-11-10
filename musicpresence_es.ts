@@ -670,7 +670,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="4206"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished">Nueva version instalada</translation>
+        <translation>Nueva versión instalada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4211"/>
