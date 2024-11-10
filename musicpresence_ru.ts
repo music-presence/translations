@@ -181,31 +181,31 @@
         <location filename="../src/app/app.cpp" line="2163"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать логотип медиа-плеера</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2178"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать иконку воспроизведения, когда играет музыка</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2193"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать иконку паузы, когда музыка приостановлена</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2208"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать медиа в статусе во время паузы</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2223"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Приостановить прогресс-бар для медиа на паузе</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2243"/>
