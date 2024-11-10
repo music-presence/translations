@@ -513,7 +513,8 @@
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Czy podoba Ci się {app_name}?
+Możesz wesprzeć wsparcie za pomocą darowizny. Kliknij tutaj lub w zasobniku dla informacji.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
