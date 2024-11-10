@@ -687,7 +687,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4222"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Esto solo se muestra cuando se lanza una nueva version.</translation>
+        <translation>Esto solo se muestra cuando se lanza una nueva versión.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4233"/>
