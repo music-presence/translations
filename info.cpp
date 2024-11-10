@@ -20,6 +20,7 @@ std::vector<std::string> const& translations::country_language_codes()
         "pl",
         "es",
         "fr",
+        "ko",
     };
     return codes;
 }
