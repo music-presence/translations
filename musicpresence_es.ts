@@ -290,25 +290,25 @@
         <location filename="../src/app/app.cpp" line="1166"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} por {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar &quot;{music_activity_name}&quot; en vez del nombre del reproductor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2573"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Portadas</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2595"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>No spamees esta opción. Intenta otra vez en {amount} segundos</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
@@ -466,7 +466,7 @@
         <location filename="../src/app/app.cpp" line="3387"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Click para descargar version {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
@@ -581,7 +581,8 @@
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Actualizado a version {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reinicia la aplicación para iniciar la nueva version.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -612,7 +613,8 @@
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Un error ocurrió mientras se instalaba la actualización:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3446"/>
@@ -624,14 +626,15 @@
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Siéntete libre de unirte a nuestro Discord! Conoce a otros usuarios, haz sugerencias y quédate al tanto. Haz click aquí o en el menu de Ayuda para unirte.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
         <source>Do you like Music Presence?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Te gusta Music Presence?
+Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja para mas información.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4056"/>
@@ -649,13 +652,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4173"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Una nueva version de {app_name} esta disponible.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lee el registro de cambios para ver que hay de nuevo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4189"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4195"/>
