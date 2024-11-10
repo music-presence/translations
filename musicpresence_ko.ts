@@ -284,7 +284,7 @@
         <location filename="../src/app/app.cpp" line="2577"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation>미디어 플레이어의 커버 이미지를 사용</translation>
+        <translation>미디어 플레이어의 표지 이미지를 사용</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1166"/>
@@ -363,7 +363,7 @@
         <location filename="../src/app/app.cpp" line="3009"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation>업데이트 확인</translation>
+        <translation>업데이트 확인하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2697"/>
@@ -544,7 +544,7 @@
         <location filename="../src/app/app.cpp" line="3305"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation>애플리케이션을 다시 시작하기</translation>
+        <translation>애플리케이션을 재시작하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3313"/>
@@ -670,7 +670,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4206"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished">새 버전이 설치됨</translation>
+        <translation>새 버전이 설치됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4211"/>
@@ -682,13 +682,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4218"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation>확인</translation>
+        <translation>확인했습니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4220"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>새 버전이 시작될 때만 표시됩니다.</translation>
+        <translation>이것은 새 버전이 시행될 때만 표시됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4231"/>
