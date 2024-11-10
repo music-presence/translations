@@ -241,13 +241,13 @@
         <location filename="../src/app/app.cpp" line="2324"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation>Poprzedź nazwę artysty z &quot;{prefix}&quot;</translation>
+        <translation>Poprzedź nazwę artysty za pomocą &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2340"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>Poprzedź nazwę albumu z &quot;{prefix}&quot;</translation>
+        <translation>Poprzedź nazwę albumu za pomocą &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2356"/>
@@ -392,7 +392,7 @@
         <location filename="../src/app/app.cpp" line="2766"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Mój odtwarzacz nie jest wykryty</translation>
+        <translation>Mój odtwarzacz nie jest wykrywany</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2773"/>
