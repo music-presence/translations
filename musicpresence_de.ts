@@ -344,7 +344,7 @@
         <location filename="../src/app/app.cpp" line="2658"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation>Updates</translation>
+        <translation>Aktualisierungen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2663"/>
@@ -513,7 +513,8 @@
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Magst du {app_name}?
+Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr Infos.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -588,7 +589,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Auf Version {version} aktualisiert.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Starte die Anwendung neu um das Update abzuschließen.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -619,7 +621,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Beim Update ist ein Fehler aufgetreten:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3446"/>
@@ -631,7 +634,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trete unserem Discord-Server bei! Unterhalte dich mit anderen Nutzern und bleib auf dem neuesten Stand. Klicke hier oder im Hilfe-Menü.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4058"/>
@@ -649,13 +652,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Eine neue Version von {app_name} ist verfügbar.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lese den Änderungsverlauf um zu erfahren was neu ist.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erneut versuchen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4197"/>
@@ -702,7 +705,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Klicke auf das Symbol in der Taskleiste um Einstellungen vorzunehmen.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} läuft im Hintergrund und kann immer auf diese Weise geöffnet werden. Du kannst einstellen, welche Medien in deinem Status angezeigt werden und wie dein Status aussehen soll.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4276"/>
