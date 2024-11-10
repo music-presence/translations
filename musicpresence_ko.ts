@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="1118"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation>비활성화</translation>
+        <translation>비활성화 test</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1125"/>
