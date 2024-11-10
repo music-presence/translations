@@ -151,7 +151,7 @@
         <location filename="../src/app/app.cpp" line="2101"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation>Mostrar tu estado como una &quot;{playing_activity_label}&quot; actividad</translation>
+        <translation>Mostrar tu estado como una actividad &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2120"/>
@@ -205,7 +205,7 @@
         <location filename="../src/app/app.cpp" line="2223"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>Pausar la barra de progreso para reproducción pausada</translation>
+        <translation>Pausar la barra de progreso para la reproducción pausada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2243"/>
@@ -223,7 +223,7 @@
         <location filename="../src/app/app.cpp" line="2267"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar el titulo de la canción y artista en una sola línea</translation>
+        <translation>Mostrar el nombre de la canción y del artista en una sola línea</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2288"/>
@@ -265,19 +265,19 @@
         <location filename="../src/app/app.cpp" line="2459"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lenguaje / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2467"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar el lenguaje del sistema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2511"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayudar con la traducción</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2526"/>
@@ -344,7 +344,7 @@
         <location filename="../src/app/app.cpp" line="2964"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation>Comprobar actualizaciones</translation>
+        <translation>Comprobar si hay actualizaciones</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2653"/>
@@ -380,7 +380,7 @@
         <location filename="../src/app/app.cpp" line="2699"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation>Iniciar {app_name} al inicio</translation>
+        <translation>Inicializar {app_name} al inicio</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2762"/>
@@ -505,7 +505,7 @@
         <location filename="../src/app/app.cpp" line="3230"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation>No hay actualizaciones</translation>
+        <translation>No hay actualizaciones disponibles</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3257"/>
