@@ -133,157 +133,157 @@
         <location filename="../src/app/app.cpp" line="2025"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Izgled</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2080"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neke postavke za {player_name} su promijenjene od zadanih</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi izgled svog presencea</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2102"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži svoj status kao &quot;{playing_activity_label}&quot; aktivnost</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ime playera umjesto &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2138"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži &quot;{branding_text}&quot; u presenceu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Načini prikazivanja pauziranog medija</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2158"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Postavke za lokalne medijske playere</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2164"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži logotip medijskog playera</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2179"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži simbol za reprodukciju tijekom slušanja glazbe</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2194"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ikonu pauze kada je glazba pauzirana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2209"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži pauziran medij u svom statusu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2224"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaustavi traku napretka za pauziran medij</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2244"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži koliko je dugo pauziran medij</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2264"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Načini prikazivanja informacija o pjesmi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2268"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naziv pjesme i izvođača u istom redu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2289"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naziv izvođača i albuma u istom redu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2311"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Promijeni redoslijed naziva izvođača i naziva pjesme</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2325"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj prefiks &quot;{prefix}&quot; ispred naziva izvođača</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2341"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj prefiks &quot;{prefix}&quot; ispred naziva albuma</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2357"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naslov albuma</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2371"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži informacije o reprodukciji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jezik / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2471"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koristi zadani jedik sistema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2515"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomoč oko prevođenja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2530"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Postavke</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2540"/>
