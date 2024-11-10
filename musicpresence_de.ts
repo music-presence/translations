@@ -145,7 +145,7 @@
         <location filename="../src/app/app.cpp" line="2096"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>Stelle ein wie dein Status aussehen soll</translation>
+        <translation>Lege fest wie dein Status aussehen soll</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2102"/>
@@ -187,13 +187,13 @@
         <location filename="../src/app/app.cpp" line="2179"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>Zeige ein Spielen-Icon für spielende Medien</translation>
+        <translation>Zeige ein Spielen-Symbol für spielende Medien</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2194"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation>Zeige ein Pause-Icon für pausierte Medien</translation>
+        <translation>Zeige ein Pause-Symbol für pausierte Medien</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2209"/>
@@ -223,7 +223,7 @@
         <location filename="../src/app/app.cpp" line="2268"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Zeige Songtitel und Künstler auf einer Zeile</translation>
+        <translation>Zeige Titel und Künstler auf einer Zeile</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2289"/>
@@ -235,7 +235,7 @@
         <location filename="../src/app/app.cpp" line="2311"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Tausche Songtitel und Künstler</translation>
+        <translation>Tausche Titel und Künstler</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2325"/>
