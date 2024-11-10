@@ -85,7 +85,7 @@
         <location filename="../src/app/app.cpp" line="1611"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation>Player</translation>
+        <translation>Reproduktor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1712"/>
@@ -115,7 +115,7 @@
         <location filename="../src/app/app.cpp" line="1844"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation>Prilagodi postavke samo za ovaj player</translation>
+        <translation>Prilagodi postavke samo za ovaj reproduktor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1860"/>
@@ -157,7 +157,7 @@
         <location filename="../src/app/app.cpp" line="2121"/>
         <source>Show the name of the player instead of &quot;{music_activity_name}&quot;</source>
         <comment>appearance: show the player name instead of &quot;Music&quot;</comment>
-        <translation>Prikaži ime medijskog playera umjesto &quot;{music_activity_name}&quot;</translation>
+        <translation>Prikaži ime medijskog reproduktora umjesto &quot;{music_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2138"/>
@@ -175,19 +175,19 @@
         <location filename="../src/app/app.cpp" line="2158"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation>Postavke za lokalne medijske playere</translation>
+        <translation>Postavke za lokalne medijske reproduktore</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2164"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>Prikaži logotip medijskog playera</translation>
+        <translation>Prikaži logotip medijskog reproduktora</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2179"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>Prikaži ikonu reprodukcije tijekom reprodukcije glazbe</translation>
+        <translation>Prikaži ikonu reprodukcije tijekom slušanja glazbe</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2194"/>
@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="2209"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>Prižazi pauzirane medije u svom statusu</translation>
+        <translation>Prikaži pauziran medij u svom statusu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2224"/>
@@ -265,19 +265,19 @@
         <location filename="../src/app/app.cpp" line="2460"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jezik / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2471"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koristi zadani jezik sustava</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2515"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć oko prevođenja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2530"/>
