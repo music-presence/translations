@@ -626,7 +626,7 @@
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapraszamy do dołączenia na nasz serwer Discord! Spotkaj innych, proponuj zmiany i bądź na bieżąco. Kliknij tutaj lub w zakładce pomocy, żeby dołączyć.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
