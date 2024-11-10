@@ -652,13 +652,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4173"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;새 버전 {app_name} 이(가) 가능합니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;아래의 변경 사항을 읽고 새로운 내용을 확인하세요.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4189"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>디시 시도하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4195"/>
@@ -705,7 +705,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4249"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;숨겨진 아이콘 메뉴에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4274"/>
