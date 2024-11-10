@@ -682,7 +682,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/app.cpp" line="4220"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation>Verstanden</translation>
+        <translation>Okay</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4222"/>
