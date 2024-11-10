@@ -37,6 +37,13 @@ std::vector<Contributor> const& translations::contributors()
             .link_to_github = true,
             .country_language_codes = {"de"}
         },
+        {
+            .name = "VNCE",
+            .github_name = "VZCE",
+            .codeberg_name = "VNCE",
+            .link_to_github = true,
+            .country_language_codes = {"fr-FR"}
+        },
     };
     return contributors;
 }
