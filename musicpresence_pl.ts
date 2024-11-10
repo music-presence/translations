@@ -651,13 +651,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4173"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Nowa wersja {app_name} jest dostępna.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Przeczytaj zmiany poniżej, żeby zobaczyć co nowego.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4189"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spróbuj ponownie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4195"/>
@@ -669,7 +669,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4206"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished">Nowa wersja zainstalowana</translation>
+        <translation>Nowa wersja zainstalowana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4211"/>
@@ -704,7 +704,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4249"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Kliknij ikonę w zasobniku, żeby otworzyć ustawienia.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} działa w tle i zawsze może być tak używany. Możesz kontrolować które odtwarzacze są udostępniane w Twoim statusie i jak Twój status wygląda.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4274"/>
