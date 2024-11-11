@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="1219"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>Status ist bereit</translation>
+        <translation>Status ist aktiviert</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1224"/>
