@@ -512,7 +512,7 @@
         <location filename="../src/app/app.cpp" line="3227"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>버전 {version}을 설치하려면 클릭하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
