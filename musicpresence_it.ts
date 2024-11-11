@@ -509,6 +509,12 @@
         <translation>Gli aggiornamenti automatici sono disabilitati</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="3227"/>
+        <source>Click to install version {version}</source>
+        <comment>update button</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="3648"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
