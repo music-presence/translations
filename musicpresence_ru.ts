@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="1215"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished">Нажмите для активации</translation>
+        <translation>Нажмите чтобы активировать</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1219"/>
@@ -43,25 +43,25 @@
         <location filename="../src/app/app.cpp" line="1224"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished">Ожидание Discord</translation>
+        <translation>Ожидание Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1230"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>Ожидание проигрывание медиа</translation>
+        <translation>Ожидание проигрывания медиа</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1234"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>Статус работает</translation>
+        <translation>Статус активен</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1457"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation>Донат</translation>
+        <translation>Пожертвование</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1459"/>
@@ -711,24 +711,24 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4276"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Принято!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>Начните слушать музыку чтобы настроить отдельный плеер</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1689"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Индивидуальные настройки будут появляться здесь</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1693"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ваш медиа-плеер не обнаружен?</translation>
     </message>
 </context>
 </TS>
