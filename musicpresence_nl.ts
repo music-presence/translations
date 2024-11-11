@@ -670,7 +670,7 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished">Nieuwe versie geïnstalleerd</translation>
+        <translation>Nieuwe versie geïnstalleerd</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4213"/>
