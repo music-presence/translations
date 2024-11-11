@@ -290,25 +290,25 @@
         <location filename="../src/app/app.cpp" line="1166"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} deur {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wys „{music_activity_name}“ in plaas van die spelernaam</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2573"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Omslagbeelde</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2595"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moenie dit spam nie. Probeer weer oor {amount} sekondes</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
@@ -466,7 +466,7 @@
         <location filename="../src/app/app.cpp" line="3387"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik om weergawe {version} af te laai</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
@@ -513,7 +513,8 @@
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hou jy van {app_name}?
+Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelselbalk vir meer inligting.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -588,7 +589,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Opgedateer na weergawe {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Herbegin die toepassing om die nuutste weergawe te gebruik.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -619,7 +621,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;’n Fout het voorgekom tydens die installering van die opdatering:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3446"/>
@@ -631,7 +634,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Voel vry om by ons Discord-bediener aan te sluit! Ontmoet ander gebruikers, maak voorstelle en bly op hoogte. Klik hier of in die Hulp-menu om aan te sluit.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4058"/>
@@ -649,13 +652,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;‘n Nuwe {app_name} weergawe is beskikbaar.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lees die changelog hieronder om te sien wat nuut is.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Probeer weer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4197"/>
@@ -667,7 +670,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished">Nuwe weergawe geïnstalleer</translation>
+        <translation>Nuwe weergawe geïnstalleer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4213"/>
@@ -702,7 +705,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Klik op die ikoon in die stelselbalk-menu om die beheerders te oop te maak.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} loop in die agtergrond en kan altyd op hierdie manier toegemaak word. Jy kan beheer watter media-spelers in jou status gedeel word en hoe jou status lyk.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4276"/>
