@@ -512,7 +512,7 @@
         <location filename="../src/app/app.cpp" line="3227"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik om weergawe {version} te installeer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
