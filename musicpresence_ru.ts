@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1130"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation>активен</translation>
+        <translation>сейчас активен</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1212"/>
@@ -512,7 +512,7 @@
         <location filename="../src/app/app.cpp" line="3227"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите чтобі установить версию {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
