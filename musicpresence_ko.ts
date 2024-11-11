@@ -520,7 +520,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>{app_name}이(가) 마음에 드나요?
-개발을 기부로 지원할 수 있어요. 더 많은 정보는 여기나 트레이 메뉴에서 확인하세요.</translation>
+개발을 기부로 지원할 수 있어요. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
