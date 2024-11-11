@@ -290,25 +290,25 @@
         <location filename="../src/app/app.cpp" line="1166"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} od {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži &quot;{music_activity_name}&quot; umjesto naziva playera</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2573"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Naslovne slike</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2595"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nemojte spamati postavke. Pokušajte ponovno za {amount} sekundi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
@@ -466,7 +466,7 @@
         <location filename="../src/app/app.cpp" line="3387"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite da preuzmete verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
@@ -512,14 +512,15 @@
         <location filename="../src/app/app.cpp" line="3227"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite da instalirate verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sviđa li vam se {app_name}?
+Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku za više informacija.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -594,7 +595,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Ažurirano na verziju {version}&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ponovno pokrenite aplikaciju za pokretanje nove verzije.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -625,7 +627,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Došlo je do pogreške tijekom instalacije ažuriranja:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3446"/>
@@ -637,7 +640,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slobodno se pridružite našem Discord serveru! Upoznajte druge korisnite, predložite ideje i ostanite u toku. Kliknite ovdje ili u izborniku Pomoć da biste se pridružili.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4058"/>
@@ -655,13 +658,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Nova verzija {app_name} je dostupna.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Pročitaj promjene u nastavku kako bi saznao što je novo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokušajte ponovno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4197"/>
@@ -708,7 +711,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Klikni ikonu u izborniku kako biste otvorili kontrole.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} radi u pozadini i uvijek je dostupan na ovaj način. Možete kontrolirati koji medijski playeri se dijele u vašem statusu i izgled vašeg statusa.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4276"/>
