@@ -163,13 +163,13 @@
         <location filename="../src/app/app.cpp" line="2189"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation>媒體內容暫停時的顯示方式</translation>
+        <translation>如何顯示暫停播放的媒體內容</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2193"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation>非服務型媒體播放程式設定</translation>
+        <translation>非串流服務的媒體播放程式設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2057"/>
@@ -181,13 +181,13 @@
         <location filename="../src/app/app.cpp" line="2052"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>音樂播放時顯示播放中圖示</translation>
+        <translation>媒體內容播放時顯示「播放中」圖示</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2229"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation>音樂暫停時顯示暫停圖示</translation>
+        <translation>媒體內容暫停時顯示「已暫停」圖示</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2047"/>
@@ -199,25 +199,25 @@
         <location filename="../src/app/app.cpp" line="2259"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>媒體內容暫停播放時凍結進度列</translation>
+        <translation>媒體內容暫停時仍然顯示播放進度條</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2279"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>顯示媒體內容暫停了多久</translation>
+        <translation>顯示媒體內容暫停了多長時間</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation>歌曲資訊的顯示方式</translation>
+        <translation>如何顯示歌曲資訊</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2303"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>將歌名和演出者合併顯示為一行</translation>
+        <translation>將曲目名稱和演出者合併顯示為一行</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2324"/>
@@ -229,7 +229,7 @@
         <location filename="../src/app/app.cpp" line="2346"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>對調歌名和演出者的順序</translation>
+        <translation>對調曲目名稱和演出者的順序</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2360"/>
@@ -308,13 +308,13 @@
         <location filename="../src/app/app.cpp" line="2595"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation>請勿連點，並於 {amount} 秒後再試一次</translation>
+        <translation>請勿連按這個選項，並於 {amount} 秒後再試一次</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation>這個程式的運作方式？</translation>
+        <translation>這個應用程式的運作方式？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2617"/>
@@ -356,7 +356,7 @@
         <location filename="../src/app/app.cpp" line="2670"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation>自動安裝更新檔</translation>
+        <translation>自動安裝更新</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2686"/>
@@ -375,13 +375,13 @@
         <location filename="../src/app/app.cpp" line="2704"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation>推出新版本時顯示通知</translation>
+        <translation>發布新版本時通知我</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2717"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation>推出新版本時顯示更新內容</translation>
+        <translation>發布新版本時顯示新鮮事</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2730"/>
@@ -399,7 +399,7 @@
         <location filename="../src/app/app.cpp" line="2743"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation>開機時啟動 {app_name}</translation>
+        <translation>開機時自動啟動 {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2806"/>
@@ -435,19 +435,19 @@
         <location filename="../src/app/app.cpp" line="2836"/>
         <source>Make a donation</source>
         <comment>help link</comment>
-        <translation>提供贊助</translation>
+        <translation>捐款贊助</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2842"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation>前往 GitHub 將專案加上星號</translation>
+        <translation>前往 GitHub 幫專案加上星號</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2848"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>日後規劃？</translation>
+        <translation>未來更新藍圖</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2855"/>
@@ -459,7 +459,7 @@
         <location filename="../src/app/app.cpp" line="2863"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation>目前版本：{version}</translation>
+        <translation>你目前使用的是 {version} 版</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2949"/>
@@ -520,7 +520,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>喜歡 {app_name} 嗎？
-你可以贊助開發作業，詳情請按這裡或前往工作列選單。</translation>
+歡迎捐款贊助開發作業，詳情請按這裡或查看工作列選單。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -528,7 +528,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3250"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation>有可用的新版本</translation>
+        <translation>已發布新版本</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3237"/>
@@ -596,7 +596,7 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;已更新為 {version} 版。&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;如要執行最新版，請重新啟動應用程式。&lt;/p&gt;</translation>
+&lt;p&gt;如要執行最新版本，請重新啟動應用程式。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -640,7 +640,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>歡迎加入我們的 Discord 伺服器！你可以跟其他使用者交流互動、提出寶貴建議，並掌握最新動態。按這裡或前往「說明」選單即可加入。</translation>
+        <translation>歡迎加入我們的 Discord 伺服器！你可以與其他使用者交流互動、提出寶貴建議，以及掌握最新動態。按這裡即可加入，或稍後再查看「說明」選單。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4058"/>
@@ -652,13 +652,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4174"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation>找到可用的更新</translation>
+        <translation>已有可用的更新</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;{app_name} 已推出新版。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;歡迎閱讀下方的變更記錄，看看有哪些新鮮事。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} 已推出新版本。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;歡迎閱讀下方的變更記錄，看看有哪些新鮮事。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4191"/>
@@ -676,7 +676,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished">已安裝新版本</translation>
+        <translation>已安裝新版本</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4213"/>
@@ -694,7 +694,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4222"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>系統只會在執行新版本時顯示這則訊息。</translation>
+        <translation>系統只會在啟動新版本時顯示這則訊息。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4233"/>
@@ -706,12 +706,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4246"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation>初次執行</translation>
+        <translation>初次啟動</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;點選工作列中的圖示即可開啟控制選項。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} 會在背景執行，隨時可以透過這個方式存取。你可以掌控要在個人狀態中顯示哪些媒體播放程式，並調整播放狀態的呈現方式。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;點選工作列中的圖示即可開啟控制選項。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} 會在背景執行，隨時都能透過這個方式存取。你可以掌控要在個人狀態中顯示哪些媒體播放程式，並調整播放狀態的呈現方式。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4276"/>
@@ -722,13 +722,13 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
         <source>Play music to configure a specific player</source>
-        <translation>如要設定特定播放程式，請播放媒體內容</translation>
+        <translation>如要設定特定播放程式，請先播放媒體內容</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1689"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation>個別設定會顯示在這裡</translation>
+        <translation>個別設定隨後會顯示在這裡</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1693"/>
