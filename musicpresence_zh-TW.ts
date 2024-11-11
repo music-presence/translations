@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1130"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>運作中</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1212"/>
@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="1215"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>按這裡啟用</translation>
+        <translation>按這裡重新啟用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1219"/>
@@ -49,13 +49,13 @@
         <location filename="../src/app/app.cpp" line="1230"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>正在等待媒體內容播放</translation>
+        <translation>正在等待媒體內容開始播放</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1234"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>播放狀態生效中</translation>
+        <translation>播放狀態運作中</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1457"/>
@@ -79,13 +79,13 @@
         <location filename="../src/app/app.cpp" line="1527"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>切換個別播放器的顯示方式</translation>
+        <translation>切換個別播放程式的播放狀態</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1618"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation>播放器</translation>
+        <translation>播放程式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1720"/>
@@ -127,13 +127,13 @@
         <location filename="../src/app/app.cpp" line="1878"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>按住 Shift 鍵來重設單一覆寫設定</translation>
+        <translation>按住 Shift 鍵即可重設單一覆寫設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation>外觀</translation>
+        <translation>顯示設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2118"/>
@@ -145,7 +145,7 @@
         <location filename="../src/app/app.cpp" line="2134"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>調整播放狀態的顯示方式</translation>
+        <translation>調整播放狀態的呈現方式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2140"/>
@@ -169,13 +169,13 @@
         <location filename="../src/app/app.cpp" line="2193"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation>非服務型媒體播放器設定</translation>
+        <translation>非服務型媒體播放程式設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2057"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>顯示媒體播放器標誌</translation>
+        <translation>顯示媒體播放程式標誌</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2052"/>
@@ -259,19 +259,19 @@
         <location filename="../src/app/app.cpp" line="2496"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>語言 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2507"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>使用系統語言</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2551"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>協助翻譯</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2566"/>
@@ -284,31 +284,31 @@
         <location filename="../src/app/app.cpp" line="2577"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation>使用媒體播放器提供的封面圖片</translation>
+        <translation>使用來自媒體播放程式的封面圖片</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1166"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title}，演出者：{media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>顯示「{music_activity_name}」而非播放程式名稱</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2573"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>封面圖片</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2595"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>請勿連點，並於 {amount} 秒後再試一次</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
@@ -411,13 +411,13 @@
         <location filename="../src/app/app.cpp" line="2810"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>系統偵測不到我的媒體播放器</translation>
+        <translation>系統偵測不到我的媒體播放程式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2817"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation>提交系統偵測到的媒體播放器</translation>
+        <translation>提交已偵測到的媒體播放程式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2824"/>
@@ -466,7 +466,7 @@
         <location filename="../src/app/app.cpp" line="3387"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>按這裡下載 {version} 版</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
@@ -512,14 +512,15 @@
         <location filename="../src/app/app.cpp" line="3227"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>按這裡安裝 {version} 版</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3648"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>喜歡 {app_name} 嗎？
+你可以贊助開發作業，詳情請按這裡或前往工作列選單。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2944"/>
@@ -594,7 +595,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;已更新為 {version} 版。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;如要執行最新版，請重新啟動應用程式。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3394"/>
@@ -625,7 +627,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;安裝更新時發生錯誤：&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3446"/>
@@ -637,7 +640,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>歡迎加入我們的 Discord 伺服器！你可以跟其他使用者交流互動、提出寶貴建議，並掌握最新動態。按這裡或前往「說明」選單即可加入。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4058"/>
@@ -655,13 +658,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4175"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} 已推出新版。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;歡迎閱讀下方的變更記錄，看看有哪些新鮮事。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4191"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>再試一次</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4197"/>
@@ -708,7 +711,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4251"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;點選工作列中的圖示即可開啟控制選項。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} 會在背景執行，隨時可以透過這個方式存取。你可以掌控要在個人狀態中顯示哪些媒體播放程式，並調整播放狀態的呈現方式。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4276"/>
@@ -719,7 +722,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
         <source>Play music to configure a specific player</source>
-        <translation>如要設定特定播放器，請播放曲目</translation>
+        <translation>如要設定特定播放程式，請播放媒體內容</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1689"/>
@@ -731,7 +734,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1693"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation>沒偵測到你的媒體播放器嗎？</translation>
+        <translation>沒偵測到你的媒體播放程式嗎？</translation>
     </message>
 </context>
 </TS>
