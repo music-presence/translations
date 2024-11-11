@@ -21,6 +21,8 @@ std::vector<std::string> const& translations::languages()
         "es",
         "fr",
         "ko",
+        "ru",
+        "uk",
     };
     return codes;
 }
