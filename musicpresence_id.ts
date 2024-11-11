@@ -676,7 +676,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="4208"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation>Versi baru terpasang</translation>
+        <translation>Versi baru sudah terpasang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4213"/>
