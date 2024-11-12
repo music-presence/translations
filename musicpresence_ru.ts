@@ -528,19 +528,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разделять исполнителя и название альбома</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Поддержите разработчика пожертвованием</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Про приложение</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3252"/>
@@ -735,47 +735,47 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4322"/>
         <source>About</source>
         <comment>about window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Про приложение</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4390"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Версия {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4396"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">Политика конфиденциальности</translation>
+        <translation>Политика Конфиденциальности</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сообщить про проблему</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам нравится {app_name}? &lt;a {attributes}&gt;Поддержите разработчика пожертвованием&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4413"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотите помочь другими способами? &lt;a {attributes}&gt;Присоединяйтесь!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4421"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо всем, кто помог с переводом приложения:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
