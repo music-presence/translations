@@ -7,19 +7,19 @@
         <location filename="../src/app/app.cpp" line="1118"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation>вимкнуто</translation>
+        <translation>вимкнутий</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1125"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation>увімкнуто</translation>
+        <translation>увімкнутий</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1130"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation>зараз активний</translation>
+        <translation>зараз відображається</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1212"/>
