@@ -199,201 +199,201 @@
         <location filename="../src/app/app.cpp" line="2259"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Закморозити прогрес-бар для зупинених медіа</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2279"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати як довго медіа на паузі</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2299"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Як відображати інформацію о піснях</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2303"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати назву та виконавця пісні на одному рядку</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2324"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати виконавця та альбом на одному рядку</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2346"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Змінити місцями порядок назви пісні та виконавця</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2360"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Додавати перед ім&apos;ям виконавця префікс &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2376"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Додавати перед назвою альбому префыкс &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2392"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати назву альбому</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2406"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати інформацію про тривалість доріжки</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2496"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Мова / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2507"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати системну мова</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2551"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Допомогти з перекладом</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2566"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2460"/>
         <location filename="../src/app/app.cpp" line="2577"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати зображення обкладинок з медіа-плеєрів</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1166"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{media_title} від {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати &quot;{music_activity_name}&quot; замість назви плеєру</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2573"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Зображення обкладинок</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2595"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не поспішайте. Спробуйте знову через {amount} секунд</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Як це працює?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2617"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Зовнішні сервіси</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2621"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати TIDAL API, під час прослуховування Tidal</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2633"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати Deezer API, під час прослуховування Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2645"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати MusicBrainz API в іншому випадку</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2658"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2663"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Як працюють автоматичні оновлення?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2670"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Встановлювати оновлення автоматично</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2686"/>
         <location filename="../src/app/app.cpp" line="3009"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перевірити наявність оновлень</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2697"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка оновлень...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2704"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Повідомляти коли нова версія доступна</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2717"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дивитися що нового під час запуску нової версії</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2730"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дивитися журнал змін</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2739"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Різне</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2743"/>
