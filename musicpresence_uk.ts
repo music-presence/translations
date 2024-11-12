@@ -454,7 +454,7 @@
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished">Про додаток</translation>
+        <translation>Про {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2875"/>
