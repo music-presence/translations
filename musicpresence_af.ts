@@ -112,176 +112,176 @@
         <translation>Wys net podcasts in jou status</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1852"/>
+        <location filename="../src/app/app.cpp" line="1855"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
         <translation>Oorheers globale instellings vir hierdie speler</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1868"/>
+        <location filename="../src/app/app.cpp" line="1871"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
         <translation>Herstel alle oorheerde instellings</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1878"/>
+        <location filename="../src/app/app.cpp" line="1881"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
         <translation>Hou SHIFT ingedruk om &apos;n oorheerde instelling te herstel</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2063"/>
+        <location filename="../src/app/app.cpp" line="2066"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
         <translation>Vorskyning</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2118"/>
+        <location filename="../src/app/app.cpp" line="2121"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
         <translation>Sommige instellings is oorheers vir {player_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2134"/>
+        <location filename="../src/app/app.cpp" line="2137"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
         <translation>Konfigureer hoe jou Presence lyk</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2140"/>
+        <location filename="../src/app/app.cpp" line="2143"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
         <translation>Wys jou status as &apos;n „{playing_activity_label}“ aktiwiteit</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2173"/>
+        <location filename="../src/app/app.cpp" line="2176"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>Wys „{branding_text}“ in die Presence</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2189"/>
+        <location filename="../src/app/app.cpp" line="2192"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
         <translation>Hoe om gepauseerde media te vertoon</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2193"/>
+        <location filename="../src/app/app.cpp" line="2196"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
         <translation>Instellings vir nie-diens media-spelers</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2057"/>
+        <location filename="../src/app/app.cpp" line="2060"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>Wys die logo van die media-speler</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2052"/>
+        <location filename="../src/app/app.cpp" line="2055"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>Wys &apos;n speel-ikoon wanneer musiek speel</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2229"/>
+        <location filename="../src/app/app.cpp" line="2232"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>Wys &apos;n gepauseer-ikoon wanneer musiek gepauseer is</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2047"/>
+        <location filename="../src/app/app.cpp" line="2050"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>Wys gepauseerde media in jou status</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2259"/>
+        <location filename="../src/app/app.cpp" line="2262"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>Bevries die vorderingstafel vir gepauseerde media</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2279"/>
+        <location filename="../src/app/app.cpp" line="2282"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>Wys vir hoe lank media gepauseer is</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2299"/>
+        <location filename="../src/app/app.cpp" line="2302"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
         <translation>Hoe om liedjie-inligting te vertoon</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2303"/>
+        <location filename="../src/app/app.cpp" line="2306"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>Wys die liedjie-titel en kunstenaar op een lyn</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2324"/>
+        <location filename="../src/app/app.cpp" line="2327"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>Wys die kunstenaar en album op een lyn</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2346"/>
+        <location filename="../src/app/app.cpp" line="2349"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>Ruil die volgorde van die liedjie-titel en kunstenaar om</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2360"/>
+        <location filename="../src/app/app.cpp" line="2363"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>Voeg die artistenaam voor met „{prefix}“</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2376"/>
+        <location filename="../src/app/app.cpp" line="2379"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>Voeg die albumnaam voor met „{prefix}“</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2392"/>
+        <location filename="../src/app/app.cpp" line="2395"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>Wys die albumnaam</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2406"/>
+        <location filename="../src/app/app.cpp" line="2409"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>Wys afspeelinligting</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2496"/>
+        <location filename="../src/app/app.cpp" line="2499"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
         <translation>Taal / {language}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2507"/>
+        <location filename="../src/app/app.cpp" line="2510"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
         <translation>Gebruik die stelseltaal</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2551"/>
+        <location filename="../src/app/app.cpp" line="2554"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
         <translation>Help met vertaal</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2566"/>
+        <location filename="../src/app/app.cpp" line="2569"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>Instellings</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2460"/>
-        <location filename="../src/app/app.cpp" line="2577"/>
+        <location filename="../src/app/app.cpp" line="2463"/>
+        <location filename="../src/app/app.cpp" line="2580"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
         <translation>Gebruik omslagbeelde van media-spelers</translation>
@@ -293,229 +293,223 @@
         <translation>{media_title} deur {media_artist}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2039"/>
+        <location filename="../src/app/app.cpp" line="2042"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
         <translation>Wys „{music_activity_name}“ in plaas van die spelernaam</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2573"/>
+        <location filename="../src/app/app.cpp" line="2576"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
         <translation>Omslagbeelde</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2595"/>
+        <location filename="../src/app/app.cpp" line="2598"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>Moenie dit spam nie. Probeer weer oor {amount} sekondes</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2610"/>
+        <location filename="../src/app/app.cpp" line="2613"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
         <translation>Hoe werk dit?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2617"/>
+        <location filename="../src/app/app.cpp" line="2620"/>
         <source>External services</source>
         <comment>general settings section</comment>
         <translation>Buite-diens</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2621"/>
+        <location filename="../src/app/app.cpp" line="2624"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
         <translation>Gebruik die TIDAL API wanneer jy na TIDAL luister</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2633"/>
+        <location filename="../src/app/app.cpp" line="2636"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
         <translation>Gebruik die Deezer API wanneer jy na Deezer luister</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2645"/>
+        <location filename="../src/app/app.cpp" line="2648"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
         <translation>Gebruik die MusicBrainz API andersins</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2658"/>
+        <location filename="../src/app/app.cpp" line="2661"/>
         <source>Updates</source>
         <comment>general settings section</comment>
         <translation>Opdaterings</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2663"/>
+        <location filename="../src/app/app.cpp" line="2666"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
         <translation>Hoe werk outomatiese opdaterings?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2670"/>
+        <location filename="../src/app/app.cpp" line="2673"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
         <translation>Installeer opdaterings outomaties</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2686"/>
-        <location filename="../src/app/app.cpp" line="3009"/>
+        <location filename="../src/app/app.cpp" line="2689"/>
+        <location filename="../src/app/app.cpp" line="3024"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>Kyk vir opdaterings</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2697"/>
+        <location filename="../src/app/app.cpp" line="2700"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>Kyk vir opdaterings...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2704"/>
+        <location filename="../src/app/app.cpp" line="2707"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
         <translation>Kennig wanneer &apos;n nuwe weergawe beskikbaar is</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2717"/>
+        <location filename="../src/app/app.cpp" line="2720"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
         <translation>Sien wat nuut is wanneer &apos;n nuwe weergawe gelaunch word</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2730"/>
+        <location filename="../src/app/app.cpp" line="2733"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
         <translation>Blaai deur die changelog</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2739"/>
+        <location filename="../src/app/app.cpp" line="2742"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
         <translation>Diverse</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2743"/>
+        <location filename="../src/app/app.cpp" line="2746"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
         <translation>Begin {app_name} by aanmelding</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2806"/>
+        <location filename="../src/app/app.cpp" line="2809"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>Hulp</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2810"/>
+        <location filename="../src/app/app.cpp" line="2813"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>My media-speler word nie opgespoor nie</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2817"/>
+        <location filename="../src/app/app.cpp" line="2820"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>Dien opgespoorde media-spelers in</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2824"/>
+        <location filename="../src/app/app.cpp" line="2827"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>Meld &apos;n probleem op GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2830"/>
+        <location filename="../src/app/app.cpp" line="2833"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>Sluit aan by ons Discord-bediener</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2836"/>
-        <source>Make a donation</source>
-        <comment>help link</comment>
-        <translation>Maak &apos;n donasie</translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="2842"/>
+        <location filename="../src/app/app.cpp" line="2846"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>Gee die projek &apos;n ster op GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2848"/>
+        <location filename="../src/app/app.cpp" line="2852"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>Wat kom volgende?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2855"/>
+        <location filename="../src/app/app.cpp" line="2859"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>Privaatheidskennisgewing</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2863"/>
+        <location filename="../src/app/app.cpp" line="2874"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>Jy gebruik weergawe {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2949"/>
-        <location filename="../src/app/app.cpp" line="3387"/>
+        <location filename="../src/app/app.cpp" line="2964"/>
+        <location filename="../src/app/app.cpp" line="3402"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>Klik om weergawe {version} af te laai</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3067"/>
+        <location filename="../src/app/app.cpp" line="3082"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>Kanselleer aflaaie...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3075"/>
-        <location filename="../src/app/app.cpp" line="4181"/>
+        <location filename="../src/app/app.cpp" line="3090"/>
+        <location filename="../src/app/app.cpp" line="4196"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Installeer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3093"/>
+        <location filename="../src/app/app.cpp" line="3108"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>Outomatiese opdaterings is geaktiveer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3095"/>
-        <location filename="../src/app/app.cpp" line="3138"/>
-        <location filename="../src/app/app.cpp" line="3330"/>
+        <location filename="../src/app/app.cpp" line="3110"/>
+        <location filename="../src/app/app.cpp" line="3153"/>
+        <location filename="../src/app/app.cpp" line="3345"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>Aktiveer outomatiese opdaterings</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3115"/>
-        <location filename="../src/app/app.cpp" line="4182"/>
+        <location filename="../src/app/app.cpp" line="3130"/>
+        <location filename="../src/app/app.cpp" line="4197"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Installeer...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3148"/>
+        <location filename="../src/app/app.cpp" line="3163"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Outomatiese opdaterings is gedeaktiveer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3227"/>
+        <location filename="../src/app/app.cpp" line="3242"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>Klik om weergawe {version} te installeer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3648"/>
+        <location filename="../src/app/app.cpp" line="3663"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -523,75 +517,93 @@ You can support the development with a donation. Click here or in the tray menu 
 Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelselbalk vir meer inligting.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2944"/>
-        <location filename="../src/app/app.cpp" line="3224"/>
-        <location filename="../src/app/app.cpp" line="3250"/>
+        <location filename="../src/app/app.cpp" line="2959"/>
+        <location filename="../src/app/app.cpp" line="3239"/>
+        <location filename="../src/app/app.cpp" line="3265"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>Nuwe weergawe beskikbaar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3237"/>
+        <location filename="../src/app/app.cpp" line="1799"/>
+        <source>Split the artist and album name</source>
+        <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="2840"/>
+        <source>Support development with a donation</source>
+        <comment>help link</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="2866"/>
+        <source>About</source>
+        <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3252"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>Besoek die aflaai-website</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3248"/>
+        <location filename="../src/app/app.cpp" line="3263"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>Installeer tans opdatering...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3275"/>
+        <location filename="../src/app/app.cpp" line="3290"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>Geen opdaterings beskikbaar nie</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3302"/>
+        <location filename="../src/app/app.cpp" line="3317"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>Opgedateer na weergawe {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3305"/>
+        <location filename="../src/app/app.cpp" line="3320"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>Herbegin die toepassing</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3313"/>
+        <location filename="../src/app/app.cpp" line="3328"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>Iets het verkeerd geloop</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3319"/>
+        <location filename="../src/app/app.cpp" line="3334"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>Nuwe weergawe geïnstalleer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3323"/>
+        <location filename="../src/app/app.cpp" line="3338"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>Geïnstalleer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3326"/>
+        <location filename="../src/app/app.cpp" line="3341"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>Opdatering geïnstalleer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3327"/>
+        <location filename="../src/app/app.cpp" line="3342"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>Herbegin</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3353"/>
+        <location filename="../src/app/app.cpp" line="3368"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -599,31 +611,31 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
 &lt;p&gt;Herbegin die toepassing om die nuutste weergawe te gebruik.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3394"/>
+        <location filename="../src/app/app.cpp" line="3409"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>Fout: Installasie het misluk</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3419"/>
+        <location filename="../src/app/app.cpp" line="3434"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>Rapporteer hierdie probleem</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3429"/>
+        <location filename="../src/app/app.cpp" line="3444"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>Opdatering installasie het misluk</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3433"/>
+        <location filename="../src/app/app.cpp" line="3448"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3441"/>
+        <location filename="../src/app/app.cpp" line="3456"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -631,93 +643,139 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3446"/>
+        <location filename="../src/app/app.cpp" line="3461"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>Laai handmatig af</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3634"/>
+        <location filename="../src/app/app.cpp" line="3649"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>Voel vry om by ons Discord-bediener aan te sluit! Ontmoet ander gebruikers, maak voorstelle en bly op hoogte. Klik hier of in die Hulp-menu om aan te sluit.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4058"/>
+        <location filename="../src/app/app.cpp" line="4073"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>Moenie dit weer wys nie</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4174"/>
+        <location filename="../src/app/app.cpp" line="4189"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Opdatering beskikbaar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4175"/>
+        <location filename="../src/app/app.cpp" line="4190"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;‘n Nuwe {app_name} weergawe is beskikbaar.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lees die changelog hieronder om te sien wat nuut is.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4191"/>
+        <location filename="../src/app/app.cpp" line="4206"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Probeer weer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4197"/>
+        <location filename="../src/app/app.cpp" line="4212"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Laai af</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4208"/>
+        <location filename="../src/app/app.cpp" line="4223"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Nuwe weergawe geïnstalleer</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4213"/>
+        <location filename="../src/app/app.cpp" line="4228"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>Wat is nuut?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4220"/>
+        <location filename="../src/app/app.cpp" line="4235"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Het dit</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4222"/>
+        <location filename="../src/app/app.cpp" line="4237"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Dit word slegs gewys wanneer &apos;n nuwe weergawe bekendgestel word.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4233"/>
+        <location filename="../src/app/app.cpp" line="4248"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Veranderlogboek</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4246"/>
+        <location filename="../src/app/app.cpp" line="4261"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Eerste bekendstelling</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4251"/>
+        <location filename="../src/app/app.cpp" line="4266"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Klik op die ikoon in die stelselbalk-menu om die beheerders te oop te maak.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} loop in die agtergrond en kan altyd op hierdie manier toegemaak word. Jy kan beheer watter media-spelers in jou status gedeel word en hoe jou status lyk.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4276"/>
+        <location filename="../src/app/app.cpp" line="4291"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>Het dit!</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4322"/>
+        <source>About</source>
+        <comment>about window title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4390"/>
+        <source>Version {version}</source>
+        <comment>application version information</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4396"/>
+        <source>License</source>
+        <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4399"/>
+        <source>Privacy Notice</source>
+        <comment>about window: legal term, opens the privacy policy</comment>
+        <translation type="unfinished">Privaatheidskennisgewing</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4402"/>
+        <source>Report an issue</source>
+        <comment>about window: opens github issues to report an issue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4405"/>
+        <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4413"/>
+        <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4421"/>
+        <source>Thanks to everyone who helped translate the app:</source>
+        <comment>about window: the names of all translators come after this</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
