@@ -25,139 +25,139 @@
         <location filename="../src/app/app.cpp" line="1212"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Статус вимкнутий</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1215"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть щоб увімкнути</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1219"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Статус увімкнутий</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1224"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Очікування Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1230"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Очіуквання програвання медіа</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1234"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Стус активний</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1457"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пожертвувати</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1459"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Підтримайте мою роботу невеликим донатом</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1466"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вийти</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1527"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налаштувати активність для кожного додатку</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1618"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Плеєр</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1720"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування для {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1736"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Завжди показувати &quot;{podcast_activity_name}&quot;, коли слухаєш подкасти</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1739"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Намагатися фільтрувати рекламу</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1745"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати тільки подкасти у вашому статусі</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1852"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Визначити глобальні налаштування для цього плеєру</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1868"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скинути усі визначені налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1878"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Утримуйте SHIFT, щоб скинути визначені налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2063"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2118"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Деякі налаштування перевизначені для {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2134"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налаштуйте вигляд вашого статусу</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2140"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати ваш статус активності як &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2173"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати &quot;{branding_text}&quot; в активності</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2189"/>
