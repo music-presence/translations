@@ -115,6 +115,13 @@ std::vector<Contributor> const& translations::contributors()
             .link_to_github = true,
             .translated_languages = {"ko"},
         },
+        {
+            .name = "jmleetw",
+            .github_name = "jmleetw",
+            .codeberg_name = "jmleetw",
+            .link_to_github = true,
+            .translated_languages = {"zh-TW"},
+        },
     };
     return contributors;
 }

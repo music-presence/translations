@@ -8,6 +8,7 @@ Translations for the [Music Presence](https://musicpresence.app) app.
 |:-|:-|
 | [@ayovu](https://github.com/ayovu) | [ru](https://translate.codeberg.org/projects/music-presence/desktop-application/ru), [uk](https://translate.codeberg.org/projects/music-presence/desktop-application/uk) |
 | [@FamilyMink5](https://github.com/FamilyMink5) | [ko](https://translate.codeberg.org/projects/music-presence/desktop-application/ko) |
+| [@jmleetw](https://github.com/jmleetw) | [zh-TW](https://translate.codeberg.org/projects/music-presence/desktop-application/zh-TW) |
 | [@MarvelousAdiris](https://github.com/MarvelousAdiris) | [es](https://translate.codeberg.org/projects/music-presence/desktop-application/es) |
 | [@MoonManPL](https://github.com/MoonManPL) | [pl](https://translate.codeberg.org/projects/music-presence/desktop-application/pl) |
 | [@matej4real](https://github.com/matej4real) | [hr](https://translate.codeberg.org/projects/music-presence/desktop-application/hr), [bs](https://translate.codeberg.org/projects/music-presence/desktop-application/bs), [sr](https://translate.codeberg.org/projects/music-presence/desktop-application/sr) |
