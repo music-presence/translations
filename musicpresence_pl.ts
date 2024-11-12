@@ -514,7 +514,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>Czy podoba Ci się {app_name}?
-Możesz wesprzeć wsparcie za pomocą darowizny. Kliknij tutaj lub w zasobniku dla informacji.</translation>
+Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informacji.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2959"/>
@@ -528,19 +528,19 @@ Możesz wesprzeć wsparcie za pomocą darowizny. Kliknij tutaj lub w zasobniku d
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oddziel artystę i nazwę albumu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wesprzyj rozwój darowizną</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>O aplikacji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3252"/>
@@ -735,47 +735,47 @@ Możesz wesprzeć wsparcie za pomocą darowizny. Kliknij tutaj lub w zasobniku d
         <location filename="../src/app/app.cpp" line="4322"/>
         <source>About</source>
         <comment>about window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>O aplikacji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4390"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wersja {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4396"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licencja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">Polityka Prywatności</translation>
+        <translation>Polityka Prywatności</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś problem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy podoba Ci się aplikacja {app_name}? &lt;a {attributes}&gt;Wesprzyj rozwój darowizną&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4413"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcesz pomóc w inny sposób? &lt;a {attributes}&gt;Zaangażuj się!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4421"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dziękuję wszystkim, którzy pomogli przetłumaczyć aplikację:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
