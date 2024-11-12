@@ -528,19 +528,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dividi il nome dell&apos;artista e il titolo dell&apos;album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Supporta lo sviluppo con una donazione</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni su Music Presence</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3252"/>
@@ -735,47 +735,47 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="4322"/>
         <source>About</source>
         <comment>about window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni su Music Presence</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4390"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versione {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4396"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licenza</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">Informativa Privacy</translation>
+        <translation>Informativa Privacy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Segnala un problema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ti piace {app_name}? &lt;a {attributes}&gt;Supporta lo sviluppo con una donazione&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4413"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi aiutare in altri modi? &lt;a {attributes}&gt;Partecipa!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4421"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grazie a tutti coloro che hanno aiutato a tradurre l&apos;applicazione:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
