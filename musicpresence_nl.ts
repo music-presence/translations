@@ -454,7 +454,7 @@
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Over {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2875"/>
@@ -535,13 +535,13 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Splits de artiest en albumnaam</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Steun de ontwikkeling met een donatie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3253"/>
@@ -736,41 +736,41 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/app.cpp" line="4393"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versie {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licentie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">Privacybeleid</translation>
+        <translation>Privacybeleid</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Meld een probleem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4408"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vind je {app_name} leuk? &lt;a {attributes}&gt;Steun de ontwikkeling met een donatie&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4416"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je op een andere manier helpen? &lt;a {attributes}&gt;Doe mee!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dank aan allen die geholpen hebben met het vertalen van de app:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
