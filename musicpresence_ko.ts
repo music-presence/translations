@@ -640,7 +640,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3634"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>저희 Discord 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 여기를 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
+        <translation>저희 Discord 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 이곳을 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4058"/>
@@ -688,7 +688,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4220"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation>확인했습니다</translation>
+        <translation>알겠습니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4222"/>
@@ -722,13 +722,13 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
         <source>Play music to configure a specific player</source>
-        <translation>특정 플레이어를 구성하기 위해 음악 재생</translation>
+        <translation>특정 플레이어를 설정하기 위해 음악 재생</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1689"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation>개별 설정이 여기에 표시됩니다</translation>
+        <translation>개별 설정이 여기에 표시될 것입니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1693"/>
