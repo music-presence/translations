@@ -163,37 +163,37 @@
         <location filename="../src/app/app.cpp" line="2189"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Як відображати медіа на паузі</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2193"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування для несервісних плеєрів</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2057"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати лого медіа-плеєру</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2052"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати значок програвання коли музика грає</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2229"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати значок паузи коли музика призупинена</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2047"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показувати призупинене медіа у вашому статусі</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2259"/>
