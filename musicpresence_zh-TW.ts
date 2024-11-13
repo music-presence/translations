@@ -217,13 +217,13 @@
         <location filename="../src/app/app.cpp" line="2306"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>將曲目名稱和演出者合併顯示為一行</translation>
+        <translation>將曲目名稱和演出者合併為一行</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2327"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>將演出者和專輯合併顯示為一行</translation>
+        <translation>將演出者和專輯合併為一行</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2349"/>
@@ -235,13 +235,13 @@
         <location filename="../src/app/app.cpp" line="2363"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation>在演出者名稱前加上「{prefix}」字串</translation>
+        <translation>在演出者名稱前加上「{prefix}」</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2379"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>在專輯名稱前加上「{prefix}」字串</translation>
+        <translation>在專輯名稱前加上「{prefix}」</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2395"/>
@@ -290,7 +290,7 @@
         <location filename="../src/app/app.cpp" line="1166"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation>{media_title}，演出者：{media_artist}</translation>
+        <translation>{media_title}，{media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2042"/>
@@ -314,7 +314,7 @@
         <location filename="../src/app/app.cpp" line="2613"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation>這個應用程式的運作方式？</translation>
+        <translation>本程式的運作方式？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2620"/>
@@ -454,7 +454,7 @@
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>關於本程式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2875"/>
@@ -535,13 +535,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>分割顯示演出者和專輯</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>捐款贊助開發作業</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3253"/>
@@ -571,7 +571,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3321"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation>重新啟動應用程式</translation>
+        <translation>重新啟動本程式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3329"/>
@@ -609,7 +609,7 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;已更新為 {version} 版。&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;如要執行最新版本，請重新啟動應用程式。&lt;/p&gt;</translation>
+&lt;p&gt;如要執行最新版本，請重新啟動本程式。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3410"/>
@@ -707,7 +707,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4238"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>系統只會在啟動新版本時顯示這則訊息。</translation>
+        <translation>系統只會在發布新版本時顯示這則訊息。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4249"/>
@@ -736,41 +736,41 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4393"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>{version} 版</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>授權條款</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">隱私權聲明</translation>
+        <translation>隱私權聲明</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>回報問題</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4408"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>喜歡 {app_name} 嗎？&lt;a {attributes}&gt;不妨捐款贊助開發作業&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4416"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>想透過其他方式提供協助嗎？&lt;a {attributes}&gt;隨時歡迎！&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>感謝每一位協助翻譯本程式的熱心人士：</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
