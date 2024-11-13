@@ -454,7 +454,7 @@
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tentang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2875"/>
@@ -513,7 +513,7 @@
         <location filename="../src/app/app.cpp" line="3243"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik untuk memasang versi {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3664"/>
@@ -535,13 +535,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pisah nama artis dan album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dukung pengembangan dengan donasi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3253"/>
@@ -736,41 +736,41 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="4393"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versi {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lisensi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">Pemberitahuan Privasi</translation>
+        <translation>Notifikasi Privasi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laporkan masalah</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4408"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamu menyukai {app_name}? &lt;a {attributes}&gt;Dukung pengembangan dengan donasi&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4416"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingin membantu dengan cara lain? &lt;a {attributes}Mari berpartisipasi!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terima kasih kepada semua orang yang sudah membantu menerjemahkan aplikasi ini:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
