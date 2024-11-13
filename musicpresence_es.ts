@@ -748,7 +748,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="4402"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">Aviso de privacidad</translation>
+        <translation>Aviso de privacidad</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4405"/>
