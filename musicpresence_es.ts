@@ -454,7 +454,7 @@
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sobre {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2875"/>
@@ -535,13 +535,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="1799"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dividir el nombre del artista y album</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apoya al desarrollo con una donación</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3253"/>
@@ -736,13 +736,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="4393"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versión {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4399"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licencia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4402"/>
@@ -754,23 +754,23 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="4405"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reportar un problema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4408"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Te gusta {app_name}? &lt;a {attributes}&gt;Apoya al desarrollo con una donación&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4416"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Quieres ayudar de otras maneras? &lt;a {attributes}&gt;Involúcrate!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gracias a todos aquellos quienes ayudaron a traducir esta app:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
