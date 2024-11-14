@@ -127,7 +127,7 @@
         <location filename="../src/app/app.cpp" line="1881"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>按住 Shift 鍵即可重設單一覆寫設定</translation>
+        <translation>按住 Shift 鍵並點選即可重設覆寫設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2066"/>
@@ -229,7 +229,7 @@
         <location filename="../src/app/app.cpp" line="2349"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>對調曲目名稱和演出者的順序</translation>
+        <translation>對調曲目名稱和演出者</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2363"/>
