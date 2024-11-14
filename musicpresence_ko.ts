@@ -127,7 +127,7 @@
         <location filename="../src/app/app.cpp" line="1881"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>Shift 키를 눌러 덮어쓴 설정을 초기화하세요</translation>
+        <translation>Shift 키를 계속 눌러 덮어쓴 설정을 초기화하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2066"/>
