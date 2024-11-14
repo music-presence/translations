@@ -520,7 +520,7 @@
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation>Te gusta {app_name}?
+        <translation>¿Te gusta {app_name}?
 Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja para mas información.</translation>
     </message>
     <message>
@@ -653,7 +653,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="3650"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>Siéntete libre de unirte a nuestro Discord! Conoce a otros usuarios, haz sugerencias y quédate al tanto. Haz click aquí o en el menu de Ayuda para unirte.</translation>
+        <translation>Únete a nuestro Discord! Conoce a otros usuarios, haz sugerencias y quédate al tanto. Haz click aquí o en el menu de Ayuda para unirte.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4074"/>
@@ -759,12 +759,12 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     <message>
         <location filename="../src/app/app.cpp" line="4408"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>Te gusta {app_name}? &lt;a {attributes}&gt;Apoya al desarrollo con una donación&lt;/a&gt;</translation>
+        <translation>¿Te gusta {app_name}? &lt;a {attributes}&gt;Apoya al desarrollo con una donación&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4416"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>Quieres ayudar de otras maneras? &lt;a {attributes}&gt;Involúcrate!&lt;/a&gt;</translation>
+        <translation>¿Te gustaría ayudar de otras maneras? &lt;a {attributes}&gt;¡Involúcrate!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
