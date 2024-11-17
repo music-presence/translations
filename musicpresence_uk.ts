@@ -441,7 +441,7 @@
         <location filename="../src/app/app.cpp" line="2852"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished">Що буде далі?</translation>
+        <translation>Що буде далі?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2859"/>
