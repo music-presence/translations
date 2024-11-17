@@ -115,19 +115,19 @@
         <location filename="../src/app/app.cpp" line="1855"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished">Визначити глобальні налаштування для цього плеєру</translation>
+        <translation>Перевизначити глобальні налаштування для цього плеєру</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1871"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished">Скинути усі визначені налаштування</translation>
+        <translation>Скинути усі перевизначені налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1881"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished">Утримуйте SHIFT, щоб скинути визначені налаштування</translation>
+        <translation>Утримуйте SHIFT, щоб скинути перевизначені налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2066"/>
@@ -169,7 +169,7 @@
         <location filename="../src/app/app.cpp" line="2196"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished">Налаштування для несервісних плеєрів</translation>
+        <translation>Налаштування для несервісних плеєрів</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2060"/>
@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="2262"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Закморозити прогрес-бар для зупинених медіа</translation>
+        <translation>Закморозити прогрес-бар для зупинених медіа</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2282"/>
@@ -785,7 +785,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished">Почніть слухати музику, щоб налаштувати окремий плеєр</translation>
+        <translation>Почніть слухати музику, щоб налаштувати певний плеєр</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1689"/>
