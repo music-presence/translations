@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="1457"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation>Пожертвование</translation>
+        <translation type="unfinished">Пожертвование</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1459"/>
@@ -326,7 +326,7 @@
         <location filename="../src/app/app.cpp" line="2624"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation>Использовать TIDAL API, когда играет Tidal</translation>
+        <translation>Использовать TIDAL API, когда играет TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2636"/>
@@ -735,7 +735,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4292"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Принято!</translation>
+        <translation type="unfinished">Принято!</translation>
     </message>
     <message>
         <source>About</source>
