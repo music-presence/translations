@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="1219"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished">Активность включена</translation>
+        <translation>Статус включена</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1224"/>
@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="1457"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished">Пожертвование</translation>
+        <translation>Пожертвовать</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1459"/>
@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="1527"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Настроить активность для приложения</translation>
+        <translation>Настроить статус для приложения</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1618"/>
@@ -735,7 +735,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4292"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished">Принято!</translation>
+        <translation>Понятно!</translation>
     </message>
     <message>
         <source>About</source>
