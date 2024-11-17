@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1234"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>Стус активний</translation>
+        <translation>Статус активний</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1457"/>
@@ -115,19 +115,19 @@
         <location filename="../src/app/app.cpp" line="1855"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation>Визначити глобальні налаштування для цього плеєру</translation>
+        <translation type="unfinished">Визначити глобальні налаштування для цього плеєру</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1871"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation>Скинути усі визначені налаштування</translation>
+        <translation type="unfinished">Скинути усі визначені налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1881"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>Утримуйте SHIFT, щоб скинути визначені налаштування</translation>
+        <translation type="unfinished">Утримуйте SHIFT, щоб скинути визначені налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2066"/>
@@ -169,7 +169,7 @@
         <location filename="../src/app/app.cpp" line="2196"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation>Налаштування для несервісних плеєрів</translation>
+        <translation type="unfinished">Налаштування для несервісних плеєрів</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2060"/>
@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="2262"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>Закморозити прогрес-бар для зупинених медіа</translation>
+        <translation type="unfinished">Закморозити прогрес-бар для зупинених медіа</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2282"/>
@@ -326,7 +326,7 @@
         <location filename="../src/app/app.cpp" line="2624"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation>Використовувати TIDAL API, під час прослуховування Tidal</translation>
+        <translation>Використовувати TIDAL API, під час прослуховування TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2636"/>
@@ -441,7 +441,7 @@
         <location filename="../src/app/app.cpp" line="2852"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>Що буде далі?</translation>
+        <translation type="unfinished">Що буде далі?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2859"/>
@@ -785,7 +785,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="1684"/>
         <source>Play music to configure a specific player</source>
-        <translation>Почніть слухати музику, щоб налаштувати окремий плеєр</translation>
+        <translation type="unfinished">Почніть слухати музику, щоб налаштувати окремий плеєр</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1689"/>
