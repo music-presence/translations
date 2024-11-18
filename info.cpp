@@ -8,21 +8,22 @@ std::vector<std::string> const& translations::languages()
 {
     // List of all translations that are ready to be used in production.
     // These must have all or almost all strings translated.
+    // There must be a "CMAKE" comment before each language for extraction.
     static std::vector<std::string> codes = {
-        "en",
-        "de",
-        "af",
-        "zh-TW",
-        "hr",
-        "nl",
-        "id",
-        "it",
-        "pl",
-        "es",
-        "fr",
-        "ko",
-        "ru",
-        "uk",
+        /* CMAKE */ "en",
+        /* CMAKE */ "de",
+        /* CMAKE */ "af",
+        /* CMAKE */ "zh-TW",
+        /* CMAKE */ "hr",
+        /* CMAKE */ "nl",
+        /* CMAKE */ "id",
+        /* CMAKE */ "it",
+        /* CMAKE */ "pl",
+        /* CMAKE */ "es",
+        /* CMAKE */ "fr",
+        /* CMAKE */ "ko",
+        /* CMAKE */ "ru",
+        /* CMAKE */ "uk",
     };
     return codes;
 }
