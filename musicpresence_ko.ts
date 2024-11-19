@@ -256,9 +256,10 @@
         <translation>재생 정보 표시</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="2528"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="vanished">언어 / {language}</translation>
+        <translation>언어 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2540"/>

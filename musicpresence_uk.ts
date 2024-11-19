@@ -256,9 +256,10 @@
         <translation>Показувати інформацію про тривалість доріжки</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="2528"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="vanished">Мова / {language}</translation>
+        <translation>Мова / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2540"/>
