@@ -26,6 +26,8 @@ Update this table by running this and copying the output:
 $ g++ -o a.out print.cpp info.cpp -I include && ./a.out
 ```
 
+---
+
 ## License
 
 MIT License  
