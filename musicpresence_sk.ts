@@ -7,79 +7,79 @@
         <location filename="../src/app/app.cpp" line="1139"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>vypnuté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1146"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>zapnuté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1151"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>práve aktívne</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1187"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} od {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1233"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence je vypnuté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1236"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite pre zapnutie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1240"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence je zapnuté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1245"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čakám na Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1251"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čakám na prehrávanie médií</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1255"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence je aktívne</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1478"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prispieť</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1483"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podporte moju prácu malým príspevkom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1490"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odísť</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1551"/>
@@ -91,7 +91,7 @@
         <location filename="../src/app/app.cpp" line="1642"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prehrávač</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1708"/>
@@ -186,7 +186,7 @@
         <location filename="../src/app/app.cpp" line="2093"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vzhľad</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2148"/>
@@ -210,7 +210,7 @@
         <location filename="../src/app/app.cpp" line="2203"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť &quot;{branding_text}&quot; v presence</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2219"/>
@@ -313,13 +313,13 @@
         <location filename="../src/app/app.cpp" line="2584"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomôž nám s prekladom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2599"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2606"/>
@@ -538,25 +538,25 @@
         <location filename="../src/app/app.cpp" line="4228"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inštaluje sa...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3194"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatické aktualizácie sú vypnuté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3273"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite pre nainštalovanie verzie {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3283"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Navštívte stránku na stiahnutie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3294"/>
@@ -623,38 +623,39 @@
         <location filename="../src/app/app.cpp" line="3440"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba: Inštalácia zlyhala</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3465"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nahlásiť tento problém</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3475"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inštalácia aktualizácie zlyhala</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3479"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3487"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Nastala chyba pri inštalácii aktualizácie:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3492"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť ručne</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3680"/>
@@ -697,19 +698,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4243"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4254"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bola nainštalovaná nová verzia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4259"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čo je nové?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4266"/>
@@ -744,7 +745,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Okey!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
