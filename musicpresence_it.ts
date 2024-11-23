@@ -706,13 +706,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation>Ricevuto</translation>
+        <translation>Ho capito</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4268"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Questo è mostrato solo quando una nuova versione è avviata.</translation>
+        <translation>Questa finestra è mostrata solo quando una nuova versione è avviata.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4279"/>
