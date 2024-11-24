@@ -103,7 +103,7 @@
         <location filename="../src/app/app.cpp" line="1766"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>広告を除外する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1772"/>
@@ -461,7 +461,7 @@
         <location filename="../src/app/app.cpp" line="3433"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>クリックしてバージョン{version}をダウンロード</translation>
+        <translation>クリックしてバージョン {version}をダウンロード</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3113"/>
@@ -507,7 +507,7 @@
         <location filename="../src/app/app.cpp" line="3273"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>クリックしてバージョン{version}をインストールする</translation>
+        <translation>クリックしてバージョン {version}をインストールする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3694"/>
@@ -515,7 +515,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>{app_name}を気に入りましたか？
-寄付をすることで開発を助けることができます。ここをクリックするか、トレイメニューから詳しい情報を確認できます。</translation>
+寄付をすることで開発をサポートすることができます。ここをクリックするか、トレイメニューから詳しい情報を確認できます。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2990"/>
@@ -535,19 +535,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2528"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>日本語 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2870"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>寄付で開発をサポートする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3283"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードページを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3294"/>
@@ -559,19 +559,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3321"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>すでに最新版です</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3348"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>バージョン {version}にアップデート済み</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3351"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリを再起動します</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3359"/>
@@ -583,7 +583,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3365"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>新しいバージョンがインストールされました</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3369"/>
@@ -608,25 +608,26 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;バージョン {version}にアップデートしました。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;最新版を使用するためにアプリを再起動してください。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3440"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラー: インストール失敗</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3465"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>この問題を報告する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3475"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデートのインストールに失敗しました</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3479"/>
@@ -639,7 +640,8 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;アップデートのインストール中にエラーが発生しました:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3492"/>
@@ -651,7 +653,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3680"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>私たちのDiscordサーバーに参加しましょう！他のユーザーと交流したり、開発者に提案をしたり、最新情報を受け取りましょう。ここをクリックするか、ヘルプメニューから参加できます。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4104"/>
@@ -663,7 +665,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4220"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデート利用可能</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4221"/>
@@ -675,7 +677,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4237"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>もう一度試す</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4243"/>
@@ -693,7 +695,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4259"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>新機能</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4266"/>
@@ -705,7 +707,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4268"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>これは新バージョンが初めて起動したときのみ表示されます。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4279"/>
@@ -734,7 +736,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4424"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>バージョン {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4430"/>
@@ -779,7 +781,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1716"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>各プレーヤーごとの設定はここに表示されます</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1720"/>
