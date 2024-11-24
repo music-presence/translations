@@ -7,97 +7,97 @@
         <location filename="../src/app/app.cpp" line="1139"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>無効</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1146"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>有効</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1151"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>現在アクティブ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1233"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティ表示 無効</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1236"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>クリックして有効化</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1240"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティ表示 有効</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1245"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discordを待っています</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1251"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>メディアの再生を待っています</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1255"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティに表示中</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1478"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>寄付</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1483"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>少額の寄付で活動を支援できます</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1490"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>終了</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1551"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリ毎にアクティビティの表示を切り替える</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1642"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレイヤー</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1747"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>{player_name}用の設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1763"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>ポッドキャストを再生中、ステータスを&quot;{podcast_activity_name}&quot;として常に表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1766"/>
@@ -109,194 +109,194 @@
         <location filename="../src/app/app.cpp" line="1772"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>ステータスにポッドキャストのみを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1882"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>このプレイヤー用に設定を上書きする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1898"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>上書きした設定をリセットする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1908"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shiftキーを押しながらクリックして上書きした個別の設定をリセットする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2093"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>表示設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2148"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>一部の設定は{player_name}用のもので上書きされています</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2164"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティがどのように表示されるかを設定します</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2170"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>ステータスを&quot;{playing_activity_label}&quot;として表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2203"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ステータスに&quot;{branding_text}&quot;を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2219"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>一時停止中のメディアの表示に関する設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2223"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>非ストリーミングプレーヤーに関する設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2087"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ステータスにプレイヤーのロゴを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2082"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>音楽の再生中に再生中アイコンをアクティビティに表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2259"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>音楽の一時停止中に一時停止中アイコンをアクティビティに表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2077"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>一時停止中でもメディアをステータスに表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2289"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>一時停止中にプログレスバーを止める</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2309"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>一時停止している時間を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2329"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲の情報の表示に関する設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2333"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲名とアーティスト名を1行で表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2354"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>アーティスト名とアルバム名を1行で表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2378"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲名とアーティスト名の順序を入れ替える</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2392"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>アーティスト名の先頭に&quot;{prefix}&quot;をつける</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2408"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>アルバム名の先頭に&quot;{prefix}&quot;をつける</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2424"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>アルバム名を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2438"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲の情報を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2540"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>システム設定を使用する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2584"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>翻訳を手伝う</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2599"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2492"/>
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤーのジャケットイラストを使う</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1187"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} by {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2069"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤーの名前の代わりに&quot;{music_activity_name}&quot;を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2606"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>ジャケットイラスト</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2628"/>
@@ -308,179 +308,179 @@
         <location filename="../src/app/app.cpp" line="2643"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>これはどのように動作しますか？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2650"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>外部サービス</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2654"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIDALで聴いているとき、TIDAL APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2666"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deezerで聴いているとき、Deezer APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2678"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>MusicBrainz APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2691"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデート</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2696"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動アップデートはどのように動作しますか？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2703"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動的にアップデートをインストールする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2719"/>
         <location filename="../src/app/app.cpp" line="3055"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデートを確認する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2730"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデートを確認中…</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2737"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>新しいバージョンが使用可能になったら通知する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2750"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>新しいバージョンを起動するとき新機能を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2763"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新履歴を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2772"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished"></translation>
+        <translation>その他</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2776"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ログイン時に{app_name}を起動する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2839"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>ヘルプ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2843"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>メディアプレイヤーが認識されません</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2850"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>認識されたメディアプレイヤーを投稿する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2857"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>問題をGitHubで報告する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2863"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discordに参加する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2876"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>GitHubでスターを付ける</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2882"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>次の新機能は？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2889"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>プライバシーポリシー</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2896"/>
         <location filename="../src/app/app.cpp" line="4354"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>このアプリについて</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2905"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>現在のバージョン: {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2995"/>
         <location filename="../src/app/app.cpp" line="3433"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>クリックしてバージョン{version}をダウンロード</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3113"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードを中止中…</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3121"/>
         <location filename="../src/app/app.cpp" line="4227"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>インストール</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3139"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動アップデートが有効</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3141"/>
@@ -488,33 +488,34 @@
         <location filename="../src/app/app.cpp" line="3376"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動アップデートを有効にする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3161"/>
         <location filename="../src/app/app.cpp" line="4228"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>インストール中…</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3194"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動アップデートが無効</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3273"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>クリックしてバージョン{version}をインストールする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3694"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name}を気に入りましたか？
+寄付をすることで開発を助けることができます。ここをクリックするか、トレイメニューから詳しい情報を確認できます。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2990"/>
@@ -522,13 +523,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3296"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>新しいバージョンが使用可能</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1826"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>アーティスト名とアルバム名を分けて表示する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2528"/>
@@ -552,7 +553,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3294"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデートをインストール中…</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3321"/>
@@ -588,19 +589,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3369"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>インストール完了</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3372"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>アップデート完了</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3373"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>再起動</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3399"/>
@@ -631,7 +632,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3479"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3487"/>
@@ -644,7 +645,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3492"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>手動でダウンロード</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3680"/>
@@ -656,7 +657,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4104"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>もう表示しない</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4220"/>
@@ -680,7 +681,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4243"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4254"/>
@@ -710,7 +711,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4279"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新履歴</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4293"/>
@@ -739,19 +740,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4430"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>ライセンス</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4433"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished"></translation>
+        <translation>プライバシー告知</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4436"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>問題を報告する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4439"/>
@@ -784,7 +785,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1720"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>メディアプレイヤーが認識されませんか？</translation>
     </message>
 </context>
 </TS>
