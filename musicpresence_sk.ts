@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="1236"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>Kliknite pre zapnutie</translation>
+        <translation>Klikni pre zapnutie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1240"/>
@@ -85,7 +85,7 @@
         <location filename="../src/app/app.cpp" line="1551"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Povoliť presence pre jednotlivé aplikácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1642"/>
@@ -96,49 +96,49 @@
     <message>
         <location filename="../src/app/app.cpp" line="1708"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>Spusti hudbu na konfiguráciu konkrétneho prehrávača</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1716"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tu sa potom zobrazia individuálne nastavenia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1720"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa detegovať tvoj prehrávač médií?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1747"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenia pre {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1763"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vždy zobraziť &quot;{podcast_activity_name}&quot; keď počúvam podcasty</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1766"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skúsiť odfiltrovať reklamy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1772"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť iba podcasty v tvojom statuse</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1826"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozdeliť meno interpreta a názov albumu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1882"/>
@@ -162,25 +162,25 @@
         <location filename="../src/app/app.cpp" line="2069"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť &quot;{music_activity_name}&quot; namiesto názvu prehrávača</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2077"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť pozastavené médiá v tvojom statuse</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2082"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť ikonu prehrávania, keď sa hudba prehráva</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2087"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť logo prehrávača médií</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2093"/>
@@ -198,13 +198,13 @@
         <location filename="../src/app/app.cpp" line="2164"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nakonfiguruj si ako presence vyzerá</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2170"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť tvoj status ako aktivitu &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2203"/>
@@ -216,19 +216,19 @@
         <location filename="../src/app/app.cpp" line="2219"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ako zobraziť pozastavené médiá</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2223"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenia pre prehrávače médií, ktoré nie sú službou</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2259"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť ikonu pozastavenia keď je hudba pozastavená</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2289"/>
@@ -240,31 +240,31 @@
         <location filename="../src/app/app.cpp" line="2309"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť, ako dlho je médium pozastavené</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2329"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ako zobraziť informácie o skladbe</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2333"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť názov skladby a interpreta v jednom riadku</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2354"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť interpreta a názov albumu v jednom riadku</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2378"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vymeniť poradie názvu skladby a interpreta</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2392"/>
@@ -282,32 +282,32 @@
         <location filename="../src/app/app.cpp" line="2424"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť názov albumu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2438"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť informácie o prehrávaní</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2492"/>
         <location filename="../src/app/app.cpp" line="2610"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť obrázky obalov z prehrávačov médií</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2528"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jazyk / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2540"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť jazyk systému</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2584"/>
@@ -325,140 +325,140 @@
         <location filename="../src/app/app.cpp" line="2606"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obrázky obalov</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2628"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nespamuj to. Skús to znova o {amount} sekúnd</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2643"/>
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ako to funguje?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2650"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Externé služby</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2654"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť TIDAL API, keď počúvam TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2666"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť Deezer API, keď počúvam Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2678"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>V opačnom prípade použiť MusicBrainz API</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2691"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2696"/>
         <source>How do automatic updates work?</source>
         <comment>general settings: opens the help page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ako fungujú automatické aktualizácie?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2703"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky inštalovať aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2719"/>
         <location filename="../src/app/app.cpp" line="3055"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2730"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolujem aktualizácie...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2737"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oznámiť, keď je dostupná nová verzia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2750"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť novinky pri spustení novej verzie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2763"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť zoznam zmien</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2772"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Iné</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2776"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spustiť {app_name} pri prihlásení</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2839"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2843"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Môj prehrávač médií nie je detegovaný</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2850"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odoslať detegované prehrávače médií</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2857"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nahlásiť problém na GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2863"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pridaj sa na náš Discord server</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2870"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podpor vývoj aplikácie príspevkom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2876"/>
@@ -470,26 +470,26 @@
         <location filename="../src/app/app.cpp" line="2882"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čo bude ďalej?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2889"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ochrana osobných údajov</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2896"/>
         <location filename="../src/app/app.cpp" line="4354"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>O {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2905"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Používaš verziu {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2990"/>
@@ -497,33 +497,33 @@
         <location filename="../src/app/app.cpp" line="3296"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Je dostupná nová verzia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2995"/>
         <location filename="../src/app/app.cpp" line="3433"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klikni pre stiahnutie verzie {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3113"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ruším sťahovanie...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3121"/>
         <location filename="../src/app/app.cpp" line="4227"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inštalovať</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3139"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatické aktualizácie sú zapnuté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3141"/>
@@ -531,7 +531,7 @@
         <location filename="../src/app/app.cpp" line="3376"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapnúť automatické aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3161"/>
@@ -550,7 +550,7 @@
         <location filename="../src/app/app.cpp" line="3273"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>Kliknite pre nainštalovanie verzie {version}</translation>
+        <translation>Klikni pre nainštalovanie verzie {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3283"/>
@@ -562,62 +562,63 @@
         <location filename="../src/app/app.cpp" line="3294"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inštalujem aktualizáciu...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3321"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie sú dostupné žiadne aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3348"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizované na verziu {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3351"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reštartuj aplikáciu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3359"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niečo sa pokazilo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3365"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bola nainštalovaná nová verzia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3369"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nainštalované</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3372"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácia bola nainštalovaná</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3373"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reštartovať</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3399"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Aktualizované na verziu {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reštartuj aplikáciu pre prejdenie na novšiu verziu.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3440"/>
@@ -661,32 +662,33 @@
         <location filename="../src/app/app.cpp" line="3680"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neváhaj a pridaj sa na náš Discord server! Spoznaj ostatných používateľov, pridaj návrhy a zostaň informovaný. Klikni sem alebo choď do menu Pomoc a pripoj sa.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3694"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Páči sa ti {app_name}?
+Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v ponuke v oblasti oznámení pre viac info.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4104"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Už viac nezobrazovať</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4220"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Je dostupná aktualizácia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4221"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Je dostupná nová verzia {app_name}.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Prečítaj si nižšie daný zoznam zmien a zisti, čo je nové.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4237"/>
