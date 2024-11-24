@@ -144,19 +144,19 @@
         <location filename="../src/app/app.cpp" line="1882"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nadradené nastavenia pre tento prehrávač</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1898"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Resetovať všetky nadradené nastavenia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1908"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podrž SHIFT pre resetovanie nadradených nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2069"/>
@@ -192,7 +192,7 @@
         <location filename="../src/app/app.cpp" line="2148"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niektoré nastavenia sú nadradené pre {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2164"/>
@@ -234,7 +234,7 @@
         <location filename="../src/app/app.cpp" line="2289"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozastaviť ukazovateľa priebehu pre pozastavené médiá</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2309"/>
@@ -270,13 +270,13 @@
         <location filename="../src/app/app.cpp" line="2392"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pred názov umelca pridať &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2408"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pred názov albumu pridať &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2424"/>
@@ -464,7 +464,7 @@
         <location filename="../src/app/app.cpp" line="2876"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pridať projekt medzi obľúbené na GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2882"/>
@@ -694,7 +694,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/app.cpp" line="4237"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skús to znova</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4243"/>
@@ -718,76 +718,76 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdiť</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4268"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toto je zobrazené iba v prípade, že bola spustená nová verzia.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4279"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zoznam zmien</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4293"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prvé spustenie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4298"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Klikni na ikonu v ponuke v oblasti oznámení pre otvorenie ovládacích prvkov.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}beží na pozadí a je vždy prístupná týmto spôsobom. Môžeš ovládať, ktoré prehrávače médií sú zdieľané v tvojom statuse a ako tvoj status vyzerá.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Okey!</translation>
+        <translation>Super!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verzia {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4430"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licencia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4433"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ochrana osobných údajov</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4436"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nahlásiť problém</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4439"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Páči sa ti {app_name}? &lt;a {attributes}&gt;Podpor vývoj aplikácie príspevkom&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4447"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chceš pomôcť inak? &lt;a {attributes}&gt;Zapoj sa!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4455"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ďakujem všetkým, ktorí pomohli preložiť túto aplikáciu:</translation>
     </message>
 </context>
 </TS>
