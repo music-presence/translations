@@ -302,7 +302,7 @@
         <location filename="../src/app/app.cpp" line="2628"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>連打しないでください。{amount} 秒後にもう一度お試しください</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2643"/>
@@ -369,7 +369,7 @@
         <location filename="../src/app/app.cpp" line="2737"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation>新しいバージョンが使用可能になったら通知する</translation>
+        <translation>新しいバージョンが利用可能になったら通知する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2750"/>
@@ -523,7 +523,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3296"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation>新しいバージョンが使用可能</translation>
+        <translation>新しいバージョンが利用可能</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1826"/>
@@ -577,7 +577,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3359"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>問題が発生しました</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3365"/>
@@ -671,7 +671,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4221"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;新しいバージョン {app_name}が利用可能になりました。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;更新履歴から新機能を確認できます。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4237"/>
@@ -689,7 +689,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4254"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>新しいバージョンがインストールされました</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4259"/>
@@ -701,7 +701,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>了解</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4268"/>
@@ -719,18 +719,18 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4293"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>初めての起動</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4298"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;タスクトレイのアイコンをクリックしてメニューを開きます。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}はバックグラウンドで実行され、いつでもこの方法でアクセスできます。メニューからどのプレーヤーをアクティビティに表示するか、またどのように表示するかを制御できます。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4323"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>了解！</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4424"/>
@@ -759,23 +759,23 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="4439"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>{app_name}を気に入りましたか？ &lt;a {attributes}&gt;寄付で開発をサポートする&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4447"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>他の方法で助けたい？ &lt;a {attributes}&gt;参加しましょう！&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4455"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリの翻訳に協力してくれた皆様に感謝します:</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1708"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>音楽を再生して特定のプレーヤーの設定をする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1716"/>
