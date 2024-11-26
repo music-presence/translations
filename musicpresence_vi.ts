@@ -210,7 +210,7 @@
         <location filename="../src/app/app.cpp" line="2214"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>Biểu thị &quot;{branding_text}&quot; trong trạng thái</translation>
+        <translation>Hiện nút &quot;{branding_text}&quot; trong trạng thái</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2230"/>
