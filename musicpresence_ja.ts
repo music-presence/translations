@@ -145,7 +145,7 @@
         <location filename="../src/app/app.cpp" line="2175"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>アクティビティがどのように表示されるかを設定します</translation>
+        <translation>アクティビティの表示に関する設定</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2181"/>
@@ -775,7 +775,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="1716"/>
         <source>Play music to configure a specific player</source>
-        <translation>音楽を再生して特定のプレーヤーの設定をする</translation>
+        <translation>音楽を再生して特定のプレーヤー用の設定をする</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1724"/>
