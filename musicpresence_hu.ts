@@ -25,13 +25,13 @@
         <location filename="../src/app/app.cpp" line="1195"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} - {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1241"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tevékenység kikapcsolva</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1244"/>
@@ -43,7 +43,7 @@
         <location filename="../src/app/app.cpp" line="1248"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tevékenység bekapcsolva</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1253"/>
@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="1263"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tevékenység aktív</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1486"/>
@@ -85,7 +85,7 @@
         <location filename="../src/app/app.cpp" line="1559"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tevékenység beállítása alkalmazásonként</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1650"/>
@@ -120,7 +120,7 @@
         <location filename="../src/app/app.cpp" line="1771"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podcast mutatása így: &quot;{podcast_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1774"/>
@@ -198,7 +198,7 @@
         <location filename="../src/app/app.cpp" line="2175"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tevékenység megjelenítésének beállítása</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2181"/>
@@ -210,7 +210,7 @@
         <location filename="../src/app/app.cpp" line="2214"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{branding_text}&quot; mutatása a tevékenységnél</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2230"/>
@@ -410,7 +410,7 @@
         <location filename="../src/app/app.cpp" line="2774"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation>Changelog megtekintése</translation>
+        <translation>Változások listájának megtekintése</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2783"/>
@@ -440,7 +440,7 @@
         <location filename="../src/app/app.cpp" line="2861"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Felismert médialejátszó beküldése</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2868"/>
@@ -688,7 +688,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/app.cpp" line="4371"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Új {app_name} verzió érhető el.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Olvasd el a changelog-ot alább, hogy megtudd mik az újdonságok.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Új {app_name} verzió érhető el.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Olvasd el a Változások listáját alább, hogy megtudd mik az újdonságok.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4387"/>
@@ -730,7 +730,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/app.cpp" line="4430"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation>Changelog</translation>
+        <translation>Változások listája</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4444"/>
