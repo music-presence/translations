@@ -7,6 +7,7 @@ Translations for the [Music Presence](https://musicpresence.app) app.
 | Username | Languages |
 |:-|:-|
 | [@ayovu](https://github.com/ayovu) | [ru](https://translate.codeberg.org/projects/music-presence/desktop-application/ru), [uk](https://translate.codeberg.org/projects/music-presence/desktop-application/uk) |
+| [@cobra525](https://github.com/cobra525) | [hu](https://translate.codeberg.org/projects/music-presence/desktop-application/hu) |
 | [@coderheck](https://github.com/coderheck) | [vi](https://translate.codeberg.org/projects/music-presence/desktop-application/vi) |
 | [@FamilyMink5](https://github.com/FamilyMink5) | [ko](https://translate.codeberg.org/projects/music-presence/desktop-application/ko) |
 | [@heartached](https://github.com/heartached) | [es](https://translate.codeberg.org/projects/music-presence/desktop-application/es) |
