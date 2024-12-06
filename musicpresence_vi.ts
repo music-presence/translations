@@ -144,7 +144,7 @@
         <location filename="../src/app/app.cpp" line="1931"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị tên trình phát bằng &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1975"/>
