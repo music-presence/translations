@@ -305,6 +305,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="2767"/>
+        <source>Placeholder for missing cover images</source>
+        <comment>setting for placeholder images when there is no cover image</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="2828"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
@@ -534,12 +540,6 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1937"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="2767"/>
-        <source>Placeholder image</source>
-        <comment>setting for placeholder images when there is no cover image</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

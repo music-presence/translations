@@ -274,6 +274,12 @@
         <translation>Ayudar con la traducción</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="2767"/>
+        <source>Placeholder for missing cover images</source>
+        <comment>setting for placeholder images when there is no cover image</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="2821"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
@@ -541,12 +547,6 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation>Dividir el nombre del artista y album</translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="2767"/>
-        <source>Placeholder image</source>
-        <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2778"/>

@@ -322,12 +322,6 @@
         <translation>Giúp với việc dịch thuật</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2767"/>
-        <source>Placeholder image</source>
-        <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/app/app.cpp" line="2778"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
@@ -379,6 +373,12 @@
         <source>How does this work?</source>
         <comment>general settings: opens the help page</comment>
         <translation type="vanished">Thứ này hoạt động như nào?</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="2767"/>
+        <source>Placeholder for missing cover images</source>
+        <comment>setting for placeholder images when there is no cover image</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2872"/>

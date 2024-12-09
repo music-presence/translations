@@ -280,12 +280,6 @@
         <translation>Помочь с переводом</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2767"/>
-        <source>Placeholder image</source>
-        <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/app/app.cpp" line="2778"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
@@ -339,6 +333,12 @@
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
         <translation>Отображать &quot;{music_activity_name}&quot; вместо названия плеера</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="2767"/>
+        <source>Placeholder for missing cover images</source>
+        <comment>setting for placeholder images when there is no cover image</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2828"/>

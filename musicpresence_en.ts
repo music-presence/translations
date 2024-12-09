@@ -323,7 +323,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2767"/>
-        <source>Placeholder image</source>
+        <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation type="unfinished"></translation>
     </message>
