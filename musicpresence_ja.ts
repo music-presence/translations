@@ -343,7 +343,7 @@
         <location filename="../src/app/app.cpp" line="2900"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation>MusicBrainz APIを使用する</translation>
+        <translation>それ以外の場合、MusicBrainz APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2913"/>
@@ -552,7 +552,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2778"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤーのロゴ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2780"/>
@@ -564,19 +564,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2782"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>再生状態</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2785"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2788"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name}のロゴ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3093"/>
