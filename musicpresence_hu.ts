@@ -144,7 +144,7 @@
         <location filename="../src/app/app.cpp" line="2004"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Megjelenítés mint &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2048"/>
@@ -325,31 +325,31 @@
         <location filename="../src/app/app.cpp" line="2778"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Médialejátszó logója</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2780"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hangjegy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2782"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lejátszás állapota</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2785"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2788"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} logó</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2821"/>
@@ -378,7 +378,7 @@
         <location filename="../src/app/app.cpp" line="2767"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>Helyettesítő kép beállítása hiányzó borítóképekhez</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2872"/>
@@ -402,7 +402,7 @@
         <location filename="../src/app/app.cpp" line="2900"/>
         <source>Use the MusicBrainz API otherwise</source>
         <comment>general setting</comment>
-        <translation>Inkább a MusicBrainz API használata</translation>
+        <translation>Minden más esetben a MusicBrainz API használata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2913"/>
