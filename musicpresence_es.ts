@@ -277,7 +277,7 @@
         <location filename="../src/app/app.cpp" line="2767"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Placeholder para cubiertas inexistentes</translation>
+        <translation>Placeholders para cubiertas inexistentes</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2821"/>
@@ -576,7 +576,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="2788"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation>logo de {app_name}</translation>
+        <translation>Logo de {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3093"/>
