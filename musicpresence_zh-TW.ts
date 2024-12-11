@@ -277,7 +277,7 @@
         <location filename="../src/app/app.cpp" line="2767"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>沒有專輯封面時的替代圖片</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2821"/>
@@ -552,31 +552,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2778"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>媒體播放程式標誌</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2780"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>音符圖示</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2782"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>播放狀態</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2785"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>CD 圖示</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2788"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} 標誌</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3093"/>
