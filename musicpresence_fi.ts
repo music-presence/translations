@@ -355,7 +355,7 @@
         <location filename="../src/app/app.cpp" line="2789"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation>{app_name} logo</translation>
+        <translation>{app_name} -logo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2822"/>
@@ -540,7 +540,7 @@
         <location filename="../src/app/app.cpp" line="3657"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>Paina ladataksesi version {version}</translation>
+        <translation>Klikkaa ladataksesi version {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3337"/>
@@ -823,7 +823,7 @@ Voit tukea kehitystä lahjoituksella. Paina tästä tai tehtäväpalkin kuvakkee
         <location filename="../src/app/app.cpp" line="4819"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation>Kiitos sovelluksen kääntämisessä avustaneille:</translation>
+        <translation>Kiitos sovelluksen kääntämisessä auttaneille:</translation>
     </message>
 </context>
 </TS>
