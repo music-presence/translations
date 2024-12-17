@@ -271,7 +271,7 @@
         <location filename="../src/app/app.cpp" line="2768"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>ジャケットイラストがない場合の代替画像</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2822"/>
@@ -558,7 +558,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2781"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>音符</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2783"/>
