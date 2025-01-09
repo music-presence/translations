@@ -765,7 +765,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     <message>
         <location filename="../src/app/app.cpp" line="4662"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Haga clic en el icono del menú de la bandeja para abrir los controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} se ejecuta en segundo plano y siempre se puede acceder a él de esta manera. Puede controlar qué reproductores multimedia se comparten en su estado y cómo se ve su estado.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Haga clic en el icono del menú de la bandeja para abrir los controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} se ejecuta en segundo plano y siempre se puede acceder a él de esta manera. Puede controlar qué reproductores multimedia se comparten en su estado y cómo se vera.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4687"/>
