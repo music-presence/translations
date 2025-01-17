@@ -277,7 +277,7 @@
         <location filename="../src/app/app.cpp" line="2768"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plekhouer vir ontbrekende omslagbeelde</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2822"/>
@@ -552,31 +552,31 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/app.cpp" line="2779"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Media-speler logo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2781"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>Musieknoot</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2783"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terugspeeltoestand</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2786"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2789"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} logo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3094"/>
