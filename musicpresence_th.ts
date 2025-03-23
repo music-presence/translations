@@ -7,150 +7,150 @@
         <location filename="../src/app/app.cpp" line="1401"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1408"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1413"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังใช้งาน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1449"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} โดย {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1495"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence ปิดอยู่</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1498"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>คลิกเพื่อเปิดใช้งาน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1502"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence เปิดอยู่</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1507"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรอ Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1513"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรอเครื่องเล่นเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1517"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence กำลังทำงาน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1740"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>บริจาค</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1745"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>สนับสนุนงานของฉันด้วยการบริจาคเล็ก ๆ น้อย ๆ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1752"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>ออก</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1815"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิด presence ในแต่ละแอปพลิเคชัน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1909"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องเล่นเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1975"/>
         <source>Play music to configure a specific player</source>
-        <translation type="unfinished"></translation>
+        <translation>กรุณาเล่นเพลงเพื่อตั้งค่าเครื่องเล่นเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1983"/>
         <source>Individual settings will then appear here</source>
         <comment>text under &quot;Play music to configure a specific player&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าส่วนบุคคลจะปรากฏที่นี่</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1987"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>หาเครื่องเล่นเพลงของคุณไม่พบ?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2014"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าสำหรับ {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2030"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดง &quot;{podcast_activity_name}&quot; เสมอเมื่อฟังพอดแคสต์</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2033"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>พยายามกรองโฆษณาออกไป</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเฉพาะพอดแคสต์ในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2090"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>แยกชื่อศิลปินและชื่ออัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงเป็น &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2197"/>
         <source>Override global settings for this player</source>
         <comment>player settings category title</comment>
-        <translation type="unfinished"></translation>
+        <translation>แทนที่การตั้งค่าหลักสำหรับเครื่องเล่นเพลงนี้</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2213"/>
