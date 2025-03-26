@@ -6,7 +6,7 @@ Translations for the [Music Presence](https://musicpresence.app) app.
 
 | Username | Languages |
 |:-|:-|
-| [@ayovu](https://github.com/ayovu) | [ru](https://translate.codeberg.org/projects/music-presence/desktop-application/ru), [uk](https://translate.codeberg.org/projects/music-presence/desktop-application/uk) |
+| [@ayovu](https://github.com/ayovu) | [ru](https://translate.codeberg.org/projects/music-presence/desktop-application/ru), [uk](https://translate.codeberg.org/projects/music-presence/desktop-application/uk) |     
 | [@cobra525](https://github.com/cobra525) | [hu](https://translate.codeberg.org/projects/music-presence/desktop-application/hu) |
 | [@coderheck](https://github.com/coderheck) | [vi](https://translate.codeberg.org/projects/music-presence/desktop-application/vi) |
 | [@ekimeister](https://github.com/ekimeister) | [fi](https://translate.codeberg.org/projects/music-presence/desktop-application/fi) |
@@ -18,7 +18,8 @@ Translations for the [Music Presence](https://musicpresence.app) app.
 | [@MarvelousAdiris](https://github.com/MarvelousAdiris) | [es](https://translate.codeberg.org/projects/music-presence/desktop-application/es) |
 | [@MoonManPL](https://github.com/MoonManPL) | [pl](https://translate.codeberg.org/projects/music-presence/desktop-application/pl) |
 | [@matej4real](https://github.com/matej4real) | [hr](https://translate.codeberg.org/projects/music-presence/desktop-application/hr), [bs](https://translate.codeberg.org/projects/music-presence/desktop-application/bs), [sr](https://translate.codeberg.org/projects/music-presence/desktop-application/sr) |
-| [@moeshpit](https://github.com/moeshpit) | [af](https://translate.codeberg.org/projects/music-presence/desktop-application/af), [ko](https://translate.codeberg.org/projects/music-presence/desktop-application/ko) |
+| [@moeshpit](https://github.com/moeshpit) | [af](https://translate.codeberg.org/projects/music-presence/desktop-application/af), [ko](https://translate.codeberg.org/projects/music-presence/desktop-application/ko) 
+|
 | [@momizi06](https://github.com/momizi06) | [ja](https://translate.codeberg.org/projects/music-presence/desktop-application/ja) |
 | [@mozoarella](https://github.com/mozoarella) | [nl](https://translate.codeberg.org/projects/music-presence/desktop-application/nl) |
 | [@naturbrilian](https://github.com/naturbrilian) | [id](https://translate.codeberg.org/projects/music-presence/desktop-application/id) |
