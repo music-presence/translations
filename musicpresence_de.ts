@@ -379,13 +379,13 @@
         <location filename="../src/app/app.cpp" line="3079"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verwende die Spotify API für Medien von Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3091"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verwende die iTunes API für Medien von Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3104"/>
