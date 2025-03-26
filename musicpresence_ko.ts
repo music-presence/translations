@@ -588,7 +588,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3091"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation>Apple Music을 들을때, iTunes API 사용하기</translation>
+        <translation>Apple Music을 들을때 iTunes API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3299"/>
