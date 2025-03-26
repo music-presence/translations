@@ -582,13 +582,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3079"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spotify를 들을때 Spotify API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3091"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Music을 들을때, iTunes API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3299"/>
