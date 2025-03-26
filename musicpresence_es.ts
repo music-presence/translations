@@ -337,13 +337,13 @@
         <location filename="../src/app/app.cpp" line="3055"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation>Usar la API de TIDAL, cuando reproduciendo desde TIDAL</translation>
+        <translation>Usar la API de TIDAL, al reproducir desde TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation>Usar la API de Deezer, cuando reproduciendo desde Deezer</translation>
+        <translation>Usar la API de Deezer, al reproducir desde Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3104"/>
@@ -582,13 +582,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="3079"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar la API de Spotify, al reproducir desde Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3091"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar la API de iTunes, al reproducir desde Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3299"/>
