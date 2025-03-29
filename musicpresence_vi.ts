@@ -7,13 +7,13 @@
         <location filename="../src/app/app.cpp" line="1451"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation>đã vô hiệu hóa</translation>
+        <translation>đã tắt</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1458"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation>đã kích hoạt</translation>
+        <translation>đã bật</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1463"/>
@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="1545"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>Trạng thái đã được vô hiệu hóa</translation>
+        <translation>Trạng thái đã tắt</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1548"/>
@@ -204,7 +204,7 @@
         <location filename="../src/app/app.cpp" line="2535"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>Tùy chỉnh cách biểu thị của trạng thái</translation>
+        <translation>Tùy chỉnh cách hiển thị của trạng thái</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2541"/>
@@ -252,13 +252,13 @@
         <location filename="../src/app/app.cpp" line="2691"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation>Cách biểu thị thông tin của bài</translation>
+        <translation>Cách hiển thị thông tin của bài hát</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2695"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Biểu thị tên bài hát và nghệ sĩ trên cùng một dòng</translation>
+        <translation>Hiển thị tên bài hát và nghệ sĩ trên cùng một dòng</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2715"/>
