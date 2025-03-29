@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1563"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>Đang chờ phát nhạc</translation>
+        <translation>Đang chờ trình phát</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1567"/>
@@ -174,13 +174,13 @@
         <location filename="../src/app/app.cpp" line="2445"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>Hiện bài đang tạm dừng trong trạng thái</translation>
+        <translation>Hiện nội dung đang tạm dừng trong trạng thái</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2450"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>Hiện biểu tượng đang phát khi đang chơi nhạc</translation>
+        <translation>Hiện biểu tượng phát khi đang phát nhạc</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2455"/>
@@ -222,13 +222,13 @@
         <location filename="../src/app/app.cpp" line="2587"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation>Cách biểu thị bài đang tạm dừng</translation>
+        <translation>Cách hiển thị nội dung đang tạm dừng</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2591"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation>Các cài đặt cho các trình phát ngoại tuyến</translation>
+        <translation>Cài đặt cho các trình phát độc lập</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2625"/>
@@ -240,13 +240,13 @@
         <location filename="../src/app/app.cpp" line="2653"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>Đóng băng thanh trạng thái cho bài đang tạm dừng</translation>
+        <translation>Giữ lại thanh tiến trình cho nội dung đang tạm dừng</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2672"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>Biểu thị bài đã được tạm dừng trong bao lâu</translation>
+        <translation>Hiểu thị nội dung đã được tạm dừng trong bao lâu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2691"/>
@@ -264,7 +264,7 @@
         <location filename="../src/app/app.cpp" line="2715"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Biểu thị tên nghệ sĩ và album trên cùng một dòng</translation>
+        <translation>Hiển thị tên nghệ sĩ và album trên cùng một dòng</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2738"/>
@@ -294,7 +294,7 @@
         <location filename="../src/app/app.cpp" line="2794"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation>Hiện thông tin phát lại</translation>
+        <translation>Hiện thanh tiến trình phát</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2847"/>
@@ -384,31 +384,31 @@
         <location filename="../src/app/app.cpp" line="3051"/>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation>Các dịch vụ ngoài</translation>
+        <translation>Các dịch vụ bên ngoài</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3055"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>general setting</comment>
-        <translation>Sử dụng API của TIDAL khi đang nghe ở TIDAL</translation>
+        <translation>Sử dụng API của TIDAL khi nghe nhạc trên TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3067"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>general setting</comment>
-        <translation>Sử dụng API của Deezer khi đang nghe ở Deezer</translation>
+        <translation>Sử dụng API của Deezer khi nghe nhạc trên Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3079"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation>Sử dụng Spotify API khi đang dùng Spotify</translation>
+        <translation>Sử dụng API của Spotify khi nghe nhạc trên Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3091"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation>Sử dụng iTunes API khi đang dùng Apple Music</translation>
+        <translation>Sử dụng API của iTunes khi nghe nhạc trên Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3104"/>
@@ -420,7 +420,7 @@
         <location filename="../src/app/app.cpp" line="3117"/>
         <source>Updates</source>
         <comment>general settings section</comment>
-        <translation>Các cập nhật</translation>
+        <translation>Cập nhật</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3122"/>
@@ -432,7 +432,7 @@
         <location filename="../src/app/app.cpp" line="3129"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation>Tự động cài đặt các cập nhật</translation>
+        <translation>Tự động cài đặt bản cập nhật</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3145"/>
@@ -445,7 +445,7 @@
         <location filename="../src/app/app.cpp" line="3156"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation>Đang kiểm tra các bản cập nhật mới...</translation>
+        <translation>Đang kiểm tra bản cập nhật mới...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3163"/>
@@ -457,19 +457,19 @@
         <location filename="../src/app/app.cpp" line="3176"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation>Hiện &quot;Những thứ mới&quot; sau khi cập nhật</translation>
+        <translation>Hiện thông tin mới sau khi cập nhật</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3189"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation>Hiện danh sách thay đổi</translation>
+        <translation>Xem nhật ký thay đổi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3198"/>
         <source>Miscellaneous</source>
         <comment>general setting section</comment>
-        <translation>Các thứ lặt vặt</translation>
+        <translation>Khác</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3202"/>
@@ -505,13 +505,13 @@
         <location filename="../src/app/app.cpp" line="3292"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation>Tham gia cộng đồng Discord của chúng tôi</translation>
+        <translation>Tham gia Discord của chúng tôi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3299"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation>Trợ giúp quá trình phát triển bằng một khoản quyên góp</translation>
+        <translation>Hỗ trợ phát triển bằng cách quyên góp</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3305"/>
@@ -523,7 +523,7 @@
         <location filename="../src/app/app.cpp" line="3311"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>Những thứ gì sẽ xuất hiện trong tương lai?</translation>
+        <translation>Có gì mới sắp ra mắt?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3318"/>
@@ -812,7 +812,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5006"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation>Về bản quyền</translation>
+        <translation>Về Bản quyền</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5009"/>
@@ -824,12 +824,12 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5012"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation>Báo vấn đề</translation>
+        <translation>Báo lỗi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5015"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>Bạn thích {app_name}? &lt;a {attributes}&gt;Trợ giúp quá trình phát triển với một sự quyên góp&lt;/a&gt;</translation>
+        <translation>Bạn thích {app_name}? &lt;a {attributes}&gt;Hỗ trợ phát triển bằng cách quyên góp&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5023"/>
@@ -840,7 +840,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5031"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation>Cảm ơn những người đã trợ giúp phiên dịch ứng dụng:</translation>
+        <translation>Cảm ơn tất cả những ai đã giúp phiên dịch ứng dụng:</translation>
     </message>
 </context>
 </TS>
