@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="1513"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>กำลังรอเครื่องเล่นเพลง</translation>
+        <translation>กำลังรอเครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1517"/>
@@ -91,12 +91,12 @@
         <location filename="../src/app/app.cpp" line="1909"/>
         <source>Player</source>
         <comment>button: individual settings for the currently active media player, keep this short, ideally a single word</comment>
-        <translation>เครื่องเล่นเพลง</translation>
+        <translation>เครื่องเล่น</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1975"/>
         <source>Play music to configure a specific player</source>
-        <translation>กรุณาเล่นเพลงเพื่อตั้งค่าเครื่องเล่นเพลง</translation>
+        <translation>เล่นเพลงเพื่อกำหนดเครื่องเล่นเฉพาะ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1983"/>
@@ -108,7 +108,7 @@
         <location filename="../src/app/app.cpp" line="1987"/>
         <source>Is your media player not detected?</source>
         <comment>button: opens the troubleshooting page</comment>
-        <translation>หาเครื่องเล่นเพลงของคุณไม่พบ?</translation>
+        <translation>หาเครื่องเล่นมีเดียของคุณไม่พบ?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2014"/>
@@ -156,224 +156,224 @@
         <location filename="../src/app/app.cpp" line="2213"/>
         <source>Reset all overridden settings</source>
         <comment>reset all global settings that were overridden for a player</comment>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตการตั้งค่าทั้งหมดที่ถูกเขียนทับ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2223"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation type="unfinished"></translation>
+        <translation>กด SHIFT ค้างไว้เพื่อรีเซ็ตการตั้งค่าที่ถูกเขียนทับ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2382"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดง &quot;{music_activity_name}&quot; แทนชื่อเครื่องเล่นเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2390"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงมีเดียที่หยุดชั่วคราวในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2395"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงไอคอนเล่นเมื่อมีเพลงกำลังเล่น</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2400"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงโลโก้ของเครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2406"/>
         <source>Appearance</source>
         <comment>button: appearance of the discord status, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>หน้าตา</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2464"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าบางอย่างถูกเขียนทับสำหรับ {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2480"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดลักษณะ presence ของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2486"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงสถานะของคุณเป็นกิจกรรม &quot;{playing_activity_label}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2517"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดง &quot;{branding_text}&quot; ในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2532"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>วิธีแสดงมีเดียที่หยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2536"/>
         <source>Settings for non-service media players</source>
         <comment>appearance settings section: for media players that are not streaming services, i.e. only offline players</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าสำหรับเครื่องเล่นเพลงที่เป็น non-service</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2570"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงไอคอนหยุดเมื่อเพลงหยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2598"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>หยุดการเคลื่อนไหวของแถบความคืบหน้าสำหรับมีเดียที่หยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2617"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงระยะเวลาที่มีเดียหยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2636"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>วิธีแสดงข้อมูลเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2640"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงชื่อเพลงและศิลปินในบรรทัดเดียว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2660"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงศิลปินและอัลบั้มในบรรทัดเดียว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2683"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>สลับลำดับของชื่อเพลงและศิลปิน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2696"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>เติมคำว่า &quot;{prefix}&quot; ข้างหน้าชื่อศิลปิน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2711"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>เติมคำว่า &quot;{prefix}&quot; ข้างหน้าชื่ออัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2726"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงชื่ออัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2739"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อมูลการเล่น</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2792"/>
         <location filename="../src/app/app.cpp" line="2962"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ภาพปกจากโปรแกรมเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2828"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>ภาษา / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2840"/>
         <source>Use the system language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ภาษาของระบบ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2884"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยแปล</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2898"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตัวแทนสำหรับภาพปกที่ขาดหายไป</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2909"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>โลโก้เครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2911"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>โน้ตดนตรี</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2913"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>สถานะการเล่น</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2916"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>ซีดี</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2919"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>โลโก้ {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2951"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2958"/>
         <source>Cover images</source>
         <comment>general settings section</comment>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพหน้าปก</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2974"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>อย่าสแปมสิ่งนี้ ลองอีกครั้งใน {amount} วินาที</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3003"/>
