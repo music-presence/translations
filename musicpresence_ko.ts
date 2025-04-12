@@ -196,6 +196,12 @@
         <translation>상태에 일시 정지된 미디어 표시</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="1597"/>
+        <source>Automation permission denied</source>
+        <comment>popup window title that explains that macOS app automation permission is denied</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="2911"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
@@ -541,12 +547,6 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>새 버전 사용 가능</translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="1597"/>
-        <source>Automation permission denied</source>
-        <comment>hint popup that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1603"/>

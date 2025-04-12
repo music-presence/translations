@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/app/app.cpp" line="1597"/>
         <source>Automation permission denied</source>
-        <comment>hint popup that explains that macOS app automation permission is denied</comment>
+        <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

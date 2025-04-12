@@ -202,12 +202,6 @@
         <translation>Показувати призупинене медіа у вашому статусі</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1597"/>
-        <source>Automation permission denied</source>
-        <comment>hint popup that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/app/app.cpp" line="1603"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
@@ -339,6 +333,12 @@
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
         <translation>Використовувати зображення обкладинок з медіа-плеєрів</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="1597"/>
+        <source>Automation permission denied</source>
+        <comment>popup window title that explains that macOS app automation permission is denied</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1754"/>

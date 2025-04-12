@@ -287,6 +287,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="1597"/>
+        <source>Automation permission denied</source>
+        <comment>popup window title that explains that macOS app automation permission is denied</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="1754"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
@@ -534,12 +540,6 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4182"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="1597"/>
-        <source>Automation permission denied</source>
-        <comment>hint popup that explains that macOS app automation permission is denied</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

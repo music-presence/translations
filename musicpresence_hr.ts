@@ -196,6 +196,12 @@
         <translation>Prikaži pauziran medij u svom statusu</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="1597"/>
+        <source>Automation permission denied</source>
+        <comment>popup window title that explains that macOS app automation permission is denied</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="2911"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
@@ -541,12 +547,6 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>Nova verzija je dostupna</translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="1597"/>
-        <source>Automation permission denied</source>
-        <comment>hint popup that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1603"/>
