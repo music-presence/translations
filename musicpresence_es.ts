@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="1597"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permiso de automatización denegada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2911"/>
@@ -552,13 +552,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="1603"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} no puede automatizar &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Abre tu configuración de sistema y habilita la automatización para &quot;{player_name}&quot; en &quot;Privacidad&amp;nbsp;&amp;amp;&amp;nbsp;Seguridad&quot; &gt; &quot;Automatización&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1617"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir configuración</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2401"/>
