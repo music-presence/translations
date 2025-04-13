@@ -205,13 +205,13 @@
         <location filename="../src/app/app.cpp" line="1603"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} non è autorizzata ad automatizzare &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Apri le impostazioni di sistema e abilita l&apos;automazione per &quot;{player_name}&quot; in &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Sicurezza&quot; &gt; &quot;Automazione&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1617"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apri le impostazioni</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2911"/>
@@ -338,7 +338,7 @@
         <location filename="../src/app/app.cpp" line="1597"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permesso di automazione negato</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1754"/>
