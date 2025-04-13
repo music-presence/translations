@@ -7,19 +7,19 @@
         <location filename="../src/app/app.cpp" line="1597"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lupa automaatioon evätty</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1603"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Sovelluksella {app_name} ei ole oikeutta automatisoida soitinta &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Avaa järjestelmäasetukset ja ota käyttöön automaatio soittimelle &quot;{player_name}&quot; asetusvalikosta &quot;Yksityisyys&amp;nbsp;&amp;amp;&amp;nbsp;Turvallisuus&quot; &gt; &quot;Automaatio&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1617"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Avaa asetukset</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1706"/>
@@ -415,13 +415,13 @@
         <location filename="../src/app/app.cpp" line="3337"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käytä Spotifyn rajapintaa Spotifya kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3349"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käytä iTunesin rajapintaa Apple Musicia kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3362"/>
