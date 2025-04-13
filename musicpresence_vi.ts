@@ -246,7 +246,7 @@
         <location filename="../src/app/app.cpp" line="2930"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>Hiểu thị nội dung đã được tạm dừng trong bao lâu</translation>
+        <translation>Hiển thị phương tiện đã được tạm dừng trong bao lâu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2949"/>
