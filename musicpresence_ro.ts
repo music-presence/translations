@@ -7,19 +7,19 @@
         <location filename="../src/app/app.cpp" line="1597"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permisiune de automatizare refuzată</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1603"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} nu are permisiunea de a automatiza &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Deschideți setările sistemului și activați automatizarea pentru &quot;{player_name}&quot; sub &quot;Confidențialitate&amp;nbsp;&amp;amp;&amp;nbsp;Securitate&quot; &gt; &quot;Automatizare&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1617"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deschide setările</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1706"/>
@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="1807"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>Prezența este activă</translation>
+        <translation>Prezența este activată</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1812"/>
@@ -415,13 +415,13 @@
         <location filename="../src/app/app.cpp" line="3337"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați API-ul Spotify atunci când ascultați Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3349"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați API-ul iTunes atunci când ascultați Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3362"/>
