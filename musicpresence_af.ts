@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="1601"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Outomatiseringstoestemming geweier</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2950"/>
@@ -552,13 +552,13 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/app.cpp" line="1607"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} het nie toestemming om &quot;{player_name}&quot; outomaties te beheer nie.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Maak jou stelselinstellings oop en laat outomatisering toe vir &quot;{player_name}&quot; onder &quot;Privaatheid&amp;nbsp;&amp;amp;&amp;nbsp;Sekuriteit&quot; &gt; &quot;Outomatisering&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1621"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instellings</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2440"/>
@@ -600,46 +600,46 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/app.cpp" line="3300"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Taakbalk-ikoon-tema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3309"/>
         <location filename="../src/app/app.cpp" line="3346"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stelsel-tema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3310"/>
         <location filename="../src/app/app.cpp" line="3347"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lig</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3311"/>
         <location filename="../src/app/app.cpp" line="3348"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Donker</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3337"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toep-tema</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3452"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik die Spotify-API wanneer jy na Spotify luister</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3464"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik die iTunes-API wanneer jy na Apple Music luister</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3674"/>
