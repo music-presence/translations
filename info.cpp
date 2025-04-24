@@ -59,7 +59,7 @@ std::vector<Contributor> const& translations::contributors()
             .github_name = "thijmi",
             .codeberg_name = "moeshpit",
             .link_to_github = true,
-            .translated_languages = {"af", "ko"},
+            .translated_languages = {"af", "ko", "ja", "nl"},
         },
         {
             .name = "oscar",
