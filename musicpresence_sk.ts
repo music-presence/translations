@@ -402,34 +402,34 @@
         <location filename="../src/app/app.cpp" line="3300"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motív ikony na paneli úloh</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3309"/>
         <location filename="../src/app/app.cpp" line="3346"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Systémové nastavenie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3310"/>
         <location filename="../src/app/app.cpp" line="3347"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Svetlý</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3311"/>
         <location filename="../src/app/app.cpp" line="3348"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tmavý</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3337"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Farba motívu aplikácie</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3424"/>
