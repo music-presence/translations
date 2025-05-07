@@ -199,7 +199,7 @@
         <location filename="../src/app/app.cpp" line="1601"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Izin pengaktifan otomatis ditolak</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2950"/>
@@ -552,13 +552,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="1607"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} tidak diizinkan untuk pengaktifan otomatis &quot;{player_name}.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Buka pengaturan sistem anda dan aktifkan pengaktifan untuk &quot;{player_name}&quot; dibawah &quot;Privasi&amp;nbsp;&amp;amp;&amp;nbsp;Keamanan&quot; &gt; &quot;Pengaktifan otomatis&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1621"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buka pengaturan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2440"/>
@@ -600,34 +600,34 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="3300"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema ikon baki</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3309"/>
         <location filename="../src/app/app.cpp" line="3346"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema sistem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3310"/>
         <location filename="../src/app/app.cpp" line="3347"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3311"/>
         <location filename="../src/app/app.cpp" line="3348"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gelap</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3337"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema aplikasi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3452"/>
