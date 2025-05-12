@@ -229,7 +229,7 @@
         <location filename="../src/app/app.cpp" line="3172"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar el artista y album en una sola línea</translation>
+        <translation>Mostrar el artista y álbum en una sola línea</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3195"/>
@@ -247,13 +247,13 @@
         <location filename="../src/app/app.cpp" line="3223"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>Prefijar el nombre del album con &quot;{prefix}&quot;</translation>
+        <translation>Prefijar el nombre del álbum con &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3238"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar el nombre del album</translation>
+        <translation>Mostrar el nombre del álbum</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3251"/>
