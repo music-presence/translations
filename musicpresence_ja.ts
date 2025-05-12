@@ -928,392 +928,392 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="300"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>サービス</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="304"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">表示設定</translation>
+        <translation>表示設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">日本語 / {language}</translation>
+        <translation>日本語 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="376"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>適用</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="381"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>システム言語</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="471"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">表示設定</translation>
+        <translation>表示設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="478"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished">トレイアイコンのテーマ</translation>
+        <translation>トレイアイコンのテーマ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="487"/>
         <location filename="../src/app/settings/window.cpp" line="529"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished">システムテーマ</translation>
+        <translation>システムテーマ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
         <location filename="../src/app/settings/window.cpp" line="531"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished">ライト</translation>
+        <translation>ライト</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="491"/>
         <location filename="../src/app/settings/window.cpp" line="532"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished">ダーク</translation>
+        <translation>ダーク</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="521"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished">アプリのテーマ</translation>
+        <translation>アプリのテーマ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="567"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="576"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">ログイン時に{app_name}を起動する</translation>
+        <translation>ログイン時に{app_name}を起動する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">アップデート</translation>
+        <translation>アップデート</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">自動的にアップデートをインストールする</translation>
+        <translation>自動的にアップデートをインストールする</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="618"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">新しいバージョンが利用可能になったら通知する</translation>
+        <translation>新しいバージョンが利用可能になったら通知する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="635"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">新しいバージョンを起動するとき新機能を表示する</translation>
+        <translation>新しいバージョンを起動するとき新機能を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="661"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">アップデートを確認中…</translation>
+        <translation>アップデートを確認中…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="670"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">更新履歴を表示する</translation>
+        <translation>更新履歴を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="735"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>リセット</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="853"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>個別設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="860"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">ポッドキャストを再生中、ステータスを&quot;{podcast_activity_name}&quot;として常に表示する</translation>
+        <translation>ポッドキャストを再生中、ステータスを&quot;{podcast_activity_name}&quot;として常に表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="864"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">広告を除外する</translation>
+        <translation>広告を除外する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="870"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">ステータスにポッドキャストのみを表示する</translation>
+        <translation>ステータスにポッドキャストのみを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="886"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">アーティスト名とアルバム名を分けて表示する</translation>
+        <translation>アーティスト名とアルバム名を分けて表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="915"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">&quot;{player_name}&quot;として表示</translation>
+        <translation>&quot;{player_name}&quot;として表示</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="937"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="942"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">プレーヤーの名前の代わりに&quot;{music_activity_name}&quot;を表示する</translation>
+        <translation>プレーヤーの名前の代わりに&quot;{music_activity_name}&quot;を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="949"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">ステータスを&quot;{playing_activity_label}&quot;として表示する</translation>
+        <translation>ステータスを&quot;{playing_activity_label}&quot;として表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="963"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">ステータスに&quot;{branding_text}&quot;を表示する</translation>
+        <translation>ステータスに&quot;{branding_text}&quot;を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲情報</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="974"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">曲名とアーティスト名を1行で表示する</translation>
+        <translation>曲名とアーティスト名を1行で表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="990"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">アーティスト名とアルバム名を1行で表示する</translation>
+        <translation>アーティスト名とアルバム名を1行で表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1008"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">曲名とアーティスト名の順序を入れ替える</translation>
+        <translation>曲名とアーティスト名の順序を入れ替える</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1013"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">アーティスト名の先頭に&quot;{prefix}&quot;をつける</translation>
+        <translation>アーティスト名の先頭に&quot;{prefix}&quot;をつける</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1020"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">アルバム名の先頭に&quot;{prefix}&quot;をつける</translation>
+        <translation>アルバム名の先頭に&quot;{prefix}&quot;をつける</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1026"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">アルバム名を表示する</translation>
+        <translation>アルバム名を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1030"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">曲の情報を表示する</translation>
+        <translation>曲の情報を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1036"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>一時停止中のメディア</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1040"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">一時停止中でもメディアをステータスに表示する</translation>
+        <translation>一時停止中でもメディアをステータスに表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">音楽の一時停止中に一時停止中アイコンをアクティビティに表示する</translation>
+        <translation>音楽の一時停止中に一時停止中アイコンをアクティビティに表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1048"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">一時停止中にプログレスバーを止める</translation>
+        <translation>一時停止中にプログレスバーを止める</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1062"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">一時停止している時間を表示する</translation>
+        <translation>一時停止している時間を表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>オフラインプレーヤー</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1089"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">音楽の再生中に再生中アイコンをアクティビティに表示する</translation>
+        <translation>音楽の再生中に再生中アイコンをアクティビティに表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1099"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">ステータスにプレイヤーのロゴを表示する</translation>
+        <translation>ステータスにプレイヤーのロゴを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>これらの設定はストリーミングサービスには適用されません</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1122"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">プレーヤーのロゴ</translation>
+        <translation>プレーヤーのロゴ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1125"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">音符</translation>
+        <translation>音符</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1128"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">再生状態</translation>
+        <translation>再生状態</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1132"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1138"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">{app_name}のロゴ</translation>
+        <translation>{app_name}のロゴ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">その他</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">ジャケットイラストがない場合の代替画像</translation>
+        <translation>ジャケットイラストがない場合の代替画像</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1205"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてリセット</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1220"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>このプレーヤーを削除</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1299"/>
         <source>Covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>ジャケット</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1303"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤーのジャケットイラストをアップロードする</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1320"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">外部サービス</translation>
+        <translation>外部サービス</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1341"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">TIDALで聴いているとき、TIDAL APIを使用する</translation>
+        <translation>TIDALで聴いているとき、TIDAL APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1343"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Deezerで聴いているとき、Deezer APIを使用する</translation>
+        <translation>Deezerで聴いているとき、Deezer APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1345"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Spotifyで聴いているとき、Spotify APIを使用する</translation>
+        <translation>Spotifyで聴いているとき、Spotify APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1348"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Apple Musicで聴いているとき、iTunes APIを使用する</translation>
+        <translation>Apple Musicで聴いているとき、iTunes APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>どのデータがこれらのサービスに送信され、どのように使用されるかについての情報は&lt;a {attributes}&gt;プライバシーポリシー&lt;/a&gt;をお読みください。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1404"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>一般</translation>
     </message>
 </context>
 </TS>
