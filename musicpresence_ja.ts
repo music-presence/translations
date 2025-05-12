@@ -905,24 +905,24 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="213"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">アップデートを確認する</translation>
+        <translation>アップデートを確認する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="289"/>
         <source>Settings</source>
-        <translation type="unfinished">設定</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="298"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="299"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="300"/>
