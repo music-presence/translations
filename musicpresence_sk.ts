@@ -905,165 +905,165 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="213"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Skontrolovať aktualizácie</translation>
+        <translation>Skontrolovať aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="289"/>
         <source>Settings</source>
-        <translation type="unfinished">Nastavenia</translation>
+        <translation>Nastavenia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="298"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Všeobecné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="299"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="300"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Služby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="304"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Vzhľad</translation>
+        <translation>Vzhľad</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Jazyk / {language}</translation>
+        <translation>Jazyk / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="376"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="381"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jazyk systému</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="471"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Vzhľad</translation>
+        <translation>Vzhľad</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="478"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished">Motív ikony na paneli úloh</translation>
+        <translation>Motív ikony na paneli úloh</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="487"/>
         <location filename="../src/app/settings/window.cpp" line="529"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished">Systémové nastavenie</translation>
+        <translation>Motív systému</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
         <location filename="../src/app/settings/window.cpp" line="531"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished">Svetlý</translation>
+        <translation>Svetlý</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="491"/>
         <location filename="../src/app/settings/window.cpp" line="532"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished">Tmavý</translation>
+        <translation>Tmavý</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="521"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished">Farba motívu aplikácie</translation>
+        <translation>Farba motívu aplikácie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="567"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenia pre systém Windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="576"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Spustiť {app_name} pri prihlásení</translation>
+        <translation>Spustiť {app_name} pri prihlásení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Aktualizácie</translation>
+        <translation>Aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Automaticky inštalovať aktualizácie</translation>
+        <translation>Automaticky inštalovať aktualizácie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="618"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Oznámiť, keď je dostupná nová verzia</translation>
+        <translation>Oznámiť, keď je dostupná nová verzia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="635"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Zobraziť novinky pri spustení novej verzie</translation>
+        <translation>Zobraziť novinky pri spustení novej verzie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="661"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Kontrolujem aktualizácie...</translation>
+        <translation>Kontrolujú sa aktualizácie...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="670"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Zobraziť zoznam zmien</translation>
+        <translation>Zobraziť zoznam zmien</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="735"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="853"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Individuálne nastavenia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="860"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Vždy zobraziť &quot;{podcast_activity_name}&quot; keď počúvam podcasty</translation>
+        <translation>Vždy zobraziť &quot;{podcast_activity_name}&quot; keď počúvam podcasty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="864"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">Skúsiť odfiltrovať reklamy</translation>
+        <translation>Skúsiť odfiltrovať reklamy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="870"/>
@@ -1075,25 +1075,25 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="886"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">Rozdeliť meno interpreta a názov albumu</translation>
+        <translation>Rozdeliť meno interpreta a názov albumu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="915"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">Zobraziť ako &quot;{player_name}&quot;</translation>
+        <translation>Zobraziť ako &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="937"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="942"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">Zobraziť &quot;{music_activity_name}&quot; namiesto názvu prehrávača</translation>
+        <translation>Zobraziť &quot;{music_activity_name}&quot; namiesto názvu prehrávača</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="949"/>
@@ -1111,7 +1111,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informácie o skladbe</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="974"/>
@@ -1159,7 +1159,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1036"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozastavené médiá</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1040"/>
@@ -1206,7 +1206,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Tieto nastavenia neplatia pre streamovacie služby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1122"/>
@@ -1254,25 +1254,25 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1205"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť všetko</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1220"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť prehrávač</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1299"/>
         <source>Covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obrázky obalov</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1303"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nahrať obrázky obalov z prehrávačov médií</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1320"/>
@@ -1307,13 +1307,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre viac informácií o tom, aké údaje sa odosielajú týmto službám a ako sa tieto údaje používajú, si prosím prečítajte sekciu &lt;a {attributes}&gt;Ochrana osobných údajov&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1404"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Všeobecné</translation>
     </message>
 </context>
 </TS>
