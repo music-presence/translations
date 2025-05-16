@@ -1069,7 +1069,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="870"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">Zobraziť iba podcasty v tvojom statuse</translation>
+        <translation>Zobraziť iba podcasty v tvojom statuse</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="886"/>
@@ -1099,13 +1099,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="949"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">Zobraziť tvoj status ako aktivitu &quot;{playing_activity_label}&quot;</translation>
+        <translation>Zobraziť tvoj status ako aktivitu &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="963"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Zobraziť &quot;{branding_text}&quot; v presence</translation>
+        <translation>Zobraziť &quot;{branding_text}&quot; v presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
@@ -1117,43 +1117,43 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="974"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť názov skladby a interpreta v jednom riadku</translation>
+        <translation>Zobraziť názov skladby a interpreta v jednom riadku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="990"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť interpreta a názov albumu v jednom riadku</translation>
+        <translation>Zobraziť interpreta a názov albumu v jednom riadku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1008"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Vymeniť poradie názvu skladby a interpreta</translation>
+        <translation>Vymeniť poradie názvu skladby a interpreta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1013"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Pred názov umelca pridať &quot;{prefix}&quot;</translation>
+        <translation>Pred názov umelca pridať &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1020"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Pred názov albumu pridať &quot;{prefix}&quot;</translation>
+        <translation>Pred názov albumu pridať &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1026"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť názov albumu</translation>
+        <translation>Zobraziť názov albumu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1030"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Zobraziť informácie o prehrávaní</translation>
+        <translation>Zobraziť informácie o prehrávaní</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1036"/>
@@ -1165,43 +1165,43 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1040"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť pozastavené médiá v tvojom statuse</translation>
+        <translation>Zobraziť pozastavené médiá v tvojom statuse</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť ikonu pozastavenia keď je hudba pozastavená</translation>
+        <translation>Zobraziť ikonu pozastavenia keď je hudba pozastavená</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1048"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Pozastaviť ukazovateľa priebehu pre pozastavené médiá</translation>
+        <translation>Pozastaviť ukazovateľa priebehu pre pozastavené médiá</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1062"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Zobraziť, ako dlho je médium pozastavené</translation>
+        <translation>Zobraziť, ako dlho je médium pozastavené</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offline prehrávače</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1089"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť ikonu prehrávania, keď sa hudba prehráva</translation>
+        <translation>Zobraziť ikonu prehrávania, keď sa hudba prehráva</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1099"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobraziť logo prehrávača médií</translation>
+        <translation>Zobraziť logo prehrávača médií</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
@@ -1212,43 +1212,43 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1122"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">Logo prehrávača médií</translation>
+        <translation>Logo prehrávača médií</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1125"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">Nota</translation>
+        <translation>Nota</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1128"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">Stav prehrávania</translation>
+        <translation>Stav prehrávania</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1132"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1138"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">Logo {app_name}</translation>
+        <translation>Logo {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">Iné</translation>
+        <translation>Iné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">Náhradný obrázok pre chýbajúce obrázky obalov</translation>
+        <translation>Náhradný obrázok pre chýbajúce obrázky obalov</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1205"/>
@@ -1278,31 +1278,31 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1320"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">Externé služby</translation>
+        <translation>Externé služby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1341"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Použiť TIDAL API, keď počúvam TIDAL</translation>
+        <translation>Použiť TIDAL API, keď počúvam TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1343"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Použiť Deezer API, keď počúvam Deezer</translation>
+        <translation>Použiť Deezer API, keď počúvam Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1345"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Použiť Spotify API, keď počúvam Spotify</translation>
+        <translation>Použiť Spotify API, keď počúvam Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1348"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Použiť iTunes API, keď počúvam Apple Music</translation>
+        <translation>Použiť iTunes API, keď počúvam Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
