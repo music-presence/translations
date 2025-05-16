@@ -25,13 +25,13 @@
         <location filename="../src/app/app.cpp" line="1755"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>غير مفّعل</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1762"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>مفّعل</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1767"/>
@@ -67,7 +67,7 @@
         <location filename="../src/app/app.cpp" line="1861"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>في انتظار Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1867"/>
@@ -1294,7 +1294,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>للمزيد من المعلومات عن البيانات التي يتم مشاركتها مع هذه الخدمات و كيف يتم استعمال هذه البيانات، من فضلك اقرأ &lt;a {attributes}&gt;اشعار الخصوصيه&quot; ‬‬‫&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1404"/>
