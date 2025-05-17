@@ -1081,7 +1081,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="942"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation>اظهر&quot;{player_name}&quot; بدلاً من اسم مُشغّل الأغاني</translation>
+        <translation>اظهر&quot;{music_activity_name}&quot; بدلاً من اسم مُشغّل الأغاني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="949"/>
