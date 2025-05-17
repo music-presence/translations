@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1666"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation>اِفتح الإعدادات</translation>
+        <translation>افتح الإعدادات</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1755"/>
@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="1856"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>النشاط فعال</translation>
+        <translation>النشاط فعّال</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1861"/>
@@ -73,7 +73,7 @@
         <location filename="../src/app/app.cpp" line="1867"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>في انتظار تشغيل اغنية</translation>
+        <translation>في انتظار تشغيل أغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1871"/>
@@ -110,7 +110,7 @@
         <location filename="../src/app/app.cpp" line="2327"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>قم بتغيير حالة مُشغّل الاغاني</translation>
+        <translation>قم بتغيير مظهر النشاط لمُشغّل اغاني مُعين</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2423"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../src/app/app.cpp" line="2489"/>
         <source>Play music to configure a specific player</source>
-        <translation>قُم بتشغيل اغنية حتي تستطيع أن تُغير إعدادات مُشغل الاغاني</translation>
+        <translation>قُم بتشغيل أغنية حتي تستطيع أن تُغير إعدادات مُشغل الأغاني</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2497"/>
@@ -139,7 +139,7 @@
         <location filename="../src/app/app.cpp" line="2528"/>
         <source>Settings for {player_name}</source>
         <comment>title of the player settings menu</comment>
-        <translation>الاعدادات الخاصة ب {player_name}</translation>
+        <translation>الإعدادات الخاصة ب {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2544"/>
@@ -151,13 +151,13 @@
         <location filename="../src/app/app.cpp" line="2547"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation>حاول أن تُقلّل من الإعلانات</translation>
+        <translation>حاول أن تمنع الإعلانات من الظهور في النشاط</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2553"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation>اظهر البودكاستس فقط في حالتُّك</translation>
+        <translation>اظهر فقط البودكاستس في نشاطِك</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2605"/>
@@ -169,7 +169,7 @@
         <location filename="../src/app/app.cpp" line="2671"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation>اظهر بأسم &quot;{player_name}&quot;</translation>
+        <translation>اظهر باسم &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2714"/>
@@ -187,7 +187,7 @@
         <location filename="../src/app/app.cpp" line="2740"/>
         <source>Hold SHIFT to reset an overridden setting</source>
         <comment>how to reset a single overriden setting back to its global state</comment>
-        <translation>اِضغط SHIFT لإعادة تعيين الخيار</translation>
+        <translation>اِضغط SHIFT مطولاً لإعادة تعيين الخيار</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2899"/>
@@ -199,19 +199,19 @@
         <location filename="../src/app/app.cpp" line="2907"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>اظهر الاغاني المتوقفة في نشاطِك</translation>
+        <translation>اظهر الأغاني المتوقفة في نشاطِك</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2912"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>اظهر علامة تشغيل عند الاستماع الى اغنية</translation>
+        <translation>اظهر علامة تشغيل عند الاستماع الى أغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2917"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>اظهر شِعار مُشغّل الاغاني</translation>
+        <translation>اظهر شِعار مُشغّل الأغاني</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2923"/>
@@ -223,13 +223,13 @@
         <location filename="../src/app/app.cpp" line="2981"/>
         <source>Some settings are overridden for {player_name}</source>
         <comment>general settings hint: some of the settings are overridden for the currently active player</comment>
-        <translation>تم تغيير بعض من اعدادات {player_name}</translation>
+        <translation>تم تغيير بعض من إعدادات {player_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2997"/>
         <source>Configure what your presence looks like</source>
         <comment>appearance settings description</comment>
-        <translation>تحكم في مظهر نشاطِك</translation>
+        <translation>تحكم في شكل نشاطِك</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3003"/>
@@ -247,7 +247,7 @@
         <location filename="../src/app/app.cpp" line="3049"/>
         <source>How to display paused media</source>
         <comment>appearance settings section</comment>
-        <translation>كيفية اظهار الاغاني المتوقفة</translation>
+        <translation>كيفية اظهار الأغاني المتوقفة</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3053"/>
@@ -259,19 +259,19 @@
         <location filename="../src/app/app.cpp" line="3087"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation>اظهر علامة التوقف عن إيقاف الاغنية</translation>
+        <translation>اظهر علامة التوقف عند إيقاف الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3115"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation>أوقف شريط التقدم عن إيقاف الاغنية</translation>
+        <translation>أوقف شريط التقدم عند إيقاف الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3134"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>اظهر مدة توقف الاغنية</translation>
+        <translation>اظهر مدة توقف الأغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3153"/>
@@ -283,50 +283,50 @@
         <location filename="../src/app/app.cpp" line="3157"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>اظهر إسم الاغنيه و إسم المُغنّي علي نفس السطر</translation>
+        <translation>اظهر اسم الأغنيه و اسم المُغنّي علي نفس السطر</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3177"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>اظهر إسم المُغنّي و إسم الألبوم علي نفس السطر</translation>
+        <translation>اظهر اسم المُغنّي و اسم الألبوم علي نفس السطر</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3200"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>بَدِّل إسم الأغنية مع إسم المُغنّي</translation>
+        <translation>بَدِّل اسم الأغنية مع اسم المُغنّي</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3213"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation>قم بوضع &quot;{prefix}&quot; قبل إسم المُغنّي</translation>
+        <translation>قم بوضع &quot;{prefix}&quot; قبل اسم المُغنّي</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3228"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>قم بوضع &quot;{prefix}&quot; قبل إسم الألبوم</translation>
+        <translation>قم بوضع &quot;{prefix}&quot; قبل اسم الألبوم</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3243"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation>اظّهر إسم الألبوم</translation>
+        <translation>اظّهِر اسم الألبوم</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3256"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation>اظّهر حالة الاغنية</translation>
+        <translation>اظّهِر حالة الأغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3309"/>
         <location filename="../src/app/app.cpp" line="3560"/>
         <source>Use cover images from media players</source>
         <comment>general setting</comment>
-        <translation>استعمل صور الألبوم من مُشغّل الأغاني</translation>
+        <translation>استعمل صور الألبومات من مُشغّل الأغاني</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3350"/>
@@ -838,53 +838,53 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="5646"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;اضغط علي الأيقونة في شريط المهام لفتح لوحة التحكم &lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} يعمل في الخلفية و تستطيع ان تتحكم في إعداداته بهذه الطريقة . يمكنك ان تتحكم في مشغلات الأغاني اللتي تظهر في نشاطك و مظهر نشاطك &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5671"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>فهمت!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5772"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>نسخة رقم {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5778"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>رخصة استخدام التطبيق</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5781"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished"></translation>
+        <translation>اشعار الخصوصية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5784"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>ابلغ عن مشكلة</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5787"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أعجبك {app_name}؟ &lt;a {attributes}&gt;ساهم في تطوير التطبيق بتبرع&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5795"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد المساعدة بطرق اخري؟ &lt;a {attributes}&gt;تدخل معنا!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5803"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>شكراً لكل من ساعد في ترجمة التطبيق:</translation>
     </message>
 </context>
 <context>
@@ -893,261 +893,261 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="213"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>إبحث عن تحديثات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="289"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="298"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات عامة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="299"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="300"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>الخدمات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="304"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>المظهر</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>اللغة / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="376"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الإعدادات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="381"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>لغة النظام</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="471"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>المظهر</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="478"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>أيقونة شريط المهام</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="487"/>
         <location filename="../src/app/settings/window.cpp" line="529"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>مظهر النظام</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
         <location filename="../src/app/settings/window.cpp" line="531"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>فاتح</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="491"/>
         <location filename="../src/app/settings/window.cpp" line="532"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>داكن</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="521"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>مظهر التطبيق</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="567"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات Windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="576"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>إقتح {app_name} تلقائياً عند تسجيل الدخول</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished"></translation>
+        <translation>التحديثات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ثبت التحديثات تلقائياً</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="618"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>أعلمني عندما تتوفر نسخة جديدة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="635"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>تفقد الجديد عند فتح نسخة جديدة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="661"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>جار التحقق من التحديثات...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="670"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>اتطلع علي سجل التغييرات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="735"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="853"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات خاصة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="860"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر &quot;{podcast_activity_name}&quot; دائمًا عند الاستماع إلي بودكاستس</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="864"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>حاول إخفاء الإعلانات من النشاط</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="870"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر فقط البودكاستس في النشاط</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="886"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>إقسم إسم المغني و إسم الألبوم</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="915"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر بإسم &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="937"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>النشاط</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="942"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر&quot;{player_name}&quot; بدلاً من اسم مُشغّل الأغاني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="949"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>أظهر نشاطك علي هيئة نشاط &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="963"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر &quot;{branding_text}&quot; في نشاطِك</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>معلومات الأغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="974"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر إسم الأغنية و اسم المُغني علي نفس السطر</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="990"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر إسم المُغني و اسم الألبوم علي نفس السطر</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1008"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>اعكس اسم الأغنية مع إسم المُغني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1013"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>ضع &quot;{prefix}&quot; قبل اسم المُغني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1020"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>ضع &quot;{prefix}&quot; قبل اسم الألبوم</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1026"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر اسم الألبوم</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1030"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر حالة الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1036"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>الأغاني المتوقفة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1040"/>
@@ -1301,7 +1301,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1404"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation>اعدادات عامة</translation>
+        <translation>إعدادات عامة</translation>
     </message>
 </context>
 </TS>
