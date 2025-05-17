@@ -270,13 +270,13 @@
         <location filename="../src/app/app.cpp" line="3153"/>
         <source>How to display song information</source>
         <comment>appearance settings section</comment>
-        <translation>Como mostrar a informação da música</translation>
+        <translation>Como mostrar a informação da faixa</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3157"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar o título da música e artista só numa linha</translation>
+        <translation>Mostrar o título da faixa e artista só numa linha</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3177"/>
@@ -288,7 +288,7 @@
         <location filename="../src/app/app.cpp" line="3200"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Trocar a ordem do título da música e artista</translation>
+        <translation>Trocar a ordem do título da faixa e artista</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3213"/>
@@ -900,415 +900,415 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="213"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Procurar atualizações</translation>
+        <translation>Procurar atualizações</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="289"/>
         <source>Settings</source>
-        <translation type="unfinished">Definições</translation>
+        <translation>Definições</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="298"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="299"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="300"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serviços</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="304"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Aparência</translation>
+        <translation>Aparência</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Idioma / {language}</translation>
+        <translation>Idioma / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="376"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="381"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Idioma do sistema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="471"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Aparência</translation>
+        <translation>Aparência</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="478"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished">Tema do ícone na área de notificações</translation>
+        <translation>Tema do ícone na área de notificações</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="487"/>
         <location filename="../src/app/settings/window.cpp" line="529"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished">Tema do sistema</translation>
+        <translation>Tema do sistema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
         <location filename="../src/app/settings/window.cpp" line="531"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished">Claro</translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="491"/>
         <location filename="../src/app/settings/window.cpp" line="532"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished">Escuro</translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="521"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished">Tema da aplicação</translation>
+        <translation>Tema da aplicação</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="567"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definições do Windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="576"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Abrir o {app_name} ao iniciar o sistema</translation>
+        <translation>Abrir o {app_name} ao iniciar o sistema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Atualizações</translation>
+        <translation>Atualizações</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Instalar atualizações automaticamente</translation>
+        <translation>Instalar atualizações automaticamente</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="618"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Notificar quando uma nova versão estiver disponível</translation>
+        <translation>Notificar quando uma nova versão estiver disponível</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="635"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Ver o que há de novo ao lançar uma nova versão</translation>
+        <translation>Ver o que há de novo ao lançar uma nova versão</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="661"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">À procura de atualizações...</translation>
+        <translation>À procura de atualizações...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="670"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Ver registo de alterações</translation>
+        <translation>Ver registo de alterações</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="735"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Repor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="853"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definições individuais</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="860"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Mostrar sempre &quot;{podcast_activity_name}&quot; ao ouvir podcasts</translation>
+        <translation>Mostrar sempre &quot;{podcast_activity_name}&quot; ao ouvir podcasts</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="864"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">Tentar filtrar publicidades</translation>
+        <translation>Tentar filtrar publicidades</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="870"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">Apenas mostrar podcasts no teu estado</translation>
+        <translation>Apenas mostrar podcasts no teu estado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="886"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">Dividir o nome do artista e álbum</translation>
+        <translation>Dividir o nome do artista e álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="915"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">Mostrar como &quot;{player_name}&quot;</translation>
+        <translation>Mostrar como &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="937"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presença</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="942"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">Mostrar &quot;{music_activity_name}&quot; em vez do nome do reprodutor</translation>
+        <translation>Mostrar &quot;{music_activity_name}&quot; em vez do nome do reprodutor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="949"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">Mostra o teu estado como uma atividade &quot;{playing_activity_label}&quot;</translation>
+        <translation>Mostra o teu estado como uma atividade &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="963"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Mostrar &quot;{branding_text}&quot; na presença</translation>
+        <translation>Mostrar &quot;{branding_text}&quot; na presença</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informação da faixa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="974"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar o título da música e artista só numa linha</translation>
+        <translation>Mostrar o título da faixa e artista só numa linha</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="990"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar o artista e álbum só numa linha</translation>
+        <translation>Mostrar o artista e álbum só numa linha</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1008"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Trocar a ordem do título da música e artista</translation>
+        <translation>Trocar a ordem do título da faixa e artista</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1013"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Prefixar o nome do artista com &quot;{prefix}&quot;</translation>
+        <translation>Prefixar o nome do artista com &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1020"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Prefixar o nome do álbum com &quot;{prefix}&quot;</translation>
+        <translation>Prefixar o nome do álbum com &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1026"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar o nome do álbum</translation>
+        <translation>Mostrar o nome do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1030"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Mostrar informação da reprodução</translation>
+        <translation>Mostrar informação da reprodução</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1036"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Média em pausa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1040"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar média em pausa no teu estado</translation>
+        <translation>Mostrar média em pausa no teu estado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar um ícone de pausa quando o reprodutor está em pausa</translation>
+        <translation>Mostrar um ícone de pausa quando o reprodutor está em pausa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1048"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Parar a barra de progresso para média em pausa</translation>
+        <translation>Parar a barra de progresso para média em pausa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1062"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Mostrar quanto tempo a média está em pausa</translation>
+        <translation>Mostrar quanto tempo a média está em pausa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reprodutores offline</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1089"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar um ícone enquanto a música tocar</translation>
+        <translation>Mostrar um ícone enquanto a música tocar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1099"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Mostrar o logo do reprodutor</translation>
+        <translation>Mostrar o logo do reprodutor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Testas definições não se aplicam a serviços de streaming</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1122"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">Logo do reprodutor de média</translation>
+        <translation>Logo do reprodutor de média</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1125"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">Nota musical</translation>
+        <translation>Nota musical</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1128"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">Estado da reprodução</translation>
+        <translation>Estado da reprodução</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1132"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1138"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">Logo do {app_name}</translation>
+        <translation>Logo do {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">Diversos</translation>
+        <translation>Diversos</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">Espaço reservado para imagens de álbuns em falta</translation>
+        <translation>Espaço reservado para imagens de álbuns em falta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1205"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Repor tudo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1220"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Remover reprodutor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1299"/>
         <source>Covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Capas</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1303"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carregar imagens de capa dos reprodutores de média</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1320"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">Serviços externos</translation>
+        <translation>Serviços externos</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1341"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Usar o API TIDAL ao reproduzir do TIDAL</translation>
+        <translation>Usar o API TIDAL ao reproduzir do TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1343"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Usar o API Deezer ao reproduzir do Deezer</translation>
+        <translation>Usar o API Deezer ao reproduzir do Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1345"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Usar o API Spotify ao reproduzir do Spotify</translation>
+        <translation>Usar o API Spotify ao reproduzir do Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1348"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Usar o API iTunes ao reproduzir da Apple Music</translation>
+        <translation>Usar o API iTunes ao reproduzir da Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para mais informações sobre que dados são transmitidos para estes serviços e em como é usada, por favor lê o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1404"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
 </context>
 </TS>
