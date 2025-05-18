@@ -73,7 +73,7 @@
         <location filename="../src/app/app.cpp" line="2237"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation>Hỗ trợ tôi bằng một sự quyên góp nhỏ</translation>
+        <translation>Ủng hộ tôi bằng một khoản quyên góp nhỏ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2244"/>
@@ -310,7 +310,7 @@
         <location filename="../src/app/app.cpp" line="2249"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation>Các cài đặt</translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <source>Cover images</source>
@@ -606,7 +606,7 @@
         <location filename="../src/app/app.cpp" line="4504"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation>Không có cập nhật khả dụng</translation>
+        <translation>Không có cập nhật mới</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4531"/>
@@ -728,7 +728,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5562"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Có phiên bản mới của {app_name} đang khả dụng.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Đọc danh sách thay đổi để xem có những gì mới.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Một phiên bản {app_name} mới đang có sẵn.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Đọc nhật ký thay đổi bên dưới để xem có gì mới.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5578"/>
@@ -770,7 +770,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5621"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation>Danh sách thay đổi</translation>
+        <translation>Nhật ký thay đổi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5635"/>
@@ -902,7 +902,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="529"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation>Chủ đề hệ thống</translation>
+        <translation>Theo hệ thống</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
@@ -946,7 +946,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation>Tự động cài đặt bản cập nhật</translation>
+        <translation>Tự động cài đặt cập nhật</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="618"/>
@@ -1060,7 +1060,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1016"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Đổi vị trí của tên bài hát và tên nghệ sĩ</translation>
+        <translation>Đổi vị trí tên bài hát và nghệ sĩ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1021"/>
@@ -1090,7 +1090,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation>Phương tiện đang dừng</translation>
+        <translation>Khi dừng phát</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1048"/>
@@ -1215,25 +1215,25 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1349"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>Sử dụng API của TIDAL khi nghe nhạc trên TIDAL</translation>
+        <translation>Sử dụng TIDAL API, khi nghe nhạc trên TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1351"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation>Sử dụng API của Deezer khi nghe nhạc trên Deezer</translation>
+        <translation>Sử dụng Deezer API, khi nghe nhạc trên Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1353"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation>Sử dụng API của Spotify khi nghe nhạc trên Spotify</translation>
+        <translation>Sử dụng Spotify API, khi nghe nhạc trên Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Sử dụng API của iTunes khi nghe nhạc trên Apple Music</translation>
+        <translation>Sử dụng iTunes API, khi nghe nhạc trên Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1364"/>
