@@ -7,13 +7,13 @@
         <location filename="../src/app/app.cpp" line="1651"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>إذن التحكم التلقائي غير ممنوح</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1657"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt; {app_name} لا يملك الإذن في التحكم التلقائي ب &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt; انتقل إلى الإعدادات &gt; الخصوصية والأمن &gt; التحكم التلقائي &gt; &quot;{app_name}&quot; و اعطي الإذن للتحكم التلقائي ب&quot;{player_name}&quot;. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1671"/>
@@ -73,7 +73,7 @@
         <location filename="../src/app/app.cpp" line="1872"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>في انتظار تشغيل أغنية</translation>
+        <translation>في انتظار تشغيل اغنية</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1876"/>
@@ -109,7 +109,7 @@
         <location filename="../src/app/app.cpp" line="2323"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>قم بتغيير مظهر النشاط لمُشغّل اغاني مُعين</translation>
+        <translation>تحكم في النشاط لكل مُشغّل اغاني</translation>
     </message>
     <message>
         <source>Player</source>
@@ -435,13 +435,13 @@
         <location filename="../src/app/app.cpp" line="3769"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>لا يري التطبيق مُشغّل الأغاني</translation>
+        <translation>لا يري التطبيق مُشغّل الاغاني</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3776"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation>قدم مُشغّلات الأغاني التي تم العثور عليها</translation>
+        <translation>قدم مُشغّلات الاغاني التي تم العثور عليها</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3783"/>
@@ -465,13 +465,13 @@
         <location filename="../src/app/app.cpp" line="3802"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation>اعطي المشروع نجمة علي GutHub</translation>
+        <translation>اعطي المشروع نجمة علي GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3808"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>ما القادم في التحديثات المُستقبليه؟</translation>
+        <translation>ما القادم في التحديثات المُستقبلية؟</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3815"/>
@@ -509,7 +509,7 @@
         <location filename="../src/app/app.cpp" line="3881"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation>اظهر الجديد في هذا التحديث</translation>
+        <translation>اطّلع علي سجل التغييرات</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4154"/>
@@ -641,7 +641,8 @@
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation>&lt;p&gt;&lt;b&gt;تم التحديث إلي نسخة رقم {version}.&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Restart the application قم بإعادة تشغيل التطبيق لتستخدم احدث نسخة&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;تم التحديث إلي نسخة رقم {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;قم بإعادة تشغيل التطبيق لتستخدم احدث نسخة&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4627"/>
@@ -673,7 +674,8 @@
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation>&lt;p&gt;حدث خطأ عند تثبيت التحديث:&lt;/p&gt;&lt;p&gt;{error_message}&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;حدث خطأ عند تثبيت التحديث:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4683"/>
@@ -753,7 +755,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="5621"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation>سِجل التغيير</translation>
+        <translation>سِجل التغييرات</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5635"/>
@@ -764,7 +766,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="5640"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;اضغط علي الأيقونة في شريط المهام لفتح لوحة التحكم &lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} يعمل في الخلفية و تستطيع ان تتحكم في إعداداته بهذه الطريقة . يمكنك ان تتحكم في مشغلات الأغاني اللتي تظهر في نشاطك و مظهر نشاطك &lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;اضغط علي الأيقونة في شريط المهام لفتح لوحة التحكم &lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} يعمل في الخلفية و تستطيع ان تتحكم في إعداداته بهذه الطريقة . يمكنك ان تتحكم في مشغلات الاغاني اللتي تظهر في نشاطك و مظهر نشاطك &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5665"/>
@@ -804,7 +806,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="5789"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>هل تريد المساعدة بطرق اخري؟ &lt;a {attributes}&gt;تدخل معنا!&lt;/a&gt;</translation>
+        <translation>هل تريد المساعدة بطرق اخري؟ &lt;a {attributes}&gt;ساهم معنا!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5797"/>
@@ -953,7 +955,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="670"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation>اتطلع علي سجل التغييرات</translation>
+        <translation>اطّلع علي سجل التغييرات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="743"/>
@@ -989,13 +991,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="894"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation>إقسم إسم المغني و إسم الألبوم</translation>
+        <translation>اقسم اسم المغني و اسم الألبوم</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="923"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation>اظهر بإسم &quot;{player_name}&quot;</translation>
+        <translation>اظهر باسم &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="945"/>
@@ -1007,7 +1009,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="950"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation>اظهر&quot;{music_activity_name}&quot; بدلاً من اسم مُشغّل الأغاني</translation>
+        <translation>اظهر&quot;{music_activity_name}&quot; بدلاً من اسم مُشغّل الاغاني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="957"/>
@@ -1025,25 +1027,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="977"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation>معلومات الأغنية</translation>
+        <translation>معلومات الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="982"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>اظهر إسم الأغنية و اسم المُغني علي نفس السطر</translation>
+        <translation>اظهر اسم الاغنية و اسم المُغني علي نفس السطر</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="998"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>اظهر إسم المُغني و اسم الألبوم علي نفس السطر</translation>
+        <translation>اظهر اسم المُغني و اسم الألبوم علي نفس السطر</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1016"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>اعكس اسم الأغنية مع إسم المُغني</translation>
+        <translation>اعكس اسم الاغنية مع اسم المُغني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1021"/>
@@ -1073,7 +1075,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation>الأغاني المتوقفة</translation>
+        <translation>الاغاني المتوقفة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1048"/>
@@ -1085,7 +1087,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1052"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation>أظهر علامة التوقف عند ايقاف الاغنية</translation>
+        <translation>أظهر علامة الإيقاف المؤقت عند ايقاف الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1056"/>
@@ -1103,24 +1105,24 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation>مُشغلاتُ الأغاني غيرُ المُتصِلة بالإنترنت</translation>
+        <translation>مُشغلاتُ الاغاني غيرُ المُتصِلة بالإنترنت</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1097"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>أظهر علامة تشغيل عند الاستماع الي اُغنية</translation>
+        <translation>أظهر علامة تشغيل عند الاستماع الي اغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1107"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>اظهر شِعار مُشغّل الأغاني</translation>
+        <translation>اظهر شِعار مُشغّل الاغاني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1116"/>
         <source>These settings do not apply to streaming services</source>
-        <translation>هذه الإعدادات لا تنطبق علي مُشغّلات الأغاني المُتصِّلة بالإنترنت</translation>
+        <translation>هذه الإعدادات لا تنطبق علي مُشغّلات الاغاني المُتصِّلة بالإنترنت</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1130"/>
@@ -1138,7 +1140,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1136"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation>حالة الاغنيه</translation>
+        <translation>حالة الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1140"/>
@@ -1156,19 +1158,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1153"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation>الاعدادات الأخري</translation>
+        <translation>الإعدادات الأخري</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1158"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>العلامة النائبة عن الاغاني بدون صورة البوم</translation>
+        <translation>العلامة النائبة عن الاغاني بدون صور ألبومات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1213"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation>إعادة تعيين جميع الاعدادات</translation>
+        <translation>إعادة تعيين جميع الإعدادات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1228"/>
@@ -1186,7 +1188,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1311"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation>رفع صور الألبوم من مُشغّل الاغاني</translation>
+        <translation>رفع صور الألبومات من مُشغّل الاغاني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1328"/>
@@ -1198,25 +1200,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1349"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>استعمال TIDAL API عند استخدام TIDAL</translation>
+        <translation>استعمال TIDAL API عند الاستماع الي TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1351"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation>استعمال Deezer API عندي استخدام Deezer</translation>
+        <translation>استعمال Deezer API عند الاستماع الي Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1353"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation>استعمال Spotify API عن الاستماع الي Spotify</translation>
+        <translation>استعمال Spotify API عند الاستماع الي Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>استعمال iTunes API عند استخدام Apple Music</translation>
+        <translation>استعمال iTunes API عند الاستماع الي Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1364"/>
