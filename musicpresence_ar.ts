@@ -1021,13 +1021,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1058"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر اسم الألبوم عندما لا يتوفر اسم المغني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>الأزرار</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1152"/>
@@ -1140,7 +1140,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1159"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>اظهر زر &quot;{listen_to_this_song}&quot; علي هيئة &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
@@ -1212,19 +1212,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1357"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>صور الألبومات</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">لا تُكثر في تغيير هذا الخيار، حاول مجدداً في {amount} ثانيه</translation>
+        <translation>لا تُكثر في تغيير هذا الخيار. حاول مجدداً في {amount} ثانيه</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1394"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>اِستعمل دائما صور الألبومات المخزنة علي جهازي</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
