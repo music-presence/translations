@@ -1046,13 +1046,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1058"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż nazwę albumu, gdy nie ma artysty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przyciski</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1152"/>
@@ -1165,7 +1165,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1159"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl przycisk &quot;{listen_to_this_song}&quot; jako &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
@@ -1237,19 +1237,19 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1357"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Okładki albumów</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">Nie spamuj tym. Spróbuj ponownie za {amount} sekund</translation>
+        <translation>Nie spamuj tym. Spróbuj ponownie za {amount} sekund</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1394"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze używaj lokalnych okładek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
