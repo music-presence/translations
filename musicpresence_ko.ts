@@ -847,19 +847,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="325"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>일반</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>디스코드</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="327"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>서비스들</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
@@ -877,13 +877,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="403"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>적용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="408"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>시스템 언어</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="498"/>
@@ -928,7 +928,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>윈도우 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
@@ -976,13 +976,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="770"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>재설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="888"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>개별 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="895"/>
@@ -1018,7 +1018,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="972"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="977"/>
@@ -1036,13 +1036,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1058"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>아티스트 누락 시 앨범명 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>버튼</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1152"/>
@@ -1054,7 +1054,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="997"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>노래정보</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
@@ -1102,7 +1102,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1069"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>일시정지된 미디어</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1073"/>
@@ -1132,7 +1132,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1109"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 플레이어</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1122"/>
@@ -1149,13 +1149,13 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1141"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>이 설정은 스트리밍 서비스에는 적용되지 않습니다</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1159"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{listen_to_this_song}&quot; 버튼을 &quot;{play_on_player}&quot;로 표시합니다</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
@@ -1203,26 +1203,26 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1263"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>모두 재설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1278"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>플레이어 제거</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="115"/>
         <location filename="../src/app/settings/window.cpp" line="1361"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>미디어 플레이어에서 표지 이미지 업로드</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1357"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범 표지</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
@@ -1234,7 +1234,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1394"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>항상 로컬 표지 이미지 사용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
@@ -1269,13 +1269,13 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1451"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>이러한 서비스로 전송되는 데이터와 이 데이터가 사용되는 방법에 대한 자세한 내용은 &lt;a {attributes}&gt;개인정보 보호정책&lt;/a&gt;을 읽어주세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1499"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>일반</translation>
     </message>
 </context>
 </TS>
