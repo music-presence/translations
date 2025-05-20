@@ -847,19 +847,19 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="325"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="327"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Layanan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
@@ -877,13 +877,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="403"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Terapkan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="408"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bahasa sistem</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="498"/>
@@ -928,7 +928,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
@@ -958,7 +958,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="662"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Lihat apa yang baru ketika meluncurkan versi terbaru</translation>
+        <translation>Lihat apa yang baru ketika versi baru diluncurkan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="688"/>
@@ -970,19 +970,19 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="697"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Lihat catatan perubahan</translation>
+        <translation>Lihat log perubahan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="770"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kembalikan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="888"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan pribadi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="895"/>
@@ -994,7 +994,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="899"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">Cobalah untuk memfilter iklan</translation>
+        <translation>Coba untuk memfilter iklan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="905"/>
@@ -1018,13 +1018,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="972"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="977"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">Tampilkan &quot;{music_activity_name}&quot; alih-alih nama pemain</translation>
+        <translation>Tampilkan &quot;{music_activity_name}&quot; daripada nama pemutar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="984"/>
@@ -1036,13 +1036,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1058"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan nama album ketika nama artis tidak ada</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tombol</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1152"/>
@@ -1054,7 +1054,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="997"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informasi lagu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
@@ -1102,7 +1102,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1069"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Media yang dijeda</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1073"/>
@@ -1126,13 +1126,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1095"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Tampilkan untuk berapa lama media dijeda</translation>
+        <translation>Tampilkan berapa lama media dijeda</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1109"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemutar luring</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1122"/>
@@ -1149,13 +1149,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
     <message>
         <location filename="../src/app/settings/window.cpp" line="1141"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan ini tidak diterapkan ke layanan streaming</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1159"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan tombol &quot;{listen_to_this_song}&quot; sebagai &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
@@ -1203,26 +1203,26 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1263"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atur ulang semua</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1278"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hapus pemutar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="115"/>
         <location filename="../src/app/settings/window.cpp" line="1361"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unggah gambar sampul dari pemutar media</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1357"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sampul album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
@@ -1234,7 +1234,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1394"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selalu gunakan gambar sampul lokal</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
@@ -1269,13 +1269,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
     <message>
         <location filename="../src/app/settings/window.cpp" line="1451"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk informasi lebih lanjut tentang apa itu data transmisi ke layanan ini dan bagaimana data ini digunakan, silahkan baca &lt;a {attributes}&gt;Pemberitahuan Privasi&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1499"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umum</translation>
     </message>
 </context>
 </TS>
