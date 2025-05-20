@@ -821,177 +821,177 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="240"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Перевірити наявність оновлень</translation>
+        <translation>Перевірити наявність оновлень</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="316"/>
         <source>Settings</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="325"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Загальні</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="327"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сервіси</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Вигляд</translation>
+        <translation>Оформлення</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="389"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Мова / {language}</translation>
+        <translation>Мова / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="403"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="408"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Системна мова</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="498"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Вигляд</translation>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="505"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тема іконки трея</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="514"/>
         <location filename="../src/app/settings/window.cpp" line="556"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Системна тема</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="516"/>
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Світла</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="518"/>
         <location filename="../src/app/settings/window.cpp" line="559"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Темна</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="548"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тема додатку</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування Windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Запускати {app_name} с запуском системи</translation>
+        <translation>Запускати {app_name} з запуском системи</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="623"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Оновлення</translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="630"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Встановлювати оновлення автоматично</translation>
+        <translation>Встановлювати оновлення автоматично</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="645"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Повідомляти коли нова версія доступна</translation>
+        <translation>Повідомляти о наявності нової версії</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="662"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Дивитися що нового під час запуску нової версії</translation>
+        <translation>Дивитися що нового під час запуску нової версії</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="688"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Перевірка оновлень...</translation>
+        <translation>Перевірка оновлень...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="697"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Дивитися журнал змін</translation>
+        <translation>Дивитися журнал змін</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="770"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="888"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Індивідуальні налаштування</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="895"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Завжди показувати &quot;{podcast_activity_name}&quot;, коли слухаєш подкасти</translation>
+        <translation>Завжди показувати &quot;{podcast_activity_name}&quot;, коли слухаєш подкасти</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="899"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">Намагатися фільтрувати рекламу</translation>
+        <translation>Намагатися фільтрувати рекламу</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="905"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">Показувати тільки подкасти у вашому статусі</translation>
+        <translation>Показувати тільки подкасти у Вашому статусі</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="921"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">Розділяти ім&apos;я виконавця та назву альбому</translation>
+        <translation>Розділяти ім&apos;я виконавця та назву альбому</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="950"/>
