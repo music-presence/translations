@@ -511,14 +511,14 @@
         <location filename="../src/app/app.cpp" line="3807"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation>Về Quyền riêng tư</translation>
+        <translation>Quyền riêng tư</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3814"/>
         <location filename="../src/app/app.cpp" line="5697"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation>Về {app_name}</translation>
+        <translation>Thông tin ứng dụng</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3848"/>
@@ -764,7 +764,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5602"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Cái này chỉ được hiện sau khi mở phiên bản mới.</translation>
+        <translation>Cửa sổ này chỉ xuất hiện khi một phiên bản mới được mở.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5613"/>
@@ -799,13 +799,13 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="5773"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation>Về Bản quyền</translation>
+        <translation>Bản quyền</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5776"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation>Về Quyền riêng tư</translation>
+        <translation>Quyền riêng tư</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5779"/>
@@ -889,7 +889,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="498"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation>Ngoại hình</translation>
+        <translation>Giao diện</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="505"/>
@@ -928,7 +928,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation>Cài đặt Hệ điều hành</translation>
+        <translation>Cài đặt khởi động</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
