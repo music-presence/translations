@@ -7,203 +7,203 @@
         <location filename="../src/app/app.cpp" line="1752"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1759"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>已启用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1764"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在运行</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1846"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>已停用播放状态</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1849"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>点击这里启用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1853"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>已启用播放状态</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1858"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在等待Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1864"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在等待媒体播放</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1868"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>播放状态运行中</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2224"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>赞助</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2229"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>赞助我喝一杯咖啡</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2236"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>退出</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2315"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>按播放应用切换播放状态</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2241"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1643"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automation权限被拒绝</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1800"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title}，{media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3854"/>
         <location filename="../src/app/app.cpp" line="4211"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3866"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在检查更新...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3873"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>查看更新日志</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3757"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3761"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>我的播放器没有被识别到</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3768"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>提交检测到的播放器</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3775"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>在GitHub上报告问题</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3781"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>加入我们的Discord社群</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3794"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>在GitHub上给这个项目点个星</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3800"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>接下来有什么新的特性？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3807"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>隐私声明</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3814"/>
         <location filename="../src/app/app.cpp" line="5697"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3848"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在使用的版本是 {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4151"/>
         <location filename="../src/app/app.cpp" line="4612"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>点击下载版本 {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4269"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在取消下载...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4277"/>
         <location filename="../src/app/app.cpp" line="5560"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>安装</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4295"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>自动更新已启用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4297"/>
@@ -211,33 +211,34 @@
         <location filename="../src/app/app.cpp" line="4555"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>启用自动更新</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4322"/>
         <location filename="../src/app/app.cpp" line="5561"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在安装...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4355"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>自动更新已禁用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4434"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>点击安装版本 {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4877"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>喜欢{app_name}吗？
+你可以通过赞助来支持开发。点击这里或者任务栏图标了解更多。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4146"/>
@@ -246,199 +247,201 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4465"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>新版本可用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1649"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} 无权限运行自动化&quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;在系统设置中为 &quot;{player_name}&quot; 启用自动化，设置路径为&quot;隐私与安全性&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1663"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>打开设置</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3788"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>通过赞助支持开发</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4444"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>访问下载页面</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4455"/>
         <location filename="../src/app/app.cpp" line="4462"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在安装更新...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4491"/>
         <location filename="../src/app/app.cpp" line="4496"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>已经是最新版本了</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4523"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新到版本 {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4526"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>重启应用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4534"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>发生错误</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4540"/>
         <location filename="../src/app/app.cpp" line="4543"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>新版本已安装</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4548"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>已安装</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4551"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新已安装</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4552"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>重启</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4578"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;已更新到版本 {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;请重启应用以使用最新版本。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4619"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>错误：安装失败</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4644"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>报告此问题</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4654"/>
         <location filename="../src/app/app.cpp" line="4657"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>安装更新失败</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4662"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4670"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;安装此更新时出现错误：&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4675"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>手动下载</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4863"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>欢迎加入我们的Discord社群！认识其他用户，向我们提出建议以及获取最新信息。点击这里或者帮助菜单中加入。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5430"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>不再显示</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5553"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>有更新可用</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5554"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;有新的{app_name}版本已发布。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;以下是本次更新的内容&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5570"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>重试</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5576"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>下载</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5587"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>新版本已更新</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5593"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>有什么新功能？</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5600"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>好的</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5602"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>此消息仅在新版本发布时显示。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5613"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新日志</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5636"/>
