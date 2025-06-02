@@ -365,10 +365,9 @@
         <translation>Pomoć</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Moj medijski player nije detektiran</translation>
+        <translation type="vanished">Moj medijski player nije detektiran</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -505,6 +504,12 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation type="vanished">Odvoji naziv izvođača od naziva albuma</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

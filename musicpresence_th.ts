@@ -372,7 +372,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3811"/>
-        <source>My media player is not detected</source>
+        <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation type="unfinished"></translation>
     </message>

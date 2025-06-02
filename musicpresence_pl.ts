@@ -447,10 +447,9 @@
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Mój odtwarzacz nie jest wykrywany</translation>
+        <translation type="vanished">Mój odtwarzacz nie jest wykrywany</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -586,6 +585,12 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
         <translation type="vanished">O aplikacji</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4530"/>

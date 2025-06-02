@@ -125,12 +125,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
-        <source>My media player is not detected</source>
-        <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/app/app.cpp" line="3818"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
@@ -258,6 +252,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1674"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

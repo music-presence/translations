@@ -375,10 +375,9 @@
         <translation>說明</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>系統偵測不到我的媒體播放程式</translation>
+        <translation type="vanished">系統偵測不到我的媒體播放程式</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -540,6 +539,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation type="vanished">{app_name} 標誌</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

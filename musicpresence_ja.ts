@@ -370,10 +370,9 @@
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>メディアプレイヤーが認識されません</translation>
+        <translation type="vanished">メディアプレイヤーが認識されません</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -575,6 +574,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
         <translation type="vanished">Apple Musicで聴いているとき、iTunes APIを使用する</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

@@ -375,10 +375,9 @@
         <translation>도움말</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>내 미디어 플레이어가 감지되지 않음</translation>
+        <translation type="vanished">내 미디어 플레이어가 감지되지 않음</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -575,6 +574,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
         <translation type="vanished">Apple Music을 들을때 iTunes API 사용하기</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

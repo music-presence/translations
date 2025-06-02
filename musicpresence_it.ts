@@ -422,10 +422,9 @@
         <translation>Aiuto</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Il lettore multimediale non è rilevato</translation>
+        <translation type="vanished">Il lettore multimediale non è rilevato</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -561,6 +560,12 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
         <translation type="vanished">Informazioni su Music Presence</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4530"/>

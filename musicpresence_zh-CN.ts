@@ -125,10 +125,9 @@
         <translation>帮助</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>我的播放器没有被识别到</translation>
+        <translation type="vanished">我的播放器没有被识别到</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -260,6 +259,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>打开设置</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

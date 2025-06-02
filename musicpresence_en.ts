@@ -112,6 +112,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/app.cpp" line="3904"/>
         <location filename="../src/app/app.cpp" line="4297"/>
         <source>Check for updates</source>
@@ -134,12 +140,6 @@
         <location filename="../src/app/app.cpp" line="3807"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
-        <source>My media player is not detected</source>
-        <comment>help link: opens troubleshooting page</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

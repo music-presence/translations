@@ -422,10 +422,9 @@
         <translation>Помощь</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Мой медиа-плеер не обнаружен</translation>
+        <translation type="vanished">Мой медиа-плеер не обнаружен</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -561,6 +560,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
         <translation type="vanished">Про приложение</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4530"/>

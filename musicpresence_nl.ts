@@ -375,10 +375,9 @@
         <translation>Help</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Mijn mediaspeler wordt niet herkend</translation>
+        <translation type="vanished">Mijn mediaspeler wordt niet herkend</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -575,6 +574,12 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
         <translation type="vanished">Gebruik de iTunes API voor media van Apple Music</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

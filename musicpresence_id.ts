@@ -375,10 +375,9 @@
         <translation>Bantuan</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Pemutar media saya tidak terdeteksi</translation>
+        <translation type="vanished">Pemutar media saya tidak terdeteksi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -575,6 +574,12 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
         <translation type="vanished">Gunakan API iTunes, ketika mendengarkan Apple Music</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

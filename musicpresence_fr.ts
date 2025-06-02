@@ -375,10 +375,9 @@
         <translation>Aide</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Mon lecteur n&apos;est pas détecté</translation>
+        <translation type="vanished">Mon lecteur n&apos;est pas détecté</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -550,6 +549,12 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>general setting</comment>
         <translation type="vanished">Utiliser l’API iTunes lors de l’écoute sur Apple Music</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>

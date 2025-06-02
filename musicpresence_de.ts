@@ -447,10 +447,9 @@
         <translation>Hilfe</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3811"/>
         <source>My media player is not detected</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation>Mein Medienspieler wird nicht erkannt</translation>
+        <translation type="vanished">Mein Medienspieler wird nicht erkannt</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -586,6 +585,12 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <source>About</source>
         <comment>help button: opens the &quot;About&quot; window with information about the app</comment>
         <translation type="vanished">Über</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="3811"/>
+        <source>Something is not working</source>
+        <comment>help link: opens troubleshooting page</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4530"/>
