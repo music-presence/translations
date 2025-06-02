@@ -579,7 +579,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="3811"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sesuatu tidak bekerja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>
@@ -870,7 +870,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lanjutan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
