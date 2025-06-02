@@ -469,7 +469,7 @@
         <location filename="../src/app/app.cpp" line="3811"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jokin ei toimi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3818"/>
@@ -836,476 +836,476 @@ Voit tukea kehitystä lahjoituksella. Paina tästä tai tehtäväpalkin kuvakkee
         <location filename="../src/app/settings/window.cpp" line="240"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Tarkista päivitykset</translation>
+        <translation>Tarkista päivitykset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="316"/>
         <source>Settings</source>
-        <translation type="unfinished">Asetukset</translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="325"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yleiset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="327"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Palvelut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Edistyneet</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Ulkoasu</translation>
+        <translation>Ulkoasu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="398"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Kieli / {language}</translation>
+        <translation>Kieli / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="412"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ota käyttöön</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="417"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmän kieli</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="507"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Ulkoasu</translation>
+        <translation>Ulkoasu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="514"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished">Tehtäväpalkin kuvakkeen teema</translation>
+        <translation>Tehtäväpalkin kuvakkeen teema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <location filename="../src/app/settings/window.cpp" line="565"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished">Järjestelmän teema</translation>
+        <translation>Järjestelmän teema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="525"/>
         <location filename="../src/app/settings/window.cpp" line="567"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished">Vaalea</translation>
+        <translation>Vaalea</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="527"/>
         <location filename="../src/app/settings/window.cpp" line="568"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished">Tumma</translation>
+        <translation>Tumma</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="557"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished">Sovelluksen teema</translation>
+        <translation>Sovelluksen teema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows-asetukset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="612"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Käynnistä {app_name} kirjautumisen yhteydessä</translation>
+        <translation>Käynnistä {app_name} kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="632"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Päivitykset</translation>
+        <translation>Päivitykset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="639"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Asenna päivitykset automaattisesti</translation>
+        <translation>Asenna päivitykset automaattisesti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="654"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Ilmoita uuden version ollessa saatavilla</translation>
+        <translation>Ilmoita uuden version ollessa saatavilla</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="671"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Esittele uudet ominaisuudet uuden version käynnistyessä</translation>
+        <translation>Esittele uudet ominaisuudet uuden version käynnistyessä</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="697"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Tarkistetaan päivityksiä...</translation>
+        <translation>Tarkistetaan päivityksiä...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Näytä muutosloki</translation>
+        <translation>Näytä muutosloki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="779"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Palauta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="897"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Soitinkohtaiset asetukset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="904"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Näytä aina &quot;{podcast_activity_name}&quot; podcasteja kuunnellessa</translation>
+        <translation>Näytä aina &quot;{podcast_activity_name}&quot; podcasteja kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="908"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">Yritä mainosten poissuodatusta</translation>
+        <translation>Yritä mainosten poissuodatusta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="914"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">Näytä vain podcastit toiminnassasi</translation>
+        <translation>Näytä vain podcastit toiminnassasi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="930"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">Erota artistin ja albumin nimi</translation>
+        <translation>Erota artistin ja albumin nimi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="959"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">Näytä muodossa &quot;{player_name}&quot;</translation>
+        <translation>Näytä muodossa &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="981"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toiminta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="986"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">Näytä &quot;{music_activity_name}&quot; soittimen nimen sijaan</translation>
+        <translation>Näytä &quot;{music_activity_name}&quot; soittimen nimen sijaan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="993"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">Näytä toimintasi muodossa &quot;{playing_activity_label}&quot;</translation>
+        <translation>Näytä toimintasi muodossa &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1067"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Näytä albumin nimi artistin nimen puuttuessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1154"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Painikkeet</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Näytä &quot;{branding_text}&quot; toiminnassa</translation>
+        <translation>Näytä &quot;{branding_text}&quot; toiminnassa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1006"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kappaleen tiedot</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1011"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä kappaleen nimi ja artisti samalla rivillä</translation>
+        <translation>Näytä kappaleen nimi ja artisti samalla rivillä</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1027"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä artisti ja albumi samalla rivillä</translation>
+        <translation>Näytä artisti ja albumi samalla rivillä</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1045"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä kappaleen nimi ja artisti toisin päin</translation>
+        <translation>Näytä kappaleen nimi ja artisti toisin päin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1050"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Lisää artistin nimelle etuliite &quot;{prefix}&quot;</translation>
+        <translation>Lisää artistin nimelle etuliite &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1057"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Lisää albumin nimelle etuliite &quot;{prefix}&quot;</translation>
+        <translation>Lisää albumin nimelle etuliite &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1063"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä albumin nimi</translation>
+        <translation>Näytä albumin nimi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1072"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Näytä toistotiedot</translation>
+        <translation>Näytä toistotiedot</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1078"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytetty media</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1082"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä tauotettu media toiminnassasi</translation>
+        <translation>Näytä tauotettu media toiminnassasi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1086"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä taukokuvake musiikin ollessa tauotettuna</translation>
+        <translation>Näytä taukokuvake musiikin ollessa tauotettuna</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1090"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Pysäytä edistymispalkki tauotetulle medialle</translation>
+        <translation>Pysäytä edistymispalkki tauotetulle medialle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1104"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Näytä median tauotuksen kesto</translation>
+        <translation>Näytä median tauotuksen kesto</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1118"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yhteydettömät soittimet</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1131"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä toistokuvake musiikin soidessa</translation>
+        <translation>Näytä toistokuvake musiikin soidessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1141"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Näytä mediasoittimen logo</translation>
+        <translation>Näytä mediasoittimen logo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Nämä asetukset eivät koske suoratoistopalveluja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1168"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Näytä &quot;{listen_to_this_song}&quot; -painike &quot;{play_on_player}&quot; -painikkeena</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1187"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">Mediasoittimen logo</translation>
+        <translation>Mediasoittimen logo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1190"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">Nuotti</translation>
+        <translation>Nuotti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1193"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">Toiston tila</translation>
+        <translation>Toiston tila</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1197"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD-levy</translation>
+        <translation>CD-levy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1203"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">{app_name} -logo</translation>
+        <translation>{app_name} -logo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1210"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">Sekalaiset</translation>
+        <translation>Sekalaiset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1216"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">Korvaava kuva puuttuville kansikuville</translation>
+        <translation>Korvaava kuva puuttuville kansikuville</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1272"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Palauta kaikki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1287"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poista soitin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="115"/>
         <location filename="../src/app/settings/window.cpp" line="1458"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lähetä kansikuvat mediasoittimista</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mediantunnistus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä sovellus uudelleen, jotta muutokset astuvat voimaan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käytä järjestelmän omia rajapintoja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käytä AppleScript-automaatiota</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1454"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albumien kannet</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1468"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">Älä spämmää. Yritä uudelleen {amount} sekunnin kuluttua</translation>
+        <translation>Älä spämmää. Yritä uudelleen {amount} sekunnin kuluttua</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1491"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käytä aina paikallisia albumien kansia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">Ulkoiset palvelut</translation>
+        <translation>Ulkoiset palvelut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1533"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Käytä TIDALin rajapintaa TIDALia kuunnellessa</translation>
+        <translation>Käytä TIDALin rajapintaa TIDALia kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1535"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Käytä Deezerin rajapintaa Deezeriä kuunnellessa</translation>
+        <translation>Käytä Deezerin rajapintaa Deezeriä kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1537"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Käytä Spotifyn rajapintaa Spotifya kuunnellessa</translation>
+        <translation>Käytä Spotifyn rajapintaa Spotifyä kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1540"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Käytä iTunesin rajapintaa Apple Musicia kuunnellessa</translation>
+        <translation>Käytä iTunesin rajapintaa Apple Musicia kuunnellessa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1548"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisätietoa siitä, mitä dataa näihin palveluihin lähetetään ja kuinka tätä dataa käytetään saat &lt;a {attributes}&gt;tietosuojailmoituksesta&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1596"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yleiset</translation>
     </message>
 </context>
 </TS>
