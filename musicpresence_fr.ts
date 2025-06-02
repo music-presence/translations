@@ -676,7 +676,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="4949"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>N&apos;hésitez pas à rejoindre notre serveur Discord ! Rencontrez d&apos;autres utilisateurs, faites des suggestions et restez informé. Cliquez ici ou dans le menu Aide pour nous rejoindre.</translation>
+        <translation>N&apos;hésitez pas à rejoindre notre serveur Discord&#x2009;! Rencontrez d&apos;autres utilisateurs, faites des suggestions et restez informé. Cliquez ici ou dans le menu Aide pour nous rejoindre.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5516"/>
@@ -787,7 +787,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/app.cpp" line="5876"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>Vous voulez aider d&apos;une autre manière ? &lt;a {attributes}&gt;Participez !&lt;/a&gt;</translation>
+        <translation>Vous voulez aider d&apos;une autre manière ? &lt;a {attributes}&gt;Participez&#x2009;!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5884"/>
