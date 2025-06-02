@@ -579,7 +579,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3811"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>무언가가 작동하지 않습니다</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>
@@ -841,12 +841,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="240"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">업데이트 확인하기</translation>
+        <translation>업데이트 확인하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="316"/>
         <source>Settings</source>
-        <translation type="unfinished">설정</translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="325"/>
@@ -870,19 +870,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>고급</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">환경 설정</translation>
+        <translation>환경 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="398"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">언어 / {language}</translation>
+        <translation>언어 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="412"/>
@@ -900,40 +900,40 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="507"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">환경 설정</translation>
+        <translation>환경 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="514"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished">트레이 아이콘 스타일</translation>
+        <translation>트레이 아이콘 테마</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <location filename="../src/app/settings/window.cpp" line="565"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished">시스템 설정 테마</translation>
+        <translation>시스템 테마</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="525"/>
         <location filename="../src/app/settings/window.cpp" line="567"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished">라이트</translation>
+        <translation>라이트</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="527"/>
         <location filename="../src/app/settings/window.cpp" line="568"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished">다크</translation>
+        <translation>다크</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="557"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished">앱 테마</translation>
+        <translation>앱 테마</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
@@ -945,43 +945,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="612"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">로그인 시 {app_name} 시작</translation>
+        <translation>로그인 시 {app_name} 시작</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="632"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">업데이트</translation>
+        <translation>업데이트</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="639"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">자동으로 업데이트 설치</translation>
+        <translation>자동으로 업데이트 설치</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="654"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">새 버전이 출시되면 알림</translation>
+        <translation>새 버전이 출시되면 알림</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="671"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">새 버전을 실행할 때 새로운 기능 확인</translation>
+        <translation>새 버전을 실행할 때 새로운 기능 확인</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="697"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">업데이트 확인 중...</translation>
+        <translation>업데이트 확인 중...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">변경 로그 보기</translation>
+        <translation>변경 로그 보기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="779"/>
@@ -999,31 +999,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="904"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">팟캐스트를 들을 때 항상 &quot;{podcast_activity_name}&quot; 표시</translation>
+        <translation>팟캐스트를 들을 때 항상 &quot;{podcast_activity_name}&quot; 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="908"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">광고를 필터링하려고 시도</translation>
+        <translation>광고를 필터링하려고 시도</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="914"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">상태에 팟캐스트만 표시</translation>
+        <translation>상태에 팟캐스트만 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="930"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">아티스트 이름과 앨범 이름을 분리</translation>
+        <translation>아티스트 이름과 앨범 이름을 분리</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="959"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">“{player_name}”으로 표시하기</translation>
+        <translation>“{player_name}”으로 표시하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="981"/>
@@ -1035,13 +1035,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="986"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">플레이어 이름 대신에 &quot;{music_activity_name}&quot;을(를) 표시하기</translation>
+        <translation>플레이어 이름 대신에 &quot;{music_activity_name}&quot;을(를) 표시하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="993"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">&quot;{playing_activity_label}&quot; 활동으로 상태 표시</translation>
+        <translation>&quot;{playing_activity_label}&quot; 활동으로 상태 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1067"/>
@@ -1059,7 +1059,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Presence에 &quot;{branding_text}&quot; 표시</translation>
+        <translation>Presence에 &quot;{branding_text}&quot; 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1006"/>
@@ -1071,43 +1071,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1011"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">노래 제목과 아티스트를 한 줄에 표시</translation>
+        <translation>노래 제목과 아티스트를 한 줄에 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1027"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">아티스트와 앨범을 한 줄에 표시</translation>
+        <translation>아티스트와 앨범을 한 줄에 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1045"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">노래 제목과 아티스트의 순서 바꾸기</translation>
+        <translation>노래 제목과 아티스트의 순서 바꾸기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1050"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">아티스트 이름 앞에 &quot;{prefix}&quot; 추가</translation>
+        <translation>아티스트 이름 앞에 &quot;{prefix}&quot; 추가</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1057"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">앨범 이름 앞에 &quot;{prefix}&quot; 추가</translation>
+        <translation>앨범 이름 앞에 &quot;{prefix}&quot; 추가</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1063"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">앨범 이름 표시</translation>
+        <translation>앨범 이름 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1072"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">재생 정보 표시</translation>
+        <translation>재생 정보 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1078"/>
@@ -1119,25 +1119,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1082"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">상태에 일시 정지된 미디어 표시</translation>
+        <translation>상태에 일시 정지된 미디어 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1086"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">음악이 일시 정지되었을 때 일시 정지 아이콘 표시</translation>
+        <translation>음악이 일시 정지되었을 때 일시 정지 아이콘 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1090"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">일시 정지된 미디어의 진행 바 고정</translation>
+        <translation>일시 정지된 미디어의 진행 바 고정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1104"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">미디어가 일시 정지된 시간을 표시</translation>
+        <translation>미디어가 일시 정지된 시간을 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1118"/>
@@ -1149,13 +1149,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1131"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">음악이 재생될 때 재생 아이콘 표시</translation>
+        <translation>음악이 재생될 때 재생 아이콘 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1141"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">미디어 플레이어의 로고 표시</translation>
+        <translation>미디어 플레이어의 로고 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
@@ -1172,43 +1172,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1187"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">미디어 플레이어 로고</translation>
+        <translation>미디어 플레이어 로고</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1190"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">음악 노트</translation>
+        <translation>음악 노트</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1193"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">재생 상태</translation>
+        <translation>재생 상태</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1197"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1203"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">{app_name} 로고</translation>
+        <translation>{app_name} 로고</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1210"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1216"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">누락된 표지 이미지에 대한 자리 표시자</translation>
+        <translation>누락된 표지 이미지에 대한 자리 표시자</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1272"/>
@@ -1233,25 +1233,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>미디어 감지</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>변경 사항을 적용하려면 앱을 다시 시작하세요</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>기본 시스템 인터페이스 사용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScript 자동화 사용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1454"/>
@@ -1263,7 +1263,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1468"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">이것을 너무 많이 사용하지 마세요. {amount}초 후에 다시 시도하세요</translation>
+        <translation>이것을 너무 많이 시도하지 마세요. {amount}초 후에 다시 시도하세요</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1491"/>
@@ -1275,31 +1275,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">외부 서비스</translation>
+        <translation>외부 서비스</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1533"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">TIDAL을 들을 때 TIDAL API 사용</translation>
+        <translation>TIDAL을 들을 때 TIDAL API 사용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1535"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Deezer를 들을 때 Deezer API 사용</translation>
+        <translation>Deezer를 들을 때 Deezer API 사용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1537"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Spotify를 들을때 Spotify API 사용하기</translation>
+        <translation>Spotify를 들을때 Spotify API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1540"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Apple Music을 들을때 iTunes API 사용하기</translation>
+        <translation>Apple Music을 들을때 iTunes API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1548"/>
