@@ -875,7 +875,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaawansowane</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
@@ -1243,25 +1243,25 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wykrywanie mediów</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zrestartuj aplikację, żeby zmiany zostały wprowadzone</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Używaj interfejsów systemowych</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Używaj automatyzacji AppleScript</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1454"/>
