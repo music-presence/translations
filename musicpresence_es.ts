@@ -579,7 +579,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="3811"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Algo no funciona</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>
@@ -870,7 +870,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
@@ -1238,25 +1238,25 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Detección de reproducción</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie la aplicación para que estos cambios surtan efecto</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar interfaces del sistema nativo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar automatización de AppleScript</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1454"/>
