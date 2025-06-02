@@ -998,7 +998,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="959"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">Afficher sous le nom de &quot;{player_name}&quot;</translation>
+        <translation>Afficher en &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="981"/>
@@ -1124,13 +1124,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1131"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Afficher une icône de lecture lorsque de la musique est en cours</translation>
+        <translation>Afficher une icône de lecture lorsque de la musique est en cours</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1141"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Afficher le logo du lecteur</translation>
+        <translation>Afficher le logo du lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
@@ -1147,31 +1147,31 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1187"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">Logo du lecteur</translation>
+        <translation>Logo du lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1190"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">Note de musique</translation>
+        <translation>Note de musique</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1193"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">État de la lecture</translation>
+        <translation>État de la lecture</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1197"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1203"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">Logo de {app_name}</translation>
+        <translation>Logo de {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1210"/>
@@ -1238,7 +1238,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1468"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">Ne spammez pas. Réessayez dans {amount} secondes</translation>
+        <translation>Ne spammez pas. Réessayez dans {amount} secondes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1491"/>
@@ -1250,31 +1250,31 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">Services externes</translation>
+        <translation>Services externes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1533"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Utiliser l&apos;API de TIDAL lors de l&apos;écoute sur TIDAL</translation>
+        <translation>Utiliser l&apos;API de TIDAL lors de l&apos;écoute sur TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1535"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Utiliser l&apos;API de Deezer lors de l&apos;écoute sur Deezer</translation>
+        <translation>Utiliser l&apos;API de Deezer lors de l&apos;écoute sur Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1537"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Utiliser l’API Spotify lors de l’écoute sur Spotify</translation>
+        <translation>Utiliser l’API Spotify lors de l’écoute sur Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1540"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Utiliser l’API iTunes lors de l’écoute sur Apple Music</translation>
+        <translation>Utiliser l’API iTunes lors de l’écoute sur Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1548"/>
