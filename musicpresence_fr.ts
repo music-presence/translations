@@ -407,7 +407,7 @@
         <location filename="../src/app/app.cpp" line="3850"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>Quelles seront les prochaines nouveautés ?</translation>
+        <translation>Quelles seront les prochaines nouveautés&#x2009;?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3857"/>
@@ -486,7 +486,7 @@
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation>Vous aimez {app_name} ? 
+        <translation>Vous aimez {app_name}&#x2009;? 
 Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu de la barre des tâches pour plus d&apos;infos.</translation>
     </message>
     <message>
@@ -718,7 +718,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="5679"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation>Quelles sont les nouveautés ?</translation>
+        <translation>Quelles sont les nouveautés&#x2009;?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5686"/>
@@ -753,7 +753,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="5752"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Entendu&#xa0;!</translation>
+        <translation>Entendu&#x2009;!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5853"/>
@@ -782,12 +782,12 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/app.cpp" line="5868"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>Vous aimez {app_name} ? &lt;a {attributes}&gt;Soutenez le développement avec un don&lt;/a&gt;</translation>
+        <translation>Vous aimez {app_name}&#x2009;? &lt;a {attributes}&gt;Soutenez le développement avec un don&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5876"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>Vous voulez aider d&apos;une autre manière ? &lt;a {attributes}&gt;Participez&#x2009;!&lt;/a&gt;</translation>
+        <translation>Vous voulez aider d&apos;une autre manière&#x2009;? &lt;a {attributes}&gt;Participez&#x2009;!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5884"/>
