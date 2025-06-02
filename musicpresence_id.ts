@@ -1089,13 +1089,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1050"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Tambahkan awalan &quot;{prefix}&quot; pada nama artis</translation>
+        <translation>Taruh awalan &quot;{prefix}&quot; pada nama artis</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1057"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Tambahkan awalan &quot;{prefix}&quot; pada nama album</translation>
+        <translation>Taruh awalan &quot;{prefix}&quot; pada nama album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1063"/>
@@ -1155,7 +1155,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1141"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Tampilkan logo dari pemutar media</translation>
+        <translation type="unfinished">Tampilkan logo pemutar media</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
@@ -1233,25 +1233,25 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deteksi media</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mulai ulang aplikasi untuk menerapkan perubahan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan antarmuka natif sistem</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan otomatisasi AppleScript</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1454"/>
