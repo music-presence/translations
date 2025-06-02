@@ -590,7 +590,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/app.cpp" line="3811"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coś nie działa</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4530"/>
