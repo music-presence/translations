@@ -1218,7 +1218,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation>Rilevamento media</translation>
+        <translation>Rilevamento brani</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
