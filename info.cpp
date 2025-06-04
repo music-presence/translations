@@ -209,6 +209,13 @@ std::vector<Contributor> const& translations::contributors()
             .link_to_github = false,
             .translated_languages = {"fr"},
         },
+        {
+            .name = "Pascal Tufariello",
+            .github_name = "pascal-00",
+            .codeberg_name = "pascal0",
+            .link_to_github = true,
+            .translated_languages = {"it"},
+        },
     };
     return contributors;
 }
