@@ -579,7 +579,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="3811"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>何かうまく動作していません</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3838"/>
@@ -870,7 +870,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>詳細設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
@@ -1238,25 +1238,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>メディア検出</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>これらの設定はアプリの再起動後に適用されます</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>ネイティブシステムインターフェイスを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScriptを使用したオートメーションを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1454"/>
