@@ -590,7 +590,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/app.cpp" line="4127"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etwas funktioniert nicht</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4846"/>
@@ -851,7 +851,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/news/news_dialog.cpp" line="32"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neuigkeiten</translation>
     </message>
 </context>
 <context>
@@ -860,225 +860,225 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="241"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Nach Updates suchen</translation>
+        <translation>Nach Updates suchen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="317"/>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="327"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dienste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="333"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Darstellung</translation>
+        <translation>Darstellung</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="399"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Sprache / {language}</translation>
+        <translation>Sprache / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="413"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="418"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Systemsprache</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="508"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Darstellung</translation>
+        <translation>Darstellung</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="515"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished">Taskleistensymbol-Design</translation>
+        <translation>Taskleistensymbol-Design</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="524"/>
         <location filename="../src/app/settings/window.cpp" line="566"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished">System-Design</translation>
+        <translation>System-Design</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="526"/>
         <location filename="../src/app/settings/window.cpp" line="568"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished">Hell</translation>
+        <translation>Hell</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="528"/>
         <location filename="../src/app/settings/window.cpp" line="569"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished">Dunkel</translation>
+        <translation>Dunkel</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished">App-Design</translation>
+        <translation>App-Design</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="604"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows-Einstellungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="613"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">{app_name} beim Systemstart ausführen</translation>
+        <translation>{app_name} beim Systemstart ausführen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="633"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Aktualisierungen</translation>
+        <translation>Aktualisierungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="640"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Installiere Updates automatisch</translation>
+        <translation>Installiere Updates automatisch</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="655"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Bei neuer Version benachrichtigen</translation>
+        <translation>Bei neuer Version benachrichtigen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="672"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Zeige Neuerungen nach einem Update</translation>
+        <translation>Zeige Neuerungen nach einem Update</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="698"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Suche nach Updates...</translation>
+        <translation>Suche nach Updates...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="707"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Änderungsverlauf anzeigen</translation>
+        <translation>Änderungsverlauf anzeigen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="776"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="894"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Individuelle Einstellungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="901"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Zeige immer &quot;{podcast_activity_name}&quot; wenn du Podcasts hörst</translation>
+        <translation>Zeige immer &quot;{podcast_activity_name}&quot; wenn du Podcasts hörst</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="905"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">Versuche Anzeigen herauszufiltern</translation>
+        <translation>Versuche Anzeigen herauszufiltern</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">Zeige nur Podcasts im Status</translation>
+        <translation>Zeige nur Podcasts im Status</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="927"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">Trenne Künstler- und Albumname</translation>
+        <translation>Trenne Künstler- und Albumname</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="956"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">Als &quot;{player_name}&quot; anzeigen</translation>
+        <translation>Als &quot;{player_name}&quot; anzeigen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="978"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="983"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished">Zeige &quot;{music_activity_name}&quot; anstatt des Spielernamens</translation>
+        <translation>Zeige &quot;{music_activity_name}&quot; anstatt des Spielernamens</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="990"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">Zeige deinen Status als &quot;{playing_activity_label}&quot;-Aktivität</translation>
+        <translation>Zeige deinen Status als &quot;{playing_activity_label}&quot;-Aktivität</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1064"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige den Albumnamen, wenn der Künstlername fehlt</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Knöpfe</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1158"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Zeige &quot;{branding_text}&quot; im Status</translation>
+        <translation>Zeige &quot;{branding_text}&quot; im Status</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1003"/>
