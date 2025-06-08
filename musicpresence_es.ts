@@ -841,19 +841,19 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/news/news_dialog.cpp" line="55"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Okay</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="57"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar de todos modos</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="108"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Noticias</translation>
     </message>
 </context>
 <context>
