@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="2585"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation>Dona</translation>
+        <translation>Fai una donazione</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2590"/>
@@ -826,7 +826,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/news/news_dialog.cpp" line="32"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novità</translation>
     </message>
 </context>
 <context>
