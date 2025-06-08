@@ -1084,252 +1084,252 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1003"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lied-Informationen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1008"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige Titel und Künstler auf einer Zeile</translation>
+        <translation>Zeige Titel und Künstler auf einer Zeile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1024"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige Künstler und Album auf einer Zeile</translation>
+        <translation>Zeige Künstler und Album auf einer Zeile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1042"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Tausche Titel und Künstler</translation>
+        <translation>Tausche Titel und Künstler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1047"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Zeige &quot;{prefix}&quot; vor dem Künstlernamen</translation>
+        <translation>Zeige &quot;{prefix}&quot; vor dem Künstlernamen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1054"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Zeige &quot;{prefix}&quot; vor dem Albumnamen</translation>
+        <translation>Zeige &quot;{prefix}&quot; vor dem Albumnamen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1060"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige den Albumnamen</translation>
+        <translation>Zeige den Albumnamen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1069"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Zeige einen Zeitstempel</translation>
+        <translation>Zeige einen Zeitstempel</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1075"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pausierte Medien</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige pausierte Medien im Status</translation>
+        <translation>Zeige pausierte Medien im Status</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1083"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige ein Pause-Symbol für pausierte Medien</translation>
+        <translation>Zeige ein Pause-Symbol für pausierte Medien</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1087"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Fortschrittsleiste anhalten für pausierte Medien</translation>
+        <translation>Fortschrittsleiste anhalten für pausierte Medien</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1101"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Zeige an für wie lange Medien pausiert sind</translation>
+        <translation>Zeige an für wie lange Medien pausiert sind</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1115"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offline-Medienspieler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1128"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige ein Spielen-Symbol für spielende Medien</translation>
+        <translation>Zeige ein Spielen-Symbol für spielende Medien</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1138"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zeige das Logo des Medienspielers</translation>
+        <translation>Zeige das Logo des Medienspielers</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1147"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Einstellungen gelten nicht für Streaming-Dienste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1165"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige &quot;{listen_to_this_song}&quot; als &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1184"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">Logo des Medienspielers</translation>
+        <translation>Logo des Medienspielers</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1187"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">Musiknote</translation>
+        <translation>Musiknote</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1190"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">Wiedergabestatus</translation>
+        <translation>Wiedergabestatus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1194"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1200"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">{app_name}-Logo</translation>
+        <translation>{app_name}-Logo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1207"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">Sonstiges</translation>
+        <translation>Sonstiges</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1213"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">Platzhalter für fehlende Coverbilder</translation>
+        <translation>Platzhalter für fehlende Coverbilder</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1269"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle zurücksetzen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1284"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spieler entfernen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="115"/>
         <location filename="../src/app/settings/window.cpp" line="1456"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lade Coverbilder von Medienspielern hoch</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1363"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medienerkennung</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1376"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Starte die App neu, um die Änderungen anzuwenden</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1387"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verwende native Systemschnittstellen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1412"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verwende AppleScript-Automatisierung</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1452"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albumcover</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1466"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">Versuche es in {amount} Sekunden nochmal</translation>
+        <translation>Versuche es in {amount} Sekunden nochmal</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1489"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verwende immer lokale Coverbilder</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1510"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">Externe Dienste</translation>
+        <translation>Externe Dienste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1531"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Verwende die TIDAL API für Medien von TIDAL</translation>
+        <translation>Verwende die TIDAL API für Medien von TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1533"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Verwende die Deezer API für Medien von Deezer</translation>
+        <translation>Verwende die Deezer API für Medien von Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1535"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Verwende die Spotify API für Medien von Spotify</translation>
+        <translation>Verwende die Spotify API für Medien von Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1538"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Verwende die iTunes API für Medien von Apple Music</translation>
+        <translation>Verwende die iTunes API für Medien von Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1546"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für mehr Informationen darüber, welche Daten an diese Dienste übermittelt werden und wofür sie verwendet werden, lese die &lt;a {attributes}&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1594"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Allgemein</translation>
     </message>
 </context>
 </TS>
