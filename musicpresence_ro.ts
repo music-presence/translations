@@ -4,103 +4,103 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="1970"/>
+        <location filename="../src/app/app.cpp" line="2005"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation>Permisiune de automatizare refuzată</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1976"/>
+        <location filename="../src/app/app.cpp" line="2011"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation>&lt;p&gt;&lt;b&gt;{app_name} nu are permisiunea de a automatiza &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Deschideți setările sistemului și activați automatizarea pentru &quot;{player_name}&quot; sub &quot;Confidențialitate&amp;nbsp;&amp;amp;&amp;nbsp;Securitate&quot; &gt; &quot;Automatizare&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1990"/>
+        <location filename="../src/app/app.cpp" line="2025"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>Deschide setările</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2100"/>
+        <location filename="../src/app/app.cpp" line="2135"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>dezactivat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2107"/>
+        <location filename="../src/app/app.cpp" line="2142"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>activ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2112"/>
+        <location filename="../src/app/app.cpp" line="2147"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>acum activ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2148"/>
+        <location filename="../src/app/app.cpp" line="2183"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_title} de {media_artist}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2194"/>
+        <location filename="../src/app/app.cpp" line="2229"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>Prezență dezactivată</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2197"/>
+        <location filename="../src/app/app.cpp" line="2232"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>Click pentru a activa</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2201"/>
+        <location filename="../src/app/app.cpp" line="2236"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>Prezența este activată</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2206"/>
+        <location filename="../src/app/app.cpp" line="2241"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>Se detectează Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2212"/>
+        <location filename="../src/app/app.cpp" line="2247"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>Se așteaptă redarea media</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2216"/>
+        <location filename="../src/app/app.cpp" line="2251"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>Prezența este activă</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2585"/>
+        <location filename="../src/app/app.cpp" line="2620"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>Donează</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2590"/>
+        <location filename="../src/app/app.cpp" line="2625"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>Sprijină-mi munca cu o mică donație</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2597"/>
+        <location filename="../src/app/app.cpp" line="2632"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>Închide</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2681"/>
+        <location filename="../src/app/app.cpp" line="2716"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>Comută prezența pentru fiecare aplicație</translation>
@@ -355,7 +355,7 @@
         <translation type="vanished">Tema aplicației</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2602"/>
+        <location filename="../src/app/app.cpp" line="2637"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>Configurații</translation>
@@ -416,14 +416,14 @@
         <translation type="vanished">Instalează actualizările automat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4220"/>
-        <location filename="../src/app/app.cpp" line="4613"/>
+        <location filename="../src/app/app.cpp" line="4255"/>
+        <location filename="../src/app/app.cpp" line="4648"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>Verifică actualizările</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4232"/>
+        <location filename="../src/app/app.cpp" line="4267"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>Se verifică actualizările...</translation>
@@ -439,7 +439,7 @@
         <translation type="vanished">Vezi noutățile la lansarea unei versiuni noi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4239"/>
+        <location filename="../src/app/app.cpp" line="4274"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
         <translation>Vezi istoricul de modificări</translation>
@@ -455,7 +455,7 @@
         <translation type="vanished">Pornește {app_name} la logare</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4123"/>
+        <location filename="../src/app/app.cpp" line="4158"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>Ajutor</translation>
@@ -466,193 +466,193 @@
         <translation type="vanished">Playerul meu media nu este detectat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4127"/>
+        <location filename="../src/app/app.cpp" line="4162"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>Ceva nu funcționează</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4134"/>
+        <location filename="../src/app/app.cpp" line="4169"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>Salvează playerele media detectate</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4141"/>
+        <location filename="../src/app/app.cpp" line="4176"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>Raportează o problemă pe GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4147"/>
+        <location filename="../src/app/app.cpp" line="4182"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>Alătură-te serverului nostru de Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4154"/>
+        <location filename="../src/app/app.cpp" line="4189"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>Susține dezvoltarea cu o donație</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4160"/>
+        <location filename="../src/app/app.cpp" line="4195"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>Acordă-i proiectului o stea pe GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4166"/>
+        <location filename="../src/app/app.cpp" line="4201"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>Ce urmează?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4173"/>
+        <location filename="../src/app/app.cpp" line="4208"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>Notificare de confidențialitate</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4180"/>
-        <location filename="../src/app/app.cpp" line="6108"/>
+        <location filename="../src/app/app.cpp" line="4215"/>
+        <location filename="../src/app/app.cpp" line="6143"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>Despre</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4214"/>
+        <location filename="../src/app/app.cpp" line="4249"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>Folosești versiunea {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4548"/>
-        <location filename="../src/app/app.cpp" line="4833"/>
-        <location filename="../src/app/app.cpp" line="4859"/>
-        <location filename="../src/app/app.cpp" line="4867"/>
+        <location filename="../src/app/app.cpp" line="4583"/>
+        <location filename="../src/app/app.cpp" line="4868"/>
+        <location filename="../src/app/app.cpp" line="4894"/>
+        <location filename="../src/app/app.cpp" line="4902"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>O versiune nouă este disponibilă</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4553"/>
-        <location filename="../src/app/app.cpp" line="5014"/>
+        <location filename="../src/app/app.cpp" line="4588"/>
+        <location filename="../src/app/app.cpp" line="5049"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>Click pentru a descărca versiunea {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4671"/>
+        <location filename="../src/app/app.cpp" line="4706"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>Se anulează descărcările...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4679"/>
-        <location filename="../src/app/app.cpp" line="5971"/>
+        <location filename="../src/app/app.cpp" line="4714"/>
+        <location filename="../src/app/app.cpp" line="6006"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Instalează</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4697"/>
+        <location filename="../src/app/app.cpp" line="4732"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>Actualizările automate sunt activate</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4699"/>
-        <location filename="../src/app/app.cpp" line="4747"/>
-        <location filename="../src/app/app.cpp" line="4957"/>
+        <location filename="../src/app/app.cpp" line="4734"/>
+        <location filename="../src/app/app.cpp" line="4782"/>
+        <location filename="../src/app/app.cpp" line="4992"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>Activează actualizările automate</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4724"/>
-        <location filename="../src/app/app.cpp" line="5972"/>
+        <location filename="../src/app/app.cpp" line="4759"/>
+        <location filename="../src/app/app.cpp" line="6007"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Se instalează...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4757"/>
+        <location filename="../src/app/app.cpp" line="4792"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Actualizările automate sunt dezactivate</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4836"/>
+        <location filename="../src/app/app.cpp" line="4871"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>Click pentru a instala versiunea {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4846"/>
+        <location filename="../src/app/app.cpp" line="4881"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>Accesează pagina de descărcare</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4857"/>
-        <location filename="../src/app/app.cpp" line="4864"/>
+        <location filename="../src/app/app.cpp" line="4892"/>
+        <location filename="../src/app/app.cpp" line="4899"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>Se instalează actualizarea...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4893"/>
-        <location filename="../src/app/app.cpp" line="4898"/>
+        <location filename="../src/app/app.cpp" line="4928"/>
+        <location filename="../src/app/app.cpp" line="4933"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>Nu sunt disponibile actualizări</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4925"/>
+        <location filename="../src/app/app.cpp" line="4960"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>Actualizează la versiunea {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4928"/>
+        <location filename="../src/app/app.cpp" line="4963"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>Repornește aplicația</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4936"/>
+        <location filename="../src/app/app.cpp" line="4971"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>Ceva nu a funcționat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4942"/>
-        <location filename="../src/app/app.cpp" line="4945"/>
+        <location filename="../src/app/app.cpp" line="4977"/>
+        <location filename="../src/app/app.cpp" line="4980"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>Noua versiune a fost instalată</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4950"/>
+        <location filename="../src/app/app.cpp" line="4985"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>Instalat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4953"/>
+        <location filename="../src/app/app.cpp" line="4988"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>Actualizare instalată</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4954"/>
+        <location filename="../src/app/app.cpp" line="4989"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>Repornește</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4980"/>
+        <location filename="../src/app/app.cpp" line="5015"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -660,32 +660,32 @@
 &lt;p&gt;Repornește aplicația pentru a rula cea mai nouă versiune.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5021"/>
+        <location filename="../src/app/app.cpp" line="5056"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>Eroare: instalarea a eșuat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5046"/>
+        <location filename="../src/app/app.cpp" line="5081"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>Raportează această problemă</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5056"/>
-        <location filename="../src/app/app.cpp" line="5059"/>
+        <location filename="../src/app/app.cpp" line="5091"/>
+        <location filename="../src/app/app.cpp" line="5094"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>Instalarea actualizării a eșuat</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5064"/>
+        <location filename="../src/app/app.cpp" line="5099"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5072"/>
+        <location filename="../src/app/app.cpp" line="5107"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -693,19 +693,19 @@
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5077"/>
+        <location filename="../src/app/app.cpp" line="5112"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>Descarcă manual</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5274"/>
+        <location filename="../src/app/app.cpp" line="5309"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>Te invităm să te alături serverului nostru de Discord! Cunoaște alți utilizatori, fă sugestii și rămâi la curent cu noutățile. Apasă aici sau accesează meniul Ajutor pentru a te alătura.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5288"/>
+        <location filename="../src/app/app.cpp" line="5323"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -713,118 +713,118 @@ You can support the development with a donation. Click here or in the tray menu 
 Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din bară pentru mai multe informații.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5841"/>
+        <location filename="../src/app/app.cpp" line="5876"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>Nu mai arăta</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5964"/>
+        <location filename="../src/app/app.cpp" line="5999"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Actualizare disponibilă</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5965"/>
+        <location filename="../src/app/app.cpp" line="6000"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;O nouă versiune a {app_name} este disponibilă.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Citește jurnalul de modificări de mai jos pentru a vedea noutățile.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5981"/>
+        <location filename="../src/app/app.cpp" line="6016"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Încearcă din nou</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5987"/>
+        <location filename="../src/app/app.cpp" line="6022"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Descarcă</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5998"/>
+        <location filename="../src/app/app.cpp" line="6033"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Noua versiune a fost instalată</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6004"/>
+        <location filename="../src/app/app.cpp" line="6039"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>Ce este nou ?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6011"/>
+        <location filename="../src/app/app.cpp" line="6046"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Am înțeles</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6013"/>
+        <location filename="../src/app/app.cpp" line="6048"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Acest mesaj este afișat doar la pornirea unei versiuni noi.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6024"/>
+        <location filename="../src/app/app.cpp" line="6059"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Jurnal de modificări</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6047"/>
+        <location filename="../src/app/app.cpp" line="6082"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Prima pornire</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6052"/>
+        <location filename="../src/app/app.cpp" line="6087"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Apasă pe pictograma din meniul barei pentru a deschide controalele.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} rulează în fundal și poate fi accesată oricând în acest mod. Poți controla ce playere media sunt partajate în statusul tău și cum arată acesta.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6077"/>
+        <location filename="../src/app/app.cpp" line="6112"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>Am înțeles!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6178"/>
+        <location filename="../src/app/app.cpp" line="6213"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>Versiunea {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6184"/>
+        <location filename="../src/app/app.cpp" line="6219"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>Licență</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6187"/>
+        <location filename="../src/app/app.cpp" line="6222"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>Notificare de Confidențialitate</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6190"/>
+        <location filename="../src/app/app.cpp" line="6225"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>Raportează o problemă</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6193"/>
+        <location filename="../src/app/app.cpp" line="6228"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>Îți place {app_name} ? &lt;a {attributes}&gt;Susține cu o donație dezvoltarea ei&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6201"/>
+        <location filename="../src/app/app.cpp" line="6236"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>Vrei să ajuți în alte moduri? &lt;a {attributes}&gt;Implică-te!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6209"/>
+        <location filename="../src/app/app.cpp" line="6244"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>Mulțumiri tuturor celor care au ajutat la traducerea aplicației:</translation>
@@ -833,7 +833,19 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
 <context>
     <name>NewsDialog</name>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="32"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="55"/>
+        <source>OK</source>
+        <comment>Confirm dialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/news/news_dialog.cpp" line="57"/>
+        <source>Close anyway</source>
+        <comment>Close a dialog anyways</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/news/news_dialog.cpp" line="108"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
         <translation type="unfinished"></translation>
