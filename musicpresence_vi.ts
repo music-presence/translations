@@ -841,7 +841,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/news/news_dialog.cpp" line="32"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thông báo</translation>
     </message>
 </context>
 <context>
