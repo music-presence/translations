@@ -474,13 +474,13 @@
         <location filename="../src/app/app.cpp" line="1505"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky od vývojára</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1518"/>
         <source>Dismiss</source>
         <comment>News tray menu entry: Dismisses/ignores the news entry and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zatvoriť</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4286"/>
@@ -853,19 +853,19 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/news/news_dialog.cpp" line="57"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="59"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aj tak zatvoriť</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="112"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
 </context>
 <context>
@@ -921,7 +921,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="414"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Pomôž nám s prekladom</translation>
+        <translation>Pomôž nám s prekladom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="419"/>
@@ -1026,13 +1026,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="745"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dostávať upozornenia na novinky od vývojára</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="815"/>
