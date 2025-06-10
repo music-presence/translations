@@ -4,79 +4,79 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="2135"/>
+        <location filename="../src/app/app.cpp" line="2255"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>вимкнутий</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2142"/>
+        <location filename="../src/app/app.cpp" line="2262"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>увімкнутий</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2147"/>
+        <location filename="../src/app/app.cpp" line="2267"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>зараз відображається</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2229"/>
+        <location filename="../src/app/app.cpp" line="2349"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>Статус вимкнутий</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2232"/>
+        <location filename="../src/app/app.cpp" line="2352"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>Натисніть щоб увімкнути</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2236"/>
+        <location filename="../src/app/app.cpp" line="2356"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>Статус увімкнутий</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2241"/>
+        <location filename="../src/app/app.cpp" line="2361"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>Очікування Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2247"/>
+        <location filename="../src/app/app.cpp" line="2367"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>Очіуквання програвання медіа</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2251"/>
+        <location filename="../src/app/app.cpp" line="2371"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>Статус активний</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2620"/>
+        <location filename="../src/app/app.cpp" line="2740"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>Пожертвувати</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2625"/>
+        <location filename="../src/app/app.cpp" line="2745"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>Підтримайте мою роботу невеликим донатом</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2632"/>
+        <location filename="../src/app/app.cpp" line="2752"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>Вийти</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2716"/>
+        <location filename="../src/app/app.cpp" line="2840"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>Налаштувати активність для кожного додатку</translation>
@@ -182,13 +182,13 @@
         <translation type="vanished">Показувати призупинене медіа у вашому статусі</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2011"/>
+        <location filename="../src/app/app.cpp" line="2131"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation>&lt;p&gt;&lt;b&gt;{app_name} не має дозволу автоматизації &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Відкрийте системні налаштування та увімкніть автоматизацію для &quot;{player_name}&quot; під &quot;Приватність &amp;nbsp;&amp;amp;&amp;nbsp;Безпека&quot; &gt; &quot;Автоматизація&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2025"/>
+        <location filename="../src/app/app.cpp" line="2145"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>Відкрити налаштування</translation>
@@ -284,7 +284,7 @@
         <translation type="vanished">{app_name} лого</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2637"/>
+        <location filename="../src/app/app.cpp" line="2757"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>Налаштування</translation>
@@ -295,13 +295,13 @@
         <translation type="vanished">Використовувати зображення обкладинок з медіа-плеєрів</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2005"/>
+        <location filename="../src/app/app.cpp" line="2125"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation>Дозвіл автоматизації відхилено</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2183"/>
+        <location filename="../src/app/app.cpp" line="2303"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_title} від {media_artist}</translation>
@@ -377,14 +377,14 @@
         <translation type="vanished">Встановлювати оновлення автоматично</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4255"/>
-        <location filename="../src/app/app.cpp" line="4648"/>
+        <location filename="../src/app/app.cpp" line="4379"/>
+        <location filename="../src/app/app.cpp" line="4772"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>Перевірити наявність оновлень</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4267"/>
+        <location filename="../src/app/app.cpp" line="4391"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>Перевірка оновлень...</translation>
@@ -400,7 +400,7 @@
         <translation type="vanished">Дивитися що нового під час запуску нової версії</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4274"/>
+        <location filename="../src/app/app.cpp" line="4398"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
         <translation>Дивитися журнал змін</translation>
@@ -416,7 +416,7 @@
         <translation type="vanished">Запускати {app_name} с запуском системи</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4158"/>
+        <location filename="../src/app/app.cpp" line="4282"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>Допомога</translation>
@@ -427,109 +427,109 @@
         <translation type="vanished">Мій медіа-плеєр не виявлено</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4169"/>
+        <location filename="../src/app/app.cpp" line="4293"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>Повідомити про виявлені медіаплеєри</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4176"/>
+        <location filename="../src/app/app.cpp" line="4300"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>Повідомити про проблему на GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4182"/>
+        <location filename="../src/app/app.cpp" line="4306"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>Приєднуйся до нашого Discord серверу</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4195"/>
+        <location filename="../src/app/app.cpp" line="4319"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>Дати &quot;Зірку&quot; проєкту на GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4201"/>
+        <location filename="../src/app/app.cpp" line="4325"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>Що буде далі?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4208"/>
+        <location filename="../src/app/app.cpp" line="4332"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>Політика конфіденційності</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4215"/>
-        <location filename="../src/app/app.cpp" line="6143"/>
+        <location filename="../src/app/app.cpp" line="4339"/>
+        <location filename="../src/app/app.cpp" line="6270"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>Про {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4249"/>
+        <location filename="../src/app/app.cpp" line="4373"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>Ви користуєтесь версією {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4588"/>
-        <location filename="../src/app/app.cpp" line="5049"/>
+        <location filename="../src/app/app.cpp" line="4712"/>
+        <location filename="../src/app/app.cpp" line="5173"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>Натисність щоб завантажити {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4706"/>
+        <location filename="../src/app/app.cpp" line="4830"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>Скасування завантаження...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4714"/>
-        <location filename="../src/app/app.cpp" line="6006"/>
+        <location filename="../src/app/app.cpp" line="4838"/>
+        <location filename="../src/app/app.cpp" line="6133"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Встановити</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4732"/>
+        <location filename="../src/app/app.cpp" line="4856"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>Автоматичні оновлення увімкнуті</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4734"/>
-        <location filename="../src/app/app.cpp" line="4782"/>
-        <location filename="../src/app/app.cpp" line="4992"/>
+        <location filename="../src/app/app.cpp" line="4858"/>
+        <location filename="../src/app/app.cpp" line="4906"/>
+        <location filename="../src/app/app.cpp" line="5116"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>Увімкнути автоматичні оновлення</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4759"/>
-        <location filename="../src/app/app.cpp" line="6007"/>
+        <location filename="../src/app/app.cpp" line="4883"/>
+        <location filename="../src/app/app.cpp" line="6134"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Встановлення...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4792"/>
+        <location filename="../src/app/app.cpp" line="4916"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Автоматичні оновлення вимкнено</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4871"/>
+        <location filename="../src/app/app.cpp" line="4995"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>Настисніть щоб встановити версію {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5323"/>
+        <location filename="../src/app/app.cpp" line="5447"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -537,10 +537,10 @@ You can support the development with a donation. Click here or in the tray menu 
 Ви можете підтримати розробника невеликим донатом. Натисність тут або на іконці в меню трея для більшої інформації.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4583"/>
-        <location filename="../src/app/app.cpp" line="4868"/>
-        <location filename="../src/app/app.cpp" line="4894"/>
-        <location filename="../src/app/app.cpp" line="4902"/>
+        <location filename="../src/app/app.cpp" line="4707"/>
+        <location filename="../src/app/app.cpp" line="4992"/>
+        <location filename="../src/app/app.cpp" line="5018"/>
+        <location filename="../src/app/app.cpp" line="5026"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>Нова версія доступна</translation>
@@ -551,7 +551,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">Розділяти ім&apos;я виконавця та назву альбому</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4189"/>
+        <location filename="../src/app/app.cpp" line="4313"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>Підтримати розробу донатом</translation>
@@ -562,76 +562,88 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">Про додаток</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4162"/>
+        <location filename="../src/app/app.cpp" line="1505"/>
+        <source>News from the developer</source>
+        <comment>News tray menu title: This shows news about the app from the developer</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="1518"/>
+        <source>Dismiss</source>
+        <comment>News tray menu entry: Dismisses/ignores the news entry and removes it</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4286"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>Щось не працює</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4881"/>
+        <location filename="../src/app/app.cpp" line="5005"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>Відвідайте сторінку завантаження</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4892"/>
-        <location filename="../src/app/app.cpp" line="4899"/>
+        <location filename="../src/app/app.cpp" line="5016"/>
+        <location filename="../src/app/app.cpp" line="5023"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>Інсталяція оновлення...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4928"/>
-        <location filename="../src/app/app.cpp" line="4933"/>
+        <location filename="../src/app/app.cpp" line="5052"/>
+        <location filename="../src/app/app.cpp" line="5057"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>Немає доступних оновлень</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4960"/>
+        <location filename="../src/app/app.cpp" line="5084"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>Оновлено до версії {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4963"/>
+        <location filename="../src/app/app.cpp" line="5087"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>Перезавантажити додаток</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4971"/>
+        <location filename="../src/app/app.cpp" line="5095"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>Щось пішло не так</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4977"/>
-        <location filename="../src/app/app.cpp" line="4980"/>
+        <location filename="../src/app/app.cpp" line="5101"/>
+        <location filename="../src/app/app.cpp" line="5104"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>Нова версія встановлена</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4985"/>
+        <location filename="../src/app/app.cpp" line="5109"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>Встановлено</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4988"/>
+        <location filename="../src/app/app.cpp" line="5112"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>Оновлення встановлено</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4989"/>
+        <location filename="../src/app/app.cpp" line="5113"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>Перезавантажити</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5015"/>
+        <location filename="../src/app/app.cpp" line="5139"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -639,32 +651,32 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;Перезавантажте додаток щоб запустити нову версію.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5056"/>
+        <location filename="../src/app/app.cpp" line="5180"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>Помилка: Встановлення не вдалося</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5081"/>
+        <location filename="../src/app/app.cpp" line="5205"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>Повідомити про цю проблему</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5091"/>
-        <location filename="../src/app/app.cpp" line="5094"/>
+        <location filename="../src/app/app.cpp" line="5215"/>
+        <location filename="../src/app/app.cpp" line="5218"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>Не вдалося встановити оновлення</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5099"/>
+        <location filename="../src/app/app.cpp" line="5223"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5107"/>
+        <location filename="../src/app/app.cpp" line="5231"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -672,90 +684,90 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5112"/>
+        <location filename="../src/app/app.cpp" line="5236"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>Завантажити вручну</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5309"/>
+        <location filename="../src/app/app.cpp" line="5433"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>Не соромтеся приєднатися до нашої спільноти у Discord! Знайомтеся з іншими користувачами, вносьте свої пропозиції та залишайтеся в курсі подій. Натисніть тут або перейдіть до меню Допомоги, щоб приєднатися.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5876"/>
+        <location filename="../src/app/app.cpp" line="6003"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>Не показувати це знову</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5999"/>
+        <location filename="../src/app/app.cpp" line="6126"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Оновлення доступно</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6000"/>
+        <location filename="../src/app/app.cpp" line="6127"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;Нова версія {app_name} доступна.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Прочитайте список оновлень нижче, щоб дізнатися, що нового.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6016"/>
+        <location filename="../src/app/app.cpp" line="6143"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Спробуйте знову</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6022"/>
+        <location filename="../src/app/app.cpp" line="6149"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Завантажити</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6033"/>
+        <location filename="../src/app/app.cpp" line="6160"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Нова версія інстальована</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6039"/>
+        <location filename="../src/app/app.cpp" line="6166"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>Що нового?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6046"/>
+        <location filename="../src/app/app.cpp" line="6173"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Добре</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6048"/>
+        <location filename="../src/app/app.cpp" line="6175"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Це показується тільки під час запуску нової версії.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6059"/>
+        <location filename="../src/app/app.cpp" line="6186"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Журнал змін</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6082"/>
+        <location filename="../src/app/app.cpp" line="6209"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Перший запуск</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6087"/>
+        <location filename="../src/app/app.cpp" line="6214"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Натисніть на значок в меню трея, щоб відкрити налаштування.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} працює у фоновому режимі та завжди може бути відкритий таким чином. Ви можете контролювати який медіа-плеєр активний та як виглядає ваш статус.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6112"/>
+        <location filename="../src/app/app.cpp" line="6239"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>Зрозуміло!</translation>
@@ -766,41 +778,41 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">Про додаток</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6213"/>
+        <location filename="../src/app/app.cpp" line="6340"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>Версія {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6219"/>
+        <location filename="../src/app/app.cpp" line="6346"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>Ліцензія</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6222"/>
+        <location filename="../src/app/app.cpp" line="6349"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>Політика Конфіденційності</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6225"/>
+        <location filename="../src/app/app.cpp" line="6352"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>Повідомити про проблему</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6228"/>
+        <location filename="../src/app/app.cpp" line="6355"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>Вам подобається {app_name}? &lt;a {attributes}&gt;Підтримайте розробника пожертвою&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6236"/>
+        <location filename="../src/app/app.cpp" line="6363"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>Бажаєте допомогти іншими способами? &lt;a {attributes}&gt;Долучайтеся!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6244"/>
+        <location filename="../src/app/app.cpp" line="6371"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>Подяка всім, хто допомів з перекладом додатку:</translation>
@@ -823,19 +835,19 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>NewsDialog</name>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="55"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="57"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
         <translation>Окей</translation>
     </message>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="57"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="59"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
         <translation>Все одно закрити</translation>
     </message>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="108"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="112"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
         <translation>Новини</translation>
@@ -844,476 +856,494 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>SettingsWindow</name>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="241"/>
+        <location filename="../src/app/settings/window.cpp" line="242"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>Перевірити наявність оновлень</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="317"/>
+        <location filename="../src/app/settings/window.cpp" line="318"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="326"/>
+        <location filename="../src/app/settings/window.cpp" line="327"/>
         <source>General</source>
         <comment>settings category</comment>
         <translation>Загальні</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="327"/>
+        <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>Discord</source>
         <comment>settings category</comment>
         <translation>Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="328"/>
+        <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Services</source>
         <comment>settings category</comment>
         <translation>Сервіси</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="329"/>
+        <location filename="../src/app/settings/window.cpp" line="330"/>
         <source>Advanced</source>
         <comment>settings category</comment>
         <translation>Просунуті</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="333"/>
+        <location filename="../src/app/settings/window.cpp" line="334"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
         <translation>Оформлення</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="399"/>
+        <location filename="../src/app/settings/window.cpp" line="400"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
         <translation>Мова / {language}</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="413"/>
+        <location filename="../src/app/settings/window.cpp" line="414"/>
+        <source>Help with translating</source>
+        <comment>opens the translation guide</comment>
+        <translation type="unfinished">Допомогти з перекладом</translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="419"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
         <translation>Зберегти</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="418"/>
+        <location filename="../src/app/settings/window.cpp" line="428"/>
         <source>System language</source>
         <comment>language setting</comment>
         <translation>Системна мова</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="508"/>
+        <location filename="../src/app/settings/window.cpp" line="524"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
         <translation>Вигляд</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="515"/>
+        <location filename="../src/app/settings/window.cpp" line="531"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
         <translation>Тема іконки трея</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="524"/>
-        <location filename="../src/app/settings/window.cpp" line="566"/>
+        <location filename="../src/app/settings/window.cpp" line="540"/>
+        <location filename="../src/app/settings/window.cpp" line="582"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
         <translation>Системна тема</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="526"/>
-        <location filename="../src/app/settings/window.cpp" line="568"/>
+        <location filename="../src/app/settings/window.cpp" line="542"/>
+        <location filename="../src/app/settings/window.cpp" line="584"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
         <translation>Світла</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="528"/>
-        <location filename="../src/app/settings/window.cpp" line="569"/>
+        <location filename="../src/app/settings/window.cpp" line="544"/>
+        <location filename="../src/app/settings/window.cpp" line="585"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
         <translation>Темна</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="558"/>
+        <location filename="../src/app/settings/window.cpp" line="574"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
         <translation>Тема додатку</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="604"/>
+        <location filename="../src/app/settings/window.cpp" line="620"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
         <translation>Налаштування Windows</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="613"/>
+        <location filename="../src/app/settings/window.cpp" line="629"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
         <translation>Запускати {app_name} з запуском системи</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="633"/>
+        <location filename="../src/app/settings/window.cpp" line="649"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
         <translation>Оновлення</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="640"/>
+        <location filename="../src/app/settings/window.cpp" line="656"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
         <translation>Встановлювати оновлення автоматично</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="655"/>
+        <location filename="../src/app/settings/window.cpp" line="671"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
         <translation>Повідомляти о наявності нової версії</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="672"/>
+        <location filename="../src/app/settings/window.cpp" line="688"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
         <translation>Дивитися що нового під час запуску нової версії</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="698"/>
+        <location filename="../src/app/settings/window.cpp" line="714"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>Перевірка оновлень...</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="707"/>
+        <location filename="../src/app/settings/window.cpp" line="723"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
         <translation>Дивитися журнал змін</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="776"/>
+        <location filename="../src/app/settings/window.cpp" line="745"/>
+        <source>News</source>
+        <comment>general setting group for app news</comment>
+        <translation type="unfinished">Новини</translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="749"/>
+        <source>Notify about news from the developer</source>
+        <comment>general setting: show a popup when there are news from the developer</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="815"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation>Скинути</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="894"/>
+        <location filename="../src/app/settings/window.cpp" line="933"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
         <translation>Індивідуальні налаштування</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="901"/>
+        <location filename="../src/app/settings/window.cpp" line="940"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
         <translation>Завжди показувати &quot;{podcast_activity_name}&quot;, коли слухаєш подкасти</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="905"/>
+        <location filename="../src/app/settings/window.cpp" line="944"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
         <translation>Намагатися фільтрувати рекламу</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="911"/>
+        <location filename="../src/app/settings/window.cpp" line="950"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
         <translation>Показувати тільки подкасти у Вашому статусі</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="927"/>
+        <location filename="../src/app/settings/window.cpp" line="966"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation>Розділяти ім&apos;я виконавця та назву альбому</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="956"/>
+        <location filename="../src/app/settings/window.cpp" line="995"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
         <translation>Відображати як &quot;{player_name}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="978"/>
+        <location filename="../src/app/settings/window.cpp" line="1017"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="983"/>
+        <location filename="../src/app/settings/window.cpp" line="1022"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
         <translation>Показувати &quot;{music_activity_name}&quot; замість назви плеєру</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="990"/>
+        <location filename="../src/app/settings/window.cpp" line="1029"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
         <translation>Показувати ваш статус активності як &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1064"/>
+        <location filename="../src/app/settings/window.cpp" line="1103"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation>Показувати назву альбому, коли виконавець відсутній</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1151"/>
+        <location filename="../src/app/settings/window.cpp" line="1190"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation>Кнопки</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1158"/>
+        <location filename="../src/app/settings/window.cpp" line="1197"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>Показувати &quot;{branding_text}&quot; в активності</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1003"/>
+        <location filename="../src/app/settings/window.cpp" line="1042"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation>Інформація о пісні</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1008"/>
+        <location filename="../src/app/settings/window.cpp" line="1047"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>Показувати назву та виконавця пісні в одному рядку</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1024"/>
+        <location filename="../src/app/settings/window.cpp" line="1063"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>Показувати виконавця та альбом в одному рядку</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1042"/>
+        <location filename="../src/app/settings/window.cpp" line="1081"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>Змінити місцями порядок назви пісні та виконавця</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1047"/>
+        <location filename="../src/app/settings/window.cpp" line="1086"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>Додавати перед ім&apos;ям виконавця префікс &quot;{prefix}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1054"/>
+        <location filename="../src/app/settings/window.cpp" line="1093"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>Додавати перед назвою альбому префікс &quot;{prefix}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1060"/>
+        <location filename="../src/app/settings/window.cpp" line="1099"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>Показувати назву альбому</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1069"/>
+        <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>Показувати інформацію о тривалості відтворення</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1075"/>
+        <location filename="../src/app/settings/window.cpp" line="1114"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation>Медіа на паузі</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1079"/>
+        <location filename="../src/app/settings/window.cpp" line="1118"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>Показувати призупинене медіа у Вашому статусі</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1083"/>
+        <location filename="../src/app/settings/window.cpp" line="1122"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>Показувати іконку паузи, коли музика призупинена</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1087"/>
+        <location filename="../src/app/settings/window.cpp" line="1126"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>Зупинити індикатор виконання для зупинених медіа</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1101"/>
+        <location filename="../src/app/settings/window.cpp" line="1140"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>Показувати як довго медіа на паузі</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1115"/>
+        <location filename="../src/app/settings/window.cpp" line="1154"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>Офлайн плеєри</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1128"/>
+        <location filename="../src/app/settings/window.cpp" line="1167"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>Показувати іконку програвання, коли музика грає</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1138"/>
+        <location filename="../src/app/settings/window.cpp" line="1177"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>Показувати логотип медіа-плеєру</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1147"/>
+        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>These settings do not apply to streaming services</source>
         <translation>Ці налаштування не застосовуються до стримінгових сервісів</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1165"/>
+        <location filename="../src/app/settings/window.cpp" line="1204"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation>Показувати &quot;{listen_to_this_song}&quot; кнопку як &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1184"/>
+        <location filename="../src/app/settings/window.cpp" line="1223"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation>Логотип плеєру</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1187"/>
+        <location filename="../src/app/settings/window.cpp" line="1226"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation>Музична нота</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1190"/>
+        <location filename="../src/app/settings/window.cpp" line="1229"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation>Стан програвання</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1194"/>
+        <location filename="../src/app/settings/window.cpp" line="1233"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation>Компакт-диск</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1200"/>
+        <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation>Логотип {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1207"/>
+        <location filename="../src/app/settings/window.cpp" line="1246"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>Різне</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1213"/>
+        <location filename="../src/app/settings/window.cpp" line="1252"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation>Заповнювач відсутніх зображень обкладинок</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1269"/>
+        <location filename="../src/app/settings/window.cpp" line="1308"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation>Скинути усе</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1284"/>
+        <location filename="../src/app/settings/window.cpp" line="1323"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>Видалити плеэр</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="115"/>
-        <location filename="../src/app/settings/window.cpp" line="1456"/>
+        <location filename="../src/app/settings/window.cpp" line="116"/>
+        <location filename="../src/app/settings/window.cpp" line="1495"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>Завантажувати обкладинки з медіа-плеєрів</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1363"/>
+        <location filename="../src/app/settings/window.cpp" line="1402"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>Виявлення медіа</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1376"/>
+        <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>Перезавантажте додаток, щоб зміни запрацювали</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1387"/>
+        <location filename="../src/app/settings/window.cpp" line="1426"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>Використовувати нативні системні інтерфейси</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1412"/>
+        <location filename="../src/app/settings/window.cpp" line="1451"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>Використовувати автоматизацію AppleScript</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1452"/>
+        <location filename="../src/app/settings/window.cpp" line="1491"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>Обкладинки альбомів</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1466"/>
+        <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>Не поспішайте. Спробуйте знову через {amount} секунд</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1489"/>
+        <location filename="../src/app/settings/window.cpp" line="1528"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>Завжди використовувати локальні обкладинки</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1510"/>
+        <location filename="../src/app/settings/window.cpp" line="1549"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>Зовнішні сервіси</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1531"/>
+        <location filename="../src/app/settings/window.cpp" line="1570"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>Використовувати TIDAL API, під час прослуховування TIDAL</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1533"/>
+        <location filename="../src/app/settings/window.cpp" line="1572"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Використовувати Deezer API, під час прослуховування Deezer</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1535"/>
+        <location filename="../src/app/settings/window.cpp" line="1574"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Використовувати Spotify API, під час прослуховування Spotify</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1538"/>
+        <location filename="../src/app/settings/window.cpp" line="1577"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Використовувати iTunes API, під час прослуховування Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1546"/>
+        <location filename="../src/app/settings/window.cpp" line="1585"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>Щоб дізнатися більше про те, які дані передаються цим сервісам та як вони обробляються, будь ласка, ознайомтеся з &lt;a {attributes}&gt;Політикою конфіденційності&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1594"/>
+        <location filename="../src/app/settings/window.cpp" line="1633"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>Загальні</translation>
