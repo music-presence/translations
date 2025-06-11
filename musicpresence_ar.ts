@@ -440,7 +440,7 @@
         <location filename="../src/app/app.cpp" line="1568"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>أخبار من المطور</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4557"/>
@@ -525,25 +525,25 @@
         <location filename="../src/app/app.cpp" line="1598"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1700"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد أخبار من المطور حالياً، تفقد مجدداً لاحقا أو قم بتشغيل اشعارات الأخبار في الإعدادت لتحصل علي إشعار عندما تتوفر اي أخبار.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4669"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>تحقق من اجدد الأخبار</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4677"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">اطّلع علي سجل التغييرات</translation>
+        <translation>اطّلع علي سجل التغييرات</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4986"/>
@@ -855,19 +855,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>حسناً</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>اغلاق على اي حال</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>أخبار</translation>
     </message>
 </context>
 <context>
@@ -923,7 +923,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="414"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">ساعِّد في الترجمة</translation>
+        <translation>ساعِّد في الترجة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="419"/>
@@ -1028,19 +1028,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="745"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>أخبار</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>أعلمني عندما تتوفر أخبار من المطور</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="766"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>تفقد اخر الأخبار</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="833"/>
