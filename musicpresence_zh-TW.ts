@@ -4,79 +4,79 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="2255"/>
+        <location filename="../src/app/app.cpp" line="2501"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>已停用</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2262"/>
+        <location filename="../src/app/app.cpp" line="2508"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>已啟用</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2267"/>
+        <location filename="../src/app/app.cpp" line="2513"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>運作中</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2349"/>
+        <location filename="../src/app/app.cpp" line="2595"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>已停用播放狀態</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2352"/>
+        <location filename="../src/app/app.cpp" line="2598"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>按這裡重新啟用</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2356"/>
+        <location filename="../src/app/app.cpp" line="2602"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>已啟用播放狀態</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2361"/>
+        <location filename="../src/app/app.cpp" line="2607"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>正在等待 Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2367"/>
+        <location filename="../src/app/app.cpp" line="2613"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>正在等待媒體內容開始播放</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2371"/>
+        <location filename="../src/app/app.cpp" line="2617"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>播放狀態運作中</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2740"/>
+        <location filename="../src/app/app.cpp" line="3011"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>贊助</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2745"/>
+        <location filename="../src/app/app.cpp" line="3016"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>以小額贊助支持我的作品</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2752"/>
+        <location filename="../src/app/app.cpp" line="3023"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>結束</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2840"/>
+        <location filename="../src/app/app.cpp" line="3111"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>切換個別播放程式的播放狀態</translation>
@@ -177,7 +177,7 @@
         <translation type="vanished">在個人狀態中顯示暫停播放的媒體內容</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2125"/>
+        <location filename="../src/app/app.cpp" line="2370"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation type="unfinished"></translation>
@@ -253,7 +253,7 @@
         <translation type="vanished">沒有專輯封面時的替代圖片</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2757"/>
+        <location filename="../src/app/app.cpp" line="3028"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>設定</translation>
@@ -264,7 +264,7 @@
         <translation type="vanished">使用來自媒體播放程式的封面圖片</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2303"/>
+        <location filename="../src/app/app.cpp" line="2549"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_title}，{media_artist}</translation>
@@ -330,14 +330,14 @@
         <translation type="vanished">自動安裝更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4379"/>
-        <location filename="../src/app/app.cpp" line="4772"/>
+        <location filename="../src/app/app.cpp" line="4650"/>
+        <location filename="../src/app/app.cpp" line="5051"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>檢查更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4391"/>
+        <location filename="../src/app/app.cpp" line="4662"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>正在檢查更新...</translation>
@@ -353,10 +353,9 @@
         <translation type="vanished">發布新版本時顯示新鮮事</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4398"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation>查看變更記錄</translation>
+        <translation type="vanished">查看變更記錄</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -369,7 +368,7 @@
         <translation type="vanished">開機時自動啟動 {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4282"/>
+        <location filename="../src/app/app.cpp" line="4553"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>說明</translation>
@@ -380,109 +379,109 @@
         <translation type="vanished">系統偵測不到我的媒體播放程式</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4293"/>
+        <location filename="../src/app/app.cpp" line="4564"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>提交已偵測到的媒體播放程式</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4300"/>
+        <location filename="../src/app/app.cpp" line="4571"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>前往 Github 回報問題</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4306"/>
+        <location filename="../src/app/app.cpp" line="4577"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>加入我們的 Discord 伺服器</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4319"/>
+        <location filename="../src/app/app.cpp" line="4590"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>前往 GitHub 幫專案加上星號</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4325"/>
+        <location filename="../src/app/app.cpp" line="4596"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>未來更新藍圖</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4332"/>
+        <location filename="../src/app/app.cpp" line="4603"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>隱私權聲明</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4339"/>
-        <location filename="../src/app/app.cpp" line="6270"/>
+        <location filename="../src/app/app.cpp" line="4610"/>
+        <location filename="../src/app/app.cpp" line="6557"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>關於本程式</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4373"/>
+        <location filename="../src/app/app.cpp" line="4644"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>你目前使用的是 {version} 版</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4712"/>
-        <location filename="../src/app/app.cpp" line="5173"/>
+        <location filename="../src/app/app.cpp" line="4991"/>
+        <location filename="../src/app/app.cpp" line="5452"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>按這裡下載 {version} 版</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4830"/>
+        <location filename="../src/app/app.cpp" line="5109"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>正在取消下載...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4838"/>
-        <location filename="../src/app/app.cpp" line="6133"/>
+        <location filename="../src/app/app.cpp" line="5117"/>
+        <location filename="../src/app/app.cpp" line="6420"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>安裝</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4856"/>
+        <location filename="../src/app/app.cpp" line="5135"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>已啟用自動更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4858"/>
-        <location filename="../src/app/app.cpp" line="4906"/>
-        <location filename="../src/app/app.cpp" line="5116"/>
+        <location filename="../src/app/app.cpp" line="5137"/>
+        <location filename="../src/app/app.cpp" line="5185"/>
+        <location filename="../src/app/app.cpp" line="5395"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>啟用自動更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4883"/>
-        <location filename="../src/app/app.cpp" line="6134"/>
+        <location filename="../src/app/app.cpp" line="5162"/>
+        <location filename="../src/app/app.cpp" line="6421"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>安裝中...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4916"/>
+        <location filename="../src/app/app.cpp" line="5195"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>已停用自動更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4995"/>
+        <location filename="../src/app/app.cpp" line="5274"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>按這裡安裝 {version} 版</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5447"/>
+        <location filename="../src/app/app.cpp" line="5726"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -490,34 +489,28 @@ You can support the development with a donation. Click here or in the tray menu 
 歡迎捐款贊助開發作業，詳情請按這裡或查看工作列選單。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4707"/>
-        <location filename="../src/app/app.cpp" line="4992"/>
-        <location filename="../src/app/app.cpp" line="5018"/>
-        <location filename="../src/app/app.cpp" line="5026"/>
+        <location filename="../src/app/app.cpp" line="4986"/>
+        <location filename="../src/app/app.cpp" line="5271"/>
+        <location filename="../src/app/app.cpp" line="5297"/>
+        <location filename="../src/app/app.cpp" line="5305"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>已發布新版本</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1505"/>
+        <location filename="../src/app/app.cpp" line="1568"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1518"/>
-        <source>Dismiss</source>
-        <comment>News tray menu entry: Dismisses/ignores the news entry and removes it</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/app.cpp" line="2131"/>
+        <location filename="../src/app/app.cpp" line="2376"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2145"/>
+        <location filename="../src/app/app.cpp" line="2390"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation type="unfinished"></translation>
@@ -553,82 +546,106 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">{app_name} 標誌</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4286"/>
+        <location filename="../src/app/app.cpp" line="1598"/>
+        <source>Dismiss</source>
+        <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="1700"/>
+        <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
+        <comment>popup: shown when there are no latest news available</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4557"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4313"/>
+        <location filename="../src/app/app.cpp" line="4584"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>捐款贊助開發作業</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5005"/>
+        <location filename="../src/app/app.cpp" line="4669"/>
+        <source>View the latest news</source>
+        <comment>help menu: opens a popup with the latest news</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="4677"/>
+        <source>View changelog</source>
+        <comment>help menu: opens the changelog popup</comment>
+        <translation type="unfinished">查看變更記錄</translation>
+    </message>
+    <message>
+        <location filename="../src/app/app.cpp" line="5284"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>造訪下載頁面</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5016"/>
-        <location filename="../src/app/app.cpp" line="5023"/>
+        <location filename="../src/app/app.cpp" line="5295"/>
+        <location filename="../src/app/app.cpp" line="5302"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>正在安裝更新...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5052"/>
-        <location filename="../src/app/app.cpp" line="5057"/>
+        <location filename="../src/app/app.cpp" line="5331"/>
+        <location filename="../src/app/app.cpp" line="5336"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>沒有可用的更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5084"/>
+        <location filename="../src/app/app.cpp" line="5363"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>已更新為 {version} 版</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5087"/>
+        <location filename="../src/app/app.cpp" line="5366"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>重新啟動本程式</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5095"/>
+        <location filename="../src/app/app.cpp" line="5374"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>發生錯誤</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5101"/>
-        <location filename="../src/app/app.cpp" line="5104"/>
+        <location filename="../src/app/app.cpp" line="5380"/>
+        <location filename="../src/app/app.cpp" line="5383"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>已安裝新版本</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5109"/>
+        <location filename="../src/app/app.cpp" line="5388"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>已安裝</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5112"/>
+        <location filename="../src/app/app.cpp" line="5391"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>已安裝更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5113"/>
+        <location filename="../src/app/app.cpp" line="5392"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>重新啟動</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5139"/>
+        <location filename="../src/app/app.cpp" line="5418"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -636,32 +653,32 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;如要執行最新版本，請重新啟動本程式。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5180"/>
+        <location filename="../src/app/app.cpp" line="5459"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>錯誤：安裝失敗</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5205"/>
+        <location filename="../src/app/app.cpp" line="5484"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>回報這個問題</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5215"/>
-        <location filename="../src/app/app.cpp" line="5218"/>
+        <location filename="../src/app/app.cpp" line="5494"/>
+        <location filename="../src/app/app.cpp" line="5497"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>無法安裝更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5223"/>
+        <location filename="../src/app/app.cpp" line="5502"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5231"/>
+        <location filename="../src/app/app.cpp" line="5510"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -669,130 +686,130 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5236"/>
+        <location filename="../src/app/app.cpp" line="5515"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>手動下載</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5433"/>
+        <location filename="../src/app/app.cpp" line="5712"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>歡迎加入我們的 Discord 伺服器！你可以與其他使用者交流互動、提出寶貴建議，以及掌握最新動態。按這裡即可加入，或稍後再查看「說明」選單。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6003"/>
+        <location filename="../src/app/app.cpp" line="6282"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>不再顯示這則訊息</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6126"/>
+        <location filename="../src/app/app.cpp" line="6413"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>已有可用的更新</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6127"/>
+        <location filename="../src/app/app.cpp" line="6414"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;{app_name} 已推出新版本。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;歡迎閱讀下方的變更記錄，看看有哪些新鮮事。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6143"/>
+        <location filename="../src/app/app.cpp" line="6430"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>再試一次</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6149"/>
+        <location filename="../src/app/app.cpp" line="6436"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>下載</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6160"/>
+        <location filename="../src/app/app.cpp" line="6447"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>已安裝新版本</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6166"/>
+        <location filename="../src/app/app.cpp" line="6453"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>有哪些新鮮事？</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6173"/>
+        <location filename="../src/app/app.cpp" line="6460"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>確認</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6175"/>
+        <location filename="../src/app/app.cpp" line="6462"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>系統只會在發布新版本時顯示這則訊息。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6186"/>
+        <location filename="../src/app/app.cpp" line="6473"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>變更記錄</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6209"/>
+        <location filename="../src/app/app.cpp" line="6496"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>初次啟動</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6214"/>
+        <location filename="../src/app/app.cpp" line="6501"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;點選工作列中的圖示即可開啟控制選項。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} 會在背景執行，隨時都能透過這個方式存取。你可以掌控要在個人狀態中顯示哪些媒體播放程式，並調整播放狀態的呈現方式。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6239"/>
+        <location filename="../src/app/app.cpp" line="6526"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>瞭解！</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6340"/>
+        <location filename="../src/app/app.cpp" line="6627"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>{version} 版</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6346"/>
+        <location filename="../src/app/app.cpp" line="6633"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>授權條款</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6349"/>
+        <location filename="../src/app/app.cpp" line="6636"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>隱私權聲明</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6352"/>
+        <location filename="../src/app/app.cpp" line="6639"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>回報問題</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6355"/>
+        <location filename="../src/app/app.cpp" line="6642"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>喜歡 {app_name} 嗎？&lt;a {attributes}&gt;不妨捐款贊助開發作業&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6363"/>
+        <location filename="../src/app/app.cpp" line="6650"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>想透過其他方式提供協助嗎？&lt;a {attributes}&gt;隨時歡迎！&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6371"/>
+        <location filename="../src/app/app.cpp" line="6658"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>感謝每一位協助翻譯本程式的熱心人士：</translation>
@@ -815,19 +832,19 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>NewsDialog</name>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="57"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="59"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/news/news_dialog.cpp" line="112"/>
+        <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
         <translation type="unfinished"></translation>
@@ -1000,330 +1017,336 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="815"/>
+        <location filename="../src/app/settings/window.cpp" line="766"/>
+        <source>View the latest news</source>
+        <comment>general settings: opens a popup with the latest news</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="833"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="933"/>
+        <location filename="../src/app/settings/window.cpp" line="951"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="940"/>
+        <location filename="../src/app/settings/window.cpp" line="958"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
         <translation type="unfinished">收聽 Podcast 時一律顯示「{podcast_activity_name}」</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="944"/>
+        <location filename="../src/app/settings/window.cpp" line="962"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
         <translation type="unfinished">嘗試篩除廣告</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="950"/>
+        <location filename="../src/app/settings/window.cpp" line="968"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
         <translation type="unfinished">僅在個人狀態中顯示 Podcast</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="966"/>
+        <location filename="../src/app/settings/window.cpp" line="984"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation type="unfinished">分割顯示演出者和專輯</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="995"/>
+        <location filename="../src/app/settings/window.cpp" line="1013"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
         <translation type="unfinished">顯示為「{player_name}」</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1017"/>
+        <location filename="../src/app/settings/window.cpp" line="1035"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1022"/>
+        <location filename="../src/app/settings/window.cpp" line="1040"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
         <translation type="unfinished">顯示「{music_activity_name}」而非播放程式名稱</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1029"/>
+        <location filename="../src/app/settings/window.cpp" line="1047"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
         <translation type="unfinished">將狀態顯示為「{playing_activity_label}」活動</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1103"/>
+        <location filename="../src/app/settings/window.cpp" line="1121"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1190"/>
+        <location filename="../src/app/settings/window.cpp" line="1208"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1197"/>
+        <location filename="../src/app/settings/window.cpp" line="1215"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation type="unfinished">在播放狀態中顯示「{branding_text}」</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1042"/>
+        <location filename="../src/app/settings/window.cpp" line="1060"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1047"/>
+        <location filename="../src/app/settings/window.cpp" line="1065"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">將曲目名稱和演出者合併為一行</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1063"/>
+        <location filename="../src/app/settings/window.cpp" line="1081"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">將演出者和專輯合併為一行</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1081"/>
+        <location filename="../src/app/settings/window.cpp" line="1099"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">對調曲目名稱和演出者</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1086"/>
+        <location filename="../src/app/settings/window.cpp" line="1104"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation type="unfinished">在演出者名稱前加上「{prefix}」</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1093"/>
+        <location filename="../src/app/settings/window.cpp" line="1111"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation type="unfinished">在專輯名稱前加上「{prefix}」</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1099"/>
+        <location filename="../src/app/settings/window.cpp" line="1117"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">顯示專輯名稱</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1108"/>
+        <location filename="../src/app/settings/window.cpp" line="1126"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation type="unfinished">顯示播放資訊</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1114"/>
+        <location filename="../src/app/settings/window.cpp" line="1132"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1118"/>
+        <location filename="../src/app/settings/window.cpp" line="1136"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">在個人狀態中顯示暫停播放的媒體內容</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1122"/>
+        <location filename="../src/app/settings/window.cpp" line="1140"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">媒體內容暫停時顯示「已暫停」圖示</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1126"/>
+        <location filename="../src/app/settings/window.cpp" line="1144"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation type="unfinished">媒體內容暫停時仍然顯示播放進度條</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1140"/>
+        <location filename="../src/app/settings/window.cpp" line="1158"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation type="unfinished">顯示媒體內容暫停了多長時間</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1154"/>
+        <location filename="../src/app/settings/window.cpp" line="1172"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1167"/>
+        <location filename="../src/app/settings/window.cpp" line="1185"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">媒體內容播放時顯示「播放中」圖示</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1177"/>
+        <location filename="../src/app/settings/window.cpp" line="1195"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">顯示媒體播放程式標誌</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
+        <location filename="../src/app/settings/window.cpp" line="1204"/>
         <source>These settings do not apply to streaming services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1204"/>
+        <location filename="../src/app/settings/window.cpp" line="1222"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1223"/>
+        <location filename="../src/app/settings/window.cpp" line="1241"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation type="unfinished">媒體播放程式標誌</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1226"/>
+        <location filename="../src/app/settings/window.cpp" line="1244"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation type="unfinished">音符圖示</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1229"/>
+        <location filename="../src/app/settings/window.cpp" line="1247"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation type="unfinished">播放狀態</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1233"/>
+        <location filename="../src/app/settings/window.cpp" line="1251"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation type="unfinished">CD 圖示</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1239"/>
+        <location filename="../src/app/settings/window.cpp" line="1257"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation type="unfinished">{app_name} 標誌</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1246"/>
+        <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation type="unfinished">其他</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1252"/>
+        <location filename="../src/app/settings/window.cpp" line="1270"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation type="unfinished">沒有專輯封面時的替代圖片</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1308"/>
+        <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1323"/>
+        <location filename="../src/app/settings/window.cpp" line="1344"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="116"/>
-        <location filename="../src/app/settings/window.cpp" line="1495"/>
+        <location filename="../src/app/settings/window.cpp" line="1516"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1402"/>
+        <location filename="../src/app/settings/window.cpp" line="1423"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1415"/>
+        <location filename="../src/app/settings/window.cpp" line="1436"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1426"/>
+        <location filename="../src/app/settings/window.cpp" line="1447"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1451"/>
+        <location filename="../src/app/settings/window.cpp" line="1472"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1491"/>
+        <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1505"/>
+        <location filename="../src/app/settings/window.cpp" line="1526"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation type="unfinished">請勿連按這個選項，並於 {amount} 秒後再試一次</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1528"/>
+        <location filename="../src/app/settings/window.cpp" line="1549"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1549"/>
+        <location filename="../src/app/settings/window.cpp" line="1570"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation type="unfinished">外部服務</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1570"/>
+        <location filename="../src/app/settings/window.cpp" line="1591"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation type="unfinished">收聽 TIDAL 時使用 TIDAL API</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1572"/>
+        <location filename="../src/app/settings/window.cpp" line="1593"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation type="unfinished">收聽 Deezer 時使用 Deezer API</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1574"/>
+        <location filename="../src/app/settings/window.cpp" line="1595"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1577"/>
+        <location filename="../src/app/settings/window.cpp" line="1598"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1585"/>
+        <location filename="../src/app/settings/window.cpp" line="1606"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1633"/>
+        <location filename="../src/app/settings/window.cpp" line="1654"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation type="unfinished"></translation>
