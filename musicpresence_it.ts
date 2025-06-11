@@ -575,13 +575,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="1598"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished">Ignora</translation>
+        <translation>Ignora</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1700"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Al momento non ci sono novità dallo sviluppatore. Controlla più tardi o abilita le notifiche delle novità dalle impostazioni per ricevere una notifica non appena ci sono delle novità disponibili.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4557"/>
@@ -593,13 +593,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="4669"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le ultime novità</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4677"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Mostra il changelog</translation>
+        <translation>Mostra il changelog</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5284"/>
@@ -1045,7 +1045,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="766"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le ultime novità</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="833"/>
