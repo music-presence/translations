@@ -565,13 +565,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="1505"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novità dallo sviluppatore</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1518"/>
         <source>Dismiss</source>
         <comment>News tray menu entry: Dismisses/ignores the news entry and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ignora</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4286"/>
@@ -906,7 +906,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="414"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Aiuta con la traduzione</translation>
+        <translation>Aiuta con la traduzione</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="419"/>
@@ -1011,13 +1011,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="745"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished">Novità</translation>
+        <translation>Novità</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manda una notifica quando ci sono novità dallo sviluppatore</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="815"/>
