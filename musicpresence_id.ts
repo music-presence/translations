@@ -502,13 +502,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="1505"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kabar dari pengembang</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1518"/>
         <source>Dismiss</source>
         <comment>News tray menu entry: Dismisses/ignores the news entry and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Singkirkan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2131"/>
@@ -853,19 +853,19 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/news/news_dialog.cpp" line="57"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="59"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tutup saja</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="112"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kabar</translation>
     </message>
 </context>
 <context>
@@ -921,7 +921,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="414"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Bantu menerjemahkan</translation>
+        <translation>Bantu dengan menerjemahkan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="419"/>
@@ -1026,13 +1026,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="745"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kabar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beritahu jika ada kabar baru dari developer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="815"/>
