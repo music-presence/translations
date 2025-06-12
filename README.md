@@ -17,7 +17,7 @@ Translations for the [Music Presence](https://musicpresence.app) app.
 | [@jmleetw](https://github.com/jmleetw) | [zh-TW](https://translate.codeberg.org/projects/music-presence/desktop-application/zh-TW) |
 | [@kucendro](https://github.com/kucendro) | [cs](https://translate.codeberg.org/projects/music-presence/desktop-application/cs) |
 | [@liviu-hariton](https://github.com/liviu-hariton) | [ro](https://translate.codeberg.org/projects/music-presence/desktop-application/ro) |
-| [@MarvelousAdiris](https://github.com/MarvelousAdiris) | [es](https://translate.codeberg.org/projects/music-presence/desktop-application/es) |
+| [@MenIDistrust](https://github.com/MenIDistrust) | [es](https://translate.codeberg.org/projects/music-presence/desktop-application/es) |
 | [@MoonManPL](https://github.com/MoonManPL) | [pl](https://translate.codeberg.org/projects/music-presence/desktop-application/pl) |
 | [@Mysticnotthemighty](https://github.com/Mysticnotthemighty) | [ar](https://translate.codeberg.org/projects/music-presence/desktop-application/ar) |
 | [@matej4real](https://github.com/matej4real) | [hr](https://translate.codeberg.org/projects/music-presence/desktop-application/hr), [bs](https://translate.codeberg.org/projects/music-presence/desktop-application/bs), [sr](https://translate.codeberg.org/projects/music-presence/desktop-application/sr) |

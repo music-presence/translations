@@ -91,8 +91,8 @@ std::vector<Contributor> const& translations::contributors()
             .translated_languages = {"it"},
         },
         {
-            .name = "Marvelous Adiris",
-            .github_name = "MarvelousAdiris",
+            .name = "Men I Distrust",
+            .github_name = "MenIDistrust",
             .codeberg_name = "MarvelousAdiris",
             .link_to_github = true,
             .translated_languages = {"es"},
