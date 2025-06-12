@@ -501,7 +501,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1568"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>개발자의 소식</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2376"/>
@@ -584,13 +584,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1598"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>무시하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1700"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>현재 개발자로부터 전달된 소식이 없습니다. 추후 확인하시거나, 설정에서 소식 알림을 활성화하시면 새로운 소식이 등록될 때 알려드립니다.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4557"/>
@@ -608,13 +608,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4669"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>최신 소식 보기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4677"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">변경 로그 보기</translation>
+        <translation>변경사항 보기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5284"/>
@@ -870,13 +870,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>확인</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>무시하고 닫기</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
@@ -938,7 +938,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="414"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">번역을 도와주세요</translation>
+        <translation>번역을 도와주세요</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="419"/>
@@ -1043,19 +1043,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="745"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished">뉴스</translation>
+        <translation>소식</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>개발자의 소식을 알리기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="766"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>최신 소식 보기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="833"/>
