@@ -927,7 +927,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>뉴스</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -1134,7 +1134,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>노래 정보를 표시하지 마세요</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
