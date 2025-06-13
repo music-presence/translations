@@ -479,13 +479,13 @@
         <location filename="../src/app/app.cpp" line="1726"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished">Hylkää</translation>
+        <translation>Hylkää</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kehittäjällä ei tällä hetkellä ole uutisoitavaa. Tarkista myöhemmin uudelleen tai ota asetuksista käyttöön uutisilmoitukset, jolloin saat ilmoituksen uusista uutisista.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4741"/>
@@ -552,13 +552,13 @@
         <location filename="../src/app/app.cpp" line="4864"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lue uusimmat uutiset</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Näytä muutosloki</translation>
+        <translation>Näytä muutosloki</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5187"/>
@@ -927,7 +927,7 @@ Voit tukea kehitystä lahjoituksella. Paina tästä tai tehtäväpalkin kuvakkee
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Uutiset</translation>
+        <translation>Uutiset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -1062,7 +1062,7 @@ Voit tukea kehitystä lahjoituksella. Paina tästä tai tehtäväpalkin kuvakkee
         <location filename="../src/app/settings/window.cpp" line="784"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Katso uusimmat uutiset</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="852"/>
@@ -1134,7 +1134,7 @@ Voit tukea kehitystä lahjoituksella. Paina tästä tai tehtäväpalkin kuvakkee
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Älä näytä mitään kappaleiden tietoja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
