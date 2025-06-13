@@ -564,19 +564,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1568"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Новини від розробника</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1598"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Відхилити</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1700"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Наразі немає новин від розробника. Перевірте пізніше або увімкніть повідомлення в налаштуваннях щоб отримувати їх одразу як вони з&apos;являться.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4557"/>
@@ -588,13 +588,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4669"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дивитися останні новини</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4677"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Дивитися журнал змін</translation>
+        <translation>Дивитися журнал змін</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5284"/>
@@ -923,7 +923,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="414"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Допомогти з перекладом</translation>
+        <translation>Допомогти з перекладом</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="419"/>
@@ -1028,19 +1028,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="745"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished">Новини</translation>
+        <translation>Новини</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Повідомляти про новини від розробника</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="766"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дивитися останні новини</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="833"/>
