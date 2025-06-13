@@ -4,79 +4,79 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="2501"/>
+        <location filename="../src/app/app.cpp" line="2658"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>비활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2508"/>
+        <location filename="../src/app/app.cpp" line="2665"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2513"/>
+        <location filename="../src/app/app.cpp" line="2670"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>방금 활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2595"/>
+        <location filename="../src/app/app.cpp" line="2752"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>Presence 비활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2598"/>
+        <location filename="../src/app/app.cpp" line="2755"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>활성화하려면 클릭</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2602"/>
+        <location filename="../src/app/app.cpp" line="2759"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>Presence가 활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2607"/>
+        <location filename="../src/app/app.cpp" line="2764"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>Discord를 기다리는 중</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2613"/>
+        <location filename="../src/app/app.cpp" line="2770"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>미디어 재생을 기다리는 중</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2617"/>
+        <location filename="../src/app/app.cpp" line="2774"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>Presence가 활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3011"/>
+        <location filename="../src/app/app.cpp" line="3193"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>기부</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3016"/>
+        <location filename="../src/app/app.cpp" line="3198"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>제 작업을 작은 기부로 지원해주세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3023"/>
+        <location filename="../src/app/app.cpp" line="3205"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>종료</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3111"/>
+        <location filename="../src/app/app.cpp" line="3293"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>애플리케이션마다 Presence 전환</translation>
@@ -177,7 +177,7 @@
         <translation type="vanished">상태에 일시 정지된 미디어 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2370"/>
+        <location filename="../src/app/app.cpp" line="2527"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation>자동화 권환이 거부됨</translation>
@@ -253,7 +253,7 @@
         <translation type="vanished">누락된 표지 이미지에 대한 자리 표시자</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3028"/>
+        <location filename="../src/app/app.cpp" line="3210"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>설정</translation>
@@ -264,7 +264,7 @@
         <translation type="vanished">미디어 플레이어의 표지 이미지를 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2549"/>
+        <location filename="../src/app/app.cpp" line="2706"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_artist}의 {media_title}</translation>
@@ -330,14 +330,14 @@
         <translation type="vanished">자동으로 업데이트 설치</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4650"/>
-        <location filename="../src/app/app.cpp" line="5051"/>
+        <location filename="../src/app/app.cpp" line="4843"/>
+        <location filename="../src/app/app.cpp" line="5250"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>업데이트 확인하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4662"/>
+        <location filename="../src/app/app.cpp" line="4855"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>업데이트 확인 중...</translation>
@@ -368,7 +368,7 @@
         <translation type="vanished">로그인 시 {app_name} 시작</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4553"/>
+        <location filename="../src/app/app.cpp" line="4735"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>도움말</translation>
@@ -379,109 +379,109 @@
         <translation type="vanished">내 미디어 플레이어가 감지되지 않음</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4564"/>
+        <location filename="../src/app/app.cpp" line="4746"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>감지된 미디어 플레이어 제출</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4571"/>
+        <location filename="../src/app/app.cpp" line="4753"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>GitHub에서 문제 보고</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4577"/>
+        <location filename="../src/app/app.cpp" line="4759"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>우리 Discord 서버에 참여하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4590"/>
+        <location filename="../src/app/app.cpp" line="4772"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>GitHub에서 프로젝트에 별표 추가★</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4596"/>
+        <location filename="../src/app/app.cpp" line="4778"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>다음에 무엇이 올까요?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4603"/>
+        <location filename="../src/app/app.cpp" line="4785"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>개인정보 처리방침</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4610"/>
-        <location filename="../src/app/app.cpp" line="6557"/>
+        <location filename="../src/app/app.cpp" line="4792"/>
+        <location filename="../src/app/app.cpp" line="6775"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4644"/>
+        <location filename="../src/app/app.cpp" line="4837"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>현재 {version} 버전을 사용 중입니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4991"/>
-        <location filename="../src/app/app.cpp" line="5452"/>
+        <location filename="../src/app/app.cpp" line="5190"/>
+        <location filename="../src/app/app.cpp" line="5651"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>버전 {version}을(를) 다운로드하려면 클릭하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5109"/>
+        <location filename="../src/app/app.cpp" line="5308"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>다운로드 취소하는 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5117"/>
-        <location filename="../src/app/app.cpp" line="6420"/>
+        <location filename="../src/app/app.cpp" line="5316"/>
+        <location filename="../src/app/app.cpp" line="6638"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>설치</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5135"/>
+        <location filename="../src/app/app.cpp" line="5334"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>자동 업데이트 활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5137"/>
-        <location filename="../src/app/app.cpp" line="5185"/>
-        <location filename="../src/app/app.cpp" line="5395"/>
+        <location filename="../src/app/app.cpp" line="5336"/>
+        <location filename="../src/app/app.cpp" line="5384"/>
+        <location filename="../src/app/app.cpp" line="5594"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>자동 업데이트 활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5162"/>
-        <location filename="../src/app/app.cpp" line="6421"/>
+        <location filename="../src/app/app.cpp" line="5361"/>
+        <location filename="../src/app/app.cpp" line="6639"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>설치 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5195"/>
+        <location filename="../src/app/app.cpp" line="5394"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>자동 업데이트가 비활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5274"/>
+        <location filename="../src/app/app.cpp" line="5473"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>버전 {version}을 설치하려면 클릭하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5726"/>
+        <location filename="../src/app/app.cpp" line="5925"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -489,28 +489,28 @@ You can support the development with a donation. Click here or in the tray menu 
 개발을 기부로 지원할 수 있어요. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4986"/>
-        <location filename="../src/app/app.cpp" line="5271"/>
-        <location filename="../src/app/app.cpp" line="5297"/>
-        <location filename="../src/app/app.cpp" line="5305"/>
+        <location filename="../src/app/app.cpp" line="5185"/>
+        <location filename="../src/app/app.cpp" line="5470"/>
+        <location filename="../src/app/app.cpp" line="5496"/>
+        <location filename="../src/app/app.cpp" line="5504"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>새 버전 사용 가능</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1568"/>
+        <location filename="../src/app/app.cpp" line="1696"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
         <translation>개발자의 소식</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2376"/>
+        <location filename="../src/app/app.cpp" line="2533"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation>&lt;p&gt;&lt;b&gt;{app_name}은 {player_name}을 자동화할 수 없습니다&lt;/b&gt;&lt;/p&gt;&lt;p&gt;시스템 설정을 열고 개인정보 보호&amp;nbsp;&amp;amp;&amp;nbsp;보안 &gt; 자동화 &gt; {app_name}에서 {player_name} 자동화를 허용해 주세요&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2390"/>
+        <location filename="../src/app/app.cpp" line="2547"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>설정 열기</translation>
@@ -581,106 +581,106 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">Apple Music을 들을때 iTunes API 사용하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1598"/>
+        <location filename="../src/app/app.cpp" line="1726"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
         <translation>무시하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1700"/>
+        <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
         <translation>현재 개발자로부터 전달된 소식이 없습니다. 추후 확인하시거나, 설정에서 소식 알림을 활성화하시면 새로운 소식이 등록될 때 알려드립니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4557"/>
+        <location filename="../src/app/app.cpp" line="4739"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>무언가가 작동하지 않습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4584"/>
+        <location filename="../src/app/app.cpp" line="4766"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>기부로 개발을 지원하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4669"/>
+        <location filename="../src/app/app.cpp" line="4862"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>최신 소식 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4677"/>
+        <location filename="../src/app/app.cpp" line="4870"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>변경사항 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5284"/>
+        <location filename="../src/app/app.cpp" line="5483"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>다운로드 페이지 방문하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5295"/>
-        <location filename="../src/app/app.cpp" line="5302"/>
+        <location filename="../src/app/app.cpp" line="5494"/>
+        <location filename="../src/app/app.cpp" line="5501"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>업데이트 설치 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5331"/>
-        <location filename="../src/app/app.cpp" line="5336"/>
+        <location filename="../src/app/app.cpp" line="5530"/>
+        <location filename="../src/app/app.cpp" line="5535"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>사용 가능한 업데이트가 없습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5363"/>
+        <location filename="../src/app/app.cpp" line="5562"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>{version} 버전으로 업데이트됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5366"/>
+        <location filename="../src/app/app.cpp" line="5565"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>애플리케이션을 재시작하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5374"/>
+        <location filename="../src/app/app.cpp" line="5573"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>무언가 잘못됐습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5380"/>
-        <location filename="../src/app/app.cpp" line="5383"/>
+        <location filename="../src/app/app.cpp" line="5579"/>
+        <location filename="../src/app/app.cpp" line="5582"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>새 버전이 설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5388"/>
+        <location filename="../src/app/app.cpp" line="5587"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5391"/>
+        <location filename="../src/app/app.cpp" line="5590"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>업데이트가 설치되었습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5392"/>
+        <location filename="../src/app/app.cpp" line="5591"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>재시작</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5418"/>
+        <location filename="../src/app/app.cpp" line="5617"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -688,32 +688,32 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;앱을 재시작 해서 최신 버전을 실행하세요.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5459"/>
+        <location filename="../src/app/app.cpp" line="5658"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>오류: 설치 실패</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5484"/>
+        <location filename="../src/app/app.cpp" line="5683"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>이 문제 신고하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5494"/>
-        <location filename="../src/app/app.cpp" line="5497"/>
+        <location filename="../src/app/app.cpp" line="5693"/>
+        <location filename="../src/app/app.cpp" line="5696"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>업데이트 설치 실패</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5502"/>
+        <location filename="../src/app/app.cpp" line="5701"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5510"/>
+        <location filename="../src/app/app.cpp" line="5709"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -721,130 +721,130 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5515"/>
+        <location filename="../src/app/app.cpp" line="5714"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>수동으로 다운로드</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5712"/>
+        <location filename="../src/app/app.cpp" line="5911"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>저희 Discord 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 이곳을 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6282"/>
+        <location filename="../src/app/app.cpp" line="6500"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>다시 보여주지 마세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6413"/>
+        <location filename="../src/app/app.cpp" line="6631"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>업데이트 가능</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6414"/>
+        <location filename="../src/app/app.cpp" line="6632"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;새 버전 {app_name} 이(가) 가능합니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;아래의 변경 사항을 읽고 새로운 내용을 확인하세요.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6430"/>
+        <location filename="../src/app/app.cpp" line="6648"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>디시 시도하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6436"/>
+        <location filename="../src/app/app.cpp" line="6654"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>다운로드</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6447"/>
+        <location filename="../src/app/app.cpp" line="6665"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>새 버전이 설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6453"/>
+        <location filename="../src/app/app.cpp" line="6671"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>새로운 기능은 무엇인가요?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6460"/>
+        <location filename="../src/app/app.cpp" line="6678"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>알겠습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6462"/>
+        <location filename="../src/app/app.cpp" line="6680"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>이것은 새 버전이 시행될 때만 표시됩니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6473"/>
+        <location filename="../src/app/app.cpp" line="6691"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>변경 사항</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6496"/>
+        <location filename="../src/app/app.cpp" line="6714"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>첫 실행</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6501"/>
+        <location filename="../src/app/app.cpp" line="6719"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;숨겨진 아이콘 메뉴에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6526"/>
+        <location filename="../src/app/app.cpp" line="6744"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>알았어요!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6627"/>
+        <location filename="../src/app/app.cpp" line="6845"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>버전 {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6633"/>
+        <location filename="../src/app/app.cpp" line="6851"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>라이센스</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6636"/>
+        <location filename="../src/app/app.cpp" line="6854"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>개인정보 처리방침</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6639"/>
+        <location filename="../src/app/app.cpp" line="6857"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>문제 보고</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6642"/>
+        <location filename="../src/app/app.cpp" line="6860"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>{app_name}이 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원하세요&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6650"/>
+        <location filename="../src/app/app.cpp" line="6868"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>다른 방법으로 도움을 주고 싶나요? &lt;a {attributes}&gt;참여하세요!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6658"/>
+        <location filename="../src/app/app.cpp" line="6876"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>앱 번역을 도와준 모든 분들께 감사드립니다:</translation>
@@ -888,500 +888,513 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>SettingsWindow</name>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="242"/>
+        <location filename="../src/app/settings/window.cpp" line="243"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>업데이트 확인하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="318"/>
+        <location filename="../src/app/settings/window.cpp" line="319"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="327"/>
+        <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>General</source>
         <comment>settings category</comment>
         <translation>일반</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="328"/>
+        <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Discord</source>
         <comment>settings category</comment>
         <translation>디스코드</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="329"/>
+        <location filename="../src/app/settings/window.cpp" line="330"/>
         <source>Services</source>
         <comment>settings category</comment>
         <translation>서비스들</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="330"/>
+        <location filename="../src/app/settings/window.cpp" line="331"/>
         <source>Advanced</source>
         <comment>settings category</comment>
         <translation>고급</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="334"/>
+        <location filename="../src/app/settings/window.cpp" line="337"/>
+        <location filename="../src/app/settings/window.cpp" line="1939"/>
+        <source>News</source>
+        <comment>settings category</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="346"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
         <translation>환경 설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="400"/>
+        <location filename="../src/app/settings/window.cpp" line="418"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
         <translation>언어 / {language}</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="414"/>
+        <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
         <translation>번역을 도와주세요</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="419"/>
+        <location filename="../src/app/settings/window.cpp" line="437"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
         <translation>적용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="428"/>
+        <location filename="../src/app/settings/window.cpp" line="446"/>
         <source>System language</source>
         <comment>language setting</comment>
         <translation>시스템 언어</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="524"/>
+        <location filename="../src/app/settings/window.cpp" line="542"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
         <translation>환경 설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="531"/>
+        <location filename="../src/app/settings/window.cpp" line="549"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
         <translation>트레이 아이콘 테마</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="540"/>
-        <location filename="../src/app/settings/window.cpp" line="582"/>
+        <location filename="../src/app/settings/window.cpp" line="558"/>
+        <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
         <translation>시스템 테마</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="542"/>
-        <location filename="../src/app/settings/window.cpp" line="584"/>
+        <location filename="../src/app/settings/window.cpp" line="560"/>
+        <location filename="../src/app/settings/window.cpp" line="602"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
         <translation>라이트</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="544"/>
-        <location filename="../src/app/settings/window.cpp" line="585"/>
+        <location filename="../src/app/settings/window.cpp" line="562"/>
+        <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
         <translation>다크</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="574"/>
+        <location filename="../src/app/settings/window.cpp" line="592"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
         <translation>앱 테마</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="620"/>
+        <location filename="../src/app/settings/window.cpp" line="638"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
         <translation>윈도우 설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="629"/>
+        <location filename="../src/app/settings/window.cpp" line="647"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
         <translation>로그인 시 {app_name} 시작</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="649"/>
+        <location filename="../src/app/settings/window.cpp" line="667"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
         <translation>업데이트</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="656"/>
+        <location filename="../src/app/settings/window.cpp" line="674"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
         <translation>자동으로 업데이트 설치</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="671"/>
+        <location filename="../src/app/settings/window.cpp" line="689"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
         <translation>새 버전이 출시되면 알림</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="688"/>
+        <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
         <translation>새 버전을 실행할 때 새로운 기능 확인</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="714"/>
+        <location filename="../src/app/settings/window.cpp" line="732"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>업데이트 확인 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="723"/>
+        <location filename="../src/app/settings/window.cpp" line="741"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
         <translation>변경 로그 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="745"/>
+        <location filename="../src/app/settings/window.cpp" line="763"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
         <translation>소식</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="749"/>
+        <location filename="../src/app/settings/window.cpp" line="767"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
         <translation>개발자의 소식을 알리기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="766"/>
+        <location filename="../src/app/settings/window.cpp" line="784"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
         <translation>최신 소식 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="833"/>
+        <location filename="../src/app/settings/window.cpp" line="852"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation>재설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="951"/>
+        <location filename="../src/app/settings/window.cpp" line="970"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
         <translation>개별 설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="958"/>
+        <location filename="../src/app/settings/window.cpp" line="977"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
         <translation>팟캐스트를 들을 때 항상 &quot;{podcast_activity_name}&quot; 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="962"/>
+        <location filename="../src/app/settings/window.cpp" line="981"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
         <translation>광고를 필터링하려고 시도</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="968"/>
+        <location filename="../src/app/settings/window.cpp" line="987"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
         <translation>상태에 팟캐스트만 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="984"/>
+        <location filename="../src/app/settings/window.cpp" line="1003"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation>아티스트 이름과 앨범 이름을 분리</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1013"/>
+        <location filename="../src/app/settings/window.cpp" line="1032"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
         <translation>“{player_name}”으로 표시하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1035"/>
+        <location filename="../src/app/settings/window.cpp" line="1054"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
         <translation>Presence</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1040"/>
+        <location filename="../src/app/settings/window.cpp" line="1059"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
         <translation>플레이어 이름 대신에 &quot;{music_activity_name}&quot;을(를) 표시하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1047"/>
+        <location filename="../src/app/settings/window.cpp" line="1066"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
         <translation>&quot;{playing_activity_label}&quot; 활동으로 상태 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1121"/>
+        <location filename="../src/app/settings/window.cpp" line="1140"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation>아티스트 누락 시 앨범명 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1208"/>
+        <location filename="../src/app/settings/window.cpp" line="1151"/>
+        <source>Do not show any song information</source>
+        <comment>appearance setting: whether to hide all song information</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1232"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation>버튼</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1215"/>
+        <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>Presence에 &quot;{branding_text}&quot; 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1060"/>
+        <location filename="../src/app/settings/window.cpp" line="1079"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation>노래정보</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1065"/>
+        <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>노래 제목과 아티스트를 한 줄에 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1081"/>
+        <location filename="../src/app/settings/window.cpp" line="1100"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>아티스트와 앨범을 한 줄에 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1099"/>
+        <location filename="../src/app/settings/window.cpp" line="1118"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>노래 제목과 아티스트의 순서 바꾸기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1104"/>
+        <location filename="../src/app/settings/window.cpp" line="1123"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>아티스트 이름 앞에 &quot;{prefix}&quot; 추가</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1111"/>
+        <location filename="../src/app/settings/window.cpp" line="1130"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>앨범 이름 앞에 &quot;{prefix}&quot; 추가</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1117"/>
+        <location filename="../src/app/settings/window.cpp" line="1136"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>앨범 이름 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1126"/>
+        <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>재생 정보 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1132"/>
+        <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation>일시정지된 미디어</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1136"/>
+        <location filename="../src/app/settings/window.cpp" line="1160"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>상태에 일시 정지된 미디어 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1140"/>
+        <location filename="../src/app/settings/window.cpp" line="1164"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>음악이 일시 정지되었을 때 일시 정지 아이콘 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1144"/>
+        <location filename="../src/app/settings/window.cpp" line="1168"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>일시 정지된 미디어의 진행 바 고정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1158"/>
+        <location filename="../src/app/settings/window.cpp" line="1182"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>미디어가 일시 정지된 시간을 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1172"/>
+        <location filename="../src/app/settings/window.cpp" line="1196"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>오프라인 플레이어</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1185"/>
+        <location filename="../src/app/settings/window.cpp" line="1209"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>음악이 재생될 때 재생 아이콘 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1195"/>
+        <location filename="../src/app/settings/window.cpp" line="1219"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>미디어 플레이어의 로고 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1204"/>
+        <location filename="../src/app/settings/window.cpp" line="1228"/>
         <source>These settings do not apply to streaming services</source>
         <translation>이 설정은 스트리밍 서비스에는 적용되지 않습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1222"/>
+        <location filename="../src/app/settings/window.cpp" line="1246"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation>&quot;{listen_to_this_song}&quot; 버튼을 &quot;{play_on_player}&quot;로 표시합니다</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1241"/>
+        <location filename="../src/app/settings/window.cpp" line="1265"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation>미디어 플레이어 로고</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1244"/>
+        <location filename="../src/app/settings/window.cpp" line="1268"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation>음악 노트</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1247"/>
+        <location filename="../src/app/settings/window.cpp" line="1271"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation>재생 상태</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1251"/>
+        <location filename="../src/app/settings/window.cpp" line="1275"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1257"/>
+        <location filename="../src/app/settings/window.cpp" line="1281"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation>{app_name} 로고</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1264"/>
+        <location filename="../src/app/settings/window.cpp" line="1288"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1270"/>
+        <location filename="../src/app/settings/window.cpp" line="1294"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation>누락된 표지 이미지에 대한 자리 표시자</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1329"/>
+        <location filename="../src/app/settings/window.cpp" line="1353"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation>모두 재설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1344"/>
+        <location filename="../src/app/settings/window.cpp" line="1368"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>플레이어 제거</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="116"/>
-        <location filename="../src/app/settings/window.cpp" line="1516"/>
+        <location filename="../src/app/settings/window.cpp" line="117"/>
+        <location filename="../src/app/settings/window.cpp" line="1625"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>미디어 플레이어에서 표지 이미지 업로드</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1423"/>
+        <location filename="../src/app/settings/window.cpp" line="1532"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>미디어 감지</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1436"/>
+        <location filename="../src/app/settings/window.cpp" line="1545"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>변경 사항을 적용하려면 앱을 다시 시작하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1447"/>
+        <location filename="../src/app/settings/window.cpp" line="1556"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>기본 시스템 인터페이스 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1472"/>
+        <location filename="../src/app/settings/window.cpp" line="1581"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>AppleScript 자동화 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1512"/>
+        <location filename="../src/app/settings/window.cpp" line="1621"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>앨범 표지</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1526"/>
+        <location filename="../src/app/settings/window.cpp" line="1635"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>이것을 너무 많이 시도하지 마세요. {amount}초 후에 다시 시도하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1549"/>
+        <location filename="../src/app/settings/window.cpp" line="1658"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>항상 로컬 표지 이미지 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1570"/>
+        <location filename="../src/app/settings/window.cpp" line="1679"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>외부 서비스</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1591"/>
+        <location filename="../src/app/settings/window.cpp" line="1700"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>TIDAL을 들을 때 TIDAL API 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1593"/>
+        <location filename="../src/app/settings/window.cpp" line="1702"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Deezer를 들을 때 Deezer API 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1595"/>
+        <location filename="../src/app/settings/window.cpp" line="1704"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Spotify를 들을때 Spotify API 사용하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1598"/>
+        <location filename="../src/app/settings/window.cpp" line="1707"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Apple Music을 들을때 iTunes API 사용하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1606"/>
+        <location filename="../src/app/settings/window.cpp" line="1715"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>이러한 서비스로 전송되는 데이터와 이 데이터가 사용되는 방법에 대한 자세한 내용은 &lt;a {attributes}&gt;개인정보 보호정책&lt;/a&gt;을 읽어주세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1654"/>
+        <location filename="../src/app/settings/window.cpp" line="1763"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>일반</translation>
