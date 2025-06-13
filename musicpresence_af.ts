@@ -501,7 +501,7 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/app.cpp" line="1696"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuus van die ontwikkelaar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2535"/>
@@ -584,13 +584,13 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/app.cpp" line="1726"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maak toe</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Daar is tans geen nuus van die ontwikkelaar nie. Kyk later weer of aktiveer nuuskennisgewings in die instellings om in kennis gestel te word sodra daar enige nuus beskikbaar is.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4741"/>
@@ -608,13 +608,13 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/app.cpp" line="4864"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Besoek die nuutste nuus</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Blaai deur die changelog</translation>
+        <translation>Blaai deur die changelog</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5485"/>
@@ -870,19 +870,19 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toch sluit</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuus</translation>
     </message>
 </context>
 <context>
@@ -927,7 +927,7 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -945,7 +945,7 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Help met vertaal</translation>
+        <translation>Help met vertaal</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
@@ -1050,19 +1050,19 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/settings/window.cpp" line="763"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="767"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stel in kennis oor nuus van die ontwikkelaar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="784"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wys die nuutste nuus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="852"/>
@@ -1134,7 +1134,7 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Moet geen liedinligting wys nie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
