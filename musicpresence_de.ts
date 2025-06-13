@@ -942,7 +942,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Neuigkeiten</translation>
+        <translation>Neuigkeiten</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -1149,7 +1149,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige keine Lied-Informationen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
