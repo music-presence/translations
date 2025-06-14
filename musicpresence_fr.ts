@@ -501,7 +501,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="1696"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelles du développeur</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2535"/>
@@ -559,13 +559,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="1726"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il n&apos;y a actuellement aucune nouvelle de la part du développeur. Revenez plus tard ou activez les notifications dans les paramètres pour être averti dès que des informations seront disponibles.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4741"/>
@@ -583,7 +583,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="4864"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Voir les dernières nouvelles</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
@@ -845,19 +845,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fermer quand même</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelles</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelles</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -944,7 +944,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="549"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thème de l’icône de la barre des tâches</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="558"/>
@@ -1025,19 +1025,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="763"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelles</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="767"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Notifier en cas de nouvelles du développeur</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="784"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Voir les dernières nouvelles</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="852"/>
@@ -1049,7 +1049,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="970"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished">Paramètres uniques</translation>
+        <translation>Paramètres individuels</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="977"/>
@@ -1085,7 +1085,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1054"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished">Presence</translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1059"/>
@@ -1097,7 +1097,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1066"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished">Afficher votre statut comme une activité &quot;{playing_activity_label}&quot;</translation>
+        <translation>Utiliser &quot;{playing_activity_label}&quot; comme activité affichée</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1140"/>
@@ -1109,7 +1109,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ne pas afficher les informations sur la musique</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
@@ -1121,7 +1121,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Afficher &quot;{branding_text}&quot; dans la présence</translation>
+        <translation>Afficher le bouton &quot;{branding_text}&quot; dans la présence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
@@ -1175,13 +1175,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation>En Pause</translation>
+        <translation>Média en pause</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1160"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Afficher le média en pause dans votre statut</translation>
+        <translation>Afficher le média en pause dans votre statut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1164"/>
@@ -1313,7 +1313,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1581"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Activer l&apos;automatisation AppleScript</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1621"/>
