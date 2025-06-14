@@ -34,10 +34,13 @@ OUTPUT_DIR="verify"
 mkdir -p "$OUTPUT_DIR"
 
 for file in musicpresence_*.ts; do
-    output=$(./verify.sh "$FROM_COMMIT" "$TO_COMMIT" "$file" "$TRANSLATION_ONLY") || { echo "verify.sh failed on $file"; exit 1; }
-    output_file="$OUTPUT_DIR/$file.html"
+  output=$(./verify.sh "$FROM_COMMIT" "$TO_COMMIT" "$file" "$TRANSLATION_ONLY") || { echo "verify.sh failed on $file"; exit 1; }
+  output_file="$OUTPUT_DIR/$file.html"
+  line_count=$(echo "$output" | wc -l)
+  if [ "$line_count" -gt 1 ]; then
     echo -e "<meta charset="UTF-8">\n<style>div{font-family:sans-serif;}</style>\n\n$output" > "$output_file"
     echo "Created $output_file"
+  fi
 
 #   echo
 #   echo "---"
@@ -64,6 +67,17 @@ for file in musicpresence_*.ts; do
 #       ;;
 #   esac
 done
+
+if [ ! -d "$OUTPUT_DIR" ]; then
+  echo "Directory $OUTPUT_DIR does not exist"
+  exit 1
+fi
+
+if [ -z "$(ls -A "$OUTPUT_DIR")" ]; then
+  echo "Nothing to verify"
+  rm -rf "$OUTPUT_DIR"
+  exit 0
+fi
 
 trap '[ -d "$OUTPUT_DIR" ] && rm -rf "$OUTPUT_DIR"' EXIT
 
