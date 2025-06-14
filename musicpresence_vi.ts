@@ -473,19 +473,19 @@
         <location filename="../src/app/app.cpp" line="1696"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tin tức từ nhà phát triển</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1726"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ qua</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hiện không có tin mới từ nhà phát triển. Vui lòng kiểm tra lại sau hoặc bật thông báo cho tin tức trong cài đặt để nhận thông báo mới nhất khi có sẵn.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4741"/>
@@ -552,13 +552,13 @@
         <location filename="../src/app/app.cpp" line="4864"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xem tin tức mới nhất</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Xem nhật ký thay đổi</translation>
+        <translation>Xem nhật ký thay đổi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5187"/>
@@ -927,7 +927,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Thông báo</translation>
+        <translation>Thông báo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -945,7 +945,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Giúp với việc dịch thuật</translation>
+        <translation>Giúp với việc dịch thuật</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
@@ -1050,19 +1050,19 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="763"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished">Thông báo</translation>
+        <translation>Thông báo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="767"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thông báo tin tức từ nhà phát triển</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="784"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xem tin tức mới</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="852"/>
@@ -1134,7 +1134,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Không hiển thị bất kì thông tin bài hát nào</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
