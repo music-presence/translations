@@ -914,7 +914,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="330"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation>서비스들</translation>
+        <translation>서비스</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
