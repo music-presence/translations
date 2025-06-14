@@ -297,7 +297,7 @@
     <message>
         <source>External services</source>
         <comment>general settings section</comment>
-        <translation type="vanished">Buite-diens</translation>
+        <translation type="vanished">Eksterne dienste</translation>
     </message>
     <message>
         <source>Use the TIDAL API, when listening to TIDAL</source>
