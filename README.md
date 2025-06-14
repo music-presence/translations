@@ -42,6 +42,9 @@ $ g++ -o a.out print.cpp info.cpp -I include && ./a.out
 
 Perform the following steps to verify translations from contributors:
 
+- Commit and push the latest changes from Weblate
+- Update your local clone of the repository: `git pull`
+- Fetch the remote `verified` tag: `git fetch --tags`
 - Run `./verify-all.sh verified COMMIT` where `COMMIT`
   is the specific commit until which you'd like to verify translations.
   You may use `HEAD` to reference the latest commit.
@@ -50,8 +53,8 @@ Perform the following steps to verify translations from contributors:
   to automatically translate every translation back to English.
 - Once you are done verifying all translations,
   move the `verified` tag to the commit until which you verified:
-  `git tag verified COMMIT`.
-  Then push the tag: `git push origin verified`
+  `git tag -f verified COMMIT`.
+  Then push the tag: `git push -f origin verified`
 
 ---
 
