@@ -38,6 +38,21 @@ Update this table by running this and copying the output:
 $ g++ -o a.out print.cpp info.cpp -I include && ./a.out
 ```
 
+## Verifying translations
+
+Perform the following steps to verify translations from contributors:
+
+- Run `./verify-all.sh verified COMMIT` where `COMMIT`
+  is the specific commit until which you'd like to verify translations.
+  You may use `HEAD` to reference the latest commit.
+- Open your browser at http://localhost:8000 and click through the files.
+  Use the translator embedded in your browser (e.g. Chrome)
+  to automatically translate every translation back to English.
+- Once you are done verifying all translations,
+  move the `verified` tag to the commit until which you verified:
+  `git tag verified COMMIT`.
+  Then push the tag: `git push origin verified`
+
 ---
 
 ## License
