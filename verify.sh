@@ -20,8 +20,9 @@ else
 fi
 
 CHANGED_TRANSLATIONS=$(\
-  git diff --color=always "$FROM_COMMIT..$TO_COMMIT" -- "$TRANSLATION_FILE" \
-  | grep -E '[+].*(<translation>|<translation type="unfinished">).*</translation>' -B 3)
+  git diff --no-color "$FROM_COMMIT..$TO_COMMIT" -- "$TRANSLATION_FILE" \
+  | grep -E '^\+.*(<translation>|<translation type="unfinished">).*</translation>' -B 3 \
+  | grep -v '^-')
 # python3 -c "import sys, html; sys.stdin.reconfigure(encoding='utf-8'); sys.stdout.reconfigure(encoding='utf-8'); print(html.unescape(sys.stdin.read()), end='')"
 
 RESULT=$(echo "$CHANGED_TRANSLATIONS" | awk -v TRANSLATION_ONLY="$TRANSLATION_ONLY" '
