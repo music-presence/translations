@@ -217,6 +217,13 @@ std::vector<Contributor> const& translations::contributors()
             .link_to_github = true,
             .translated_languages = {"it"},
         },
+        {
+            .name = "SoundBlaster1998", // FIXME not specified by contributor
+            // .github_name = "?", // FIXME not specified by contributor
+            .codeberg_name = "SoundBlaster1998",
+            .link_to_github = false,
+            .translated_languages = {"pt-PT"},
+        },
     };
     return contributors;
 }
