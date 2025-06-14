@@ -1362,7 +1362,7 @@ Jy kan die ontwikkeling ondersteun met ’n donasie. Klik hier of in die stelsel
         <location filename="../src/app/settings/window.cpp" line="1679"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation>Buite-diens</translation>
+        <translation>Eksterne dienste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1700"/>
