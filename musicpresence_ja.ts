@@ -939,7 +939,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="418"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation>日本語 / {language}</translation>
+        <translation>言語 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="432"/>
