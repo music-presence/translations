@@ -564,7 +564,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="1696"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation>Novità dallo sviluppatore</translation>
+        <translation>Novità da parte dello sviluppatore</translation>
     </message>
     <message>
         <source>Dismiss</source>
@@ -581,7 +581,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>Al momento non ci sono novità dallo sviluppatore. Controlla più tardi o abilita le notifiche delle novità dalle impostazioni per ricevere una notifica non appena ci sono delle novità disponibili.</translation>
+        <translation>Al momento non ci sono novità da parte dello sviluppatore. Controlla più tardi o abilita le notifiche delle novità dalle impostazioni per ricevere una notifica non appena ci sono delle novità disponibili.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4741"/>
@@ -1016,7 +1016,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="689"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation>Notifica quando una nuova versione è disponibile</translation>
+        <translation>Manda una notifica quando una nuova versione è disponibile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="706"/>
@@ -1046,7 +1046,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="767"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>Manda una notifica quando ci sono novità dallo sviluppatore</translation>
+        <translation>Manda una notifica quando ci sono novità da parte dello sviluppatore</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="784"/>
