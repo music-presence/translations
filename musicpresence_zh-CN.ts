@@ -91,13 +91,13 @@
         <location filename="../src/app/app.cpp" line="1726"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>忽略</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1841"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>暂时没有来自开发者的新消息。请稍后再来，或在设置中打开新消息提醒，以在未来有新消息时得到通知。</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2529"/>
@@ -263,7 +263,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="1696"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>来自开发者的消息</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2535"/>
@@ -281,7 +281,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4741"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>出现了一些问题</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4768"/>
@@ -293,7 +293,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="4864"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>查看最新消息</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
@@ -481,30 +481,30 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6716"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>首次启动</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6721"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;单击任务栏图标打开控制面板。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} 在后台运行时可以随时通过这种方式访问。你可以控制在状态里显示哪个活跃的媒体播放器，以及如何显示状态。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6746"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>明白了！</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6847"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>版本 {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6853"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>开源许可</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6856"/>
@@ -516,23 +516,23 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6859"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>报告问题</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6862"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>你喜欢 {app_name} 吗？&lt;a {attributes}&gt; 打赏来支持开发&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6870"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>想要通过其他方式帮助项目？&lt;a {attributes}&gt;快参与进来！&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6878"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>感谢帮助翻译这个app的所有人：</translation>
     </message>
 </context>
 <context>
@@ -541,19 +541,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>仍要关闭</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>最新消息</translation>
     </message>
 </context>
 <context>
@@ -573,137 +573,137 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>通用设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="330"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>服务</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>高级设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
         <location filename="../src/app/settings/window.cpp" line="1939"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>最新消息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>外观</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="418"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>语言 / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>帮助翻译项目</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="446"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>系统语言</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="542"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>外观</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="549"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>任务栏图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>系统主题</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="560"/>
         <location filename="../src/app/settings/window.cpp" line="602"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>亮</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="562"/>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>暗</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="592"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>App主题</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="638"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="647"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在开机时启动 {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="667"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="674"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>自动安装更新</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="689"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>当有新版本可用时提醒我</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>在新版本启动时显示更新日志</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="732"/>
@@ -721,354 +721,354 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="763"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>最新消息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="767"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>接收来自开发者的新消息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="784"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>查看最新消息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="852"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="970"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>播放器独立设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="977"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>在听播客时总是显示 &quot;{podcast_activity_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="981"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>尝试过滤广告</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="987"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>在个人状态中仅显示播客名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1003"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>分隔艺术家和专辑名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1032"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>以 &quot;{player_name}&quot;显示</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1054"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1059"/>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
         <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示&quot;{music_activity_name}&quot;而不是播放器名称</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1066"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>以&quot;{playing_activity_label}&quot;显示状态</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1140"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>当艺术家名不可用时显示专辑名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>不要显示歌曲信息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1232"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>按钮</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>在presence中显示&quot;{branding_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>歌曲信息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在单行中显示歌曲名和艺术家</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1100"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在单行中显示艺术家和专辑名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1118"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>交换歌曲名和艺术家的顺序</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1123"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>在艺术家名前添加前缀 &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1130"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>在专辑名前添加前缀 &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1136"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示专辑名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1145"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示播放信息</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>暂停</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1160"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在你的状态中显示已暂停的媒体</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1164"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在歌曲暂停时显示暂停图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1168"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>暂停媒体时仍然显示播放进度条</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1182"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示媒体暂停了多长时间</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1196"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>离线播放器</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1209"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>媒体内容播放时显示“播放中”图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1219"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示媒体播放器的Logo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1228"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>这些设定对流媒体服务无效</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1246"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>将&quot;{listen_to_this_song}&quot;按键显示为 &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1265"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>媒体播放器图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1268"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>音乐图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1271"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>播放状态</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1275"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>CD图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1281"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} 图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1288"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>杂项</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1294"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>专辑封面缺失时的替代图片</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1353"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>重设所有</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1368"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>移除播放器</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="117"/>
         <location filename="../src/app/settings/window.cpp" line="1625"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>从媒体播放器上传封面图</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1532"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>检测媒体</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1545"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>重启程序来使设置生效</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1556"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>使用默认系统交互</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1581"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>使用AppleScript自动化</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1621"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>专辑封面</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1635"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>请勿连按，在{amount}秒后重试</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1658"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>总是使用本地专辑封面</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1679"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>外部服务</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1700"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在听TIDAL时使用TIDAL API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1702"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在听Deezer时使用Deezer API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1704"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在听Spotify时使用Spotify API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1707"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在听Apple Music时使用iTunes API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1715"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>更多关于数据传输和数据使用的信息，请参阅 &lt;a {attributes}&gt;隐私条款&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1763"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>通用</translation>
     </message>
 </context>
 </TS>
