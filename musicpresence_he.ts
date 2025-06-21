@@ -19,13 +19,13 @@
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished">כרגע אין חדשות מהמפתח. אנא תבדוק מאוחר יותר או הפעל התראת חדשות בהגדרות כדי לקבל התראות כאשר חדשות יהיו זמינות</translation>
+        <translation>כרגע אין חדשות מהמפתח. אנא תבדוק מאוחר יותר או הפעל התראת חדשות בהגדרות כדי לקבל התראות כאשר חדשות יהיו זמינות.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2542"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation>הרשאת אוטומציה נדחה</translation>
+        <translation>הרשאת אוטומציה נדחתה</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2548"/>
