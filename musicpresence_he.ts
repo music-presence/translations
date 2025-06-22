@@ -91,19 +91,19 @@
         <location filename="../src/app/app.cpp" line="2785"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished">ממתין למדיה פליבק</translation>
+        <translation>ממתין לניגון</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2789"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished">נוכחות פעילה</translation>
+        <translation>נוכחות פעילה</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3211"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished">תרום</translation>
+        <translation>תרום</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3216"/>
@@ -127,7 +127,7 @@
         <location filename="../src/app/app.cpp" line="3311"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished">מתג נוכחות על פי ישום</translation>
+        <translation>מתג נוכחות על פי ישום</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4753"/>
@@ -175,13 +175,13 @@
         <location filename="../src/app/app.cpp" line="4796"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>מה מגיע בהמשך?</translation>
+        <translation>מה יגיע בהמשך?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4803"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished">הערת פרטיות</translation>
+        <translation>הערת פרטיות</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4810"/>
@@ -219,7 +219,7 @@
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation>ראה יומן שינויים</translation>
+        <translation>ראה רשימת שינויים</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5204"/>
@@ -235,7 +235,7 @@
         <location filename="../src/app/app.cpp" line="5670"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>לחץ כדי להתקין גרסה {version}</translation>
+        <translation>לחץ כדי להוריד גרסה {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5327"/>
@@ -254,7 +254,7 @@
         <location filename="../src/app/app.cpp" line="5353"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation>עדכונים אוטומטים פעילים</translation>
+        <translation>עדכונים אוטומטים מופעלים</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5355"/>
@@ -352,7 +352,7 @@
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;עודכן לגרסה {version}.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;הפעל מחדש את היישום כדי להפעיל את הגרסה החדשה ביותר.&lt;/p&gt;</translation>
+&lt;p&gt;הפעל מחדש את היישום כדי להריץ את הגרסה החדשה ביותר.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5677"/>
@@ -405,7 +405,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>האם אתה אוהב את {app_name}? 
-אתה יכול לתמוך בפיתוח עם תרומה. לחץ כן או בתפריט המגש לעוד מידע.</translation>
+אתה יכול לתמוך בפיתוח עם תרומה. לחץ כן או בתפריט המגש למידע נוסף.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6515"/>
@@ -435,7 +435,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6669"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation>התקן</translation>
+        <translation>הורד</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6680"/>
@@ -459,7 +459,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6695"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>מוצג רק כאשר גרסה חדשה מופעלת.</translation>
+        <translation>זהו מוצג רק כאשר גרסה חדשה נפתחת.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6706"/>
@@ -613,7 +613,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>עזרה לגבי תרגום</translation>
+        <translation>עזרה עם תרגום</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
@@ -676,7 +676,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="649"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation>התחל {app_name} בהתחברות</translation>
+        <translation>פתח את {app_name} בהתחברות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="669"/>
@@ -748,7 +748,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="983"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation>תמיד הראה &quot;{podcast_activity_name}&quot; בהקשבת פודקסט</translation>
+        <translation>תמיד הצג &quot;{podcast_activity_name}&quot; בהקשבת פודקסט</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="987"/>
@@ -814,7 +814,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1124"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">החלף סדר בכותרת שיר והאמן</translation>
+        <translation>החלף סדר בכותרת השיר והאמן</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1129"/>
@@ -844,7 +844,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation>הצג פרטי הפליבק</translation>
+        <translation>הצג פרטי הנגינה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1157"/>
@@ -856,7 +856,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1162"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished">המדיה משוהת</translation>
+        <translation>המדיה משוהת</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1166"/>
@@ -903,7 +903,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1234"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished">ההגדרות האלה אינן חלות לשירותי שידור</translation>
+        <translation>ההגדרות האלה אינן חלות לשירותי שידור</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1238"/>
@@ -939,13 +939,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1277"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation>מצב הפליבק</translation>
+        <translation>מצב הנגינה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1281"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation>תקליטור (CD)</translation>
+        <translation>תקליטור</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1287"/>
@@ -957,13 +957,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1294"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">שונות</translation>
+        <translation>שונות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1300"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>תמונה חליפה לשירים חסרי עטיפה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
@@ -987,13 +987,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1551"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation>הפעל מחדש את היישום כדי להחיל שינויים האלה</translation>
+        <translation>הפעל מחדש את היישום כדי להחיל שינויים אלה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1562"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation>השתמש בממשקי המערכת המקוריים</translation>
+        <translation>השתמש בממשקי המערכת המקומיים</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1587"/>
@@ -1052,7 +1052,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1721"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>לעוד מידע על איזה נתונים מעוברים לשירותים אלה ואיך זה ישומש, בבקשה תקרא את ה&lt;a{attributes}&gt;הערת פרטיות&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1769"/>
