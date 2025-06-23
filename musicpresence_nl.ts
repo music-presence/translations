@@ -501,7 +501,7 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/app.cpp" line="1709"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws van de ontwikkelaar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2548"/>
@@ -584,19 +584,19 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/app.cpp" line="1739"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Er is op dit moment geen nieuws van de ontwikkelaar. Kijk hier later nog eens of zelf nieuwsnotificaties aan in de instellingen om een bericht te krijgen zo gauw er nieuws is.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4757"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Er werkt iets niet</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4784"/>
@@ -608,13 +608,13 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/app.cpp" line="4881"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het laatste nieuws</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Toon changelog</translation>
+        <translation>Toon changelog</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5502"/>
@@ -870,19 +870,19 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toch sluiten</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws</translation>
     </message>
 </context>
 <context>
@@ -920,14 +920,14 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/settings/window.cpp" line="331"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geavanceerd</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
         <location filename="../src/app/settings/window.cpp" line="1945"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -945,7 +945,7 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Hulp bij het vertalen</translation>
+        <translation>Help bij het vertalen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
@@ -1050,19 +1050,19 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/settings/window.cpp" line="765"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="769"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Melding bij nieuws van de ontwikkelaar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="786"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het laatste nieuws</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
@@ -1134,7 +1134,7 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/settings/window.cpp" line="1157"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verberg nummerinformatie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1238"/>
@@ -1320,25 +1320,25 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <location filename="../src/app/settings/window.cpp" line="1538"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mediadetectie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1551"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Herstart de app om wijzigingen door te voeren</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1562"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik standaard systeeminterfaces</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1587"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik AppleScript automatisering</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1627"/>
