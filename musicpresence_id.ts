@@ -595,7 +595,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Saat ini belum ada kabar dari developer. Periksa kembali atau aktifkan pemberitahuan kabar di pengaturan untuk mendapatkan pemberitahuan segera jika kabar sudah tersedia.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4757"/>
@@ -613,13 +613,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="4881"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lihat kabar terbaru</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lihat log perubahan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5502"/>
@@ -1067,7 +1067,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="786"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lihat kabar terbaru</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
@@ -1139,7 +1139,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1157"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jangan tampilkan informasi lagu apapun</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1238"/>
