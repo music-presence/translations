@@ -856,13 +856,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1162"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation>המדיה משוהת</translation>
+        <translation>מדיה מושהת</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1166"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>הצג שהמדיה מושהת בסטטוסך</translation>
+        <translation>הצג מדיה מושהת בסטטוסך</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1170"/>
