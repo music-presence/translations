@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="2562"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2673"/>
@@ -350,25 +350,25 @@
         <location filename="../src/app/app.cpp" line="5269"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4874"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจสอบอัปเดต...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4753"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>ช่วยเหลือ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1709"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข่าวสารจากผู้พัฒนา</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1739"/>
@@ -380,7 +380,7 @@
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>ในขณะนี้ยังไม่มีข่าวสารอะไรเพิ่มจากผู้พัฒนา กรุณาตรวจสอบภายหลังหรือเปิดการแจ้งเตือนข่าวสารในการตั้งค่าเพื่อที่จะได้รับข่าวสารได้ทันไว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4757"/>
