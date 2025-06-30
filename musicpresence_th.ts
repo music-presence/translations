@@ -716,47 +716,47 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6759"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>เข้าใจแล้วล่ะ!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6861"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6867"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใบอนุญาต</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6870"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished"></translation>
+        <translation>นโยบายความเป็นส่วนตัว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6873"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>รายงานปัญหาต่างๆ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6876"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณชอบโปรแกรม {app_name} มั้ย? &lt;a {attributes}&gt;สนับสนุนนักพัฒนาได้ด้วยการโดเนท&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6884"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>อยากช่วยสร้างสรรค์โปรเจคนี้หรอ? &lt;a {attributes}&gt;เอาสิมาเลย!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6892"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>ขอขอบคุณทุกคนที่ช่วยกันแปลภาษาให้กับโปรแกรมนี้:</translation>
     </message>
 </context>
 <context>
@@ -765,19 +765,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>โอเค</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิดไปเลย</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข่าวสาร</translation>
     </message>
 </context>
 <context>
@@ -786,7 +786,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="243"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="319"/>
@@ -797,32 +797,32 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="328"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>ทั่วไป</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดิสคอร์ด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="330"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>เซอร์วิส</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>ขั้นสูง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
         <location filename="../src/app/settings/window.cpp" line="1945"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข่าวสาร</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -840,19 +840,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">ช่วยแปล</translation>
+        <translation>ช่วยแปล</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>นำมาใช้</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="446"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ภาษาตามระบบ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="544"/>
@@ -864,106 +864,106 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="551"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tray icon theme</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="560"/>
         <location filename="../src/app/settings/window.cpp" line="602"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าธีม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="562"/>
         <location filename="../src/app/settings/window.cpp" line="604"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>สว่าง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="564"/>
         <location filename="../src/app/settings/window.cpp" line="605"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>มืด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>ธีมโปรแกรม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="640"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าวินโดวส์</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="649"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ให้ {app_name} เปิดเองตั้งแต่เปิดคอมพิวเตอร์</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="669"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="676"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งอัปเดตโดยอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="691"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>แจ้งเตือนเมื่อมีการเวอร์ชั่นใหม่ให้อัปเดต</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="708"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดป๊อบอัพ &quot;มีอะไรใหม่?&quot; หลังจากมีเวอร์ชั่นใหม่ปล่อยออกมา</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="734"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจสอบอัปเดต...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="743"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดูบันทึกรายการ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="765"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข่าวสาร</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="769"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>แจ้งข่าวสารจากผู้พัฒนาโปรแกรมนี้</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="786"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดูข่าวสารใหม่ล่าสุด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ต</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="976"/>
