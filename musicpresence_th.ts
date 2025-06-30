@@ -462,33 +462,33 @@
         <location filename="../src/app/app.cpp" line="5523"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีเวอร์ชั่นใหม่พร้อมอัปเดต</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5209"/>
         <location filename="../src/app/app.cpp" line="5670"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>คลิ๊กเพื่อดาวโหลดเวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5327"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังยกเลิกการอัปเดต...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5335"/>
         <location filename="../src/app/app.cpp" line="6653"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5353"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งานการอัปเดตอัตโนมัติแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5355"/>
@@ -496,207 +496,210 @@
         <location filename="../src/app/app.cpp" line="5613"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งานอัปเดตอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5380"/>
         <location filename="../src/app/app.cpp" line="6654"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังติดตั้ง...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5413"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้งานการอัปเดตอัตโนมัติแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5492"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>คลิ๊กเพื่อติดตั้งเวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5502"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>เข้าเว็บดาวโหลดโปรแกรมนี้</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5513"/>
         <location filename="../src/app/app.cpp" line="5520"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังติดตั้งอัปเดต...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5549"/>
         <location filename="../src/app/app.cpp" line="5554"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชั่นนี้เป็นล่าสุดแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5581"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตไปเป็นเวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5584"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>รีสตาร์ทโปรแกรม</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5592"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีบางอย่างผิดพลาด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5598"/>
         <location filename="../src/app/app.cpp" line="5601"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีเวอร์ชั่นใหม่ให้ติดตั้ง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5606"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5609"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งอัปเดตเรียบร้อยแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5610"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>รีสตาร์ท</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5636"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;อัปเดตเป็นเวอร์ชัน {version} แล้ว&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;โปรดรีสตาร์ทโปรแกรมพื่อใช้งานเวอร์ชันล่าสุด&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5677"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาด: ติดตั้งไม่สำเร็จ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5702"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>รายงานปัญหานี้</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5712"/>
         <location filename="../src/app/app.cpp" line="5715"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งอัปเดตไม่สำเร็จ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5720"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5728"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;เกิดข้อผิดพลาดระหว่างการติดตั้งอัปเดต:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5733"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดาวโหลดด้วยตนเอง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5930"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>สามารถเข้าร่วมดิสคอร์ดเซิร์ฟเวอร์ของพวกเราได้! สามารถพูดคุยกับคนอื่น หรือจะเสนอไอเดียต่างๆ และติดตามข่าวสารล่าสุด คลิกที่นี่ หรือเข้าเมนู “ช่วยเหลือ” เพื่อเข้าเซิร์ฟ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5944"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>คุณชอบ {app_name} ไหม?
+คุณสามารถสนับสนุนผู้พัฒนาด้วยการโดเนท คลิกที่นี่ หรือในที่ tray menu เพื่อดูข้อมูลเพิ่มเติม</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6515"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>อย่าแสดงให้ฉันดูอีก</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6646"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีอัปเดตใหม่</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6647"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;โปรแกรม {app_name} เวอร์ชั่นใหม่มาแล้ว&lt;/b&gt;&lt;/p&gt;&lt;p&gt;สามารถอ่านได้ที่ บันทึกรายการ เพื่อดูว่ามีอะไรใหม่ๆเพิ่มเข้ามา&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6663"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>ลองใหม่อีกครั้ง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6669"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดาวโหลด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6680"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งเวอร์ชันใหม่เรียบร้อยแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6686"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีอะไรใหม่?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6693"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>เข้าใจแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6695"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข้อความนี้จะแสดงเฉพาะตอนที่มีการปล่อยเวอร์ชันใหม่เท่านั้น</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6706"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรายการ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6729"/>
