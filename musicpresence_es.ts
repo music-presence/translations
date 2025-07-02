@@ -927,7 +927,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="1945"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Noticias</translation>
+        <translation>Noticias</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
@@ -1134,7 +1134,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="1157"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>No mostrar información de canción</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1238"/>
