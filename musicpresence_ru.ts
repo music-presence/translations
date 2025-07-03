@@ -1119,7 +1119,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1157"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать никакую ифнормацию о песне</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1238"/>
