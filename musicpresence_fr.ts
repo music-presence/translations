@@ -589,7 +589,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Voir le journal des modifications</translation>
+        <translation>Voir le journal des modifications</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5502"/>
