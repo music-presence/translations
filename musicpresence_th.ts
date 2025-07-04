@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="2542"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีสิทธิ์ในการใช้งานระบบอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2548"/>
@@ -25,13 +25,13 @@
         <location filename="../src/app/app.cpp" line="2673"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation>ปิด</translation>
+        <translation>ปิดใช้งาน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2680"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation>เปิด</translation>
+        <translation>เปิดใช้งาน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2685"/>
@@ -398,62 +398,62 @@
         <location filename="../src/app/app.cpp" line="4771"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>รายงานปัญหาไปยัง Github</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4777"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>เข้าเซิร์ฟเวอร์ Discord ของพวกเรา</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4784"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>สนับสนุนผู้พัฒนาได้ด้วยการโดเนท</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4790"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>กดดาวให้โปรเจคนี้บน Github</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4796"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีอะไรใหม่ที่จะมาในเร็วๆ นี้?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4803"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>ประกาศความเป็นส่วนตัว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4810"/>
         <location filename="../src/app/app.cpp" line="6790"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>เกี่ยวกับ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4856"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>คุณกำลังใช้เวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4881"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดูข่าวสารล่าสุด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดูบันทึกรายการ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5204"/>
@@ -705,12 +705,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6729"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งานครั้งแรก</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6734"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;คลิกไอคอนใน tray menu เพื่อเปิดหน้าควบคุม&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} จะทำงานอยู่เบื้องหลังตลอดเวลา และคุณสามารถเปิดขึ้นมาได้ทุกเมื่อจากตรงนี้ คุณสามารถเลือกได้ว่าอยากให้แชร์เครื่องเล่นมีเดียตัวไหนในสถานะของคุณ และปรับแต่งสถานะให้ดูแบบที่คุณชอบได้เลย&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6759"/>
@@ -734,7 +734,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6870"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation>นโยบายความเป็นส่วนตัว</translation>
+        <translation>ประกาศความเป็นส่วนตัว</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6873"/>
@@ -803,7 +803,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation>ดิสคอร์ด</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="330"/>
@@ -1221,25 +1221,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1551"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>กรุณารีสตาร์ทโปรแกรมเพื่อเปลี่ยนแปลงการตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1562"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งานการตรวจจับมีเดียตามระบบ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1587"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้งานระบบอัตโนมัติผ่าน AppleScript</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1627"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปกอัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1641"/>
@@ -1251,48 +1251,48 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1664"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ภาพปกจากไฟล์ในเครื่องเสมอ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1685"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>External services</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1706"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ API ของ TIDAL เมื่อฟังเพลงผ่าน TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1708"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ API ของ Deezer เมื่อฟังเพลงผ่าน Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1710"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ API ของ Spotify เมื่อฟังเพลงผ่าน Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1713"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ API ของ iTunes เมื่อฟังเพลงผ่าน Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1721"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูข้อมูลเพิ่มเติมเกี่ยวกับสิ่งที่ถูกส่งไปยังบริการภายนอก และวิธีการใช้งานข้อมูลเหล่านั้นได้ที่ &lt;a {attributes}&gt;ประกาศความเป็นส่วนตัว&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1769"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ทั่วไป</translation>
     </message>
 </context>
 </TS>
