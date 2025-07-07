@@ -11,13 +11,15 @@ int main()
     auto contributors = translations::contributors();
     std::sort(contributors.begin(), contributors.end(),
         [](auto const& a, auto const& b) {
-            if (!a.github_name.empty() && !b.github_name.empty()) {
-                auto x = std::tolower(a.github_name.front());
-                auto y = std::tolower(b.github_name.front());
+            const std::string an = a.github_name.value_or(a.name);
+            const std::string bn = b.github_name.value_or(b.name);
+            if (!an.empty() && !bn.empty()) {
+                auto x = std::tolower(an.front());
+                auto y = std::tolower(bn.front());
                 if (x < y) return true;
                 if (y < x) return false;
             }
-            return a.github_name < b.github_name;
+            return an < bn;
         });
 
     // Markdown output
@@ -32,9 +34,14 @@ int main()
                 oss << ", ";
             }
         }
-        std::cout << "| [@" << c.github_name <<  "]"
-            "(https://github.com/" << c.github_name << ") | "
-            << oss.str() << " |" << std::endl;
+        if (c.github_name.has_value()) {
+            std::cout << "| [@" << *c.github_name <<  "]"
+                "(https://github.com/" << *c.github_name << ") | "
+                << oss.str() << " |" << std::endl;
+        } else {
+            std::cout << "| " << c.name << " | "
+                << oss.str() << " |" << std::endl;
+        }
     }
     return 0;
 }
