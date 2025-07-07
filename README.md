@@ -26,6 +26,7 @@ Translations for the [Music Presence](https://musicpresence.app) app.
 | [@naturbrilian](https://github.com/naturbrilian) | [id](https://translate.codeberg.org/projects/music-presence/desktop-application/id) |
 | [@pascal-00](https://github.com/pascal-00) | [it](https://translate.codeberg.org/projects/music-presence/desktop-application/it) |
 | [@Snyri](https://github.com/Snyri) | [it](https://translate.codeberg.org/projects/music-presence/desktop-application/it) |
+| SoundBlaster1998 | [pt-PT](https://translate.codeberg.org/projects/music-presence/desktop-application/pt-PT) |
 | [@scar1jpg](https://github.com/scar1jpg) | [pl](https://translate.codeberg.org/projects/music-presence/desktop-application/pl) |
 | [@stegmann-tibor](https://github.com/stegmann-tibor) | [sk](https://translate.codeberg.org/projects/music-presence/desktop-application/sk) |
 | [@thijmi](https://github.com/thijmi) | [af](https://translate.codeberg.org/projects/music-presence/desktop-application/af), [ko](https://translate.codeberg.org/projects/music-presence/desktop-application/ko), [ja](https://translate.codeberg.org/projects/music-presence/desktop-application/ja), [nl](https://translate.codeberg.org/projects/music-presence/desktop-application/nl) |
