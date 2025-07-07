@@ -590,7 +590,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>Por ahora no hay noticias del desarrollador. Revisa despues o habilita las notificaciones en los ajustes para ser notificado sobre nuevas noticias apenas haya.</translation>
+        <translation>Por ahora no hay noticias del desarrollador. Revisa después o habilita las notificaciones para ser notificado sobre nuevas noticias apenas haya.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4757"/>
