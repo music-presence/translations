@@ -7,219 +7,219 @@
         <location filename="../src/app/app.cpp" line="1709"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Навіны ад распрацоўніка</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1739"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адхіліць</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пакуль што няма навін ад распрацоўшчыка. Зазірніце пазней або ўключыце апавяшчэнні аб навінах у наладах, каб атрымліваць апавяшчэнні, як толькі з&apos;явяцца якія-небудзь навіны.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2542"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дазволенне аўтаматызацыі адмоўлено</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2548"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} не мае права аўтаматызаваць &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Адкрыйце сістэмныя налады і ўключыце аўтаматызацыю для &quot;{player_name}&quot; пад &quot;Прыватнасць&amp;nbsp;&amp;amp;&amp;nbsp;Бяспека&quot; &gt; &quot;Аўтаматызацыя&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2562"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць налады</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2673"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>адключаны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2680"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>уключаны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2685"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>зараз актыўны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2721"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} ад {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2767"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Статус адключаны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2770"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Націсніце каб уключыць</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2774"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Статус уключаны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2779"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Чаканне Discord&apos;a</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2785"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Чаканне прайгравання медыi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2789"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Статус актыўны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3211"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ахвяраваць</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3216"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Падтрымайце маю працу невялікім ахвяраваннем</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3223"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выйсці</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3228"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налады</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3311"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Наладзіць статус для прыкладання</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4753"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дапамога</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4757"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нешта не працуе</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4764"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Паведаміць пра знойдзены медыя-плэер</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4771"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Паведаміць пра праблему на GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4777"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Далучыцца да сервера Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4784"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Падтрымайце распрацоўку прыкладання ахвяраваннем</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4790"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Даць &quot;Зорку&quot; праекту на GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4796"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Што будзе далей?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4803"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Палітыка канфідэнцыяльнасці</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4810"/>
         <location filename="../src/app/app.cpp" line="6790"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пра {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4856"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вы выкарыстоўваеце версію {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4862"/>
         <location filename="../src/app/app.cpp" line="5269"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Праверыць абнаўлення</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4874"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Праверка абнаўленняў...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4881"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Паглядзець апошнія навіны</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Паглядзець журнал змяненняў</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5204"/>
@@ -228,33 +228,33 @@
         <location filename="../src/app/app.cpp" line="5523"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Даступная новая версія</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5209"/>
         <location filename="../src/app/app.cpp" line="5670"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Націсніце, каб спампаваць версію {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5327"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адмена спампоўкi...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5335"/>
         <location filename="../src/app/app.cpp" line="6653"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Усталяваць</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5353"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаабнаўленнi ўключаныя</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5355"/>
@@ -262,134 +262,136 @@
         <location filename="../src/app/app.cpp" line="5613"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Уключыць аўтаабнаўленнi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5380"/>
         <location filename="../src/app/app.cpp" line="6654"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Усталяванне...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5413"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаабнаўленнi адключаныя</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5492"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Націсніце, каб усталяваць версію {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5502"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Наведаць старонку загрузкі</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5513"/>
         <location filename="../src/app/app.cpp" line="5520"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Усталяванне абнаўлення...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5549"/>
         <location filename="../src/app/app.cpp" line="5554"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Няма даступных абнаўленняў</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5581"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Абноўлена да версіі {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5584"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перазапусціць прыкладанне</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5592"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нешта пайшло не так</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5598"/>
         <location filename="../src/app/app.cpp" line="5601"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Усталявана новая версія</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5606"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Усталявана</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5609"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Абнаўленне ўсталявана</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5610"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перазапусцiць</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5636"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Абноўлена да версіі {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Перазапусціце прыкладанне, каб запусціць найноўшую версію.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5677"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Памылка: усталяванне не ўдалося</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5702"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Паведаміць аб праблеме</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5712"/>
         <location filename="../src/app/app.cpp" line="5715"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Збой усталявання абнаўлення</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5720"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5728"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Падчас усталявання абнаўлення адбылася памылка:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5733"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць уручную</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5930"/>
