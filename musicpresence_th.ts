@@ -1023,73 +1023,73 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1146"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงชื่ออัลบั้มเพลงเมื่อไม่มีชื่อศิลปิน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1157"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่แสดงรายละเอียดของเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1238"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปุ่มกด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1245"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">แสดง &quot;{branding_text}&quot; ในสถานะของคุณ</translation>
+        <translation>แสดง &quot;{branding_text}&quot; ในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1085"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>รายละเอียดของเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1090"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงชื่อเพลงและศิลปินในบรรทัดเดียว</translation>
+        <translation>แสดงชื่อเพลงและศิลปินในบรรทัดเดียว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1106"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงศิลปินและอัลบั้มในบรรทัดเดียว</translation>
+        <translation>แสดงศิลปินและอัลบั้มในบรรทัดเดียว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1124"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">สลับลำดับของชื่อเพลงและศิลปิน</translation>
+        <translation>สลับลำดับของชื่อเพลงและศิลปิน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1129"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">เติมคำว่า &quot;{prefix}&quot; ข้างหน้าชื่อศิลปิน</translation>
+        <translation>เติมคำว่า &quot;{prefix}&quot; ข้างหน้าชื่อศิลปิน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1136"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">เติมคำว่า &quot;{prefix}&quot; ข้างหน้าชื่ออัลบั้ม</translation>
+        <translation>เติมคำว่า &quot;{prefix}&quot; ข้างหน้าชื่ออัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1142"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงชื่ออัลบั้ม</translation>
+        <translation>แสดงชื่ออัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1151"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">แสดงข้อมูลการเล่น</translation>
+        <translation>แสดงข้อมูลการเล่นเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1162"/>
