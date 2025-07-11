@@ -839,7 +839,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1223"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation>Sanatçı bilgisi yoksa albüm adını göster</translation>
+        <translation>Sanatçı eksik olduğunda albüm adını göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1228"/>
