@@ -1029,37 +1029,37 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1653"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oynatıcıyı kaldır</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1817"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medya algılama</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1830"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Değişikliklerin etkili olması için uygulamayı yeniden başlatın</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1841"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yerel sistem arayüzlerini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1866"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScript otomasyonunu kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1906"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albüm kapakları</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1920"/>
@@ -1071,42 +1071,42 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1943"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yerel kapak görsellerini her zaman kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1964"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Harici hizmetler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1985"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIDAL dinlerken TIDAL API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1987"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deezer dinlerken Deezer API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1989"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spotify dinlerken Spotify API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1992"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Music dinlerken iTunes API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2000"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu hizmetlere hangi verilerin iletildiği ve bu verilerin nasıl kullanıldığı hakkında daha fazla bilgi için lütfen &lt;a {attributes}&gt;Gizlilik Bildirimi’ni okuyun.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2048"/>
