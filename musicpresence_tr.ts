@@ -1011,13 +1011,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1573"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation>Diğer Ayarlar</translation>
+        <translation>Çeşitli Ayarlar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1579"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Kapak görseli eksikse gösterilecek yer tutucu</translation>
+        <translation>Eksik kapak resimleri için yer tutucu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1638"/>
