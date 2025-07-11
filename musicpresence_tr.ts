@@ -576,44 +576,44 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="329"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="330"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hizmetler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="331"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
         <location filename="../src/app/settings/window.cpp" line="2023"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="346"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="418"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dil / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Çeviri için yardımcı olun</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
