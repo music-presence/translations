@@ -875,13 +875,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1251"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duraklatılmış medya için ilerleme çubuğunu dondur</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1265"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medyanın ne kadar süredir duraklatıldığını göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1279"/>
@@ -893,24 +893,24 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1292"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Müzik çalarken oynatma simgesini göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1302"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medya oynatıcısının logosunu göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1311"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu ayarlar akış hizmetleri için geçerli değildir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1315"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Düğmeler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1322"/>
