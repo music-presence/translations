@@ -969,61 +969,61 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1524"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Durumda “{branding_text}” ifadesini göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1531"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>“{listen_to_this_song}” düğmesini “{play_on_player}” olarak göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1550"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medya oynatıcı logosu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1553"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished"></translation>
+        <translation>Müzik notası</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1556"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oynatma durumu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1560"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished"></translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1566"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} logosu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1573"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diğer Ayarlar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1579"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kapak görseli eksikse gösterilecek yer tutucu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1638"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü sıfırla</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1653"/>
