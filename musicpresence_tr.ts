@@ -631,52 +631,52 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="544"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="551"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tepsi simgesi teması</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="560"/>
         <location filename="../src/app/settings/window.cpp" line="602"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sistem teması</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="562"/>
         <location filename="../src/app/settings/window.cpp" line="604"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Açık</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="564"/>
         <location filename="../src/app/settings/window.cpp" line="605"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koyu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uygulama teması</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="640"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows ayarları</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="649"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Girişte {app_name} uygulamasını başlatın</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="669"/>
@@ -718,19 +718,19 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="765"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation>Haberler</translation>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="769"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>Geliştiriciden gelen haberleri bildir</translation>
+        <translation>Geliştiriciden gelen yenilikleri bildir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="786"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation>En son haberleri görüntüle</translation>
+        <translation>En son yenilikleri görüntüle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
