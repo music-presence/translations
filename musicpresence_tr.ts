@@ -619,13 +619,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="437"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uygula</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="446"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Dili</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="544"/>
@@ -682,55 +682,55 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="669"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="676"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeleri otomatik olarak yükle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="691"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir sürüm mevcutsa bildir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="708"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni sürüm başlatıldığında yenilikleri göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="734"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler kontrol ediliyor…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="743"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Değişiklik günlüğünü görüntüle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="765"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Haberler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="769"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geliştiriciden gelen haberleri bildir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="786"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>En son haberleri görüntüle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
