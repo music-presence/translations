@@ -7,181 +7,181 @@
         <location filename="../src/app/app.cpp" line="1709"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geliştiriciden yenilikler</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1739"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yok say</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Şu anda geliştirici tarafından yenilik yok. Daha sonra tekrar kontrol edin veya herhangi bir yenilik olduğunda bildirim almak için ayarlardan bildirimleri etkinleştirin.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2542"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otomasyon izni reddedildi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2548"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} uygulamasının &quot;{player_name}&quot; oynatıcısını otomatikleştirmesine izin verilmiyor.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Sistem ayarlarınızı açın ve &quot;Gizlilik &amp;amp; Güvenlik&quot; &gt; &quot;Otomasyon&quot; &gt; &quot;{app_name}&quot; altında &quot;{player_name}&quot; için otomasyonu etkinleştirin.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2562"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayarları aç</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2673"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>devre dışı</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2680"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2685"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>şimdi aktif</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2721"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} - {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2767"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence devre dışı</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2770"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirmek için tıklayın</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2774"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2779"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord bekleniyor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2785"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medyanın oynatılması bekleniyor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2789"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence aktif</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3211"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bağış yap</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3216"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Çalışmalarımı küçük bir bağışla destekleyin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3223"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3228"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3311"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Her uygulama için presence durumunu değiştir</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4753"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yardım</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4757"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bir şeyler çalışmıyor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4764"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tespit edilen medya oynatıcılarını gönder</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4771"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>GitHub&apos;da bir sorun bildirin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4777"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord sunucumuza katılın</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4784"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bağış yaparak projeyi geliştirmemi destekleyin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4790"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Projeyi GitHub&apos;da yıldızlayın</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4796"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sırada ne var?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4803"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gizlilik Bildirimi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4810"/>
