@@ -833,43 +833,43 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1219"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albüm adını göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1223"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sanatçı bilgisi yoksa albüm adını göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1228"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oynatma bilgilerini göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1234"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Şarkı bilgilerini gösterme</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duraklatılmış medya</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1243"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duraklatılmış medyayı durumunda göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1247"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Müzik duraklatıldığında duraklatma simgesini göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1251"/>
