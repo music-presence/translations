@@ -1065,13 +1065,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1920"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen spam yapmayın. {amount} saniye sonra tekrar deneyin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1943"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation>Yerel kapak görsellerini her zaman kullan</translation>
+        <translation>Her zaman yerel kapak resimleri kullanın</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1964"/>
@@ -1106,7 +1106,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2000"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>Bu hizmetlere hangi verilerin iletildiği ve bu verilerin nasıl kullanıldığı hakkında daha fazla bilgi için lütfen &lt;a {attributes}&gt;Gizlilik Bildirimi’ni okuyun.</translation>
+        <translation>Bu hizmetlere hangi verilerin aktarıldığı ve bu verilerin nasıl kullanıldığı hakkında daha fazla bilgi için lütfen &lt;a {attributes}&gt;Gizlilik Bildirimini&lt;/a&gt; okuyun.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2048"/>
