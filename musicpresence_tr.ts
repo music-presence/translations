@@ -749,85 +749,85 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="983"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podcast dinlerken her zaman &quot;{podcast_activity_name}&quot; göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="987"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reklamları engellemeye çalış</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="993"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Durumunda yalnızca podcast&apos;leri göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1009"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sanatçı ile albüm adını birbirinden ayır</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1038"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{player_name}&quot; olarak görüntüle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1060"/>
         <source>Activity type</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivite türü</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1065"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Durumunuzu &quot;{playing_activity_label}&quot; olarak görüntüleyin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1078"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gösterilen metin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Şarkı bilgileri</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1166"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Şarkı adını ve sanatçıyı tek bir satırda gösterin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1183"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sanatçıyı ve albümü tek bir satırda gösterin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1201"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Şarkı adı ve sanatçı sıralamasını değiştir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1206"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sanatçı adının önüne &quot;{prefix}&quot; ekleyin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1213"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albüm adının önüne &quot;{prefix}&quot; ekleyin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1219"/>
