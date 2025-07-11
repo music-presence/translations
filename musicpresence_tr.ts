@@ -188,38 +188,38 @@
         <location filename="../src/app/app.cpp" line="6790"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4856"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{version} sürümünü kullanıyorsunuz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4862"/>
         <location filename="../src/app/app.cpp" line="5269"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeleri kontrol edin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4874"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler kontrol ediliyor...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4881"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>En son yenilikleri görüntüleyin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4889"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yenilikleri gör</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5204"/>
@@ -228,33 +228,33 @@
         <location filename="../src/app/app.cpp" line="5523"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni sürüm mevcut</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5209"/>
         <location filename="../src/app/app.cpp" line="5670"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Versiyonu indirmek için tıklayın {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5327"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>İndirmeler iptal ediliyor...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5335"/>
         <location filename="../src/app/app.cpp" line="6653"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5353"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik güncellemeler etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5355"/>
@@ -262,264 +262,267 @@
         <location filename="../src/app/app.cpp" line="5613"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik güncellemeleri etkinleştirin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5380"/>
         <location filename="../src/app/app.cpp" line="6654"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yükleniyor...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5413"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik güncellemeler devre dışı bırakıldı</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5492"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>{version} sürümünü yüklemek için tıklayın</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5502"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>İndirme sayfasını ziyaret edin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5513"/>
         <location filename="../src/app/app.cpp" line="5520"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme yükleniyor...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5549"/>
         <location filename="../src/app/app.cpp" line="5554"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme mevcut değil</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5581"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sürüm {version} olarak güncellendi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5584"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamayı yeniden başlatın</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5592"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bir şeyler ters gitti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5598"/>
         <location filename="../src/app/app.cpp" line="5601"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni sürüm yüklendi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5606"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yüklendi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5609"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme yüklendi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5610"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeniden Başlat</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5636"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Sürüm {version} sürümüne güncellendi.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;En yeni sürümü çalıştırmak için uygulamayı yeniden başlatın.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5677"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hata: Kurulum başarısız oldu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5702"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bu sorunu bildir</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5712"/>
         <location filename="../src/app/app.cpp" line="5715"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemenin yüklemesi başarısız oldu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5720"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hata</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5728"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Güncelleme yüklenirken bir hata oluştu:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5733"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manuel olarak indirin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5930"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord sunucumuza katılın! Diğer kullanıcılarla tanışın, önerilerde bulunun ve güncel kalın. Katılmak için buraya veya yardım menüsüne tıklayın.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5944"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} uygulamasını beğendin mi?
+Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için buraya veya sistem tepsisi menüsüne tıklayın.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6515"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bunu bir daha gösterme</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6646"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme mevcut</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6647"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Yeni bir {app_name} sürümü kullanıma sunuldu.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Yenilikleri görmek için aşağıdaki değişiklik günlüğünü okuyun.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6663"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekrar dene</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6669"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>İndir</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6680"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni sürüm yüklendi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6686"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni ne var?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6693"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anladım</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6695"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bu yalnızca yeni bir sürüm başlatıldığında gösterilir.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6706"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Değişiklik Günlüğü</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6729"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>İlk başlatma</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6734"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Kontrolleri açmak için tepsi menüsündeki simgeye tıklayın.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} arka planda çalışır ve her zaman bu şekilde erişilebilir. Durumunuzda hangi medya oynatıcıların paylaşılacağını ve durumunuzun nasıl görüneceğini kontrol edebilirsiniz.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6759"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anladım!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6861"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sürüm {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6867"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lisans</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6870"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gizlilik Bildirimi</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6873"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bir sorun bildirin</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6876"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} uygulamasını beğendiniz mi? &lt;a {attributes}&gt;Bağış yaparak geliştirmeyi destekleyin&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6884"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Başka şekillerde yardım etmek ister misiniz? &lt;a {attributes}&gt;Katılın!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6892"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamanın çevrilmesine yardımcı olan herkese teşekkürler:</translation>
     </message>
 </context>
 <context>
@@ -528,19 +531,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yine de kapat</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yenilikler</translation>
     </message>
 </context>
 <context>
@@ -550,13 +553,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1709"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medya oynatıcılardan kapak resimleri yükle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="243"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeleri kontrol edin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="319"/>
