@@ -1038,11 +1038,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>Oynatıcıyı kaldır</translation>
+        <translation>Oynatıcıyı kaldır</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1817"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
+        <translation>Medya algılama</translation>
         <translation>Medya algılama</translation>
     </message>
     <message>
@@ -1050,11 +1052,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>Değişikliklerin etkili olması için uygulamayı yeniden başlatın</translation>
+        <translation>Değişikliklerin etkili olması için uygulamayı yeniden başlatın</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1841"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
+        <translation>Yerel sistem arayüzlerini kullan</translation>
         <translation>Yerel sistem arayüzlerini kullan</translation>
     </message>
     <message>
@@ -1062,11 +1066,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>AppleScript otomasyonunu kullan</translation>
+        <translation>AppleScript otomasyonunu kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1906"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
+        <translation>Albüm kapakları</translation>
         <translation>Albüm kapakları</translation>
     </message>
     <message>
@@ -1086,11 +1092,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>Harici hizmetler</translation>
+        <translation>Harici hizmetler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1985"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
+        <translation>TIDAL dinlerken TIDAL API’sini kullan</translation>
         <translation>TIDAL dinlerken TIDAL API’sini kullan</translation>
     </message>
     <message>
@@ -1098,17 +1106,20 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Deezer dinlerken Deezer API’sini kullan</translation>
+        <translation>Deezer dinlerken Deezer API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1989"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Spotify dinlerken Spotify API’sini kullan</translation>
+        <translation>Spotify dinlerken Spotify API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1992"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
+        <translation>Apple Music dinlerken iTunes API’sini kullan</translation>
         <translation>Apple Music dinlerken iTunes API’sini kullan</translation>
     </message>
     <message>
