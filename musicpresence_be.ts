@@ -181,7 +181,7 @@
         <location filename="../src/app/app.cpp" line="4803"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation>Палітыка канфідэнцыяльнасці</translation>
+        <translation>Палітыка Канфідэнцыяльнасці</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4810"/>
@@ -789,7 +789,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1060"/>
         <source>Activity type</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тып актыўнасці</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1065"/>
@@ -801,7 +801,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1078"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адлюстраваны тэкст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1161"/>
@@ -873,7 +873,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1243"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>Паказваць медыя ў статусе падчас прыпынку</translation>
+        <translation>Паказваць медыя ў статусе падчас яе прыпынку</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1247"/>
