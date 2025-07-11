@@ -929,7 +929,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
-        <location filename="../src/app/settings/window.cpp" line="1945"/>
+        <location filename="../src/app/settings/window.cpp" line="2023"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>Novinky</translation>
@@ -1071,6 +1071,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
+        <location filename="../src/app/settings/window.cpp" line="1093"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation>Obnoviť</translation>
@@ -1112,204 +1113,214 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <translation>Zobraziť ako &quot;{player_name}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1060"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation>Presence</translation>
+        <translation type="vanished">Presence</translation>
+    </message>
+    <message>
+        <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
+        <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
+        <translation type="vanished">Zobraziť &quot;{music_activity_name}&quot; namiesto názvu prehrávača</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1065"/>
-        <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
-        <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation>Zobraziť &quot;{music_activity_name}&quot; namiesto názvu prehrávača</translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1072"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
         <translation>Zobraziť tvoj status ako aktivitu &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1146"/>
+        <location filename="../src/app/settings/window.cpp" line="1223"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation>Zobraziť názov albumu, ak chýba meno interpreta</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1157"/>
+        <location filename="../src/app/settings/window.cpp" line="1234"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
         <translation>Nezobrazovať žiadne informácie o skladbe</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1238"/>
+        <location filename="../src/app/settings/window.cpp" line="1315"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation>Tlačidlá</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1245"/>
+        <location filename="../src/app/settings/window.cpp" line="1322"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>Zobraziť &quot;{branding_text}&quot; v presence</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1085"/>
+        <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation>Informácie o skladbe</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1090"/>
+        <location filename="../src/app/settings/window.cpp" line="1060"/>
+        <source>Activity type</source>
+        <comment>discord appearance setting group</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1078"/>
+        <source>Display text</source>
+        <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1166"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť názov skladby a interpreta v jednom riadku</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1106"/>
+        <location filename="../src/app/settings/window.cpp" line="1183"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť interpreta a názov albumu v jednom riadku</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1124"/>
+        <location filename="../src/app/settings/window.cpp" line="1201"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>Vymeniť poradie názvu skladby a interpreta</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1129"/>
+        <location filename="../src/app/settings/window.cpp" line="1206"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>Pred názov umelca pridať &quot;{prefix}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1136"/>
+        <location filename="../src/app/settings/window.cpp" line="1213"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>Pred názov albumu pridať &quot;{prefix}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1142"/>
+        <location filename="../src/app/settings/window.cpp" line="1219"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť názov albumu</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1151"/>
+        <location filename="../src/app/settings/window.cpp" line="1228"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>Zobraziť informácie o prehrávaní</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1162"/>
+        <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation>Pozastavené médiá</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1166"/>
+        <location filename="../src/app/settings/window.cpp" line="1243"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť pozastavené médiá v tvojom statuse</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1170"/>
+        <location filename="../src/app/settings/window.cpp" line="1247"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť ikonu pozastavenia keď je hudba pozastavená</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1174"/>
+        <location filename="../src/app/settings/window.cpp" line="1251"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>Pozastaviť ukazovateľa priebehu pre pozastavené médiá</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1188"/>
+        <location filename="../src/app/settings/window.cpp" line="1265"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>Zobraziť, ako dlho je médium pozastavené</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1202"/>
+        <location filename="../src/app/settings/window.cpp" line="1279"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>Offline prehrávače</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1215"/>
+        <location filename="../src/app/settings/window.cpp" line="1292"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť ikonu prehrávania, keď sa hudba prehráva</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1225"/>
+        <location filename="../src/app/settings/window.cpp" line="1302"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>Zobraziť logo prehrávača médií</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1234"/>
+        <location filename="../src/app/settings/window.cpp" line="1311"/>
         <source>These settings do not apply to streaming services</source>
         <translation>Tieto nastavenia neplatia pre streamovacie služby</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1252"/>
+        <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation>Zobraziť tlačidlo &quot;{listen_to_this_song}&quot; ako &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1271"/>
+        <location filename="../src/app/settings/window.cpp" line="1348"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation>Logo prehrávača médií</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1274"/>
+        <location filename="../src/app/settings/window.cpp" line="1351"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation>Nota</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1277"/>
+        <location filename="../src/app/settings/window.cpp" line="1354"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation>Stav prehrávania</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1281"/>
+        <location filename="../src/app/settings/window.cpp" line="1358"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1287"/>
+        <location filename="../src/app/settings/window.cpp" line="1364"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation>Logo {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1294"/>
+        <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>Iné</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1300"/>
+        <location filename="../src/app/settings/window.cpp" line="1377"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation>Náhradný obrázok pre chýbajúce obrázky obalov</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1359"/>
+        <location filename="../src/app/settings/window.cpp" line="1437"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation>Obnoviť všetko</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1374"/>
+        <location filename="../src/app/settings/window.cpp" line="1452"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>Odstrániť prehrávač</translation>
@@ -1321,90 +1332,90 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="117"/>
-        <location filename="../src/app/settings/window.cpp" line="1631"/>
+        <location filename="../src/app/settings/window.cpp" line="1709"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>Nahrať obrázky obalov z prehrávačov médií</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1538"/>
+        <location filename="../src/app/settings/window.cpp" line="1616"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>Detekcia médií</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1551"/>
+        <location filename="../src/app/settings/window.cpp" line="1629"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>Reštartujte aplikáciu, aby sa tieto zmeny prejavili</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1562"/>
+        <location filename="../src/app/settings/window.cpp" line="1640"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>Použiť natívne systémové rozhrania</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1587"/>
+        <location filename="../src/app/settings/window.cpp" line="1665"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>Použiť automatizáciu AppleScript</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1627"/>
+        <location filename="../src/app/settings/window.cpp" line="1705"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>Obaly albumov</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1641"/>
+        <location filename="../src/app/settings/window.cpp" line="1719"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>Nespamuj to. Skús to znova o {amount} s</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1664"/>
+        <location filename="../src/app/settings/window.cpp" line="1742"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>Vždy používať lokálne obaly albumov</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1685"/>
+        <location filename="../src/app/settings/window.cpp" line="1763"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>Externé služby</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1706"/>
+        <location filename="../src/app/settings/window.cpp" line="1784"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>Použiť TIDAL API, keď počúvam TIDAL</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1708"/>
+        <location filename="../src/app/settings/window.cpp" line="1786"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Použiť Deezer API, keď počúvam Deezer</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1710"/>
+        <location filename="../src/app/settings/window.cpp" line="1788"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Použiť Spotify API, keď počúvam Spotify</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1713"/>
+        <location filename="../src/app/settings/window.cpp" line="1791"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Použiť iTunes API, keď počúvam Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1721"/>
+        <location filename="../src/app/settings/window.cpp" line="1799"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>Pre viac informácií o tom, aké údaje sa odosielajú týmto službám a ako sa tieto údaje používajú, si prosím prečítajte sekciu &lt;a {attributes}&gt;Ochrana osobných údajov&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1769"/>
+        <location filename="../src/app/settings/window.cpp" line="1847"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>Všeobecné</translation>

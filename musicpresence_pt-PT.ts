@@ -919,7 +919,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
-        <location filename="../src/app/settings/window.cpp" line="1945"/>
+        <location filename="../src/app/settings/window.cpp" line="2023"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>Notícias</translation>
@@ -1061,6 +1061,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="854"/>
+        <location filename="../src/app/settings/window.cpp" line="1093"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation>Repor</translation>
@@ -1102,204 +1103,214 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <translation>Mostrar como &quot;{player_name}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1060"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation>Presença</translation>
+        <translation type="vanished">Presença</translation>
+    </message>
+    <message>
+        <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
+        <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
+        <translation type="vanished">Mostrar &quot;{music_activity_name}&quot; em vez do nome do reprodutor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1065"/>
-        <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
-        <comment>appearance: show &quot;Music&quot; instead of the player name</comment>
-        <translation>Mostrar &quot;{music_activity_name}&quot; em vez do nome do reprodutor</translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1072"/>
         <source>Display your status as a &quot;{playing_activity_label}&quot; activity</source>
         <comment>appearance: use the &quot;Playing&quot; activity type</comment>
         <translation>Mostra o teu estado como uma atividade &quot;{playing_activity_label}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1146"/>
+        <location filename="../src/app/settings/window.cpp" line="1223"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation>Mostrar o nome do álbum quando o artista está em falta</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1157"/>
+        <location filename="../src/app/settings/window.cpp" line="1234"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
         <translation>Não mostrar qualquer informação da música</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1238"/>
+        <location filename="../src/app/settings/window.cpp" line="1315"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation>Botões</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1245"/>
+        <location filename="../src/app/settings/window.cpp" line="1322"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>Mostrar &quot;{branding_text}&quot; na presença</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1085"/>
+        <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation>Informação da faixa</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1090"/>
+        <location filename="../src/app/settings/window.cpp" line="1060"/>
+        <source>Activity type</source>
+        <comment>discord appearance setting group</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1078"/>
+        <source>Display text</source>
+        <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1166"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>Mostrar o título da faixa e artista só numa linha</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1106"/>
+        <location filename="../src/app/settings/window.cpp" line="1183"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>Mostrar o artista e álbum só numa linha</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1124"/>
+        <location filename="../src/app/settings/window.cpp" line="1201"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>Trocar a ordem do título da faixa e artista</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1129"/>
+        <location filename="../src/app/settings/window.cpp" line="1206"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>Prefixar o nome do artista com &quot;{prefix}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1136"/>
+        <location filename="../src/app/settings/window.cpp" line="1213"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>Prefixar o nome do álbum com &quot;{prefix}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1142"/>
+        <location filename="../src/app/settings/window.cpp" line="1219"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>Mostrar o nome do álbum</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1151"/>
+        <location filename="../src/app/settings/window.cpp" line="1228"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>Mostrar informação da reprodução</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1162"/>
+        <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation>Média em pausa</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1166"/>
+        <location filename="../src/app/settings/window.cpp" line="1243"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>Mostrar média em pausa no teu estado</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1170"/>
+        <location filename="../src/app/settings/window.cpp" line="1247"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>Mostrar um ícone de pausa quando o reprodutor está em pausa</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1174"/>
+        <location filename="../src/app/settings/window.cpp" line="1251"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>Parar a barra de progresso para média em pausa</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1188"/>
+        <location filename="../src/app/settings/window.cpp" line="1265"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>Mostrar quanto tempo a média está em pausa</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1202"/>
+        <location filename="../src/app/settings/window.cpp" line="1279"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>Reprodutores offline</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1215"/>
+        <location filename="../src/app/settings/window.cpp" line="1292"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>Mostrar um ícone enquanto a música tocar</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1225"/>
+        <location filename="../src/app/settings/window.cpp" line="1302"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>Mostrar o logo do reprodutor</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1234"/>
+        <location filename="../src/app/settings/window.cpp" line="1311"/>
         <source>These settings do not apply to streaming services</source>
         <translation>Testas definições não se aplicam a serviços de streaming</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1252"/>
+        <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation>Mostrar o botão &quot;{listen_to_this_song}&quot; como &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1271"/>
+        <location filename="../src/app/settings/window.cpp" line="1348"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation>Logo do reprodutor de média</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1274"/>
+        <location filename="../src/app/settings/window.cpp" line="1351"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation>Nota musical</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1277"/>
+        <location filename="../src/app/settings/window.cpp" line="1354"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation>Estado da reprodução</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1281"/>
+        <location filename="../src/app/settings/window.cpp" line="1358"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1287"/>
+        <location filename="../src/app/settings/window.cpp" line="1364"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation>Logo do {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1294"/>
+        <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>Diversos</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1300"/>
+        <location filename="../src/app/settings/window.cpp" line="1377"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation>Espaço reservado para imagens de álbuns em falta</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1359"/>
+        <location filename="../src/app/settings/window.cpp" line="1437"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation>Repor tudo</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1374"/>
+        <location filename="../src/app/settings/window.cpp" line="1452"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>Remover reprodutor</translation>
@@ -1311,90 +1322,90 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="117"/>
-        <location filename="../src/app/settings/window.cpp" line="1631"/>
+        <location filename="../src/app/settings/window.cpp" line="1709"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>Carregar imagens de capa dos reprodutores de média</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1538"/>
+        <location filename="../src/app/settings/window.cpp" line="1616"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>Deteção de média</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1551"/>
+        <location filename="../src/app/settings/window.cpp" line="1629"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>Reinicia a aplicação para as alterações terem efeito</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1562"/>
+        <location filename="../src/app/settings/window.cpp" line="1640"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>Usar interfaces nativas do sistema</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1587"/>
+        <location filename="../src/app/settings/window.cpp" line="1665"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>Usar automação AppleScript</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1627"/>
+        <location filename="../src/app/settings/window.cpp" line="1705"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>Capas de álbuns</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1641"/>
+        <location filename="../src/app/settings/window.cpp" line="1719"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>Não spames isto. Tenta de novo em {amount} segundos</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1664"/>
+        <location filename="../src/app/settings/window.cpp" line="1742"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>Usar sempre imagens de capa locais</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1685"/>
+        <location filename="../src/app/settings/window.cpp" line="1763"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>Serviços externos</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1706"/>
+        <location filename="../src/app/settings/window.cpp" line="1784"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>Usar o API TIDAL ao reproduzir do TIDAL</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1708"/>
+        <location filename="../src/app/settings/window.cpp" line="1786"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Usar o API Deezer ao reproduzir do Deezer</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1710"/>
+        <location filename="../src/app/settings/window.cpp" line="1788"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Usar o API Spotify ao reproduzir do Spotify</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1713"/>
+        <location filename="../src/app/settings/window.cpp" line="1791"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Usar o API iTunes ao reproduzir da Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1721"/>
+        <location filename="../src/app/settings/window.cpp" line="1799"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>Para mais informações sobre que dados são transmitidos para estes serviços e em como é usada, por favor lê o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1769"/>
+        <location filename="../src/app/settings/window.cpp" line="1847"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>Geral</translation>
