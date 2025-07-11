@@ -1059,7 +1059,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1847"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Genel</translation>
     </message>
 </context>
 </TS>
