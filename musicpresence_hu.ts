@@ -889,7 +889,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="337"/>
-        <location filename="../src/app/settings/window.cpp" line="2224"/>
+        <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation type="unfinished"></translation>
@@ -1084,241 +1084,223 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <translation type="obsolete">Státuszod mutatása, mint &quot;{playing_activity_label}&quot; tevékenység</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1425"/>
+        <location filename="../src/app/settings/window.cpp" line="1446"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1436"/>
+        <location filename="../src/app/settings/window.cpp" line="1457"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1517"/>
+        <location filename="../src/app/settings/window.cpp" line="1538"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1524"/>
+        <location filename="../src/app/settings/window.cpp" line="1545"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation type="unfinished">&quot;{branding_text}&quot; mutatása a tevékenységnél</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1354"/>
+        <location filename="../src/app/settings/window.cpp" line="1375"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1295"/>
-        <source>Listening to …</source>
-        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1301"/>
-        <source>Watching …</source>
-        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1307"/>
-        <source>Playing …</source>
-        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1330"/>
+        <location filename="../src/app/settings/window.cpp" line="1351"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1334"/>
+        <location filename="../src/app/settings/window.cpp" line="1355"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1338"/>
+        <location filename="../src/app/settings/window.cpp" line="1359"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1342"/>
+        <location filename="../src/app/settings/window.cpp" line="1363"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1346"/>
+        <location filename="../src/app/settings/window.cpp" line="1367"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1359"/>
+        <location filename="../src/app/settings/window.cpp" line="1380"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Mutassa egy sorban a dal címét és előadóját</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1376"/>
+        <location filename="../src/app/settings/window.cpp" line="1397"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Mutassa egy sorban a dal előadóját és az albumot</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1394"/>
+        <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Dal címe és az előadó sorrend felcserélése</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1399"/>
+        <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation type="unfinished">&quot;{prefix}&quot; előtag mutatása az előadóhoz</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1406"/>
+        <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation type="unfinished">&quot;{prefix}&quot; előtag mutatása az album nevéhez</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1412"/>
+        <location filename="../src/app/settings/window.cpp" line="1433"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Album nevének mutatása</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1430"/>
+        <location filename="../src/app/settings/window.cpp" line="1451"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation type="unfinished">Lejátszási információk mutatása</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1441"/>
+        <location filename="../src/app/settings/window.cpp" line="1462"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1445"/>
+        <location filename="../src/app/settings/window.cpp" line="1466"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Szüneteltetett média megjelenítése a státuszodban</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1449"/>
+        <location filename="../src/app/settings/window.cpp" line="1470"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Szünet ikon mutatása, ha a zene szüneteltetve van</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1453"/>
+        <location filename="../src/app/settings/window.cpp" line="1474"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation type="unfinished">Folyamatjelző befagyasztása, ha a média szünetel</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1467"/>
+        <location filename="../src/app/settings/window.cpp" line="1488"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation type="unfinished">Mutassa mennyi ideig van szüneteltetve a média</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1481"/>
+        <location filename="../src/app/settings/window.cpp" line="1502"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1494"/>
+        <location filename="../src/app/settings/window.cpp" line="1515"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">Lejátszás ikon mutatása, amikor zenét hallgatsz</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1504"/>
+        <location filename="../src/app/settings/window.cpp" line="1525"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation type="unfinished">A médialejátszó logójának mutatása</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1513"/>
+        <location filename="../src/app/settings/window.cpp" line="1534"/>
         <source>These settings do not apply to streaming services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1531"/>
+        <location filename="../src/app/settings/window.cpp" line="1552"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1550"/>
+        <location filename="../src/app/settings/window.cpp" line="1571"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation type="unfinished">Médialejátszó logója</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1553"/>
+        <location filename="../src/app/settings/window.cpp" line="1574"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation type="unfinished">Hangjegy</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1556"/>
+        <location filename="../src/app/settings/window.cpp" line="1577"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation type="unfinished">Lejátszás állapota</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1560"/>
+        <location filename="../src/app/settings/window.cpp" line="1581"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation type="unfinished">CD</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1566"/>
+        <location filename="../src/app/settings/window.cpp" line="1587"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation type="unfinished">{app_name} logó</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1573"/>
+        <location filename="../src/app/settings/window.cpp" line="1594"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation type="unfinished">Egyéb</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1579"/>
+        <location filename="../src/app/settings/window.cpp" line="1600"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation type="unfinished">Helyettesítő kép beállítása hiányzó borítóképekhez</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1638"/>
+        <location filename="../src/app/settings/window.cpp" line="1659"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1653"/>
+        <location filename="../src/app/settings/window.cpp" line="1674"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="117"/>
-        <location filename="../src/app/settings/window.cpp" line="1910"/>
+        <location filename="../src/app/settings/window.cpp" line="1931"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation type="unfinished"></translation>
@@ -1330,90 +1312,108 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1292"/>
+        <location filename="../src/app/settings/window.cpp" line="1291"/>
+        <source>{type} / Listening to …</source>
+        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1298"/>
+        <source>{type} / Watching …</source>
+        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1305"/>
+        <source>{type} / Playing …</source>
+        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1322"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1817"/>
+        <location filename="../src/app/settings/window.cpp" line="1838"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1830"/>
+        <location filename="../src/app/settings/window.cpp" line="1851"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1841"/>
+        <location filename="../src/app/settings/window.cpp" line="1862"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1866"/>
+        <location filename="../src/app/settings/window.cpp" line="1887"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1906"/>
+        <location filename="../src/app/settings/window.cpp" line="1927"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1920"/>
+        <location filename="../src/app/settings/window.cpp" line="1941"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation type="unfinished">Ne spammeld. Próbáld újra {amount} másodperc múlva</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1943"/>
+        <location filename="../src/app/settings/window.cpp" line="1964"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1964"/>
+        <location filename="../src/app/settings/window.cpp" line="1985"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation type="unfinished">Külső szolgáltatások</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1985"/>
+        <location filename="../src/app/settings/window.cpp" line="2006"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation type="unfinished">A TIDAL API használata, ha TIDAL-t hallgatsz</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1987"/>
+        <location filename="../src/app/settings/window.cpp" line="2008"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation type="unfinished">A Deezer API használata, ha Deezer-t hallgatsz</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1989"/>
+        <location filename="../src/app/settings/window.cpp" line="2010"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1992"/>
+        <location filename="../src/app/settings/window.cpp" line="2013"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2000"/>
+        <location filename="../src/app/settings/window.cpp" line="2021"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2048"/>
+        <location filename="../src/app/settings/window.cpp" line="2069"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation type="unfinished"></translation>
