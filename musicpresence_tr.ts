@@ -796,19 +796,19 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1291"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>... dinliyor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1298"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>... izliyor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1305"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>... Oynuyor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1322"/>
