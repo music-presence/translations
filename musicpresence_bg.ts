@@ -787,19 +787,19 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1295"/>
-        <source>Listening</source>
+        <source>Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1301"/>
-        <source>Watching</source>
+        <source>Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1307"/>
-        <source>Playing</source>
+        <source>Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
         <translation type="unfinished"></translation>
     </message>

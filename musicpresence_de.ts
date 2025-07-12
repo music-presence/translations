@@ -1170,6 +1170,24 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <translation>Lied-Informationen</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="1295"/>
+        <source>Listening to …</source>
+        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1301"/>
+        <source>Watching …</source>
+        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="1307"/>
+        <source>Playing …</source>
+        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="1330"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
@@ -1365,24 +1383,6 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1292"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1295"/>
-        <source>Listening</source>
-        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1301"/>
-        <source>Watching</source>
-        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="1307"/>
-        <source>Playing</source>
-        <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and write it down here. Replace any dynamic text with an ellipsis character: …</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
