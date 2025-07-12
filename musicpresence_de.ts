@@ -1220,7 +1220,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1390"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigetext im Profil</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1459"/>
