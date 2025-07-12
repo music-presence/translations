@@ -929,6 +929,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>Duraklatılan medyada ilerleme çubuğunun hareketini durdur</translation>
+        <translation>Duraklatılan medyada ilerleme çubuğunun hareketini durdur</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1467"/>
@@ -941,11 +942,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>Çevrimdışı oynatıcılar</translation>
+        <translation>Çevrimdışı oynatıcılar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1494"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
+        <translation>Şarkı çalarken bir çalma simgesi gösterin</translation>
         <translation>Şarkı çalarken bir çalma simgesi gösterin</translation>
     </message>
     <message>
@@ -957,6 +960,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1513"/>
         <source>These settings do not apply to streaming services</source>
+        <translation>Bu ayarlar streaming servislerinde uygulanmaz</translation>
         <translation>Bu ayarlar streaming servislerinde uygulanmaz</translation>
     </message>
     <message>
@@ -1019,11 +1023,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>Çeşitli Ayarlar</translation>
+        <translation>Çeşitli Ayarlar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1579"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
+        <translation>Eksik kapak resimleri için yer tutucu</translation>
         <translation>Eksik kapak resimleri için yer tutucu</translation>
     </message>
     <message>
@@ -1080,11 +1086,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>Lütfen spam yapmayın. {amount} saniye sonra tekrar deneyin</translation>
+        <translation>Lütfen spam yapmayın. {amount} saniye sonra tekrar deneyin</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1943"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
+        <translation>Her zaman yerel kapak resimleri kullanın</translation>
         <translation>Her zaman yerel kapak resimleri kullanın</translation>
     </message>
     <message>
@@ -1125,6 +1133,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2000"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
+        <translation>Bu hizmetlere hangi verilerin aktarıldığı ve bu verilerin nasıl kullanıldığı hakkında daha fazla bilgi için lütfen &lt;a {attributes}&gt;Gizlilik Bildirimini&lt;/a&gt; okuyun.</translation>
         <translation>Bu hizmetlere hangi verilerin aktarıldığı ve bu verilerin nasıl kullanıldığı hakkında daha fazla bilgi için lütfen &lt;a {attributes}&gt;Gizlilik Bildirimini&lt;/a&gt; okuyun.</translation>
     </message>
     <message>
