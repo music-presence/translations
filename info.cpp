@@ -221,10 +221,10 @@ std::vector<Contributor> const& translations::contributors()
             .translated_languages = {"it"},
         },
         {
-            .name = "SoundBlaster1998", // FIXME not specified by contributor
-            // .github_name = "?", // FIXME not specified by contributor
+            .name = "SoundBlaster1998",
+            .github_name = "SoundBlaster1998",
             .codeberg_name = "SoundBlaster1998",
-            .link_to_github = false,
+            .link_to_github = true,
             .translated_languages = {"pt-PT"},
         },
         {
