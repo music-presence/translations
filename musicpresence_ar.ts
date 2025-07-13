@@ -930,7 +930,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="432"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>ساعِّد في الترجة</translation>
+        <translation>ساعِّد في الترجمة</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="437"/>
@@ -1119,7 +1119,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1534"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>لا تُظهر اي معلومات عن الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1615"/>
@@ -1150,19 +1150,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1397"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>اسم مشغل الاغاني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>سطر المغني</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1370"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>سطر عنوان الاغنية</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1374"/>
