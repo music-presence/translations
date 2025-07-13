@@ -1173,39 +1173,39 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1358"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetlany tekst</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1362"/>
         <location filename="../src/app/settings/window.cpp" line="1397"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa odtwarzacza</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1366"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linijka artysty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1370"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linijka tytułu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1374"/>
         <location filename="../src/app/settings/window.cpp" line="1401"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ mediów</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1390"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetlany tekst na profilu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1459"/>
@@ -1378,25 +1378,25 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1298"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Słucha …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1305"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Ogląda …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1312"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / W grze …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ aktywności</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1914"/>
