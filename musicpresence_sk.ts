@@ -1398,13 +1398,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1990"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Presence</translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Povoliť presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
@@ -1416,7 +1416,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Povoliť presence pre jednotlivé aplikácie</translation>
+        <translation>Povoliť presence pre jednotlivé aplikácie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
