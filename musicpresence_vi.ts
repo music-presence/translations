@@ -1393,7 +1393,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1990"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Trạng thái</translation>
+        <translation>Trạng thái</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1994"/>
@@ -1411,7 +1411,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Chọn trạng thái trên từng ứng dụng</translation>
+        <translation>Chọn trạng thái trên từng ứng dụng</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
