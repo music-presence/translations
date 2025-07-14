@@ -902,7 +902,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2589"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation>Nouvelles</translation>
+        <translation>Actualités</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="367"/>
@@ -920,7 +920,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="453"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>Participer à la traduction</translation>
+        <translation>Participez à la traduction</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="458"/>
@@ -1007,7 +1007,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="731"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation>Voir les nouveautés lors du lancement d&apos;une nouvelle version</translation>
+        <translation>Afficher les nouveautés au lancement d&apos;une nouvelle version</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="757"/>
@@ -1025,19 +1025,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="788"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation>Nouvelles</translation>
+        <translation>Actualités</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="792"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>Notifier en cas de nouvelles du développeur</translation>
+        <translation>Me notifier quand le développeur publie des informations</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="809"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation>Voir les dernières nouvelles</translation>
+        <translation>Voir les dernières actualités</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="877"/>
@@ -1045,7 +1045,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1068"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation>Annuler</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1381,7 +1381,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Activer la présence par application</translation>
+        <translation>Activer/désactiver la présence par application</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
