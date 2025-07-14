@@ -1090,7 +1090,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrare i podcast</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1288"/>
@@ -1154,7 +1154,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1402"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Mostra testo</translation>
+        <translation>Testo mostrato</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1406"/>
@@ -1173,20 +1173,20 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation>Nome del titolo</translation>
+        <translation>Titolo del brano</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1418"/>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation>Tipo di media</translation>
+        <translation>Tipo di medium</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1434"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation>Testo del profilo</translation>
+        <translation>Testo mostrato nel profilo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1503"/>
@@ -1378,31 +1378,31 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1990"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Attività di Discord</translation>
+        <translation>Attività di Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abilita l’attività di Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita tutti i lettori multimediali come impostazione predefinita</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Abilita/disabilita l’attività</translation>
+        <translation>Abilita/disabilita l’attività</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina alle impostazioni predefinite</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2173"/>
