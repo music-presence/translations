@@ -1171,7 +1171,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1434"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le texte du profil</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1503"/>
@@ -1195,7 +1195,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1542"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Préfixer le nom de l&apos;artiste avec &quot;{prefix}&quot;</translation>
+        <translation>Préfixer le nom de l&apos;artiste avec &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1549"/>
@@ -1213,7 +1213,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1572"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Afficher la durée du son</translation>
+        <translation>Afficher les informations de lecture</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1583"/>
@@ -1237,13 +1237,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1595"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Figer la barre de progression lorsque le média est en pause</translation>
+        <translation>Figer la barre de progression lorsque le média est en pause</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1609"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Afficher le temps depuis que le média est en pause</translation>
+        <translation>Afficher le temps depuis que le média est en pause</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1623"/>
@@ -1314,7 +1314,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1721"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">Placeholder pour couvertures manquantes</translation>
+        <translation>Espace réservé pour les images de couverture manquantes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1780"/>
@@ -1333,49 +1333,49 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2266"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished">Afficher les illustrations des lecteurs</translation>
+        <translation>Charger les illustrations à partir des lecteurs multimédias</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1342"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type] / Ecoute …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1349"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Regarde …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Joue à …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1373"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Type d&apos;activité</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1990"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Presence</translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Autoriser presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Désactive tous les lecteurs par défaut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2022"/>
@@ -1387,7 +1387,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2137"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer les paramètres par défaut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2173"/>
@@ -1429,7 +1429,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2299"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished">Toujours utiliser la couverture de base</translation>
+        <translation>Toujours utiliser la couverture locale</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2320"/>
