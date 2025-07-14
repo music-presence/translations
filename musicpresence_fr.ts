@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="2689"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation>maintenant actif</translation>
+        <translation>active</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2771"/>
@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="2774"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>Cliquez pour activer</translation>
+        <translation>Cliquer pour activer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2778"/>
@@ -419,7 +419,7 @@
         <location filename="../src/app/app.cpp" line="6809"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation>À Propos</translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4875"/>
@@ -501,7 +501,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="1709"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation>Nouvelles du développeur</translation>
+        <translation>Actualités publiées par le développeur</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2548"/>
@@ -565,7 +565,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="1854"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>Il n&apos;y a actuellement aucune nouvelle de la part du développeur. Revenez plus tard ou activez les notifications dans les paramètres pour être averti dès que des informations seront disponibles.</translation>
+        <translation>Il n&apos;y a pour le moment pas d&apos;actualité de la part du développeur. Revenez plus tard ou activez les notifications dans les paramètres afin d&apos;être averti lorsque des informations seront publiées.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4776"/>
@@ -583,7 +583,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="4900"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation>Voir les dernières nouvelles</translation>
+        <translation>Voir les dernières actualités</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4908"/>
@@ -729,7 +729,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="6682"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation>Essayez à nouveau</translation>
+        <translation>Réessayez</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6688"/>
@@ -759,7 +759,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="6714"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Ceci est uniquement affiché lorsqu&apos;une nouvelle version est lancée.</translation>
+        <translation>Ceci est affiché uniquement au lancement d&apos;une nouvelle version.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6725"/>
@@ -811,7 +811,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/app.cpp" line="6895"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>Vous aimez {app_name}&#x2009;? &lt;a {attributes}&gt;Soutenez le développement avec un don&lt;/a&gt;</translation>
+        <translation>Vous aimez {app_name}&#x2009;? &lt;a {attributes}&gt;Soutenez le développement avec une donation&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6903"/>
@@ -1369,7 +1369,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished">Autoriser presence</translation>
+        <translation>Activer la présence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
@@ -1381,7 +1381,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Activer/désactiver la présence par application</translation>
+        <translation>Activer la présence par application</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
