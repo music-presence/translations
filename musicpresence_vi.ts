@@ -1100,7 +1100,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Không hiện podcasts</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1288"/>
@@ -1164,39 +1164,39 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1402"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hiện chữ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1406"/>
         <location filename="../src/app/settings/window.cpp" line="1441"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tên trình phát</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1410"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tên nghệ sĩ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tên phương tiện</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1418"/>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Loại phương tiện</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1434"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dòng display text trong profile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1503"/>
@@ -1369,25 +1369,25 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1342"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Đang nghe …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1349"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Đang xem …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Đang chơi …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1373"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Loại hoạt động</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1990"/>
@@ -1399,13 +1399,13 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kích hoạt trạng thái</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mặc định vô hiệu hóa tất cả trình phát</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2022"/>
@@ -1417,7 +1417,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="2137"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Đặt lại về mặc định</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2173"/>
