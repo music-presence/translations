@@ -1095,7 +1095,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nunca mostrar podcasts</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1288"/>
@@ -1286,7 +1286,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1655"/>
         <source>These settings do not apply to streaming services</source>
-        <translation>Testas definições não se aplicam a serviços de streaming</translation>
+        <translation>Estas definições não se aplicam a serviços de streaming</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1673"/>
@@ -1388,31 +1388,31 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="1990"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Presença</translation>
+        <translation>Presença</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ativar presença</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desativar todos os reprod. por defeito</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Alterna a presença por aplicação</translation>
+        <translation>Alternar presença por aplicação</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Repor por defeito</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2173"/>
