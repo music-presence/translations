@@ -1146,26 +1146,26 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1441"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nom du player</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1410"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ligne de l&apos;artiste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ligne du titre</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1418"/>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Type de média</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1434"/>
