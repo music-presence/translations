@@ -920,7 +920,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="453"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Aide à la traduction</translation>
+        <translation>Participer à la traduction</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="458"/>
