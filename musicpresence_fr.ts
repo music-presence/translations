@@ -1201,7 +1201,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1549"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Préfixer le nom de l&apos;album avec &quot;{prefix}&quot;</translation>
+        <translation>Préfixer le nom de l&apos;album avec &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1555"/>
@@ -1308,7 +1308,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1715"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">Divers</translation>
+        <translation>Divers</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1721"/>
