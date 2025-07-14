@@ -1105,7 +1105,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nikdy nezobrazovať podcasty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1288"/>
@@ -1169,39 +1169,39 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1402"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazený text</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1406"/>
         <location filename="../src/app/settings/window.cpp" line="1441"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Názov prehrávača</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1410"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Riadok s interpretom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1414"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Riadok s názvom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1418"/>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ média</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1434"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text zobrazený v profile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1503"/>
@@ -1374,25 +1374,25 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="1342"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Počúva …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1349"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Sleduje …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1356"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Hrá …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1373"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ aktivity</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1990"/>
@@ -1410,7 +1410,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="2001"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Predvolene zakázať všetky prehrávače</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2022"/>
@@ -1422,7 +1422,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="2137"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť predvolené nastavenia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2173"/>
