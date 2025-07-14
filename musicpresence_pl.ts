@@ -1115,7 +1115,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj podcastów</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1288"/>
@@ -1408,31 +1408,31 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1990"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Aktywność</translation>
+        <translation>Aktywność</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1994"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włącz aktywność</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2001"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz wszystkie odtwarzacze domyślnie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Włącz aktywność według aplikacji</translation>
+        <translation>Włącz aktywność według aplikacji</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2137"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj do domyślnych</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2173"/>
