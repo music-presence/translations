@@ -1281,7 +1281,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="1646"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar o logo do reprodutor</translation>
+        <translation>Mostrar o logótipo do reprodutor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1655"/>
@@ -1298,7 +1298,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="1692"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation>Logo do reprodutor de média</translation>
+        <translation>Logótipo do reprodutor de média</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1695"/>
@@ -1322,7 +1322,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="1708"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation>Logo do {app_name}</translation>
+        <translation>Logótipo do {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1715"/>
