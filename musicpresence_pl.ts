@@ -1212,7 +1212,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Komunikaty o wiadomościach są pokazywane tylko przy starcie aplikacji i nigdy podczas jej używania. Zostaw powiadomienia włączone, żeby nigdy nic nie ominąć.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
