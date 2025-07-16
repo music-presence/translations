@@ -1416,7 +1416,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2012"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Presence</translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2016"/>
@@ -1434,7 +1434,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2044"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">애플리케이션마다 Presence 전환</translation>
+        <translation>애플리케이션마다 Presence 전환</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2159"/>
@@ -1547,7 +1547,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2426"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범 이름이 없을 때 추측하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
