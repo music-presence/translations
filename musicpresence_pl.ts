@@ -1151,19 +1151,19 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2420"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj animowane okładki (eksperymentalne)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2426"/>
         <source>Guess the album name when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report an album name, but you want to guess it using a music API</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zgaduj nazwę albumu, gdy jej brakuje</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2432"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij swój kod kraju</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1480,7 +1480,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2219"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation>Używaj interfejsów systemowych</translation>
+        <translation>Używaj interfejsów systemu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2244"/>
@@ -1492,7 +1492,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2269"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatyzacja AppleScript może być bardziej niezawodna, ale działa tylko z Apple Music i Spotify. Używanie natywnego interfejsu systemu działa ze wszystkimi odtwarzaczami.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
@@ -1540,7 +1540,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2367"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Używaj API Apple Music, podczas słuchania Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2379"/>
@@ -1557,18 +1557,18 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguracja API Muzyki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj okładki albumu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysyłanie Twojego kodu kraju jest wymagane, żeby znaleźć wybrane piosenki dostępne jedynie w konkretnych krajach i może usprawnić wyniki wyszukiwania. Twój kod kraju jest usuwany z każdego linku przed pokazaniem na statusie Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2498"/>
