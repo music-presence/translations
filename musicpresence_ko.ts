@@ -1543,7 +1543,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation>앨범 커버 이미지 가져오기</translation>
+        <translation>앨범 표지 이미지 가져오기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
