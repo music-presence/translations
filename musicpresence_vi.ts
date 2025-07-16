@@ -1124,7 +1124,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation>Thêm nghệ sĩ phụ</translation>
+        <translation>Hiển thị nghệ sĩ phụ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
@@ -1541,7 +1541,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation>Thêm ảnh bìa album</translation>
+        <translation>Hiển thị ảnh bìa album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2426"/>
