@@ -1062,7 +1062,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1319"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation>Toujours afficher &quot;{podcast_activity_name}&quot; lorsque vous écoutez des podcasts</translation>
+        <translation>Afficher spécifiquement &quot;{podcast_activity_name}&quot; lorsque vous écoutez un podcast</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1323"/>
