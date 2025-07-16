@@ -1108,13 +1108,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2269"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматызацыя праз AppleScript можа быць больш надзейнай, але працуе толькi з Apple Music i Spotify. Выкарыстанне натыўнага сiстэмнага iнтэрфейсу працуе з усiмi медыяплэерами.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation>Абкладзiнкі альбомаў</translation>
+        <translation>Вокладкi альбомаў</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
@@ -1156,7 +1156,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2367"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выкарыстоўваць Apple Music API, калі прайграваецца Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2379"/>
@@ -1173,42 +1173,42 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Канфiгурацыя Music API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Атрымаць дадатковых выканаўцаў</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Атрымаць вокладкi альбомаў</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Атрымаць анiмiраваныя вокладкi альбомаў (эксперыментальна)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2426"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адгадаць альбом калi ён адсутнiчае</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2432"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Адпраўляць код вашай краiны</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адпраўленне кода вашай краіны патрабуецца для знаходжання пэўных песень, якія даступныя толькі ў асобных краінах і могуць палепшыць вынікі пошуку. Ваш код краіны выдаляецца з любых спасылак перад тым, як яны будуць паказаны ў вашым статусе Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2498"/>
