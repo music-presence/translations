@@ -1139,13 +1139,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj dodatkowych artystów</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get external cover images</source>
         <comment>music API configuration setting: gets cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj zewnętrzne okładki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
