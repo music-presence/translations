@@ -1114,13 +1114,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation>Mostra gli artisti secondari</translation>
+        <translation>Prendi e mostra gli artisti secondari</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation>Utilizza le immagini di copertina animate (sperimentale)</translation>
+        <translation>Prendi e utilizza le immagini di copertina animate (sperimentale)</translation>
     </message>
     <message>
         <source>Guess the album name when it&apos;s missing</source>
@@ -1526,7 +1526,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation>Prendi le immagini di copertina dell’album</translation>
+        <translation>Prendi e mostra le immagini di copertina dell’album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2426"/>
