@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="2746"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation>agora ativo</translation>
+        <translation>ativo agora</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2782"/>
@@ -1057,7 +1057,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="872"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using {app_name}. Leave notifications enabled, to never miss anything.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Os pop-ups das notícias apenas são apresentados ao iniciar a aplicação e não enquanto estiveres a usar o {app_name}. Deixa as notificações ativadas para nunca perderes nada.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="879"/>
@@ -1424,7 +1424,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="2071"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation>Desativar todos os reprod. por defeito</translation>
+        <translation>Desativar todos os reprodutores por defeito</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2092"/>
