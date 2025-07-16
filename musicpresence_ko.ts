@@ -1100,7 +1100,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1286"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>팟캐스트 표시하지 않기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1310"/>
@@ -1124,19 +1124,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>추가 아티스트 가져오기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get external cover images</source>
         <comment>music API configuration setting: gets cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>외부 표지 이미지 가져오기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>애니메이션 앨범 표지 가져오기 (실험적)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2426"/>
