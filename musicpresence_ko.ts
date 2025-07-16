@@ -924,7 +924,7 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="380"/>
-        <location filename="../src/app/settings/window.cpp" line="2675"/>
+        <location filename="../src/app/settings/window.cpp" line="2723"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>뉴스</translation>
@@ -1059,69 +1059,75 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>개발자의 소식을 알리기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="831"/>
+        <location filename="../src/app/settings/window.cpp" line="872"/>
+        <source>News pop-ups are only shown at the start of the app and never while you are using {app_name}. Leave notifications enabled, to never miss anything.</source>
+        <comment>explanation of the settings for app news</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="879"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
         <translation>최신 소식 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="899"/>
-        <location filename="../src/app/settings/window.cpp" line="964"/>
-        <location filename="../src/app/settings/window.cpp" line="1090"/>
+        <location filename="../src/app/settings/window.cpp" line="947"/>
+        <location filename="../src/app/settings/window.cpp" line="1012"/>
+        <location filename="../src/app/settings/window.cpp" line="1138"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation>재설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1263"/>
+        <location filename="../src/app/settings/window.cpp" line="1311"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
         <translation>개별 설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1270"/>
+        <location filename="../src/app/settings/window.cpp" line="1318"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
         <translation>팟캐스트를 들을 때 항상 &quot;{podcast_activity_name}&quot; 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1274"/>
+        <location filename="../src/app/settings/window.cpp" line="1322"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
         <translation>광고를 필터링하려고 시도</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1280"/>
+        <location filename="../src/app/settings/window.cpp" line="1328"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
         <translation>상태에 팟캐스트만 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1286"/>
+        <location filename="../src/app/settings/window.cpp" line="1334"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
         <translation>팟캐스트 표시하지 않기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1310"/>
+        <location filename="../src/app/settings/window.cpp" line="1358"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation>아티스트 이름과 앨범 이름을 분리</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1339"/>
+        <location filename="../src/app/settings/window.cpp" line="1387"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
         <translation>“{player_name}”으로 표시하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1361"/>
+        <location filename="../src/app/settings/window.cpp" line="1409"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
         <translation>Presence</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2409"/>
+        <location filename="../src/app/settings/window.cpp" line="2457"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
         <translation>추가 아티스트 가져오기</translation>
@@ -1132,7 +1138,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">외부 표지 이미지 가져오기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2420"/>
+        <location filename="../src/app/settings/window.cpp" line="2468"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
         <translation>애니메이션 앨범 표지 가져오기 (실험적)</translation>
@@ -1143,7 +1149,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">앨범 이름이 없을 때 추측하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2432"/>
+        <location filename="../src/app/settings/window.cpp" line="2480"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
         <translation>국가 코드 보내기</translation>
@@ -1159,403 +1165,403 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">&quot;{playing_activity_label}&quot; 활동으로 상태 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1589"/>
+        <location filename="../src/app/settings/window.cpp" line="1637"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation>아티스트 누락 시 앨범명 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1600"/>
+        <location filename="../src/app/settings/window.cpp" line="1648"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
         <translation>노래 정보를 표시하지 않기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1681"/>
+        <location filename="../src/app/settings/window.cpp" line="1729"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation>버튼</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1688"/>
+        <location filename="../src/app/settings/window.cpp" line="1736"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>Presence에 &quot;{branding_text}&quot; 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1520"/>
+        <location filename="../src/app/settings/window.cpp" line="1568"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation>노래 정보</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1424"/>
+        <location filename="../src/app/settings/window.cpp" line="1472"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
         <translation>텍스트 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1428"/>
-        <location filename="../src/app/settings/window.cpp" line="1463"/>
+        <location filename="../src/app/settings/window.cpp" line="1476"/>
+        <location filename="../src/app/settings/window.cpp" line="1511"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
         <translation>플레이어 이름</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1432"/>
+        <location filename="../src/app/settings/window.cpp" line="1480"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
         <translation>아티스트 줄</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1436"/>
+        <location filename="../src/app/settings/window.cpp" line="1484"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
         <translation>제목 줄</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1440"/>
-        <location filename="../src/app/settings/window.cpp" line="1467"/>
+        <location filename="../src/app/settings/window.cpp" line="1488"/>
+        <location filename="../src/app/settings/window.cpp" line="1515"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
         <translation>미디어 타입</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1456"/>
+        <location filename="../src/app/settings/window.cpp" line="1504"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
         <translation>프로필 표시 텍스트</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1525"/>
+        <location filename="../src/app/settings/window.cpp" line="1573"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>노래 제목과 아티스트를 한 줄에 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1541"/>
+        <location filename="../src/app/settings/window.cpp" line="1589"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>아티스트와 앨범을 한 줄에 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1559"/>
+        <location filename="../src/app/settings/window.cpp" line="1607"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>노래 제목과 아티스트의 순서 바꾸기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1564"/>
+        <location filename="../src/app/settings/window.cpp" line="1612"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>아티스트 이름 앞에 &quot;{prefix}&quot; 추가</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1571"/>
+        <location filename="../src/app/settings/window.cpp" line="1619"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>앨범 이름 앞에 &quot;{prefix}&quot; 추가</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1577"/>
+        <location filename="../src/app/settings/window.cpp" line="1625"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>앨범 이름 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1594"/>
+        <location filename="../src/app/settings/window.cpp" line="1642"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>재생 정보 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1605"/>
+        <location filename="../src/app/settings/window.cpp" line="1653"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation>일시 정지된 미디어</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1609"/>
+        <location filename="../src/app/settings/window.cpp" line="1657"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>상태에 일시 정지된 미디어 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1613"/>
+        <location filename="../src/app/settings/window.cpp" line="1661"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>음악이 일시 정지되었을 때 일시 정지 아이콘 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1617"/>
+        <location filename="../src/app/settings/window.cpp" line="1665"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>일시 정지된 미디어의 진행 바 고정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1631"/>
+        <location filename="../src/app/settings/window.cpp" line="1679"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>미디어가 일시 정지된 시간을 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1645"/>
+        <location filename="../src/app/settings/window.cpp" line="1693"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>오프라인 플레이어</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1658"/>
+        <location filename="../src/app/settings/window.cpp" line="1706"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>음악이 재생될 때 재생 아이콘 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1668"/>
+        <location filename="../src/app/settings/window.cpp" line="1716"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>미디어 플레이어의 로고 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1677"/>
+        <location filename="../src/app/settings/window.cpp" line="1725"/>
         <source>These settings do not apply to streaming services</source>
         <translation>이 설정은 스트리밍 서비스에는 적용되지 않습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1695"/>
+        <location filename="../src/app/settings/window.cpp" line="1743"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation>&quot;{listen_to_this_song}&quot; 버튼을 &quot;{play_on_player}&quot;로 표시하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1714"/>
+        <location filename="../src/app/settings/window.cpp" line="1762"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation>미디어 플레이어 로고</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1717"/>
+        <location filename="../src/app/settings/window.cpp" line="1765"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation>음악 노트</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1720"/>
+        <location filename="../src/app/settings/window.cpp" line="1768"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation>재생 상태</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1724"/>
+        <location filename="../src/app/settings/window.cpp" line="1772"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1730"/>
+        <location filename="../src/app/settings/window.cpp" line="1778"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation>{app_name} 로고</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1737"/>
+        <location filename="../src/app/settings/window.cpp" line="1785"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1743"/>
+        <location filename="../src/app/settings/window.cpp" line="1791"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation>누락된 표지 이미지에 대한 자리 표시자</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1802"/>
+        <location filename="../src/app/settings/window.cpp" line="1850"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation>모두 재설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1817"/>
+        <location filename="../src/app/settings/window.cpp" line="1865"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>플레이어 제거</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="130"/>
-        <location filename="../src/app/settings/window.cpp" line="2299"/>
+        <location filename="../src/app/settings/window.cpp" line="2347"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>미디어 플레이어에서 표지 이미지 업로드</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1364"/>
+        <location filename="../src/app/settings/window.cpp" line="1412"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
         <translation>{type} / … 듣는 중</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1371"/>
+        <location filename="../src/app/settings/window.cpp" line="1419"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
         <translation>{type} / … 시청 중</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1378"/>
+        <location filename="../src/app/settings/window.cpp" line="1426"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
         <translation>{type} / ... 하는 중</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1395"/>
+        <location filename="../src/app/settings/window.cpp" line="1443"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
         <translation>활동 유형</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2012"/>
+        <location filename="../src/app/settings/window.cpp" line="2060"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
         <translation>Presence</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2016"/>
+        <location filename="../src/app/settings/window.cpp" line="2064"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
         <translation>Presence 활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2023"/>
+        <location filename="../src/app/settings/window.cpp" line="2071"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
         <translation>기본값으로 모든 플레이어를 비활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2044"/>
+        <location filename="../src/app/settings/window.cpp" line="2092"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
         <translation>애플리케이션마다 Presence 전환</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2159"/>
+        <location filename="../src/app/settings/window.cpp" line="2207"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
         <translation>기본값으로 초기화</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2195"/>
+        <location filename="../src/app/settings/window.cpp" line="2243"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>미디어 감지</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2208"/>
+        <location filename="../src/app/settings/window.cpp" line="2256"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>변경 사항을 적용하려면 앱을 다시 시작하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2219"/>
+        <location filename="../src/app/settings/window.cpp" line="2267"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>기본 시스템 인터페이스 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2244"/>
+        <location filename="../src/app/settings/window.cpp" line="2292"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>AppleScript 자동화 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2269"/>
+        <location filename="../src/app/settings/window.cpp" line="2317"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
         <translation>AppleScript 자동화는 더 안정적일 수 있지만, Apple Music과 Spotify에서만 작동합니다. 기본 시스템 인터페이스를 사용하는 방식은 모든 미디어 플레이어에서 작동합니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2295"/>
+        <location filename="../src/app/settings/window.cpp" line="2343"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>앨범 표지</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2309"/>
+        <location filename="../src/app/settings/window.cpp" line="2357"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>이것을 너무 많이 시도하지 마세요. {amount}초 후에 다시 시도하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2332"/>
+        <location filename="../src/app/settings/window.cpp" line="2380"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>항상 로컬 표지 이미지 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2353"/>
+        <location filename="../src/app/settings/window.cpp" line="2401"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>외부 서비스</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2357"/>
+        <location filename="../src/app/settings/window.cpp" line="2405"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>TIDAL을 들을 때 TIDAL API 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2360"/>
+        <location filename="../src/app/settings/window.cpp" line="2408"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Deezer를 들을 때 Deezer API 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2363"/>
+        <location filename="../src/app/settings/window.cpp" line="2411"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Spotify를 들을 때 Spotify API 사용하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2367"/>
+        <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Apple Music을 들을 떄, Apple Music API 사용하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2379"/>
+        <location filename="../src/app/settings/window.cpp" line="2427"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Apple Music을 들을 때, iTunes API 사용하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2393"/>
+        <location filename="../src/app/settings/window.cpp" line="2441"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>이러한 서비스로 전송되는 데이터와 이 데이터가 사용되는 방법에 대한 자세한 내용은 &lt;a {attributes}&gt;개인정보 보호정책&lt;/a&gt;을 읽어주세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2404"/>
+        <location filename="../src/app/settings/window.cpp" line="2452"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
         <translation>음악 API 설정</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2415"/>
+        <location filename="../src/app/settings/window.cpp" line="2463"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
         <translation>앨범 표지 이미지 가져오기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2426"/>
+        <location filename="../src/app/settings/window.cpp" line="2474"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
         <translation>앨범 이름이 없을 때 추측하기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2439"/>
+        <location filename="../src/app/settings/window.cpp" line="2487"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
         <translation>특정 국가에서만 제공되는 일부 노래를 찾기 위해 국가 코드를 전송해야 합니다. 이는 검색 결과의 정확도를 높이는 데도 도움이 됩니다. 국가 코드는 Discord 상태에 표시되는 링크에서 자동으로 제거됩니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2498"/>
+        <location filename="../src/app/settings/window.cpp" line="2546"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>일반</translation>
