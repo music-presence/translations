@@ -1037,7 +1037,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="872"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using {app_name}. Leave notifications enabled, to never miss anything.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Les pop-ups d&apos;actualités sont uniquement affichés au démarrage de l&apos;application, mais jamais pendant que vous utilisez {app_name}. Laissez les notifications activées pour ne rien manquer.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="879"/>
