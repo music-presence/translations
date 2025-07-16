@@ -438,7 +438,7 @@
         <location filename="../src/app/app.cpp" line="5376"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation>다운로드 취소하는 중...</translation>
+        <translation>다운로드 취소 하는 중...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5384"/>
@@ -478,7 +478,7 @@
         <location filename="../src/app/app.cpp" line="5541"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>버전 {version}을 설치하려면 클릭하세요</translation>
+        <translation>버전 {version}을(를) 설치하려면 클릭하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5993"/>
@@ -507,7 +507,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2578"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation>&lt;p&gt;&lt;b&gt;{app_name}은 {player_name}을 자동화할 수 없습니다&lt;/b&gt;&lt;/p&gt;&lt;p&gt;시스템 설정을 열고 개인정보 보호&amp;nbsp;&amp;amp;&amp;nbsp;보안 &gt; 자동화 &gt; {app_name}에서 {player_name} 자동화를 허용해 주세요&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name}은(는) {player_name}을 자동화할 수 없습니다&lt;/b&gt;&lt;/p&gt;&lt;p&gt;시스템 설정을 열고 개인정보 보호&amp;nbsp;&amp;amp;&amp;nbsp;보안 &gt; 자동화 &gt; {app_name}에서 {player_name} 자동화를 허용해 주세요&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2592"/>
@@ -1142,13 +1142,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2426"/>
         <source>Guess the album name when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report an album name, but you want to guess it using a music API</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범 이름이 없을 때 추측하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2432"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>국가 코드 보내기</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1170,7 +1170,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1600"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation>노래 정보를 표시하지 마세요</translation>
+        <translation>노래 정보를 표시하지 않기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1681"/>
@@ -1188,45 +1188,45 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1520"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation>노래정보</translation>
+        <translation>노래 정보</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1424"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1428"/>
         <location filename="../src/app/settings/window.cpp" line="1463"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>플레이어 이름</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1432"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>아티스트 줄</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1436"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>제목 줄</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1440"/>
         <location filename="../src/app/settings/window.cpp" line="1467"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>미디어 타입</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1456"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>프로필 표시 텍스트</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1525"/>
@@ -1274,7 +1274,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1605"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation>일시정지된 미디어</translation>
+        <translation>일시 정지된 미디어</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1609"/>
@@ -1327,7 +1327,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1695"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation>&quot;{listen_to_this_song}&quot; 버튼을 &quot;{play_on_player}&quot;로 표시합니다</translation>
+        <translation>&quot;{listen_to_this_song}&quot; 버튼을 &quot;{play_on_player}&quot;로 표시하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1714"/>
@@ -1394,25 +1394,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1364"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / … 듣는 중</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / … 시청 중</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1378"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / ... 하는 중</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1395"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>활동 유형</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2012"/>
@@ -1424,13 +1424,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2016"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presence 활성화</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2023"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>기본값으로 모든 플레이어를 비활성화</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2044"/>
@@ -1442,7 +1442,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2159"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>기본값으로 초기화</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2195"/>
@@ -1472,7 +1472,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2269"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScript 자동화는 더 안정적일 수 있지만, Apple Music과 Spotify에서만 작동합니다. 기본 시스템 인터페이스를 사용하는 방식은 모든 미디어 플레이어에서 작동합니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
@@ -1520,13 +1520,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2367"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Music을 들을 떄, Apple Music API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2379"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Apple Music을 들을때 iTunes API 사용하기</translation>
+        <translation>Apple Music을 들을때, iTunes API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2393"/>
@@ -1537,18 +1537,18 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>음악 API 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범 커버 이미지 가져오기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>특정 국가에서만 제공되는 일부 노래를 찾기 위해 국가 코드를 전송해야 합니다. 이는 검색 결과의 정확도를 높이는 데도 도움이 됩니다. 국가 코드는 Discord 상태에 표시되는 링크에서 자동으로 제거됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2498"/>
