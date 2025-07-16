@@ -1183,8 +1183,8 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
-        <source>Get external cover images</source>
-        <comment>music API configuration setting: gets cover images from music APIs</comment>
+        <source>Get album cover images</source>
+        <comment>music API configuration setting: gets album cover images from music APIs</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

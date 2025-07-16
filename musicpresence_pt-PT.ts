@@ -1122,12 +1122,6 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2415"/>
-        <source>Get external cover images</source>
-        <comment>music API configuration setting: gets cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
@@ -1537,6 +1531,12 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2415"/>
+        <source>Get album cover images</source>
+        <comment>music API configuration setting: gets album cover images from music APIs</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
