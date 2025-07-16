@@ -553,7 +553,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2348"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation>Загрузіць абкладзiнкі з медыяплэераў</translation>
+        <translation>Загрузіць вокладкi з медыяплэераў</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="279"/>
@@ -1042,7 +1042,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1792"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Запаўняльнік для адсутных абкладзінак</translation>
+        <translation>Запаўняльнік для адсутных вокладак</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1851"/>
@@ -1132,7 +1132,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2381"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation>Заўсёды выкарыстоўваць лакальныя абкладзiнкі</translation>
+        <translation>Заўсёды выкарыстоўваць лакальныя вокладкi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2402"/>
