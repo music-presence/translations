@@ -1512,7 +1512,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2363"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation>Spotify를 들을때 Spotify API 사용하기</translation>
+        <translation>Spotify를 들을 때 Spotify API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2367"/>
@@ -1524,7 +1524,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2379"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Apple Music을 들을때, iTunes API 사용하기</translation>
+        <translation>Apple Music을 들을 때, iTunes API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2393"/>
