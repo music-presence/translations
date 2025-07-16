@@ -1532,7 +1532,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="2426"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presumi l’album quando è mancante</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
