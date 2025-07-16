@@ -1124,19 +1124,19 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar artistas adicionales</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar portadas animadas (experimental)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enviar tu código de país</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1182,13 +1182,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Las ventanas emergentes de noticias solamente se muestran al iniciar la app, y nunca mientras la usas. Ten habilitada las notificaciones, así estés al tanto sobre el desarrollo.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Mostrar texto</translation>
+        <translation>Texto mostrado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -1471,7 +1471,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2318"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>La automatización de AppleScript podría ser mas confiable, pero solo funciona con Apple Music y Spotify. Usar la interfaz de sistema nativo funciona con todos los reproductores.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2344"/>
@@ -1519,7 +1519,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar la API de Apple Music, al reproducir desde Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
@@ -1536,24 +1536,24 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de la API de música</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtener imágenes de portada</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adivinar el álbum cuando falte</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar tu código de país es requerido para encontrar ciertas canciones que estén solamente disponibles en ciertos países, y podrían mejorar los resultados de búsqueda. Tu código de país es eliminado de cualquier link antes de ser mostrado en tu estado de Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
