@@ -1188,7 +1188,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Testo mostrato</translation>
+        <translation>Testo mostrato sotto il nome utente</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -1220,7 +1220,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation>Testo mostrato nel profilo</translation>
+        <translation>Testo mostrato nel pannello del profilo utente</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1574"/>
@@ -1548,7 +1548,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Inviare il tuo codice nazionale è necessario per trovare alcuni brani che sono disponibili solo in alcune nazioni e può migliorare i risultati della ricerca. Il tuo codice nazionale è rimosso da ogni link prima che vengono mostrati nella tua attività di Discord.</translation>
+        <translation>Inviare il tuo codice nazionale è necessario per trovare alcuni brani che sono disponibili solo in alcune nazioni e può migliorare i risultati della ricerca. Il tuo codice nazionale è rimosso da ogni link prima che essi vengano mostrati nella tua attività di Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
