@@ -1454,7 +1454,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="2072"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation>Deaktiviere alle Medienspieler standardmäßig</translation>
+        <translation>Standardmäßig alle Medienspieler deaktivieren</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2093"/>
@@ -1573,7 +1573,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation>Errate das Album, wenn es fehlt</translation>
+        <translation>Versuche das Album zu erraten, wenn es fehlt</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
