@@ -582,7 +582,7 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="380"/>
-        <location filename="../src/app/settings/window.cpp" line="2664"/>
+        <location filename="../src/app/settings/window.cpp" line="2675"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation type="unfinished"></translation>
@@ -800,6 +800,36 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1688"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2409"/>
+        <source>Get additional artists</source>
+        <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2415"/>
+        <source>Get external cover images</source>
+        <comment>music API configuration setting: gets cover images from music APIs</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2420"/>
+        <source>Get animated album covers (experimental)</source>
+        <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2426"/>
+        <source>Guess the album name when it&apos;s missing</source>
+        <comment>music API configuration setting: enabling this is useful when the media player does not report an album name, but you want to guess it using a music API</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2432"/>
+        <source>Send your country code</source>
+        <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1158,42 +1188,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2409"/>
-        <source>Get additional artists</source>
-        <comment>music API configuration setting</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2412"/>
-        <source>Get external cover images</source>
-        <comment>music API configuration setting</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2415"/>
-        <source>Get animated album covers (experimental)</source>
-        <comment>music API configuration setting</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2419"/>
-        <source>Guess the album name when it&apos;s missing</source>
-        <comment>music API configuration setting</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2423"/>
-        <source>Send your country code</source>
-        <comment>music API configuration setting</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2428"/>
+        <location filename="../src/app/settings/window.cpp" line="2439"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2487"/>
+        <location filename="../src/app/settings/window.cpp" line="2498"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation type="unfinished"></translation>
