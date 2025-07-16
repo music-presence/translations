@@ -1098,7 +1098,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1410"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation>Presence</translation>
+        <translation>Présence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2458"/>
@@ -1156,7 +1156,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1569"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation>Informations sur la chanson</translation>
+        <translation>Informations sur la musique</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="875"/>
