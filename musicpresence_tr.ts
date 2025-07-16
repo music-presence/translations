@@ -1118,7 +1118,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="2269"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScript otomasyonu daha güvenilir olabilir, ancak yalnızca Apple Music ve Spotify ile çalışır. Yerel sistem arayüzünün kullanılması ise tüm medya oynatıcılarla uyumludur.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
@@ -1166,7 +1166,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="2367"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Music dinlerken Apple Music API’sini kullan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2379"/>
@@ -1183,42 +1183,42 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Müzik API yapılandırması</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ek sanatçıları al</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albüm kapak görsellerini al</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hareketli albüm kapaklarını al (deneysel)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2426"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eksik olduğunda albümü tahmin et</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2432"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ülke kodunuzu gönder</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2439"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Belirli ülkelerde yalnızca bulunan şarkıları bulmak ve arama sonuçlarını iyileştirmek için ülke kodunuzu göndermeniz gerekmektedir. Ülke kodunuz, Discord durumunuzda gösterilmeden önce tüm bağlantılardan kaldırılır.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2498"/>
