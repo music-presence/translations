@@ -802,19 +802,19 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>... dinliyor</translation>
+        <translation>… dinliyor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>... izliyor</translation>
+        <translation>… izliyor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>... Oynuyor</translation>
+        <translation>… Oynuyor</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
@@ -841,7 +841,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Haber pop-up’ları yalnızca uygulama başlatıldığında gösterilir, kullanım sırasında asla gösterilmez. En son gelişmelerden haberdar olmak için bunları açık bırakın.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
