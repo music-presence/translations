@@ -504,7 +504,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6975"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation>开源许可</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6978"/>
