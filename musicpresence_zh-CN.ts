@@ -807,7 +807,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>发送你的国家代码</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -859,14 +859,14 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示文本</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>播放器名称</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1481"/>
@@ -885,13 +885,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1516"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>媒体类型</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>个人信息上显示的字符</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1574"/>
@@ -1059,25 +1059,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / 正在听…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / 正在看…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / 正在听…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>活动类型</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2061"/>
@@ -1089,13 +1089,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2065"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>启用Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2072"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>默认禁用所有播放器</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2093"/>
@@ -1107,7 +1107,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2208"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2244"/>
@@ -1185,7 +1185,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>在听Apple Music时使用Apple Music API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
@@ -1208,7 +1208,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>获取专辑封面图</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
