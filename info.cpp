@@ -255,6 +255,13 @@ std::vector<Contributor> const& translations::contributors()
             .link_to_github = true,
             .translated_languages = {"tr"},
         },
+        {
+            .name = "ToteM",
+            .github_name = "totem-is-here",
+            .codeberg_name = "totem_is_here",
+            .link_to_github = true,
+            .translated_languages = {"fr"},
+        },
     };
     return contributors;
 }
