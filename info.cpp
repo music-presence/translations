@@ -36,6 +36,7 @@ std::vector<std::string> const& translations::languages()
         /* CMAKE */ "he",
         /* CMAKE */ "be",
         /* CMAKE */ "tr",
+        /* CMAKE */ "zh-CN",
     };
     return codes;
 }
