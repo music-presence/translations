@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1911"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>כרגע אין חדשות מהמפתח. אנא תבדוק מאוחר יותר או הפעל התראת חדשות בהגדרות כדי לקבל התראות כאשר חדשות יהיו זמינות.</translation>
+        <translation>כרגע אין חדשות מהמפתח. אנא בדוק מאוחר יותר או הפעל התראת חדשות בהגדרות כדי לקבל התראות כאשר חדשות יהיו זמינות.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2631"/>
@@ -85,7 +85,7 @@
         <location filename="../src/app/app.cpp" line="2872"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation>ממתין לדיסקורד</translation>
+        <translation>ממתין ל-Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2878"/>
@@ -157,7 +157,7 @@
         <location filename="../src/app/app.cpp" line="4885"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation>הצטרף לשרת הדיסקורד שלנו</translation>
+        <translation>הצטרף לשרת ה-Discord שלנו</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4892"/>
@@ -397,7 +397,7 @@
         <location filename="../src/app/app.cpp" line="6038"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>הרגש חופשי להצטרף לשרת הדיסקורד שלנו! תכיר משתמשים אחרים, תביא הצעות ותשאר מעודכן. לחץ כאן או בתפריט העזרה כדי להצטרף.</translation>
+        <translation>הרגש חופשי להצטרף לשרת ה-Discord שלנו! תכיר משתמשים אחרים, תביא הצעות ותשאר מעודכן. לחץ כאן או בתפריט העזרה כדי להצטרף.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6052"/>
@@ -576,7 +576,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="372"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation>דיסקורד</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="373"/>
@@ -730,7 +730,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>חלונות צצי החדשות רק יופיעו בהפעלת הישום ולעולם לא בזמן שימוש. השאר התראות פעילות למען השארותך לעדכונים על הפיתוח.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="880"/>
@@ -774,7 +774,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1359"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation>תפריד בין האמן ושם האלבום</translation>
+        <translation>הפרד בין האמן ושם האלבום</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1388"/>
@@ -808,7 +808,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>{type} / מקשיב ל …</translation>
+        <translation>{type} / מקשיב ל…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1335"/>
@@ -820,7 +820,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>{type} / צופה…</translation>
+        <translation>{type} / …צופה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
@@ -832,7 +832,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>הצג טקסט</translation>
+        <translation>טקסט לתצוגה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -864,7 +864,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished">הצגת טקסט פרופיל</translation>
+        <translation>טקסט אשר מוצג בפרופיל</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1569"/>
@@ -1055,7 +1055,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2061"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">נוכחות</translation>
+        <translation>נוכחות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2065"/>
@@ -1073,7 +1073,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2093"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">מתג נוכחות על פי ישום</translation>
+        <translation>מתג נוכחות על פי ישום</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2208"/>
@@ -1109,7 +1109,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2318"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>אוטומצית AppleScript יכולה להיות אמינה יותר, אך עובדת רק עם Apple Music ו-Spotify. שימוש בממשקי המערכת המקומיים עובדת עם כל נגני המדיה.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2344"/>
@@ -1145,7 +1145,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation>השתמש Deezer API בהקשבת Deezer</translation>
+        <translation>השתמש בDeezer API בהקשבת Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2412"/>
@@ -1157,13 +1157,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בApple Music API בהקשבת Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>השתמש iTunes API בהקשבת iTunes</translation>
+        <translation>השתמש בiTunes API בהקשבת iTunes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2442"/>
@@ -1174,42 +1174,42 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות Music API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>קבל עוד אמנים</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>קבל תמונות עטיפת אלבום</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>קבל עטיפות אלבום מונפשות (נסיוני)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>נחש את האלבום אם חסר</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>שלח את קוד מדינתך</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>נדרש לשלוח את קוד מדינתך למען מציאת שירים אשר זמינים רק במדינות מסוימות ויכול לשפר תוצאת חיפוש. קוד מדינתך נמחק מכל קישור לפני שהם מוצגים בסטטוס ה-Discord שלך.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
