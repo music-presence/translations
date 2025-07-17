@@ -1187,7 +1187,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Các thông báo tin tức chỉ hiển thị khi khởi động ứng dụng và không bao giờ hiển thị khi bạn đang sử dụng. Hãy giữ thông báo được bật, để bạn luôn được cập nhật các diễn biến mới nhất.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
