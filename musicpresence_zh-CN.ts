@@ -504,7 +504,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6975"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>软件许可</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6978"/>
@@ -771,7 +771,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1335"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>永不展示播客</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
@@ -801,7 +801,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>获取动态封面（实验性功能）</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
