@@ -882,7 +882,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation>뉴스</translation>
+        <translation>소식</translation>
     </message>
 </context>
 <context>
@@ -927,7 +927,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2724"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation>뉴스</translation>
+        <translation>소식</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="389"/>
@@ -1192,7 +1192,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>소식 팝업은 앱 시작 시에만 표시되며, 앱 사용 중에는 나타나지 않습니다. 알림을 활성화해 두면 최신 소식을 항상 빠르게 받아보실 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
@@ -1410,7 +1410,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>{type} / ... 하는 중</translation>
+        <translation>{type} / … 하는 중</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
