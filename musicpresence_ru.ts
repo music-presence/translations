@@ -1085,7 +1085,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1335"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Никогда не показывать подкасты</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
@@ -1109,19 +1109,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Получать дополнительных исоплнителей</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Получать анимированные обложки альбомов (экспериментально)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отправлять код вашей страны</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1167,45 +1167,45 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Новостные всплывающие окна видны только во время старта программы и никогда во время её использования. Оставьте уведомления включёнными, так Вы будете всегда знать о новых разработках.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать текст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Название плеера</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1481"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Строчка исполнителя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1485"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Строчка названия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1489"/>
         <location filename="../src/app/settings/window.cpp" line="1516"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тип медиа</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображаемый текст в профиле</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1574"/>
@@ -1373,55 +1373,55 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Слушает …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Смотрит …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Играет …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тип активности</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2061"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2065"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Включить статус</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2072"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выключить все плееры по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2093"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">Настроить статус для приложения</translation>
+        <translation>Переключить статус для приложения</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2208"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сброс по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2244"/>
@@ -1451,7 +1451,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2318"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Автоматизация AppleScript может быть более надёжной, но будет работать только с Apple Music и Spotify. Использование нативных системных интерфейсов работает со всеми плеерами.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2344"/>
@@ -1499,7 +1499,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Использовать Apple Music API, когда играет Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
@@ -1516,24 +1516,24 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настройки Music API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Получать изображения обложек альбомов</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Угадывать альбом, если он отсутствует</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправка кода страны нужна для поиска некоторых песен, которые доступны только в спецефических регионах, также может улучшить результаты поиска. Ваш код страны убран из любых ссылок перед тем как они будут отображены в статусе Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
