@@ -826,7 +826,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>{type} / מנגן…</translation>
+        <translation>{type} / משחק…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
