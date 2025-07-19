@@ -1175,7 +1175,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation>Nom du player</translation>
+        <translation>Nom du lecteur</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1481"/>
@@ -1206,7 +1206,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1574"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Afficher le titre de la chanson et l&apos;artiste sur une seule ligne</translation>
+        <translation>Afficher le titre de la musique et l&apos;artiste sur une seule ligne</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1590"/>
@@ -1218,7 +1218,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1608"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Inverser l&apos;ordre du titre de la chanson et de l&apos;artiste</translation>
+        <translation>Inverser l&apos;ordre du titre de la musique et de l&apos;artiste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1613"/>
@@ -1272,7 +1272,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1680"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation>Afficher le temps depuis que le média est en pause</translation>
+        <translation>Afficher la durée depuis que le média est en pause</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1694"/>
@@ -1343,13 +1343,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1792"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Espace réservé pour les images de couverture manquantes</translation>
+        <translation>Logo de remplacement pour les images de couverture manquantes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1851"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation>Annuler tout</translation>
+        <translation>Tout réinitialiser</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1866"/>
@@ -1362,7 +1362,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2348"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation>Charger les illustrations à partir des lecteurs multimédias</translation>
+        <translation>Récupérer les images de couverture à partir des lecteurs multimédias</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1413"/>
@@ -1392,7 +1392,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2061"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation>Presence</translation>
+        <translation>Présence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2065"/>
@@ -1428,13 +1428,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2257"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation>Redémarrez l&apos;application pour que les changements fassent effet</translation>
+        <translation>Redémarrez l&apos;application pour que les changements prennent effet</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2268"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation>Utiliser l&apos;interface du système</translation>
+        <translation>Utiliser l&apos;interface native du système</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2293"/>
@@ -1452,7 +1452,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2344"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation>Couvertures des albums</translation>
+        <translation>Couverture des albums</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2358"/>
@@ -1464,7 +1464,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2381"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation>Toujours utiliser la couverture locale</translation>
+        <translation>Toujours utiliser l&apos;image de couverture locale</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2402"/>
