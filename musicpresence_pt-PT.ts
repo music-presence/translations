@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="2631"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation>Permissão automática desativada</translation>
+        <translation>Permissão automática negada</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2637"/>
@@ -516,7 +516,7 @@
         <location filename="../src/app/app.cpp" line="4898"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation>Dá uma estrela no projeto no GitHub</translation>
+        <translation>Dá uma estrela ao projeto no GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4904"/>
@@ -685,7 +685,7 @@
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Atualizado para a versão {version}.&lt;/b&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;Atualizada para a versão {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Reinicia a aplicação para executar a nova versão.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -739,7 +739,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>Gostas do {app_name}?
-Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para mais info.</translation>
+Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do sistema para mais informação.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6623"/>
@@ -757,7 +757,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/app.cpp" line="6861"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Uma nova versão do {app_name} está disponível.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lê o registo de alterações abaixo para ver o que há de novo.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Uma nova versão do {app_name} está disponível.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lê o registo de alterações abaixo para ver as novidades.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6877"/>
@@ -793,7 +793,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja para 
         <location filename="../src/app/app.cpp" line="6909"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Isto apenas é mostrado quando uma nova versão é executada.</translation>
+        <translation>Isto apenas é mostrado quando uma nova versão for executada.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6920"/>
