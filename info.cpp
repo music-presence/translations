@@ -226,7 +226,7 @@ std::vector<Contributor> const& translations::contributors()
             .github_name = "SoundBlaster1998",
             .codeberg_name = "SoundBlaster1998",
             .link_to_github = true,
-            .translated_languages = {"pt-PT"},
+            .translated_languages = {"pt-PT", "pt-BR"},
         },
         {
             .name = "owl",
