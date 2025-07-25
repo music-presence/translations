@@ -463,7 +463,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4918"/>
-        <location filename="../src/app/app.cpp" line="6898"/>
+        <location filename="../src/app/app.cpp" line="7004"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>Про {app_name}</translation>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5443"/>
-        <location filename="../src/app/app.cpp" line="6761"/>
+        <location filename="../src/app/app.cpp" line="6867"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Встановити</translation>
@@ -510,7 +510,7 @@
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5488"/>
-        <location filename="../src/app/app.cpp" line="6762"/>
+        <location filename="../src/app/app.cpp" line="6868"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Встановлення...</translation>
@@ -719,72 +719,72 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>Не показувати це знову</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6754"/>
+        <location filename="../src/app/app.cpp" line="6860"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Оновлення доступно</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6755"/>
+        <location filename="../src/app/app.cpp" line="6861"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;Нова версія {app_name} доступна.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Прочитайте список оновлень нижче, щоб дізнатися, що нового.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6771"/>
+        <location filename="../src/app/app.cpp" line="6877"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Спробуйте знову</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6777"/>
+        <location filename="../src/app/app.cpp" line="6883"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Завантажити</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6788"/>
+        <location filename="../src/app/app.cpp" line="6894"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Нова версія інстальована</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6794"/>
+        <location filename="../src/app/app.cpp" line="6900"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>Що нового?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6801"/>
+        <location filename="../src/app/app.cpp" line="6907"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Добре</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6803"/>
+        <location filename="../src/app/app.cpp" line="6909"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Це показується тільки під час запуску нової версії.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6814"/>
+        <location filename="../src/app/app.cpp" line="6920"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Журнал змін</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6837"/>
+        <location filename="../src/app/app.cpp" line="6943"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Перший запуск</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6842"/>
+        <location filename="../src/app/app.cpp" line="6948"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Натисніть на значок в меню трея, щоб відкрити налаштування.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} працює у фоновому режимі та завжди може бути відкритий таким чином. Ви можете контролювати який медіа-плеєр активний та як виглядає ваш статус.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6867"/>
+        <location filename="../src/app/app.cpp" line="6973"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>Зрозуміло!</translation>
@@ -795,41 +795,41 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">Про додаток</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6969"/>
+        <location filename="../src/app/app.cpp" line="7075"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>Версія {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6975"/>
+        <location filename="../src/app/app.cpp" line="7081"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>Ліцензія</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6978"/>
+        <location filename="../src/app/app.cpp" line="7084"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>Політика Конфіденційності</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6981"/>
+        <location filename="../src/app/app.cpp" line="7087"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>Повідомити про проблему</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6984"/>
+        <location filename="../src/app/app.cpp" line="7090"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>Вам подобається {app_name}? &lt;a {attributes}&gt;Підтримайте розробника пожертвою&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6992"/>
+        <location filename="../src/app/app.cpp" line="7098"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>Бажаєте допомогти іншими способами? &lt;a {attributes}&gt;Долучайтеся!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7000"/>
+        <location filename="../src/app/app.cpp" line="7106"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>Подяка всім, хто допомів з перекладом додатку:</translation>
