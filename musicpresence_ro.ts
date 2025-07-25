@@ -1526,7 +1526,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurare API Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
