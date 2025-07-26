@@ -468,7 +468,7 @@
         <location filename="../src/app/app.cpp" line="1766"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation>Notícias do desenvolvedor</translation>
+        <translation>Novidades do desenvolvedor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1796"/>
@@ -480,7 +480,7 @@
         <location filename="../src/app/app.cpp" line="1911"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>De momento, não há notícias do desenvolvedor. Volta mais tarde ou ativa as notificações para notícias nas definições para seres notificado assim que estiverem disponíveis.</translation>
+        <translation>De momento, não há novidades do desenvolvedor. Volta mais tarde ou ativa as notificações para novidades nas definições para seres notificado assim que estiverem disponíveis.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4865"/>
@@ -547,7 +547,7 @@
         <location filename="../src/app/app.cpp" line="4989"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation>Ver as últimas notícias</translation>
+        <translation>Ver as últimas novidades</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4997"/>
@@ -793,7 +793,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/app.cpp" line="6909"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Isto apenas é mostrado quando uma nova versão for executada.</translation>
+        <translation>Isto é apresentado apenas quando uma nova versão for executada.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6920"/>
@@ -850,7 +850,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/app.cpp" line="7098"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>Queres ajudar com outra maneira? &lt;a {attributes}&gt;Involve-te!&lt;/a&gt;</translation>
+        <translation>Queres ajudar de outra maneira? &lt;a {attributes}&gt;Envolve-te!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7106"/>
@@ -877,7 +877,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation>Notícias</translation>
+        <translation>Novidades</translation>
     </message>
 </context>
 <context>
@@ -922,7 +922,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2724"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation>Notícias</translation>
+        <translation>Novidades</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="389"/>
@@ -964,7 +964,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation>Tema do ícone na área de notificações</translation>
+        <translation>Tema do ícone na bandeja do sistema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="605"/>
@@ -1045,13 +1045,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="814"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation>Notícias</translation>
+        <translation>Novidades</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="818"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>Notificar sobre notícias do desenvolvedor</translation>
+        <translation>Notificar sobre novidades do desenvolvedor</translation>
     </message>
     <message>
         <source>News pop-ups are only shown at the start of the app and never while you are using {app_name}. Leave notifications enabled, to never miss anything.</source>
@@ -1062,7 +1062,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="880"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation>Ver as últimas notícias</translation>
+        <translation>Ver as últimas novidades</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="948"/>
@@ -1094,7 +1094,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation>Apenas mostrar podcasts no teu estado</translation>
+        <translation>Mostrar apenas podcasts no teu estado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1335"/>
@@ -1106,7 +1106,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1359"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation>Dividir o nome do artista e álbum</translation>
+        <translation>Dividir o nome do artista e do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1388"/>
@@ -1152,7 +1152,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1638"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation>Mostrar o nome do álbum quando o artista está em falta</translation>
+        <translation>Mostrar o nome do álbum quando o artista estiver em falta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1649"/>
@@ -1182,7 +1182,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation>Os pop-ups das notícias apenas são apresentados ao iniciar a aplicação e não enquanto estiver em uso. Deixa as notificações ativadas para te manteres atualizado/a em recentes desenvolvimentos.</translation>
+        <translation>Os pop-ups das novidades são apresentados apenas ao iniciar a aplicação e não enquanto estiver em uso. Deixa as notificações ativadas para te manteres atualizado/a em recentes desenvolvimentos.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
@@ -1238,7 +1238,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1608"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Trocar a ordem do título da faixa e artista</translation>
+        <translation>Trocar a ordem do título da faixa e do artista</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1613"/>
@@ -1304,7 +1304,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1707"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>Mostrar um ícone enquanto a música tocar</translation>
+        <translation>Mostrar um ícone de reprodução enquanto a música tocar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1717"/>
@@ -1315,7 +1315,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/settings/window.cpp" line="1726"/>
         <source>These settings do not apply to streaming services</source>
-        <translation>Estas definições não se aplicam a serviços de streaming</translation>
+        <translation>Estas definições não se aplicam aos serviços de streaming</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1744"/>
@@ -1471,7 +1471,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2318"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>A automação AppleScript pode ser mais fiável, mas apenas funciona com a Apple Music e Spotify. Usar a interface nativa do sistema funciona com todos os reprod. de média.</translation>
+        <translation>A automação AppleScript pode ser mais fiável, mas funciona apenas com a Apple Music e Spotify. Usar a interface nativa do sistema funciona com todos os reprodutores de média.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2344"/>
@@ -1501,7 +1501,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2406"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>Usar o API TIDAL ao reproduzir do TIDAL</translation>
+        <translation>Usar o API do TIDAL enquanto ouvir no TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2409"/>
