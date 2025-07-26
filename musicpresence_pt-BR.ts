@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="1766"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation>Notícias do desenvolvedor</translation>
+        <translation>Novidades do desenvolvedor</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1796"/>
@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1911"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>De momento não há notícias do desenvolvedor. Verifique mais tarde ou ative as notificações das notícias nas configurações para ser notificado assim que estiverem disponíveis.</translation>
+        <translation>De momento não há novidades do desenvolvedor. Verifique mais tarde ou ative as notificações das novidades nas configurações para ser notificado assim que estiverem disponíveis.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2631"/>
@@ -213,7 +213,7 @@
         <location filename="../src/app/app.cpp" line="4989"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation>Ver as últimas notícias</translation>
+        <translation>Ver as últimas novidades</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4997"/>
@@ -786,7 +786,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1388"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation>Mostrar como &quot;{player_name}&quot;</translation>
+        <translation>Exibir como &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1410"/>
@@ -822,7 +822,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Texto a mostrar</translation>
+        <translation>Texto a exibir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -854,7 +854,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation>Texto a mostrar no perfil</translation>
+        <translation>Texto a exibir no perfil</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1569"/>
@@ -866,13 +866,13 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1574"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Exibir o título da música e artista numa só linha</translation>
+        <translation>Mostrar o título da música e artista numa só linha</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1590"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Exibir o título do artista e álbum numa só linha</translation>
+        <translation>Mostrar o título do artista e álbum numa só linha</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1608"/>
@@ -896,13 +896,13 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1626"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation>Exibir o nome do álbum</translation>
+        <translation>Mostrar o nome do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1638"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation>Exibir o nome do álbum quando o artista estiver faltando</translation>
+        <translation>Mostrar o nome do álbum quando o artista estiver faltando</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1643"/>
@@ -914,7 +914,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1649"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation>Não exibir qualquer informação da música</translation>
+        <translation>Não mostrar qualquer informação da música</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1654"/>
@@ -1129,83 +1129,83 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="2406"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>Usar o API do TIDAL enquanto ouvindo no TIDAL</translation>
+        <translation>Usar o API do TIDAL ao ouvir no TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar o API do Deezer ao ouvir no Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2412"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar o API do Spotify ao ouvir no Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar o API da Apple Music ao ouvir na Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usar o API do iTunes ao ouvir na Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2442"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para obter mais informações sobre que dados são transmitidos para esses serviços e como esses são usados, por favor, leia o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configuração do API de música</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obter artistas adicionais</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obter as imagens de capa do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obter capas de álbuns animadas (experimental)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adivinhar o álbum quando ele estiver faltando</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enviar o código do seu país</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar seu código do país é necessário para encontrar certas músicas que apenas estão disponibilizadas em certos países e pode melhorar os resultados de busca. Seu código do país é excluído de quaisquer links antes de serem mostrados em seu status do Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
 </context>
 </TS>
