@@ -1130,13 +1130,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation>Obter capas de álbuns animados (experimental)</translation>
+        <translation>Obter capas de álbuns animadas (experimental)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation>Enviar o teu código do país</translation>
+        <translation>Enviar o código do teu país</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1501,31 +1501,31 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2406"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>Usar o API do TIDAL enquanto ouvir no TIDAL</translation>
+        <translation>Usar o API do TIDAL ao reproduzir do TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation>Usar o API Deezer ao reproduzir do Deezer</translation>
+        <translation>Usar o API do Deezer ao reproduzir do Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2412"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation>Usar o API Spotify ao reproduzir do Spotify</translation>
+        <translation>Usar o API do Spotify ao reproduzir do Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Usar o API da Apple Music ao ouvir Apple Music</translation>
+        <translation>Usar o API da Apple Music ao reproduzir da Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Usar o API iTunes ao reproduzir da Apple Music</translation>
+        <translation>Usar o API do iTunes ao reproduzir da Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2442"/>
