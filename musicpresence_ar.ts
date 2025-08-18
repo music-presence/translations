@@ -1085,7 +1085,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1335"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>لا تعرض البودكاستات أبداً</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
@@ -1109,19 +1109,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>هات فنانين إضافيين</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>هات اغلفة البومات متحركة (تجريبي)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>ابعت كود بلدك</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1167,7 +1167,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>النشرات الاخبارية تظهر عند فتح التطبيق فقط ولا تظهر أبداً اثناء الاستخدام. سيب الإشعارات مفعلة، لتكون على اطلاع بآخر التطورات.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
@@ -1378,7 +1378,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / يستمع إلى …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1420"/>
@@ -1402,31 +1402,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2061"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished">النشاط</translation>
+        <translation>Presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2065"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2072"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل جميع المشغلات افتراضيًا</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2093"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">تحكم في النشاط لكل مُشغّل اغاني</translation>
+        <translation>توجل presence لكل ابلكيشن</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2208"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>رجعه زي الأول</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2244"/>
@@ -1456,7 +1456,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2318"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>أتمتة AppleScript يمكن أن تكون أكثر موثوقية، لكنها تعمل فقط مع Apple Music وSpotify، بينما استخدام الواجهة الأصلية للنظام يعمل مع جميع مشغلات الوسائط.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2344"/>
@@ -1504,7 +1504,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>استعمال Apple Music API عند الاستماع الي Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
@@ -1521,24 +1521,24 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>تكوين Music Api</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>الحصول على صور غلاف album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>تخمين album عندما يكون مفقودًا</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال كود بلدك مطلوب للعثور على بعض الأغاني المتوفرة في دول محددة ويمكن أن يحسن نتائج البحث. تتم إزالة كود بلدك من أي رابط قبل أن يظهر في حالة Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
