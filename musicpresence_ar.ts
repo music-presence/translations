@@ -912,7 +912,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2724"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished">أخبار</translation>
+        <translation>أخبار</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="389"/>
@@ -1173,7 +1173,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>عرض النص</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -1199,13 +1199,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1516"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>نوع الوسائط</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>نص عرض Profile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1574"/>
@@ -1384,19 +1384,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / يشاهد …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / يلعب …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>نوع النشاط</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2061"/>
