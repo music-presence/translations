@@ -13,7 +13,7 @@
         <location filename="../src/app/app.cpp" line="2637"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} ไม่สามารถทำการรายการอัตโนมัติ &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;กรุณาเปิดการตั้งค่าระบบของคุณและอนุญาตการทำงานอัตโนมัติสำหรับ &quot;{player_name}&quot; ไปที่&quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2651"/>
@@ -374,7 +374,7 @@
         <location filename="../src/app/app.cpp" line="1796"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิดทิ้ง</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1911"/>
@@ -386,13 +386,13 @@
         <location filename="../src/app/app.cpp" line="4865"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีบางอย่างผิดพลาด</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>ส่งเครื่องเล่นมีเดียที่ตรวจเจอ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4879"/>
@@ -791,7 +791,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Settings</source>
-        <translation type="unfinished">ตั้งค่า</translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="371"/>
@@ -828,13 +828,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="389"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">หน้าตา</translation>
+        <translation>หน้าตา</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="461"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">ภาษา / {language}</translation>
+        <translation>ภาษาไทย / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="475"/>
@@ -858,7 +858,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="589"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">หน้าตา</translation>
+        <translation>หน้าตา</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
@@ -971,61 +971,61 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1312"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าส่วนบุคคล</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1319"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">แสดง &quot;{podcast_activity_name}&quot; เสมอเมื่อฟังพอดแคสต์</translation>
+        <translation>แสดง &quot;{podcast_activity_name}&quot; เสมอเมื่อฟังพอดแคสต์</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1323"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished">พยายามกรองโฆษณาออกไป</translation>
+        <translation>พยายามกรองโฆษณาออกไป</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">แสดงเฉพาะพอดแคสต์ในสถานะของคุณ</translation>
+        <translation>แสดงเฉพาะพอดแคสต์ในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1335"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่แสดงรายการพอดแคสต์</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished">แยกชื่อศิลปินและชื่ออัลบั้ม</translation>
+        <translation>แยกชื่อศิลปินและชื่ออัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1388"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">แสดงเป็น &quot;{player_name}&quot;</translation>
+        <translation>แสดงเป็น &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงข้อมูลศิลปินเพิ่มเติม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงปกอัลบั้มที่เคลื่อนไหวได้ (ยังอยู่ในการทดลอง)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2481"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>ส่งรหัสประเทศของคุณ</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1071,13 +1071,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>ป๊อปอัพข่าวจะปรากฏเฉพาะตอนเริ่มต้นโปรแกรม และจะไม่แสดงขณะใช้งานโปรแกรม เปิดการแจ้งเตือนทิ้งไว้ เพื่อให้คุณทันข่าวสารล่าสุดอยู่เสมอ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Display text</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -1163,25 +1163,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1658"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงมีเดียที่หยุดชั่วคราวในสถานะของคุณ</translation>
+        <translation>แสดงมีเดียที่หยุดชั่วคราวในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1662"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงไอคอนหยุดเมื่อเพลงหยุดชั่วคราว</translation>
+        <translation>แสดงไอคอนหยุดเมื่อเพลงหยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1666"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">หยุดการเคลื่อนไหวของแถบความคืบหน้าสำหรับมีเดียที่หยุดชั่วคราว</translation>
+        <translation>หยุดการเคลื่อนไหวของแถบความคืบหน้าสำหรับมีเดียที่หยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1680"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">แสดงระยะเวลาที่มีเดียหยุดชั่วคราว</translation>
+        <translation>แสดงระยะเวลาที่มีเดียหยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1694"/>
@@ -1193,151 +1193,151 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1707"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงไอคอนเล่นเมื่อมีเพลงกำลังเล่น</translation>
+        <translation>แสดงไอคอนเล่นเมื่อมีเพลงกำลังเล่น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1717"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">แสดงโลโก้ของเครื่องเล่นมีเดีย</translation>
+        <translation>แสดงโลโก้ของเครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1726"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าเหล่านี้ไม่สามารถใช้กับบริการสตรีมมิ่งได้</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1744"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงปุ่ม &quot;{listen_to_this_song}&quot; เป็น &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1763"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">โลโก้เครื่องเล่นมีเดีย</translation>
+        <translation>โลโก้เครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1766"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
-        <translation type="unfinished">โน้ตดนตรี</translation>
+        <translation>โน้ตดนตรี</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1769"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">สถานะการเล่น</translation>
+        <translation>สถานะการเล่น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1773"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">ซีดี</translation>
+        <translation>ซีดี</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1779"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">โลโก้ {app_name}</translation>
+        <translation>โลโก้ {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1786"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>อื่นๆ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1792"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">ตัวแทนสำหรับภาพปกที่ขาดหายไป</translation>
+        <translation>ตัวแทนสำหรับภาพปกที่ขาดหายไป</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1851"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ล้างทั้งหมด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1866"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ลบเครื่องเล่นออก</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="130"/>
         <location filename="../src/app/settings/window.cpp" line="2348"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>อัปโหลดภาพปกจากเครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1410"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>สถานะ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / กำลังฟัง …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / กำลังดู …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / กำลังเล่น…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>ประเภทของสถานะกิจกรรม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2061"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished"></translation>
+        <translation>สถานะ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2065"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งานสถานะ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2072"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิดการใช้เครื่องเล่นมีเดียเป็นค่าเริ่มต้น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2093"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">เปิด/ปิด presence ในแต่ละแอปพลิเคชัน</translation>
+        <translation>เปิด/ปิด presence ในแต่ละแอปพลิเคชัน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2208"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ล้างเป็นค่าเริ่มต้น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2244"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจจับเครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2257"/>
@@ -1361,7 +1361,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2318"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>การทำงานอัตโนมัติของ AppleScript อาจสเถียรมากกว่า แต่ใช้ได้เฉพาะกับ Apple Music และ Spotify แต่การใช้อินเตอร์เฟซระบบดั้งเดิมทำงานได้กับเครื่องเล่นมีเดียทุกรูปแบบ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2344"/>
@@ -1373,7 +1373,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2358"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished">อย่าสแปมสิ่งนี้ ลองอีกครั้งใน {amount} วินาที</translation>
+        <translation>อย่าสแปมสิ่งนี้ ลองอีกครั้งใน {amount} วินาที</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2381"/>
@@ -1409,7 +1409,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2416"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ API ของ Apple Music เมื่อฟังเพลงผ่าน Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2428"/>
@@ -1426,24 +1426,24 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2453"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า Music API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงภาพปกอัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>เดาชื่ออัลบั้มเมื่อหาชื่อไม่ได้</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2488"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>การส่งรหัสประเทศของคุณเป็นสิ่งจำเป็นเพื่อค้นหาเพลงบางเพลงที่มีเฉพาะในบางประเทศ และสามารถปรับปรุงผลการค้นหาได้ รหัสประเทศของคุณจะถูกลบออกจากลิงก์ก่อนที่จะปรากฏในสถานะ Discord ของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2547"/>
