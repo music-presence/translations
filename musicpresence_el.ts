@@ -7,97 +7,97 @@
         <location filename="../src/app/app.cpp" line="1766"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Νέα από τον κατασκευαστή</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1796"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αγνόηση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1911"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχουν νέα από τον κατασκευαστή αυτή τη στιγμή. Ελέγξτε ξανά αργότερα ή ενεργοποιήστε τις ειδοποιήσεις ειδήσεων στις ρυθμίσεις για να ενημερωθείτε κατευθείαν όταν υπάρχουν νέα διαθέσιμα.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2631"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Η άδεια αυτοματισμού απορρίφθηκε</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2637"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} δεν επιτρέπεται να αυτοματοποιήσει &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ανοίξτε τις ρυθμίσεις συστήματος και ενεργοποιήστε τον αυτοματισμό για &quot;{player_name}&quot; μέσα σε &quot;Απόρρητο&amp;nbsp;&amp;amp;&amp;nbsp;Ασφάλεια&quot; &gt; &quot;Αυτοματισμός&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2651"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα ρυθμίσεων</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2766"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποιημένο</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2773"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποιημένο</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2778"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργό τώρα</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2814"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} από {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2860"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Το presence είναι απενεργοποιημένο</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2863"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πατήστε για να το ενεργοποιήσετε</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2867"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Το presence είναι ενεργοποιημένο</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2872"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναμονή για το Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2878"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναμονή για αναπαραγωγή πολυμέσων</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2882"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Το presence είναι ενεργό</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3319"/>
@@ -109,61 +109,61 @@
         <location filename="../src/app/app.cpp" line="3324"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Υποστηρίξτε την δουλειά μου με μία μικρή δωρεά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3331"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3336"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3419"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή του presence ανά εφαρμογή</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4861"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4865"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Κάτι δεν λειτουργεί</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4872"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Υποβολή ανιχνευμένων πολυμέσων</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4879"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά ενός προβλήματος στο GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4885"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετάσχετε στον Discord διακομιστή μας</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4892"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Υποστηρίξτε την δουλειά μας με μία δωρεά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4898"/>
@@ -175,51 +175,51 @@
         <location filename="../src/app/app.cpp" line="4904"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Τι είναι καθ&apos; οδόν;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4911"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πολιτική Απορρήτου</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4918"/>
         <location filename="../src/app/app.cpp" line="7004"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4964"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποιείτε την έκδοση {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4970"/>
         <location filename="../src/app/app.cpp" line="5377"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Έλεγχος για ενημερώσεις</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4982"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται έλεγχος για ενημερώσεις...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4989"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή των τελευταίων νέων</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4997"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή αρχείου καταγραφής αλλαγών (Changelog)</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5312"/>
@@ -228,33 +228,33 @@
         <location filename="../src/app/app.cpp" line="5631"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Νέα έκδοση είναι διαθέσιμη</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5317"/>
         <location filename="../src/app/app.cpp" line="5778"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πατήστε για να κατεβάσετε την έκδοση {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5435"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται ακύρωση εγκαταστάσεων...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5443"/>
         <location filename="../src/app/app.cpp" line="6867"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατάσταση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5461"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Οι αυτόματες ενημερώσεις είναι ενεργοποιημένες</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5463"/>
@@ -262,207 +262,210 @@
         <location filename="../src/app/app.cpp" line="5721"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση αυτόματων ενημερώσεων</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5488"/>
         <location filename="../src/app/app.cpp" line="6868"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται εγκατάσταση...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5521"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Οι αυτόματες ενημερώσεις είναι απενεργοποιημένες</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5600"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πατήστε για να κατεβάσετε την έκδοση {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5610"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επισκεφτείτε την ιστοσελίδα εγκατάστασης</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5621"/>
         <location filename="../src/app/app.cpp" line="5628"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται εγκατάσταση ενημέρωσης...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5657"/>
         <location filename="../src/app/app.cpp" line="5662"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχουν διαθέσιμες ενημερώσεις</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5689"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ενημερώθηκε στην έκδοση {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5692"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επανεκκινήστε την εφαρμογή</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5700"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Κάτι πήγε στραβά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5706"/>
         <location filename="../src/app/app.cpp" line="5709"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εγκαταστάθηκε νέα έκδοση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5714"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εγκαταστάθηκε</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5717"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εγκαταστάθηκε η ενημέρωση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5718"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επανεκκίνηση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5744"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Ενημερώθηκε στην έκδοση {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Επανεκκινήστε την εφαρμογή για να τρέξετε την τελευταία έκδοση.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5785"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα: Η εγκατάσταση απέτυχε</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5810"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά του σφάλματος</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5820"/>
         <location filename="../src/app/app.cpp" line="5823"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Η εγκατάσταση της ενημέρωσης απέτυχε</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5828"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5836"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Προέκυψε σφάλμα ενώ γινόταν εγκατάσταση της ενημέρωσης&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5841"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Χειροκίνητη εγκατάσταση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6038"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μην ξεχάσετε να συμμετάσχετε στον Discord διακομιστή μας! Γνωρίστε άλλους χρήστες, κάντε προτάσεις και μείνετε ενημερωμένοι. Πατήστε εδώ ή στο μενού Βοήθειας για να μπείτε.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6052"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σας αρέσει το {app_name};
+Μπορείτε να υποστηρίξετε την δουλειά μας με μία δωρεά. Πατήστε εδώ ή στο μενού δίσκου για περισσότερες πληροφορίες.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6623"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Να μην εμφανιστεί ξανά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6860"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μία ενημέρωση είναι διαθέσιμη</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6861"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Μία νέα {app_name} έκδοση είναι διαθέσιμη.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Διαβάστε το αρχείο αλλαγών παρακάτω για να δείτε τι νέο υπάρχει.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6877"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προσπαθήστε ξανά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6883"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατάσταση</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6894"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Η νέα έκδοση εγκαταστάθηκε</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6900"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Τι νέο υπάρχει;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6907"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Το κατάλαβα</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6909"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό εμφανίζεται μόνο όταν μία νέα ενημέρωση έχει ανοιχτεί.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6920"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αρχείο αλλαγών</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6943"/>
