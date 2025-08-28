@@ -13,7 +13,7 @@
         <location filename="../src/app/app.cpp" line="2637"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation>&lt;p&gt;&lt;b&gt;{app_name} ไม่สามารถทำการรายการอัตโนมัติ &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;กรุณาเปิดการตั้งค่าระบบของคุณและอนุญาตการทำงานอัตโนมัติสำหรับ &quot;{player_name}&quot; ไปที่&quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} ไม่สามารถทำการรายการอัตโนมัติ &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;กรุณาเปิดการตั้งค่าระบบของคุณและอนุญาตการทำงานอัตโนมัติสำหรับ &quot;{player_name}&quot; ไปที่&quot;ความเป็นส่วนตัวและความปลอดภัย&quot; &gt; &quot;การทำงานอัตโนมัติ&quot; &gt; &quot;{app_name}&quot;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2651"/>
@@ -864,7 +864,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation>Tray icon theme</translation>
+        <translation>ธีมไอค่อนขนาดเล็ก</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="605"/>
