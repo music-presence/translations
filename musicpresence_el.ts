@@ -103,7 +103,7 @@
         <location filename="../src/app/app.cpp" line="3319"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Δωρεά</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3324"/>
@@ -169,7 +169,7 @@
         <location filename="../src/app/app.cpp" line="4898"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Βοηθήστε τη δουλειά μας στο GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4904"/>
@@ -471,7 +471,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6943"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πρώτο άνοιγμα</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6948"/>
@@ -804,7 +804,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Βλέπει …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
