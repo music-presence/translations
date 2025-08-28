@@ -7,7 +7,7 @@
         <location filename="../src/app/app.cpp" line="2631"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation>ไม่มีสิทธิ์ในการใช้งานระบบอัตโนมัติ</translation>
+        <translation>ไม่มีสิทธิ์เข้าถึงการทำงานอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2637"/>
@@ -521,7 +521,7 @@
         <location filename="../src/app/app.cpp" line="5610"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation>เข้าเว็บดาวโหลดโปรแกรมนี้</translation>
+        <translation>เข้าเว็บดาวโหลดแอปพลิเคชันนี้</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5621"/>
@@ -547,7 +547,7 @@
         <location filename="../src/app/app.cpp" line="5692"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation>รีสตาร์ทโปรแกรม</translation>
+        <translation>รีสตาร์ทแอปพลิเคชัน</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5700"/>
@@ -586,7 +586,7 @@
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;อัปเดตเป็นเวอร์ชัน {version} แล้ว&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;โปรดรีสตาร์ทโปรแกรมพื่อใช้งานเวอร์ชันล่าสุด&lt;/p&gt;</translation>
+&lt;p&gt;โปรดรีสตาร์ทแอปพลิเคชันเพื่อใช้งานเวอร์ชันล่าสุด&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5785"/>
@@ -657,7 +657,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6861"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;โปรแกรม {app_name} เวอร์ชั่นใหม่มาแล้ว&lt;/b&gt;&lt;/p&gt;&lt;p&gt;สามารถอ่านได้ที่ บันทึกรายการ เพื่อดูว่ามีอะไรใหม่ๆเพิ่มเข้ามา&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;แอปพลิเคชัน {app_name} เวอร์ชั่นใหม่มาแล้ว&lt;/b&gt;&lt;/p&gt;&lt;p&gt;สามารถอ่านได้ที่ บันทึกรายการ เพื่อดูว่ามีอะไรใหม่ๆเพิ่มเข้ามา&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6877"/>
@@ -745,7 +745,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="7090"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>คุณชอบโปรแกรม {app_name} มั้ย? &lt;a {attributes}&gt;สนับสนุนนักพัฒนาได้ด้วยการโดเนท&lt;/a&gt;</translation>
+        <translation>คุณชอบแอปพลิเคชัน {app_name} มั้ย? &lt;a {attributes}&gt;สนับสนุนนักพัฒนาได้ด้วยการโดเนท&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7098"/>
@@ -756,7 +756,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7106"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation>ขอขอบคุณทุกคนที่ช่วยกันแปลภาษาให้กับโปรแกรมนี้:</translation>
+        <translation>ขอขอบคุณทุกคนที่ช่วยกันแปลภาษาให้กับแอปนี้:</translation>
     </message>
 </context>
 <context>
@@ -891,7 +891,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="639"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation>ธีมโปรแกรม</translation>
+        <translation>ธีมแอป</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="685"/>
@@ -951,7 +951,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="818"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>แจ้งข่าวสารจากผู้พัฒนาโปรแกรมนี้</translation>
+        <translation>แจ้งข่าวสารจากผู้พัฒนาแอปพลิเคชันนี้</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="880"/>
@@ -1071,13 +1071,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation>ป๊อปอัพข่าวจะปรากฏเฉพาะตอนเริ่มต้นโปรแกรม และจะไม่แสดงขณะใช้งานโปรแกรม เปิดการแจ้งเตือนทิ้งไว้ เพื่อให้คุณทันข่าวสารล่าสุดอยู่เสมอ</translation>
+        <translation>ป๊อปอัพข่าวจะปรากฏเฉพาะตอนเริ่มต้นแอปพลิเคชัน และจะไม่แสดงขณะใช้งานแอป เปิดการแจ้งเตือนทิ้งไว้ เพื่อให้คุณทันข่าวสารล่าสุดอยู่เสมอ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Display text</translation>
+        <translation>ข้อความที่แสดง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
@@ -1343,7 +1343,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2257"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation>กรุณารีสตาร์ทโปรแกรมเพื่อเปลี่ยนแปลงการตั้งค่า</translation>
+        <translation>กรุณารีสตาร์ทแอปพลิเคชันเพื่อเปลี่ยนแปลงการตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2268"/>
