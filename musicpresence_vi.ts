@@ -64,25 +64,25 @@
         <translation>Trạng thái đang hoạt động</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3319"/>
+        <location filename="../src/app/app.cpp" line="3336"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>Quyên góp</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3324"/>
+        <location filename="../src/app/app.cpp" line="3341"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>Ủng hộ tôi bằng một khoản quyên góp nhỏ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3331"/>
+        <location filename="../src/app/app.cpp" line="3348"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>Thoát</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3419"/>
+        <location filename="../src/app/app.cpp" line="3447"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>Chọn trạng thái trên từng ứng dụng</translation>
@@ -307,7 +307,7 @@
         <translation type="vanished">Logo của {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3336"/>
+        <location filename="../src/app/app.cpp" line="3353"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>Cài đặt</translation>
@@ -421,14 +421,14 @@
         <translation type="vanished">Tự động cài đặt bản cập nhật</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4970"/>
-        <location filename="../src/app/app.cpp" line="5377"/>
+        <location filename="../src/app/app.cpp" line="4998"/>
+        <location filename="../src/app/app.cpp" line="5405"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>Kiểm tra bản cập nhật mới</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4982"/>
+        <location filename="../src/app/app.cpp" line="5010"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>Đang kiểm tra bản cập nhật mới...</translation>
@@ -459,7 +459,7 @@
         <translation type="vanished">Khởi động {app_name} khi đăng nhập</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4861"/>
+        <location filename="../src/app/app.cpp" line="4889"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>Trợ giúp</translation>
@@ -488,205 +488,205 @@
         <translation>Hiện không có tin mới từ nhà phát triển. Vui lòng kiểm tra lại sau hoặc bật thông báo cho tin tức trong cài đặt để nhận thông báo mới nhất khi có sẵn.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4865"/>
+        <location filename="../src/app/app.cpp" line="4893"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>Có gì đó không hoạt động</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4872"/>
+        <location filename="../src/app/app.cpp" line="4900"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>Nộp danh sách các trình phát được phát hiện</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4879"/>
+        <location filename="../src/app/app.cpp" line="4907"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>Báo lỗi trên GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4885"/>
+        <location filename="../src/app/app.cpp" line="4913"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>Tham gia Discord của chúng tôi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4892"/>
+        <location filename="../src/app/app.cpp" line="4920"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>Hỗ trợ phát triển bằng cách quyên góp</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4898"/>
+        <location filename="../src/app/app.cpp" line="4926"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>Thích dự án này trên GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4904"/>
+        <location filename="../src/app/app.cpp" line="4932"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>Có gì mới sắp ra mắt?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4911"/>
+        <location filename="../src/app/app.cpp" line="4939"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>Quyền riêng tư</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4918"/>
-        <location filename="../src/app/app.cpp" line="7004"/>
+        <location filename="../src/app/app.cpp" line="4946"/>
+        <location filename="../src/app/app.cpp" line="7032"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>Thông tin ứng dụng</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4964"/>
+        <location filename="../src/app/app.cpp" line="4992"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>Bạn đang sử dụng phiên bản {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4989"/>
+        <location filename="../src/app/app.cpp" line="5017"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>Xem tin tức mới nhất</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4997"/>
+        <location filename="../src/app/app.cpp" line="5025"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>Xem nhật ký thay đổi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5312"/>
-        <location filename="../src/app/app.cpp" line="5597"/>
-        <location filename="../src/app/app.cpp" line="5623"/>
-        <location filename="../src/app/app.cpp" line="5631"/>
+        <location filename="../src/app/app.cpp" line="5340"/>
+        <location filename="../src/app/app.cpp" line="5625"/>
+        <location filename="../src/app/app.cpp" line="5651"/>
+        <location filename="../src/app/app.cpp" line="5659"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>Phiên bản mới hiện đang khả dụng</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5317"/>
-        <location filename="../src/app/app.cpp" line="5778"/>
+        <location filename="../src/app/app.cpp" line="5345"/>
+        <location filename="../src/app/app.cpp" line="5806"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>Nhấn để tải phiên bản {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5435"/>
+        <location filename="../src/app/app.cpp" line="5463"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>Đang hủy tải về....</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5443"/>
-        <location filename="../src/app/app.cpp" line="6867"/>
+        <location filename="../src/app/app.cpp" line="5471"/>
+        <location filename="../src/app/app.cpp" line="6895"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5461"/>
+        <location filename="../src/app/app.cpp" line="5489"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>Tự động cập nhật đang bật</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5463"/>
-        <location filename="../src/app/app.cpp" line="5511"/>
-        <location filename="../src/app/app.cpp" line="5721"/>
+        <location filename="../src/app/app.cpp" line="5491"/>
+        <location filename="../src/app/app.cpp" line="5539"/>
+        <location filename="../src/app/app.cpp" line="5749"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>Kích hoạt cập nhật tự động</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5488"/>
-        <location filename="../src/app/app.cpp" line="6868"/>
+        <location filename="../src/app/app.cpp" line="5516"/>
+        <location filename="../src/app/app.cpp" line="6896"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Đang cài đặt...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5521"/>
+        <location filename="../src/app/app.cpp" line="5549"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Tự động cập nhật đang tắt</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5600"/>
+        <location filename="../src/app/app.cpp" line="5628"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>Nhấn để cài đặt phiên bản {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5610"/>
+        <location filename="../src/app/app.cpp" line="5638"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>Đến trang tải về</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5621"/>
-        <location filename="../src/app/app.cpp" line="5628"/>
+        <location filename="../src/app/app.cpp" line="5649"/>
+        <location filename="../src/app/app.cpp" line="5656"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>Đang cài đặt cập nhật...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5657"/>
-        <location filename="../src/app/app.cpp" line="5662"/>
+        <location filename="../src/app/app.cpp" line="5685"/>
+        <location filename="../src/app/app.cpp" line="5690"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>Không có cập nhật mới</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5689"/>
+        <location filename="../src/app/app.cpp" line="5717"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>Đã cập nhật đến phiên bản {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5692"/>
+        <location filename="../src/app/app.cpp" line="5720"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>Khỏi động lại ứng dụng này</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5700"/>
+        <location filename="../src/app/app.cpp" line="5728"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>Có gì đó không ổn</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5706"/>
-        <location filename="../src/app/app.cpp" line="5709"/>
+        <location filename="../src/app/app.cpp" line="5734"/>
+        <location filename="../src/app/app.cpp" line="5737"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>Đã cài đặt phiên bản mới</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5714"/>
+        <location filename="../src/app/app.cpp" line="5742"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>Đã cài đặt</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5717"/>
+        <location filename="../src/app/app.cpp" line="5745"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>Đã cài đặt cập nhật</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5718"/>
+        <location filename="../src/app/app.cpp" line="5746"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>Khởi động lại</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5744"/>
+        <location filename="../src/app/app.cpp" line="5772"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -694,32 +694,32 @@
 &lt;p&gt;Khởi động lại ứng dụng để chạy phiên bản mới nhất.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5785"/>
+        <location filename="../src/app/app.cpp" line="5813"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>Lỗi: Cài đặt không thành công</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5810"/>
+        <location filename="../src/app/app.cpp" line="5838"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>Báo lỗi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5820"/>
-        <location filename="../src/app/app.cpp" line="5823"/>
+        <location filename="../src/app/app.cpp" line="5848"/>
+        <location filename="../src/app/app.cpp" line="5851"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>Quá trình cài đặt cập nhật không thành công</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5828"/>
+        <location filename="../src/app/app.cpp" line="5856"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>Có lỗi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5836"/>
+        <location filename="../src/app/app.cpp" line="5864"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -727,19 +727,19 @@
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5841"/>
+        <location filename="../src/app/app.cpp" line="5869"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>Tải về bằng cách thủ công</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6038"/>
+        <location filename="../src/app/app.cpp" line="6066"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>Tham gia vào cộng đồng Discord của chúng tôi! Gặp những người khác, đưa ra những góp ý và xem các thông báo mới. Nhấn vào đây hoặc mục Trợ giúp để tham gia.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6052"/>
+        <location filename="../src/app/app.cpp" line="6080"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -747,118 +747,118 @@ You can support the development with a donation. Click here or in the tray menu 
 Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên góp. Nhấn vào đây hoặc ở khay các mục để có thông tin chi tiết.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6623"/>
+        <location filename="../src/app/app.cpp" line="6651"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>Không bao giờ hiện cái này nữa</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6860"/>
+        <location filename="../src/app/app.cpp" line="6888"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Có cập nhật khả dụng</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6861"/>
+        <location filename="../src/app/app.cpp" line="6889"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;Một phiên bản {app_name} mới đang có sẵn.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Đọc nhật ký thay đổi bên dưới để xem có gì mới.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6877"/>
+        <location filename="../src/app/app.cpp" line="6905"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Thử lại</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6883"/>
+        <location filename="../src/app/app.cpp" line="6911"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Tải về</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6894"/>
+        <location filename="../src/app/app.cpp" line="6922"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Đã cài đặt phiên bản mới</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6900"/>
+        <location filename="../src/app/app.cpp" line="6928"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>Có những gì mới?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6907"/>
+        <location filename="../src/app/app.cpp" line="6935"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Đã hiểu</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6909"/>
+        <location filename="../src/app/app.cpp" line="6937"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Cửa sổ này chỉ xuất hiện khi một phiên bản mới được mở.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6920"/>
+        <location filename="../src/app/app.cpp" line="6948"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Nhật ký thay đổi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6943"/>
+        <location filename="../src/app/app.cpp" line="6971"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Lần khởi động đầu tiên</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6948"/>
+        <location filename="../src/app/app.cpp" line="6976"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Nhấn vào biểu tượng trong khay menu để mở các thao tác.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} chạy trong nền và luôn có thể được truy cập bằng cách này. Bạn có thể tùy chỉnh những trình phát nào được hiện trong trạng thái và cách trạng thái được biểu thị.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6973"/>
+        <location filename="../src/app/app.cpp" line="7001"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>Đã rõ!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7075"/>
+        <location filename="../src/app/app.cpp" line="7103"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>Phiên bản {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7081"/>
+        <location filename="../src/app/app.cpp" line="7109"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>Bản quyền</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7084"/>
+        <location filename="../src/app/app.cpp" line="7112"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>Quyền riêng tư</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7087"/>
+        <location filename="../src/app/app.cpp" line="7115"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>Báo lỗi</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7090"/>
+        <location filename="../src/app/app.cpp" line="7118"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>Bạn thích {app_name}? &lt;a {attributes}&gt;Hỗ trợ phát triển bằng cách quyên góp&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7098"/>
+        <location filename="../src/app/app.cpp" line="7126"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>Muốn trợ giúp bằng các cách khác? &lt;a {attributes}&gt;Tham gia ngay!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7106"/>
+        <location filename="../src/app/app.cpp" line="7134"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>Cảm ơn tất cả những ai đã giúp phiên dịch ứng dụng:</translation>
@@ -924,7 +924,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="380"/>
-        <location filename="../src/app/settings/window.cpp" line="2724"/>
+        <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>Thông báo</translation>
@@ -1121,13 +1121,13 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <translation>Trạng thái</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2458"/>
+        <location filename="../src/app/settings/window.cpp" line="2461"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
         <translation>Hiển thị nghệ sĩ phụ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2469"/>
+        <location filename="../src/app/settings/window.cpp" line="2472"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
         <translation>Sử dụng ảnh bìa động (thử nghiệm)</translation>
@@ -1138,7 +1138,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <translation type="vanished">Đoán tên album khi không có sẵn</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2481"/>
+        <location filename="../src/app/settings/window.cpp" line="2484"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
         <translation>Sử dụng mã quốc gia của bạn</translation>
@@ -1389,7 +1389,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="130"/>
-        <location filename="../src/app/settings/window.cpp" line="2348"/>
+        <location filename="../src/app/settings/window.cpp" line="2351"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>Tải lên ảnh bìa từ các trình phát</translation>
@@ -1443,125 +1443,125 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <translation>Chọn trạng thái trên từng ứng dụng</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2208"/>
+        <location filename="../src/app/settings/window.cpp" line="2211"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
         <translation>Đặt lại về mặc định</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2244"/>
+        <location filename="../src/app/settings/window.cpp" line="2247"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>Phát hiện phương tiện phát</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2257"/>
+        <location filename="../src/app/settings/window.cpp" line="2260"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
         <translation>Khởi động lại ứng dụng để các thay đổi có hiệu lực</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2268"/>
+        <location filename="../src/app/settings/window.cpp" line="2271"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>Sử dụng phương thức hệ thống mặc định</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2293"/>
+        <location filename="../src/app/settings/window.cpp" line="2296"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>Sử dụng tự động hoá AppleScript</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2318"/>
+        <location filename="../src/app/settings/window.cpp" line="2321"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
         <translation>Tự động hoá AppleScript có thể hiệu quả hơn, nhưng chỉ hoạt động với Apple Music và Spotify. Sử dụng phương thức hệ thống mặc định hỗ trợ cho tất cả phương tiện phát.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2344"/>
+        <location filename="../src/app/settings/window.cpp" line="2347"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>Ảnh bìa album</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2358"/>
+        <location filename="../src/app/settings/window.cpp" line="2361"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>Xin đừng spam. Hãy thử lại trong {amount} giây</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2381"/>
+        <location filename="../src/app/settings/window.cpp" line="2384"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>Luôn dùng ảnh bìa cục bộ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2402"/>
+        <location filename="../src/app/settings/window.cpp" line="2405"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>Các dịch vụ bên ngoài</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2406"/>
+        <location filename="../src/app/settings/window.cpp" line="2409"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>Sử dụng TIDAL API, khi nghe nhạc trên TIDAL</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2409"/>
+        <location filename="../src/app/settings/window.cpp" line="2412"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Sử dụng Deezer API, khi nghe nhạc trên Deezer</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2412"/>
+        <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Sử dụng Spotify API, khi nghe nhạc trên Spotify</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2416"/>
+        <location filename="../src/app/settings/window.cpp" line="2419"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Sử dụng Apple Music API, khi nghe nhạc trên Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2428"/>
+        <location filename="../src/app/settings/window.cpp" line="2431"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Sử dụng iTunes API, khi nghe nhạc trên Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2442"/>
+        <location filename="../src/app/settings/window.cpp" line="2445"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>Để biết thêm thông tin về dữ liệu được truyền đến các dịch vụ này và cách chúng được sử dụng, vui lòng đọc &lt;a {attributes}&gt;Thông tin về quyền riêng tư&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2453"/>
+        <location filename="../src/app/settings/window.cpp" line="2456"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
         <translation>Cấu hình API nhạc</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2464"/>
+        <location filename="../src/app/settings/window.cpp" line="2467"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
         <translation>Hiển thị ảnh bìa album</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2475"/>
+        <location filename="../src/app/settings/window.cpp" line="2478"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
         <translation>Đoán album khi bị thiếu</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2488"/>
+        <location filename="../src/app/settings/window.cpp" line="2491"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
         <translation>Gửi mã quốc gia của bạn cần thiết cho việc tìm các bài hát cụ thể chỉ có sẵn ở một số quốc gia nhất định và có thể cải thiện kết quả tìm kiếm. Mã quốc gia của bạn sẽ được xoá khỏi mọi liên kết trước khi chúng được hiển thị trên trạng thái Discord.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2547"/>
+        <location filename="../src/app/settings/window.cpp" line="2550"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>Chung</translation>
