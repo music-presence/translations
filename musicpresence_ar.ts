@@ -4,109 +4,109 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="2631"/>
+        <location filename="../src/app/app.cpp" line="2678"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation>إذن التحكم التلقائي غير ممنوح</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2637"/>
+        <location filename="../src/app/app.cpp" line="2684"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation>&lt;p&gt;&lt;b&gt; {app_name} لا يملك الإذن في التحكم التلقائي ب &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt; انتقل إلى الإعدادات &gt; الخصوصية والأمن &gt; التحكم التلقائي &gt; &quot;{app_name}&quot; و اعطي الإذن للتحكم التلقائي ب&quot;{player_name}&quot;. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2651"/>
+        <location filename="../src/app/app.cpp" line="2698"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>افتح الإعدادات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2766"/>
+        <location filename="../src/app/app.cpp" line="2818"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>غير مفّعل</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2773"/>
+        <location filename="../src/app/app.cpp" line="2825"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>مفّعل</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2778"/>
+        <location filename="../src/app/app.cpp" line="2830"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>نشّط</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2814"/>
+        <location filename="../src/app/app.cpp" line="2866"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_title} من {media_artist}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2860"/>
+        <location filename="../src/app/app.cpp" line="2912"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>النشّاط غير مُفعّل</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2863"/>
+        <location filename="../src/app/app.cpp" line="2915"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>اضغط لتفعيله</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2867"/>
+        <location filename="../src/app/app.cpp" line="2919"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>النشاط فعّال</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2872"/>
+        <location filename="../src/app/app.cpp" line="2924"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>في انتظار Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2878"/>
+        <location filename="../src/app/app.cpp" line="2930"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>في انتظار تشغيل اغنية</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="2882"/>
+        <location filename="../src/app/app.cpp" line="2934"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>يتم مشاركة نشاطك</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3336"/>
+        <location filename="../src/app/app.cpp" line="3388"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>تبرّع</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3341"/>
+        <location filename="../src/app/app.cpp" line="3393"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>ساعِد عملي بتبرّعٍ صغير</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3348"/>
+        <location filename="../src/app/app.cpp" line="3400"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>اغلاق</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3353"/>
+        <location filename="../src/app/app.cpp" line="3405"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>الإعدادات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3447"/>
+        <location filename="../src/app/app.cpp" line="3499"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>تحكم في النشاط لكل مُشغّل اغاني</translation>
@@ -426,7 +426,7 @@
         <translation type="vanished">افتح {app_name} عند تسجيل الدخول</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4889"/>
+        <location filename="../src/app/app.cpp" line="4941"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>المساعدة</translation>
@@ -437,81 +437,81 @@
         <translation type="vanished">لا يري التطبيق مُشغّل الاغاني</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1766"/>
+        <location filename="../src/app/app.cpp" line="1809"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
         <translation>أخبار من المطور</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4893"/>
+        <location filename="../src/app/app.cpp" line="4945"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>شئً ما لا يعمل؟</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4900"/>
+        <location filename="../src/app/app.cpp" line="4952"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>قدم مُشغّلات الاغاني التي تم العثور عليها</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4907"/>
+        <location filename="../src/app/app.cpp" line="4959"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>ابلغ عن مشكله في GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4913"/>
+        <location filename="../src/app/app.cpp" line="4965"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>انضم الي سيرفر Discord الخاص بنا</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4920"/>
+        <location filename="../src/app/app.cpp" line="4972"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>اِدعم تطوير هذا البرنامج بتبرع</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4926"/>
+        <location filename="../src/app/app.cpp" line="4978"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>اعطي المشروع نجمة علي GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4932"/>
+        <location filename="../src/app/app.cpp" line="4984"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>ما القادم في التحديثات المُستقبلية؟</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4939"/>
+        <location filename="../src/app/app.cpp" line="4991"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>اِشعار الخصوصية</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4946"/>
-        <location filename="../src/app/app.cpp" line="7032"/>
+        <location filename="../src/app/app.cpp" line="4998"/>
+        <location filename="../src/app/app.cpp" line="7088"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>معلومات عن{app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4992"/>
+        <location filename="../src/app/app.cpp" line="5044"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>انت تستعمل نسخة رقم {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4998"/>
-        <location filename="../src/app/app.cpp" line="5405"/>
+        <location filename="../src/app/app.cpp" line="5050"/>
+        <location filename="../src/app/app.cpp" line="5461"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>ابحث عن تحديثات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5010"/>
+        <location filename="../src/app/app.cpp" line="5062"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>جارٍ البحث عن تحديثات...</translation>
@@ -522,156 +522,156 @@
         <translation type="vanished">اطّلع علي سجل التغييرات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1796"/>
+        <location filename="../src/app/app.cpp" line="1839"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
         <translation>تجاهل</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="1911"/>
+        <location filename="../src/app/app.cpp" line="1954"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
         <translation>لا يوجد أخبار من المطور حالياً، تفقد مجدداً لاحقا أو قم بتشغيل اشعارات الأخبار في الإعدادت لتحصل علي إشعار عندما تتوفر اي أخبار.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5017"/>
+        <location filename="../src/app/app.cpp" line="5069"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>تحقق من اجدد الأخبار</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5025"/>
+        <location filename="../src/app/app.cpp" line="5077"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>اطّلع علي سجل التغييرات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5340"/>
-        <location filename="../src/app/app.cpp" line="5625"/>
-        <location filename="../src/app/app.cpp" line="5651"/>
-        <location filename="../src/app/app.cpp" line="5659"/>
+        <location filename="../src/app/app.cpp" line="5396"/>
+        <location filename="../src/app/app.cpp" line="5681"/>
+        <location filename="../src/app/app.cpp" line="5707"/>
+        <location filename="../src/app/app.cpp" line="5715"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>يوجد نسخة جديدة متوفرة</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5345"/>
-        <location filename="../src/app/app.cpp" line="5806"/>
+        <location filename="../src/app/app.cpp" line="5401"/>
+        <location filename="../src/app/app.cpp" line="5862"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>اضغط لتحميل نسخة رقم {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5463"/>
+        <location filename="../src/app/app.cpp" line="5519"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>يتم ايقاف التنزيلات...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5471"/>
-        <location filename="../src/app/app.cpp" line="6895"/>
+        <location filename="../src/app/app.cpp" line="5527"/>
+        <location filename="../src/app/app.cpp" line="6951"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>تثبيت</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5489"/>
+        <location filename="../src/app/app.cpp" line="5545"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>التحديثات التلقائيه مُفعّله</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5491"/>
-        <location filename="../src/app/app.cpp" line="5539"/>
-        <location filename="../src/app/app.cpp" line="5749"/>
+        <location filename="../src/app/app.cpp" line="5547"/>
+        <location filename="../src/app/app.cpp" line="5595"/>
+        <location filename="../src/app/app.cpp" line="5805"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>فعّل التحديثات التلقائيه</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5516"/>
-        <location filename="../src/app/app.cpp" line="6896"/>
+        <location filename="../src/app/app.cpp" line="5572"/>
+        <location filename="../src/app/app.cpp" line="6952"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>يتم التثبيت...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5549"/>
+        <location filename="../src/app/app.cpp" line="5605"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>التحديثات التلقائيه غير مُفعّله</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5628"/>
+        <location filename="../src/app/app.cpp" line="5684"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>اضغط لتنزيل نسخة رقم {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5638"/>
+        <location filename="../src/app/app.cpp" line="5694"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>زُر صفحة التحميل</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5649"/>
-        <location filename="../src/app/app.cpp" line="5656"/>
+        <location filename="../src/app/app.cpp" line="5705"/>
+        <location filename="../src/app/app.cpp" line="5712"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>يتم تثبيت التحديث...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5685"/>
-        <location filename="../src/app/app.cpp" line="5690"/>
+        <location filename="../src/app/app.cpp" line="5741"/>
+        <location filename="../src/app/app.cpp" line="5746"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>لا يوجد تحديثات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5717"/>
+        <location filename="../src/app/app.cpp" line="5773"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>تم التحديث إلي نسخة رقم {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5720"/>
+        <location filename="../src/app/app.cpp" line="5776"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>قُم بإعادة تشغيل التطبيق</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5728"/>
+        <location filename="../src/app/app.cpp" line="5784"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>لقد حصل خطأ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5734"/>
-        <location filename="../src/app/app.cpp" line="5737"/>
+        <location filename="../src/app/app.cpp" line="5790"/>
+        <location filename="../src/app/app.cpp" line="5793"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>تم تثبيت نسخة جديدة</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5742"/>
+        <location filename="../src/app/app.cpp" line="5798"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>مُثبّتة</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5745"/>
+        <location filename="../src/app/app.cpp" line="5801"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>التحديث مُثبّت</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5746"/>
+        <location filename="../src/app/app.cpp" line="5802"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>أعد تشغيل التطبيق</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5772"/>
+        <location filename="../src/app/app.cpp" line="5828"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -679,32 +679,32 @@
 &lt;p&gt;قم بإعادة تشغيل التطبيق لتستخدم احدث نسخة&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5813"/>
+        <location filename="../src/app/app.cpp" line="5869"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>حدث حطأ: تعذر التثبيت</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5838"/>
+        <location filename="../src/app/app.cpp" line="5894"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>أبلغ عن هذه المشكلة</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5848"/>
-        <location filename="../src/app/app.cpp" line="5851"/>
+        <location filename="../src/app/app.cpp" line="5904"/>
+        <location filename="../src/app/app.cpp" line="5907"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>فشل تثبيت التحديث</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5856"/>
+        <location filename="../src/app/app.cpp" line="5912"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>حدث حطأ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5864"/>
+        <location filename="../src/app/app.cpp" line="5920"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -712,19 +712,19 @@
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5869"/>
+        <location filename="../src/app/app.cpp" line="5925"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>حمّل يدوياً</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6066"/>
+        <location filename="../src/app/app.cpp" line="6122"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>قم بالإنضمام الي سيرفر الDiscord الخاص بنا! قابل مستخدمين آخرين، قم باقتراحات و تعرف على اجدد المعلومات حول التطبيق. اضغط هنا او في قائمة المساعدة للإنضمام.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6080"/>
+        <location filename="../src/app/app.cpp" line="6136"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -732,118 +732,118 @@ You can support the development with a donation. Click here or in the tray menu 
 يمكنك أن تدعم تطوير التطبيق بتبرع. اضغط هنا او في قائمة شريط المهام لمعلومات اكثر.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6651"/>
+        <location filename="../src/app/app.cpp" line="6707"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>لا تظهر هذا مجدداً</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6888"/>
+        <location filename="../src/app/app.cpp" line="6944"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>يوجد تحديث</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6889"/>
+        <location filename="../src/app/app.cpp" line="6945"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;توجد نسخة جديدة من {app_name}.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;اقرأ معلومات التحديث لتتعرف علي الجديد&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6905"/>
+        <location filename="../src/app/app.cpp" line="6961"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>حاول مجدداً</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6911"/>
+        <location filename="../src/app/app.cpp" line="6967"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>حمّل</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6922"/>
+        <location filename="../src/app/app.cpp" line="6978"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>تم تثبيت نسخة جديدة</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6928"/>
+        <location filename="../src/app/app.cpp" line="6984"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>ما الجديد؟</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6935"/>
+        <location filename="../src/app/app.cpp" line="6991"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>فهِمت</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6937"/>
+        <location filename="../src/app/app.cpp" line="6993"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>هذا يظهر فقط عندما يتم تشغيل تحديث جديد.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6948"/>
+        <location filename="../src/app/app.cpp" line="7004"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>سِجل التغييرات</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6971"/>
+        <location filename="../src/app/app.cpp" line="7027"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>اول تشغيل للتطبيق</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6976"/>
+        <location filename="../src/app/app.cpp" line="7032"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;اضغط علي الأيقونة في شريط المهام لفتح لوحة التحكم &lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} يعمل في الخلفية و تستطيع ان تتحكم في إعداداته بهذه الطريقة . يمكنك ان تتحكم في مشغلات الاغاني اللتي تظهر في نشاطك و مظهر نشاطك &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7001"/>
+        <location filename="../src/app/app.cpp" line="7057"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>فهمت!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7103"/>
+        <location filename="../src/app/app.cpp" line="7159"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>نسخة رقم {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7109"/>
+        <location filename="../src/app/app.cpp" line="7165"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>رخصة استخدام التطبيق</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7112"/>
+        <location filename="../src/app/app.cpp" line="7168"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>اشعار الخصوصية</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7115"/>
+        <location filename="../src/app/app.cpp" line="7171"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>ابلغ عن مشكلة</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7118"/>
+        <location filename="../src/app/app.cpp" line="7174"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>هل أعجبك {app_name}؟ &lt;a {attributes}&gt;ساهم في تطوير التطبيق بتبرع&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7126"/>
+        <location filename="../src/app/app.cpp" line="7182"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>هل تريد المساعدة بطرق اخري؟ &lt;a {attributes}&gt;ساهم معنا!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7134"/>
+        <location filename="../src/app/app.cpp" line="7190"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>شكراً لكل من ساعد في ترجمة التطبيق:</translation>
@@ -909,7 +909,7 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="380"/>
-        <location filename="../src/app/settings/window.cpp" line="2727"/>
+        <location filename="../src/app/settings/window.cpp" line="2718"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>أخبار</translation>
@@ -1106,19 +1106,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>النشاط</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2461"/>
+        <location filename="../src/app/settings/window.cpp" line="2312"/>
+        <source>Switch to AppleScript when an error occurs</source>
+        <comment>services setting</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2315"/>
+        <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
+        <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2452"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
         <translation>هات فنانين إضافيين</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2472"/>
+        <location filename="../src/app/settings/window.cpp" line="2463"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
         <translation>هات اغلفة البومات متحركة (تجريبي)</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2484"/>
+        <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
         <translation>ابعت كود بلدك</translation>
@@ -1369,7 +1381,7 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="130"/>
-        <location filename="../src/app/settings/window.cpp" line="2351"/>
+        <location filename="../src/app/settings/window.cpp" line="2342"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>رفع صور الألبومات من مُشغّل الاغاني</translation>
@@ -1435,113 +1447,112 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>العثور علي مشغلات الأغاني</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2260"/>
         <source>Restart the app for these changes to take effect</source>
         <comment>media detection restart hint text</comment>
-        <translation>قم بإعادة تشغيل البرنامج لتطبيق هذه التغييرات</translation>
+        <translation type="vanished">قم بإعادة تشغيل البرنامج لتطبيق هذه التغييرات</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2271"/>
+        <location filename="../src/app/settings/window.cpp" line="2255"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>استعمل واجهة النظام</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2296"/>
+        <location filename="../src/app/settings/window.cpp" line="2278"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>استعمال AppleScript للتشغيل الالي</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2321"/>
+        <location filename="../src/app/settings/window.cpp" line="2301"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
         <translation>أتمتة AppleScript يمكن أن تكون أكثر موثوقية، لكنها تعمل فقط مع Apple Music وSpotify، بينما استخدام الواجهة الأصلية للنظام يعمل مع جميع مشغلات الوسائط.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2347"/>
+        <location filename="../src/app/settings/window.cpp" line="2338"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>صور الألبومات</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2361"/>
+        <location filename="../src/app/settings/window.cpp" line="2352"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>لا تُكثر في تغيير هذا الخيار. حاول مجدداً في {amount} ثانيه</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2384"/>
+        <location filename="../src/app/settings/window.cpp" line="2375"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>اِستعمل دائما صور الألبومات المخزنة علي جهازي</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2405"/>
+        <location filename="../src/app/settings/window.cpp" line="2396"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>الخدمات الخارجية</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2409"/>
+        <location filename="../src/app/settings/window.cpp" line="2400"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>استعمال TIDAL API عند الاستماع الي TIDAL</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2412"/>
+        <location filename="../src/app/settings/window.cpp" line="2403"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>استعمال Deezer API عند الاستماع الي Deezer</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2415"/>
+        <location filename="../src/app/settings/window.cpp" line="2406"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>استعمال Spotify API عند الاستماع الي Spotify</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2419"/>
+        <location filename="../src/app/settings/window.cpp" line="2410"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>استعمال Apple Music API عند الاستماع الي Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2431"/>
+        <location filename="../src/app/settings/window.cpp" line="2422"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>استعمال iTunes API عند الاستماع الي Apple Music</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2445"/>
+        <location filename="../src/app/settings/window.cpp" line="2436"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>للمزيد من المعلومات عن البيانات التي يتم مشاركتها مع هذه الخدمات و كيف يتم استعمال هذه البيانات، من فضلك اقرأ &lt;a {attributes}&gt;اشعار الخصوصيه&quot; ‬‬‫&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2456"/>
+        <location filename="../src/app/settings/window.cpp" line="2447"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
         <translation>تكوين Music Api</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2467"/>
+        <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
         <translation>الحصول على صور غلاف album</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2478"/>
+        <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
         <translation>تخمين album عندما يكون مفقودًا</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2491"/>
+        <location filename="../src/app/settings/window.cpp" line="2482"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
         <translation>إرسال كود بلدك مطلوب للعثور على بعض الأغاني المتوفرة في دول محددة ويمكن أن يحسن نتائج البحث. تتم إزالة كود بلدك من أي رابط قبل أن يظهر في حالة Discord.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2550"/>
+        <location filename="../src/app/settings/window.cpp" line="2541"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>إعدادات عامة</translation>
