@@ -1476,13 +1476,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2312"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alterar para AppleScript quando ocorre um erro</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2315"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pode acontecer que a interface nativa do sistema deixe de funcionar com a próxima atualização do macOS. Ativa esta opção para automaticamente alterar para AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2338"/>
