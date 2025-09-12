@@ -1104,7 +1104,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="2312"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alterar para AppleScript quando ocorre um erro</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2315"/>
