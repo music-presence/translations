@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1954"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>De momento não há novidades do desenvolvedor. Verifique mais tarde ou ative as notificações das novidades nas configurações para ser notificado assim que estiverem disponíveis.</translation>
+        <translation>No momento não há novidades do desenvolvedor. Verifique mais tarde ou ative as notificações das novidades nas configurações para ser notificado assim que estiverem disponíveis.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2678"/>
@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="2684"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation>&lt;p&gt;&lt;b&gt;{app_name} não está permitida para automatizar &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Abra as configurações de seu sistema e ative a automação para &quot;{player_name}&quot; sob &quot;Privacidade&amp;nbsp;e;&amp;nbsp;Segurança&quot; &gt; &quot;Automação&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} não está permitido para automatizar &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Abra as configurações de seu sistema e ative a automação para &quot;{player_name}&quot; sob &quot;Privacidade&amp;nbsp;e;&amp;nbsp;Segurança&quot; &gt; &quot;Automação&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2698"/>
@@ -61,7 +61,7 @@
         <location filename="../src/app/app.cpp" line="2866"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation>{media_title} por {media_artist}</translation>
+        <translation>{media_title} de {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2912"/>
@@ -91,7 +91,7 @@
         <location filename="../src/app/app.cpp" line="2930"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>Esperando por reprod. de mídia</translation>
+        <translation>Aguardando reprod. de mídia</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2934"/>
@@ -145,7 +145,7 @@
         <location filename="../src/app/app.cpp" line="4952"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation>Submeter reprodutores de mídia detectados</translation>
+        <translation>Enviar reprodutores de mídia detectados</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4959"/>
@@ -163,7 +163,7 @@
         <location filename="../src/app/app.cpp" line="4972"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation>Suporte o desenvolvimento com uma doação</translation>
+        <translation>Ajude o desenvolvimento com uma doação</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4978"/>
@@ -228,7 +228,7 @@
         <location filename="../src/app/app.cpp" line="5715"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation>Versão nova disponível</translation>
+        <translation>Nova versão disponível</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5401"/>
@@ -344,7 +344,7 @@
         <location filename="../src/app/app.cpp" line="5802"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation>Reinicializar</translation>
+        <translation>Reiniciar</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5828"/>
@@ -352,7 +352,7 @@
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;Atualizado para a versão {version}.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Reinicialize o aplicativo para executar a versão mais recente.&lt;/p&gt;</translation>
+&lt;p&gt;Reinicie o aplicativo para executar a versão mais recente.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5869"/>
@@ -397,15 +397,15 @@
         <location filename="../src/app/app.cpp" line="6122"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>Junte-se ao nosso servidor do Discord! Conheça outros usuários, faça sugestões e fique a par. Clique aqui ou no menu Ajuda para se juntar.</translation>
+        <translation>Junte-se ao nosso servidor do Discord! Conheça outros usuários, faça sugestões e fique por dentro das novidades. Clique aqui ou no menu Ajuda para entrar.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6136"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation>Você gosta do {app_name}?
-Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do sistema para mais informação.</translation>
+        <translation>Está gostando do {app_name}?
+Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do sistema para mais informações.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6707"/>
@@ -423,7 +423,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/app.cpp" line="6945"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Uma versão nova do {app_name} está disponível.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Leia o log de alterações em baixo para ver as novidades.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Uma versão nova do {app_name} está disponível.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Leia o log de alterações abaixo para ver as novidades.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6961"/>
@@ -459,7 +459,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/app.cpp" line="6993"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Isso apenas é mostrado quando uma nova versão for executada.</translation>
+        <translation>Isso é apenas mostrado quando uma nova versão for executada.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7004"/>
@@ -476,7 +476,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
     <message>
         <location filename="../src/app/app.cpp" line="7032"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Clique no ícone na bandeja do sistema para abrir os controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} roda em segundo plano e pode ser sempre acessado dessa forma. Você pode controlar quais reprodutores de mídia são partilhados no seu status e como ele aparece.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Clique no ícone na bandeja do sistema para abrir os controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} roda em segundo plano e pode ser sempre acessado dessa forma. Você pode controlar quais reprodutores de mídia são compartilhados no seu status e como ele aparece.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7057"/>
@@ -511,7 +511,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
     <message>
         <location filename="../src/app/app.cpp" line="7174"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>Você está gostando do {app_name}? &lt;a {attributes}&gt;Suporte seu desenvolvimento com uma doação&lt;/a&gt;</translation>
+        <translation>Você está gostando do {app_name}? &lt;a {attributes}&gt;Apoie seu desenvolvimento com uma doação&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7182"/>
@@ -607,7 +607,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="461"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation>Language / {idioma}</translation>
+        <translation>Idioma / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="475"/>
@@ -676,7 +676,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation>Inicializar o {app_name} ao login</translation>
+        <translation>Inicializar o {app_name} no login</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="718"/>
@@ -744,7 +744,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1139"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation>Repor</translation>
+        <translation>Redefinir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1312"/>
@@ -860,7 +860,7 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1569"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation>Informação da música</translation>
+        <translation>Informação da faixa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1574"/>
@@ -1027,13 +1027,13 @@ Pode suportar seu desenvolvimento com uma doação. Clique aqui ou na bandeja do
         <location filename="../src/app/settings/window.cpp" line="1792"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Espaço reservado para imagens de álbuns em falta</translation>
+        <translation>Imagem substituta para capas de álbuns em falta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1851"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation>Repor tudo</translation>
+        <translation>Redefinir tudo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1866"/>
