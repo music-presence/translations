@@ -85,7 +85,7 @@
         <location filename="../src/app/app.cpp" line="2924"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation>Esperando pelo Discord</translation>
+        <translation>Aguardando pelo Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2930"/>
@@ -109,7 +109,7 @@
         <location filename="../src/app/app.cpp" line="3393"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation>Suporte meu trabalho com uma pequena doação</translation>
+        <translation>Apoie meu trabalho com uma pequena doação</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3400"/>
@@ -194,7 +194,7 @@
         <location filename="../src/app/app.cpp" line="5044"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation>Está usando a versão {version}</translation>
+        <translation>Você está usando a versão {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5050"/>
@@ -219,7 +219,7 @@
         <location filename="../src/app/app.cpp" line="5077"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation>Ver log de alterações</translation>
+        <translation>Ver registro de alterações</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5396"/>
@@ -1069,7 +1069,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../src/app/settings/window.cpp" line="2211"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation>Repor por padrão</translation>
+        <translation>Redefinir ao padrão</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2247"/>
@@ -1098,7 +1098,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../src/app/settings/window.cpp" line="2301"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>A automação AppleScript pode ser mais estável, mas funciona apenas com a Apple Music e Spotify. O uso da interface nativa do sistema funciona com todos os reprodutores de mídia.</translation>
+        <translation>A automação AppleScript pode ser mais estável, mas funciona apenas com o Apple Music e Spotify. O uso da interface nativa do sistema funciona com todos os reprodutores de mídia.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2312"/>
@@ -1128,7 +1128,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../src/app/settings/window.cpp" line="2375"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation>Usar sempre imagens de capa locais</translation>
+        <translation>Sempre utilizar imagens de capa locais</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2396"/>
@@ -1169,13 +1169,13 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
     <message>
         <location filename="../src/app/settings/window.cpp" line="2436"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>Para obter mais informações sobre que dados são transmitidos para esses serviços e como esses são usados, por favor, leia o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
+        <translation>Para obter mais informações sobre quais dados são transmitidos para esses serviços e como eles são utilizados, por favor, leia o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2447"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation>Configuração do API de música</translation>
+        <translation>Configuração da API de música</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2452"/>
@@ -1210,7 +1210,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
     <message>
         <location filename="../src/app/settings/window.cpp" line="2482"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Enviar seu código do país é necessário para encontrar certas músicas que apenas estão disponibilizadas em certos países e pode melhorar os resultados de busca. Seu código do país é excluído de quaisquer links antes de serem mostrados em seu status do Discord.</translation>
+        <translation>Enviar seu código do país é necessário para encontrar certas músicas que estão disponíveis apenas em certos países e pode melhorar os resultados de busca. Seu código do país é excluído de quaisquer links antes de serem mostrados em seu status do Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2541"/>
