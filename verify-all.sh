@@ -34,7 +34,7 @@ OUTPUT_DIR="verify"
 mkdir -p "$OUTPUT_DIR"
 
 for file in musicpresence_*.ts; do
-  output=$(./verify.sh "$FROM_COMMIT" "$TO_COMMIT" "$file" "$TRANSLATION_ONLY") || { echo "verify.sh failed on $file"; exit 1; }
+  output=$(/bin/bash ./verify.sh "$FROM_COMMIT" "$TO_COMMIT" "$file" "$TRANSLATION_ONLY") || { echo "verify.sh failed on $file"; exit 1; }
   output_file="$OUTPUT_DIR/$file.html"
   line_count=$(echo "$output" | wc -l)
   if [ "$line_count" -gt 1 ]; then
@@ -45,7 +45,7 @@ for file in musicpresence_*.ts; do
 #   echo
 #   echo "---"
 #   echo
-#   output=$(./verify.sh "$FROM_COMMIT" "$TO_COMMIT" "$file" "$TRANSLATION_ONLY") || { echo "verify.sh failed on $file"; exit 1; }
+#   output=$(/bin/bash ./verify.sh "$FROM_COMMIT" "$TO_COMMIT" "$file" "$TRANSLATION_ONLY") || { echo "verify.sh failed on $file"; exit 1; }
 #   echo "$output"
 #   echo
 #   echo "---"
