@@ -1119,13 +1119,13 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="2312"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comută la AppleScript atunci când apare o eroare</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2315"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se poate întâmpla ca interfața nativă a sistemului să nu mai funcționeze la următoarea actualizare macOS. Activează această opțiune pentru a comuta automat, în acel moment, la AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2452"/>
