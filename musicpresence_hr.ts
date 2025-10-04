@@ -180,7 +180,7 @@
         <location filename="../src/app/app.cpp" line="2678"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dopuštenje za automatizaciju odbijeno</translation>
     </message>
     <message>
         <source>Freeze the progress bar for paused media</source>
@@ -491,7 +491,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/app.cpp" line="1809"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vijesti od programera</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2684"/>
@@ -503,7 +503,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/app.cpp" line="2698"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otvori postavke</translation>
     </message>
     <message>
         <source>Split the artist and album name</source>
@@ -514,19 +514,19 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/app.cpp" line="1839"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odbaci</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1954"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trenutno nema novosti od programera. Pogledajte kasnije ili uključite obavijesti za novosti u postavkama da odmah primite obavijest kada stignu nove vijesti.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4945"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nešto nije u redu</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4972"/>
@@ -538,13 +538,13 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/app.cpp" line="5069"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pogledajte najnovije vijesti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5077"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Provjeri listu promjena</translation>
+        <translation>Provjeri listu promjena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5694"/>
@@ -800,19 +800,19 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>U redu</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ipak zatvori</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novosti</translation>
     </message>
 </context>
 <context>
@@ -821,7 +821,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="279"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Provjeri ima li ažuriranja</translation>
+        <translation>Provjeri ažuriranje</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
@@ -832,32 +832,32 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="371"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Glavno</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="372"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="373"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usluge</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="374"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Napredno</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="380"/>
         <location filename="../src/app/settings/window.cpp" line="2718"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novosti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="389"/>
@@ -881,13 +881,13 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="480"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jezik sustava</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="589"/>
@@ -913,7 +913,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="649"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Svjetlo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="609"/>
@@ -926,13 +926,13 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="639"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema aplikacije</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="685"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows postavke</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="694"/>
@@ -956,43 +956,43 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="740"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Obavijesti me čim je dostupna nova verzija</translation>
+        <translation>Obavijesti me čim je nova verzija dostupna</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="757"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Prikaži nove značajke pri pokretanju nove verzije</translation>
+        <translation>Prikaži nove značajke pri pokretanju nove verzije</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="783"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Provjeravam ima li ažuriranja...</translation>
+        <translation>Provjera ažuriranja…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="792"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Provjeri listu promjena</translation>
+        <translation>Provjeri listu promjena</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="814"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novosti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="818"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obavijesti me o novostima</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="880"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pogledaj najnovije vijesti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="948"/>
@@ -1000,7 +1000,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1139"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrati originalnu postavku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1312"/>
@@ -1012,7 +1012,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1319"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Uvijek prikaži &quot;{podcast_activity_name}&quot; tijekom slušanja podcasta</translation>
+        <translation>Uvijek prikaži &quot;{podcast_activity_name}&quot; tijekom slušanja podcastova</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1323"/>
@@ -1030,7 +1030,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1335"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nikad ne prikazuj podcastove</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
@@ -1042,13 +1042,13 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1388"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži kao &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2312"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prebaci na AppleScript kada dođe do pogreške</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2315"/>
