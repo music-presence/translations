@@ -826,7 +826,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation>{type} / משחק…</translation>
+        <translation>{type} / מנגן…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
@@ -1114,13 +1114,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2312"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>החלף לAppleScript כששגיאה תארע</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2315"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>עלול לקרות שממשק המערכת המקומי יפסיק לעבוד עם עדכון macOS הבא. הפעל אפשרות זאת בשביל להחליף לAppleScript באופן אוטומטי אז.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2338"/>
