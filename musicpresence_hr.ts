@@ -826,7 +826,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Settings</source>
-        <translation type="unfinished">Postavke</translation>
+        <translation>Postavke</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="371"/>
@@ -863,13 +863,13 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="389"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Izgled</translation>
+        <translation>Izgled</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="461"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Jezik / {language}</translation>
+        <translation>Jezik / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="475"/>
@@ -893,7 +893,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="589"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Izgled</translation>
+        <translation>Izgled</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
@@ -938,13 +938,13 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Automatski pokreni {app_name} prilikom prijave</translation>
+        <translation>Automatski pokreni {app_name} prilikom prijave</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="718"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Ažuriranja</translation>
+        <translation>Ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="725"/>
@@ -1054,25 +1054,25 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="2315"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Može se dogoditi da izvorno sučelje sustava prestane raditi nakon sljedećeg ažuriranja macOS-a. Uključite ovu opciju kako bi se automatski prešlo na AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2452"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dobavi dodatne izvođače</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2463"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dobavi animirane omote albuma (eksperimentalno)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pošaljite svoj kod zemlje</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1088,50 +1088,50 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1638"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži naziv albuma ako izvođač nije naveden</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1649"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nemoj prikazivati podatke o pjesmi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1730"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gumbi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1737"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished">Prikaži &quot;{branding_text}&quot; u presenceu</translation>
+        <translation>Prikaži &quot;{branding_text}&quot; u statusu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1569"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informacije o pjesmi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obavijesti o novostima se prikazuju samo pri pokretanju aplikacije i nikada dok je koristite. Ostavite obavijesti omogućene kako biste uvijek bili u toku s najnovijim informacijama.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekst prikaza</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ime glazbenog servisa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1481"/>
@@ -1150,7 +1150,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1516"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta medija</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1505"/>
@@ -1162,19 +1162,19 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="1574"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Prikaži naziv pjesme i izvođača u istom retku</translation>
+        <translation>Prikaži naziv pjesme i izvođača u istom retku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1590"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Prikaži naziv albuma i izvođača u istom retku</translation>
+        <translation>Prikaži naziv albuma i izvođača u istom retku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1608"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Promijeni redoslijed izvođača i naslova pjesme</translation>
+        <translation>Zamijeni redoslijed pjesme i izvođača</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1613"/>
