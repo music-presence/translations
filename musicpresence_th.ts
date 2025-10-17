@@ -97,7 +97,7 @@
         <location filename="../src/app/app.cpp" line="3400"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation>ปิดแอปพลิเคชั่น</translation>
+        <translation>ออก</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3499"/>
