@@ -754,7 +754,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6961"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation>디시 시도하세요</translation>
+        <translation>다시 시도하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6967"/>
@@ -1535,18 +1535,18 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2410"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Apple Music을 들을 떄, Apple Music API 사용하기</translation>
+        <translation>Apple Music을 들을 때 Apple Music API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2422"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Apple Music을 들을 때, iTunes API 사용하기</translation>
+        <translation>Apple Music을 들을 때 iTunes API 사용하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2436"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>이러한 서비스로 전송되는 데이터와 이 데이터가 사용되는 방법에 대한 자세한 내용은 &lt;a {attributes}&gt;개인정보 보호정책&lt;/a&gt;을 읽어주세요.</translation>
+        <translation>이 서비스들로 전송되는 데이터와 이 데이터가 사용되는 방법에 대한 자세한 내용은 &lt;a {attributes}&gt;개인정보 보호정책&lt;/a&gt;을 읽어주세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2447"/>
