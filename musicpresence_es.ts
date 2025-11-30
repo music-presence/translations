@@ -1124,13 +1124,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2312"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a AppleScript cuando se produzca un error</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2315"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podría ocurrir que la interfaz nativa del sistema deje de funcionar posterior a la siguiente actualización de macOS. Habilite esta opción para automáticamente cambiar a AppleScript cuando suceda.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2452"/>
@@ -1470,7 +1470,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2255"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
-        <translation>Usar interfaces del sistema nativo</translation>
+        <translation>Usar las interfaces nativas del sistema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2278"/>
@@ -1482,7 +1482,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2301"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>La automatización de AppleScript podría ser mas confiable, pero solo funciona con Apple Music y Spotify. Usar la interfaz de sistema nativo funciona con todos los reproductores.</translation>
+        <translation>La automatización de AppleScript podría ser mas confiable, pero solo funciona con Apple Music y Spotify. Usar la interfaz nativa del sistema funciona con todos los reproductores.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2338"/>
