@@ -299,7 +299,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="5077"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">查看更新日志</translation>
+        <translation>查看更新日志</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5694"/>
@@ -510,7 +510,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7168"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished">隐私声明</translation>
+        <translation>隐私声明</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7171"/>
@@ -562,12 +562,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="279"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">检查更新</translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Settings</source>
-        <translation type="unfinished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="371"/>
@@ -709,13 +709,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="783"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">正在检查更新...</translation>
+        <translation>正在检查更新...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="792"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">查看更新日志</translation>
+        <translation>查看更新日志</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="814"/>
@@ -801,7 +801,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2315"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>有可能在下次 macOS 更新后，原生系统界面会停止工作。启用此选项即可自动切换到 AppleScript。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2452"/>
@@ -865,7 +865,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>新消息弹窗仅在应用启动时显示，使用过程中绝不会显示。开启通知功能，以便随时了解最新动态。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
@@ -1148,7 +1148,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2301"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScript 自动化功能可能更可靠，但仅适用于 Apple Music 和 Spotify。使用系统原生界面则适用于所有媒体播放器。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2338"/>
@@ -1213,7 +1213,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2447"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>音乐API配置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2458"/>
@@ -1230,7 +1230,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2482"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>发送您的国家代码可以查找某些仅在特定国家提供的歌曲，并有助于改善搜索结果。您的国家代码会在链接显示在您的 Discord 状态之前从链接中移除。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2541"/>
