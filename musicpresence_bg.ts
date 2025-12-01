@@ -163,13 +163,13 @@
         <location filename="../src/app/app.cpp" line="4972"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Подкрепи развитието с дарение</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4978"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дай звезда на проекта в GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4984"/>
@@ -201,13 +201,13 @@
         <location filename="../src/app/app.cpp" line="5461"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation>Проверка за актуализации</translation>
+        <translation>Провери за актуализации</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5062"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation>Проверка за актуализации…</translation>
+        <translation>Проверява се за актуализации…</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5069"/>
@@ -235,7 +235,7 @@
         <location filename="../src/app/app.cpp" line="5862"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>Изтегли версията {version}</translation>
+        <translation>Изтегли версия {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5519"/>
@@ -307,7 +307,7 @@
         <location filename="../src/app/app.cpp" line="5773"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation>Актуализира до версия {version}</translation>
+        <translation>Актуализиран до версия {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5776"/>
@@ -371,7 +371,7 @@
         <location filename="../src/app/app.cpp" line="5907"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Инсталиране на актуализация неуспешно</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5912"/>
@@ -428,7 +428,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6961"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation>Опитай отново</translation>
+        <translation>Опитай пак</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6967"/>
@@ -470,12 +470,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7027"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Първо стартиране</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7032"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Цъкнете върху иконата в областа за известия за да отворите контролите .&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работи във фона и може да бъде отворен по този начин. Може да контролирате кои медиини плейъри споделят във вашия статус и как изглеждат .&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7057"/>
@@ -499,29 +499,29 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7168"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Политика за поверителност</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7171"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Докладвай проблем</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7174"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Харесвате ли {app_name}? &lt;a {attributes}&gt;Подкрепете разработката с дарение&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7182"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Искате да помогнете по друг начин? &lt;a {attributes}&gt;Включете се!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7190"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation type="unfinished"></translation>
+        <translation>Благодаря на всеки който помогна да се преведе приложението:</translation>
     </message>
 </context>
 <context>
@@ -536,7 +536,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Затвори все пак</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
@@ -606,13 +606,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="461"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation>Език/ {language}</translation>
+        <translation>Език / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="475"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>Помощ с превода</translation>
+        <translation>Помогни с превода</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="480"/>
@@ -687,7 +687,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="725"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Инсталирай актуализации автоматично</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="740"/>
@@ -705,7 +705,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="783"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проверява се за актуализации...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="792"/>
@@ -717,13 +717,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="814"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Новини</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="818"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Уведоми за новини от създателят</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="875"/>
@@ -735,7 +735,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="880"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вижте последните новини</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="948"/>
@@ -743,225 +743,225 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1139"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нулиране</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1312"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Индивидуални настройки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1319"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Винаги показвай &quot;{podcast_activity_name}&quot; когато слушаш подкаст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1323"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Опитай да филтрираш реклами</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1329"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показвай подкаст само във вашият статус</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1335"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не показвай подкаст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1359"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Раздели имената на изпълнител и албум</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1388"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи като&quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1410"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Активност</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1413"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Слуша …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1420"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Гледа …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Играе …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1444"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тип активност</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи текст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1477"/>
         <location filename="../src/app/settings/window.cpp" line="1512"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Име на плейър</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1481"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Линия на изпълнител</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1485"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Линия на заглавие</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1489"/>
         <location filename="../src/app/settings/window.cpp" line="1516"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тип медия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1505"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показан профилен текст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1569"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Информация за песен</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1574"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи заглавие и артист на една линия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1590"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи изпълнителят и албума на една линия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1608"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Смени редът на заглавие и изпълнител</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1613"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Префикс на името на изпълнителят с &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1620"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Префикс на името на албумът с &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1626"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи името на албума</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1638"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи името на албума като липсва изпълнителят</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1643"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи информация за възпроизвеждане</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1649"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не показвай информация за песен</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1654"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пауза на медията</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1658"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи паузирана медия в статуса</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1662"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи икона пауза когато е паузирана медията</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1666"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished"></translation>
+        <translation>Замръзни прогресивния бар за паузирана медия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1680"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи колко време е паузирана медията</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1694"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Локални плейъри</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1707"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи икона плей когато е пусната музика</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1717"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажи логото на медия плейър</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1726"/>
