@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="1954"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>Няма новини в момента от създателя. Проверете по-късно или включете известията за новини от настройките, за да получавате уведомления.</translation>
+        <translation>Няма в момента новини от създателя. Проверете по-късно или включете известията за новини от настройките, за да получавате уведомления.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2678"/>
@@ -384,13 +384,14 @@
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Възникна грешка по време на актуализацията:&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5925"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ръчно изтегляне</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6122"/>
@@ -409,43 +410,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6707"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не показвай отново</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6944"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Налична актуализация</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6945"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Налична е нова {app_name} версия.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Прочетете дневника с промени долу, за да разберете какво е ново.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6961"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Опитай отново</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6967"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изтегли</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6978"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нова версия инсталирана</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6984"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Какво е ново?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6991"/>
@@ -457,13 +458,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6993"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Това се показва само при стартиране на нова версия.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7004"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Дневник с промени</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7027"/>
@@ -480,19 +481,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7057"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разбрах!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7159"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Версия {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7165"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Лиценз</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7168"/>
@@ -529,7 +530,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
@@ -541,7 +542,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Новини</translation>
     </message>
 </context>
 <context>
@@ -551,136 +552,136 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2342"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Актуализирай обложката от медия плейър</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="279"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Провери за актуализации</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="362"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="371"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Основни</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="372"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="373"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Услуги</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="374"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разширени</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="380"/>
         <location filename="../src/app/settings/window.cpp" line="2718"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Новини</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="389"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Външен вид</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="461"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Език/ {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="475"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Помощ с превода</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="480"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Приложи</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="489"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Системен език</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="589"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Външен вид</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="596"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тема на иконите в лентата</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="605"/>
         <location filename="../src/app/settings/window.cpp" line="647"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тема на системата</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="607"/>
         <location filename="../src/app/settings/window.cpp" line="649"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Светла</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="609"/>
         <location filename="../src/app/settings/window.cpp" line="650"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тъмна</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="639"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тема на приложението</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="685"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows настройки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Стартирай {app_name} при влизане</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="718"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Актуализации</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="725"/>
@@ -692,13 +693,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="740"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Уведоми когато е налична нова версия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="757"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вижте какво е ново когато стартирате нова версия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="783"/>
@@ -710,7 +711,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="792"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Виж дневник с промени</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="814"/>
@@ -1013,13 +1014,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1779"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} лого</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1786"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разни</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1792"/>
@@ -1037,25 +1038,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1866"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Премахни плейър</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2061"/>
         <source>Presence</source>
         <comment>discord settings group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Активност</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2065"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Включи активност</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2072"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изключи всички плейъри подразбиране</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2093"/>
@@ -1073,7 +1074,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2247"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отчитане на медия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2255"/>
@@ -1109,55 +1110,55 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2338"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Обложка на албум</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2352"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не спамете. Опитайте отново след {amount} секунди</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2375"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Винаги ползвай локална обложка</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2396"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Външни услуги</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2400"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай TIDAL API, когато слушате от TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2403"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай Deezer API, когато слушате от Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2406"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай Spotify API, когато слушате от Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2410"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай Apple Music API, когато слушате от Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2422"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай iTunes API, когато слушате от Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2436"/>
@@ -1168,37 +1169,37 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2447"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Music API конфигурация</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2452"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вземи допълнителни изпълнители</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2458"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вземи обложка за албум</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2463"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вземи анимирани обложки за албум</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2469"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Познай албума когато липсва</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2475"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Прати код на държава</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2482"/>
@@ -1209,7 +1210,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2541"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Основни</translation>
     </message>
 </context>
 </TS>
