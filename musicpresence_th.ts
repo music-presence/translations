@@ -1088,31 +1088,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobble</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="550"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="553"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>แอปเล่นเพลง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="556"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดการตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="862"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>ธีมแถบไอค่อนเมนู</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="955"/>
@@ -1124,19 +1124,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="965"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงไอค่อนในแถบเมนู</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงไอค่อนในแถบงาน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="973"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation>แสดงไอค่อนแอปใน system tray</translation>
+        <translation>แสดงไอค่อนแอปในแถบระบบ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
