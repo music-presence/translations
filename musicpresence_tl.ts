@@ -7,19 +7,19 @@
         <location filename="../src/app/app.cpp" line="1875"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mga balita galing sa developer</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="1905"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Balewalain</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2020"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Walang mga balita galing sa developer sa ngayon. Maari kang bumalik sa ibang panahon o i-enable ang mga abiso sa settings para maging alerto ka sa mga balita na maaring dumating.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3100"/>
@@ -37,183 +37,183 @@
         <location filename="../src/app/app.cpp" line="3120"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>I-open ang mga setting</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3240"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>hindi aktibo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3247"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>aktibo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3252"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>aktibo na ngayon</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3288"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} ni {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3342"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Disabled ang presensya</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3345"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>I-click para ma-enable</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3349"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktibo yung presensya</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3354"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Naghihintay sa Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3360"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Naghihintay ng playback sa media</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3364"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktibo ang presensya</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3851"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mag-abuloy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3856"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>I-supporta ang aking gawa sa pamamagitan ng maliit na donasyon</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3863"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Labas</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3868"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mga setting</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3964"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>I-palipat ang presensya kada aplikasyon</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5411"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tulong</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5415"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>May hindi gumagana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5422"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isumite ang mga na-detect na media player</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5429"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mag ulat ng problema sa Github</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5435"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sali sa aming Discord server</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5442"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suportahan ang pag-unlad ng aplikasyon sa pamamagitan ng donasyon</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5448"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>I-star ang proyekto sa GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5454"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anong paparating sa susunod?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5461"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abiso sa privacy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5468"/>
         <location filename="../src/app/app.cpp" line="7602"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tungkol sa Aplikasyon</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5514"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ikaw ay gumagamit sa version {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5520"/>
         <location filename="../src/app/app.cpp" line="5964"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mag-check para sa updates</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5532"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nag-check for updates...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5539"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tignan ang pinakabagong balita</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5547"/>
