@@ -1204,89 +1204,89 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="511"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">종료</translation>
+        <translation>종료</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>스크로블링</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="550"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="553"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>플레이어</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="556"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="862"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>메뉴바 아이콘 테마</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="955"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>동작</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="965"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>메뉴바에 앱 아이콘 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>작업 표시줄에 앱 아이콘 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="973"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>알림 영역에 앱 아이콘 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Open the settings, when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>앱이 다시 실행되었을 때 설정 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1074"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>메뉴바 아이콘 우클릭으로 설정 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>알림 영역 아이콘 우클릭으로 설정 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1103"/>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>메뉴바 아이콘이 숨겨져 있을 때, 애플리케이션을 종료하려면 사이드바에서 &quot;{exit_category_name}&quot;을(를) 클릭하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>To exit the application when the tray icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>알림 영역 아이콘이 숨겨져 있을 때, 애플리케이션을 종료하려면 사이드바에서 &quot;{exit_category_name}&quot;을(를) 클릭하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1299"/>
