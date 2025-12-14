@@ -1168,83 +1168,83 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="550"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comptes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="553"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lecteurs</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="556"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="862"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thème de l&apos;icône de la barre des tâches</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="955"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intéraction</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="965"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;icône de l&apos;application dans la barre des menus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;icône de l&apos;application dans la barre des tâches</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="973"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;icône de l&apos;application dans la barre des tâches système</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Open the settings, when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les paramètres lorsque l&apos;application est relancée</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1074"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les paramètres par un clic gauche sur l&apos;icône de la barre des menus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir les paramètres par un clic gauche sur l&apos;icône de la barre des tâches</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1103"/>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour fermer l&apos;application lorsque l&apos;icône de la barre des menus est cachée, cliquer sur &quot;{exit_category_name}&quot; dans la barre latérale.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>To exit the application when the tray icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour fermer l&apos;application lorsque l&apos;icône de la barre des tâches est cachée, cliquer sur &quot;{exit_category_name}&quot; dans la barre latérale.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1299"/>
