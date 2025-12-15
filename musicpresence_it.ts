@@ -1188,13 +1188,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="550"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Account</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="553"/>
@@ -1206,37 +1206,37 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="556"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="862"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema dell&apos;icona della barra del menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="955"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interazioni</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="965"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;icona dell&apos;app nella barra del menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;icona dell&apos;app nella taskbar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="973"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;icona dell&apos;app nell&apos;area di notifica</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
@@ -1248,7 +1248,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="1074"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apri le impostazioni facendo clic sinistro sull&apos;icona nella barra menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
