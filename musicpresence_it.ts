@@ -533,7 +533,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>Ti piace {app_name}?
-Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle applicazioni ridotte ad icona per ulteriori informazioni.</translation>
+Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle applicazioni ridotte ad icona per ulteriori informazioni.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5899"/>
@@ -715,7 +715,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/app.cpp" line="6625"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>Entra a far parte del nostro server Discord per incontrare nuovi utenti, proporre idee e rimanere aggiornati! Clicca qui o nel menù di Aiuto per entrare.</translation>
+        <translation>Entra a far parte del nostro server Discord per incontrare nuovi utenti, proporre idee e rimanere aggiornati! Clicca qui o nel menu di Aiuto per entrare.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7212"/>
@@ -786,7 +786,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
     <message>
         <location filename="../src/app/app.cpp" line="7546"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Clicca sull&apos;applicazione ridotta ad icona per accedere ai comandi.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} rimane eseguito in background ed è accessibile dal menù delle applicazioni ridotte ad icona. Puoi controllare quali lettori multimediali sono condivisi nella tua attività di Discord e come quest&apos;ultima viene mostrata.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Clicca sull&apos;applicazione nell’area di notifica per accedere ai comandi.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} rimane eseguito in background ed è accessibile dal menu delle applicazioni ridotte ad icona. Puoi controllare quali lettori multimediali sono condivisi nella tua attività di Discord e come quest&apos;ultima viene mostrata.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7571"/>
@@ -1259,7 +1259,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
     <message>
         <location filename="../src/app/settings/window.cpp" line="1103"/>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation>Per chiudere l’applicazione quando l’icona nella barra dei menù è nascosta, clicca su &quot;{exit_category_name}&quot; nella barra laterale.</translation>
+        <translation>Per chiudere l’applicazione quando l’icona nella barra dei menu è nascosta, clicca su &quot;{exit_category_name}&quot; nella barra laterale.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
