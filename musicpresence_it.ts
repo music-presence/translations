@@ -1182,37 +1182,37 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="511"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Esci</translation>
+        <translation>Esci</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="523"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="550"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation>Account</translation>
+        <translation>Profili</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="553"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lettori multimediali</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="556"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation>Configurazione</translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="862"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation>Tema dell&apos;icona della barra del menu</translation>
+        <translation>Tema dell&apos;icona nella barra dei menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="955"/>
@@ -1224,47 +1224,47 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menù delle app
         <location filename="../src/app/settings/window.cpp" line="965"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Mostra l&apos;icona dell&apos;app nella barra del menu</translation>
+        <translation>Mostra l&apos;icona dell’applicazione nella barra dei menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="969"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation>Mostra l&apos;icona dell&apos;app nella taskbar</translation>
+        <translation>Mostra l&apos;icona dell’applicazione nella barra delle applicazioni</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="973"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation>Mostra l&apos;icona dell&apos;app nell&apos;area di notifica</translation>
+        <translation>Mostra l&apos;icona dell’applicazione nell&apos;area di notifica</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1044"/>
         <source>Open the settings, when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apri le impostazioni, quando l’applicazione viene riavviata</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1074"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Apri le impostazioni facendo clic sinistro sull&apos;icona nella barra menu</translation>
+        <translation>Apri le impostazioni facendo clic sinistro sull&apos;icona nella barra dei menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1079"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apri le impostazioni facendo clic sinistro sull’applicazione ridotta ad icona</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1103"/>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per chiudere l’applicazione quando l’icona nella barra dei menù è nascosta, clicca su &quot;{exit_category_name}&quot; nella barra laterale.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>To exit the application when the tray icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per chiudere l’applicazione quando l’icona nell’area di notifica è nascosta, clicca su &quot;{exit_category_name}&quot; nella barra laterale.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1299"/>
