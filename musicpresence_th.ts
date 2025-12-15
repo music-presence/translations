@@ -895,24 +895,24 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="997"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>เมื่อไอค่อนในแถบเมนูไม่ปรากฎ คลิก &quot;{exit_category_name}&quot; ในแถบด้านข้าง เพื่อออกจากแอปพลิเคชั่น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>เมื่อไอค่อนในถาดระบบไม่ปรากฎ คลิก &quot;{exit_category_name}&quot; ในแถบด้านข้าง เพื่อออกจากแอปพลิเคชั่น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1139"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดหน้าต่างการตั้งค่าเมื่อเปิดแอปอีกครั้ง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1195"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดหมวดหมู่การตั้งค่าที่ใช้งานล่าสุดเสมอ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1224"/>
@@ -1035,25 +1035,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2769"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในเครือข่าย</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2801"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">เกิดข้อผิดพลาด</translation>
+        <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2809"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>ส่งคำขอไม่สำเร็จ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิด/ปิดสถานะตามผู้ใช้ Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3441"/>
