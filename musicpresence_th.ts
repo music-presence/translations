@@ -1219,7 +1219,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2002"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพื่อแสดงข้อความที่กำหนดเอง ให้ไปที่ {discord_developer_portal_url} และคลิกที่ &quot;{new_application_button_name}&quot; จากนั้นใส่ชื่อที่ต้องการแล้วคลิก &quot;{create_button_name}&quot; ในหน้าใหม่ที่เปิดขึ้นมา ให้มองหา &quot;{application_id_section_name}&quot; แล้วคัดลอกตัวเลขที่แสดงอยู่มาวางในช่องด้านบน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2053"/>
@@ -1258,7 +1258,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2135"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเอง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2121"/>
@@ -1270,13 +1270,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2228"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไอดีแอปพลิเคชั่น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2247"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>อัตโนมัติ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2273"/>
@@ -1284,20 +1284,20 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2805"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ถูกต้อง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2278"/>
         <location filename="../src/app/settings/window.cpp" line="2793"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2292"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจสอบ...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2364"/>
