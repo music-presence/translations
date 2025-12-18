@@ -668,24 +668,24 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>בשביל לצאת מן הישום, כשסמל שורת התפריט מוסתר, לחץ על &quot;{exit_category_name}&quot; בצדדית.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>בשביל לצאת מן הישום, כשסמל המגש מוסתר, לחץ על &quot;{exit_category_name}&quot; בצדדית.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>פתח את ההגדרות כשהישום נפתח שנית</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>תמיד פתח את ההגדרות קטגוריה האחרונות המשומשות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -843,67 +843,67 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>הסקרבלה (Scrobbling)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>חשבונות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>נגנים</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>תצורה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="909"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>נושאת סמל שורת התפריט</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>אינטרקציה</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>הצג את סמל הישום בשורת התפריט</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>הצג את סמל הישום בשורת המשימות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>הצג את סמל הישום במגש המערכת</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>פתח את ההגדרות בלחיצה שמאלית על סמל שורת התפריט</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>פתח את ההגדרות בלחיצה שמאלית על סמל המגש</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1880"/>
@@ -926,7 +926,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>בשביל להציג טקסט אישי, לך אל {discord_developer_portal_url} ולחץ על &quot;{new_application_button_name}&quot;. ואז הזן את השם המתחשק ולחץ על &quot;{create_button_name}&quot;. על העמוד החדש אשר נפתח, חפש נא את &quot;{application_id_section_name}&quot;, ואז העתק את המספר שמוצג והדבקוהו על השדה מעלה.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
@@ -965,7 +965,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>אישי</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2138"/>
@@ -977,13 +977,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>מספר זהות הישום</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>אוטומטי</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2290"/>
@@ -991,20 +991,20 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>אי-מקובל</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>בודק...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2378"/>
@@ -1195,7 +1195,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2786"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה רשתית</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2818"/>
@@ -1207,7 +1207,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2826"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>הבקשה נכשלה</translation>
     </message>
     <message>
         <source>Presence</source>
@@ -1242,7 +1242,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>מתג נוכחות לפי משתמש Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3408"/>
@@ -1389,19 +1389,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3637"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>אוטומטי</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3639"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>דרוש</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>מפתחות Spotify API אישיות</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
