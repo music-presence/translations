@@ -995,12 +995,12 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation>Para sair da aplicação, quando a barra do menu está escondida, clica &quot;{exit_category_name}&quot; na barra lateral.</translation>
+        <translation>Para sair da aplicação quando a barra do menu estiver oculta, clica em &quot;{exit_category_name}&quot; na barra lateral.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation>Para sair da aplicação, quando o ícone do tabuleiro está escondido, clica &quot;{exit_category_name}&quot; na barra lateral.</translation>
+        <translation>Para sair da aplicação quando o ícone da bandeja estiver oculto, clica em &quot;{exit_category_name}&quot; na barra lateral.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
@@ -1012,7 +1012,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation>Sempre abrir a última categoria usada nas definições</translation>
+        <translation>Abrir sempre a última categoria usada nas definições</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1165,7 +1165,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Habilitar presença por utilizador do Discord</translation>
+        <translation>Alternar presença por utilizador do Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3601"/>
@@ -1319,7 +1319,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation>Para mostrar texto personalizado, vai a {discord_developer_portal_url} e clica em &quot;{new_application_button_name}&quot;. Depois coloca o teu texto desejado e clica em &quot;{create_button_name}&quot;. Na nova página que abriu, procura por &quot;{application_id_section_name}&quot;, depois copia o número que é mostrado e copia-o no campo acima.</translation>
+        <translation>Para mostrar texto personalizado, vai ao {discord_developer_portal_url} e clica em &quot;{new_application_button_name}&quot;. De seguida, coloca o texto desejado e clica em &quot;{create_button_name}&quot;. Na nova página que abriu, procura por &quot;{application_id_section_name}&quot;, depois copia o número que é mostrado e cola-o no campo acima.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
@@ -1358,7 +1358,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Costumizada</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2138"/>
@@ -1370,7 +1370,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation>ID de aplicação</translation>
+        <translation>ID da aplicação</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
@@ -1384,7 +1384,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation>Invalido</translation>
+        <translation>Inválido</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
@@ -1763,7 +1763,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>A introdução das tuas próprias credenciais pode ajudar a procurar metadados adicionais da música de forma mais fiável. Acede a &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; e clica em &quot;{create_app_text}&quot;, introduz as suas informações, e depois copia &quot;{client_id_text}&quot; e &quot;{client_secret_text}&quot; e cola-as acima.</translation>
+        <translation>A introdução das tuas próprias credenciais pode ajudar a procurar metadados adicionais da música mais fiavelmente. Vai ao &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; e clica em &quot;{create_app_text}&quot;, introduz as suas informações, depois copia o &quot;{client_id_text}&quot; e o &quot;{client_secret_text}&quot; e cola-as acima.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
@@ -1799,13 +1799,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="3905"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation>Nome de usuário</translation>
+        <translation>Nome de utilizador</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3971"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation>Palavra-Passe</translation>
+        <translation>Palavra-passe</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3995"/>
@@ -1817,13 +1817,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation>Precisas de ajuda? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</translation>
+        <translation>Precisas de ajuda? &lt;a {attributes}&gt;Lê a documentação&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation>Desabilitar verificação TLS</translation>
+        <translation>Desativar verificação TLS</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4067"/>
@@ -1835,7 +1835,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="4104"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation>Falha na conexão. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</translation>
+        <translation>Falha na conexão. &lt;a {attributes}&gt;Precisas de ajuda?&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
@@ -1858,7 +1858,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/settings/window.cpp" line="4240"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation>Agora tu podes usar o teu servidor para mostrar imagens de capa com maior qualidade e para ser independente do servidor integrado. Para mais informação lê &lt;a {attributes}&gt;documentação&lt;/a&gt;.</translation>
+        <translation>Agora podes usar o teu servidor para mostrar imagens de capa com maior qualidade e ser independente do servidor integrado. Para mais informação lê a &lt;a {attributes}&gt;documentação&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="5312"/>
