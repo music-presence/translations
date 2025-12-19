@@ -469,7 +469,7 @@
         <location filename="../src/app/app.cpp" line="6595"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>คลิ๊กเพื่อดาวโหลดเวอร์ชั่น {version}</translation>
+        <translation>คลิกเพื่อดาวโหลดเวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6252"/>
@@ -515,7 +515,7 @@
         <location filename="../src/app/app.cpp" line="6417"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>คลิ๊กเพื่อติดตั้งเวอร์ชั่น {version}</translation>
+        <translation>คลิกเพื่อติดตั้งเวอร์ชั่น {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6427"/>
@@ -870,7 +870,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="967"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation>ตั้งค่าธีม</translation>
+        <translation>ตามระบบ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="925"/>
@@ -1194,13 +1194,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>เปิดการตั้งค่าต่าง ๆ ได้โดยคลิ๊กซ้ายรูปแถบเมนูไอค่อน</translation>
+        <translation>เปิดการตั้งค่าต่าง ๆ ได้โดยคลิกซ้ายรูปแถบเมนูไอค่อน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation>เปิดการตั้งค่าต่าง ๆ ได้โดยคลิ๊กซ้ายรูปไอค่อนขนาดเล็ก</translation>
+        <translation>เปิดการตั้งค่าต่าง ๆ ได้โดยคลิกซ้ายรูปไอค่อนขนาดเล็ก</translation>
     </message>
     <message>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
@@ -1572,7 +1572,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3549"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation>External services</translation>
+        <translation>เซอร์วิสเพิ่มเติม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3552"/>
@@ -1636,119 +1636,119 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3637"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished">อัตโนมัติ</translation>
+        <translation>อัตโนมัติ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3639"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>จำเป็น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูล Spotify API ส่วนตัว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>การใส่ข้อมูลของคุณจะช่วยให้ดึงข้อมูลเพลงจากเมต้าดาต้าได้ดียิ่งขึ้น โดยให้ไปที่ &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; แล้วคลิกที่ &quot;{create_app_text}&quot; แล้วกรอกข้อมูลของคุณ จากนั้นคัดลอก &quot;{client_id_text}&quot; และ &quot;{client_secret_text}&quot; แล้วนำมาวางไว้ด้านบน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูล TIDAL API ส่วนตัว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>การใส่ข้อมูลของคุณจะช่วยให้ดึงข้อมูลเพลงจากเมต้าดาต้าได้ดียิ่งขึ้น โดยให้ไปที่ &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; แล้วคลิกที่ &quot;{create_app_text}&quot; แล้วกรอกข้อมูลของคุณ จากนั้นคัดลอก &quot;{client_id_text}&quot; และ &quot;{client_secret_text}&quot; แล้วนำมาวางไว้ด้านบน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำหนดเซิร์ฟเวอร์พร็อกซี่ปกเพลงอัลบั้ม</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3872"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation type="unfinished"></translation>
+        <translation>ลิ้งค์ Websocket</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3903"/>
         <location filename="../src/app/settings/window.cpp" line="3921"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่จำเป็น</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3905"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อผู้ใช้</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3971"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่าน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3995"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>บันทึก</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีปัญหาอะไรรึเปล่า? &lt;a {attributes}&gt;อ่านเอกสารคู่มือได้นะ&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิดการตรวจสอบผ่าน TLS</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังทดสอบการเชื่อมต่อข้อมูล...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อไม่สำเร็จ &lt;a {attributes}&gt;มีปัญหาอะไรรึเปล่า?&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation>สำเร็จ! การเชื่อมต่อข้อมูลถูกบันทึกแล้ว</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดภาพสูงสุด (พิกเซล)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>ระยะเวลาแคชขั้นต่ำ (วินาที)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4240"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณสามารถโฮสต์เซิร์ฟเวอร์ของคุณเองเพื่อแสดงปกเพลงที่มีคุณภาพสูงขึ้นและไม่ต้องพึ่งพาเซิร์ฟเวอร์ภายใน สำหรับข้อมูลเพิ่มเติม โปรดอ่าน &lt;a {attributes}&gt;เอกสารคู่มือ&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="5312"/>
