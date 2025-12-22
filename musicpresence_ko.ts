@@ -1093,7 +1093,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3359"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation>재설정</translation>
+        <translation>초기화</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1861"/>
@@ -1568,7 +1568,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2652"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation>모두 재설정</translation>
+        <translation>모두 초기화</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2667"/>
