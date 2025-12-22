@@ -103,7 +103,7 @@
         <location filename="../src/app/app.cpp" line="4192"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>เปิด/ปิด presence ในแต่ละแอปพลิเคชัน</translation>
+        <translation>เปิด/ปิด presence ในแต่ละแอปพลิเคชั่น</translation>
     </message>
     <message>
         <source>Player</source>
@@ -1572,7 +1572,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3549"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation>เซอร์วิสเพิ่มเติม</translation>
+        <translation>เซอร์วิสภายนอก</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3552"/>
