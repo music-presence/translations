@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="3408"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished">active</translation>
+        <translation>active</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3498"/>
@@ -1216,7 +1216,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobbling</translation>
+        <translation>Suivi d&apos;écoute</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
@@ -1371,7 +1371,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished">« {quoted_text} »</translation>
+        <translation>« {quoted_text} »</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
@@ -1733,29 +1733,29 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished">Crédits API personnalisés pour Spotify</translation>
+        <translation>Identifiants personnels de l&apos;API Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished">Rentrer vos propres crédits peut aider à la récupération de données additionnelles de manière plus fiable. Allez dans &lt;a {attributes} {spotify_developer_dashboard_link}&lt;/a&gt; et cliquez sur &quot;{create_app_text}&quot;, entrez vos informations, puis copier le &quot;{client_id_text}&quot; et&quot;{client_secret_text}&quot; et collez-les au-dessus.</translation>
+        <translation>Renseigner vos propres identifiants permet une récupération plus fiable des métadonnées supplémentaires des titres. Rendez-vous sur &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; et cliquez sur &quot;{create_app_text}&quot;, saisissez vos informations, puis copiez &quot;{client_id_text}&quot; et &quot;{client_secret_text}&quot; et collez-les ci-dessus.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished">Crédits API TIDAL personnalisés</translation>
+        <translation>Identifiants personnels de l&apos;API TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished">Rentrer vos propres crédits peut aider à la récupération de données additionnelles de manière plus fiable. Allez dans &lt;a {attributes} {tidal_developer_dashboard_link}&lt;/a&gt; et cliquez sur &quot;{create_app_text}&quot;, entrez vos informations, puis copier le &quot;{client_id_text}&quot; et&quot;{client_secret_text}&quot; et collez-les au-dessus.</translation>
+        <translation>Rentrer vos propres crédits peut aider à récupérer des données supplémentaires de manière plus fiable. Allez dans &lt;a {attributes}&gt; {tidal_developer_dashboard_link}&lt;/a&gt; et cliquez sur &quot;{create_app_text}&quot;, entrez vos informations, puis copiez le &quot;{client_id_text}&quot; et &quot;{client_secret_text}&quot; et collez-les au-dessus.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished">couverture personnalisée venant d&apos;un serveur proxy (?) -- NEEDS EDIT --</translation>
+        <translation>Proxy personnalisé pour les pochettes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3872"/>
@@ -1804,7 +1804,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished">Test des détails de la connexion...</translation>
+        <translation>Test des détails de la connexion...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
@@ -1816,7 +1816,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation>Détails de la connection sauvegardés avec succès !</translation>
+        <translation>Détails de la connexion sauvegardés avec succès !</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
