@@ -986,12 +986,12 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Для выхода из приложения, когда иконка меню спрятана, нажмите &quot;{exit_category_name}&quot; на сайдбаре.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для выхода из приложения, когда иконка в трее спрятана, нажмите &quot;{exit_category_name}&quot; на сайдбаре.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
