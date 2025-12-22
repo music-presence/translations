@@ -1192,10 +1192,9 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">เปิดการตั้งค่าเมื่อเปิดแอปซ้ำ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>เปิดการตั้งค่าต่าง ๆ ได้โดยคลิกซ้ายรูปแถบเมนูไอค่อน</translation>
+        <translation type="vanished">เปิดการตั้งค่าต่าง ๆ ได้โดยคลิกซ้ายรูปแถบเมนูไอค่อน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

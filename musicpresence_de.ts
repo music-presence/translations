@@ -1078,10 +1078,9 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <translation>Zeige das App-Symbol im System-Tray</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Öffne die Einstellungen mit Linksklick auf das Symbol in der Menüleiste</translation>
+        <translation type="vanished">Öffne die Einstellungen mit Linksklick auf das Symbol in der Menüleiste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

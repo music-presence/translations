@@ -1314,10 +1314,9 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">앱이 다시 실행되었을 때 설정 열기</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>메뉴바 아이콘 우클릭으로 설정 열기</translation>
+        <translation type="vanished">메뉴바 아이콘 우클릭으로 설정 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

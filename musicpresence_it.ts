@@ -1292,10 +1292,9 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <translation type="vanished">Apri le impostazioni, quando l’applicazione viene riavviata</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Apri le impostazioni facendo clic sinistro sull&apos;icona nella barra dei menu</translation>
+        <translation type="vanished">Apri le impostazioni facendo clic sinistro sull&apos;icona nella barra dei menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

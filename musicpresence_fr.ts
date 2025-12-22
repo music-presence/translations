@@ -1272,10 +1272,9 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <translation type="vanished">Ouvrir les paramètres lorsque l&apos;application est relancée</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Ouvrir les paramètres par un clic gauche sur l&apos;icône de la barre des menus</translation>
+        <translation type="vanished">Ouvrir les paramètres par un clic gauche sur l&apos;icône de la barre des menus</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

@@ -1309,10 +1309,9 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <translation type="vanished">Mở trang cài đặt, khi ứng dụng được mở lại lần nữa</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Mở trang cài đặt bằng chuột trái vào biểu tượng thanh menu</translation>
+        <translation type="vanished">Mở trang cài đặt bằng chuột trái vào biểu tượng thanh menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

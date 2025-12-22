@@ -1339,10 +1339,9 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <translation>Afișează iconița aplicației în bara de sistem</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Deschideți setările făcând clic stânga pe iconița din bara de meniu</translation>
+        <translation type="vanished">Deschideți setările făcând clic stânga pe iconița din bara de meniu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>

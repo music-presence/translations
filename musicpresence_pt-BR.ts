@@ -742,10 +742,9 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <translation type="vanished">Abrir as configurações assim que a app for lançada novamente</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Abrir as configurações ao clicar c/ o botão esq. no ícone da barra do menu</translation>
+        <translation type="vanished">Abrir as configurações ao clicar c/ o botão esq. no ícone da barra do menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
