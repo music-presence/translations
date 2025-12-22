@@ -1345,7 +1345,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3612"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation>Вземи анимирани обложки за албум</translation>
+        <translation>Вземи анимирани обложки за албум (експериментален)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3618"/>
