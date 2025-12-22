@@ -1236,7 +1236,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobble</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
