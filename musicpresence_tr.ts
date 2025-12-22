@@ -594,7 +594,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Kapat</translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="570"/>
@@ -619,19 +619,19 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hesaplar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oynatıcılar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yapılandırma</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="719"/>
@@ -699,24 +699,24 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uygulamadan menü çubuğu simgesi gizliyken çıkmak için kenar çubuğundaki “{exit_category_name}” seçeneğine tıklayın.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uygulamadan tepsi simgesi gizliyken çıkmak için kenar çubuğundaki “{exit_category_name}” seçeneğine tıklayın.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uygulama yeniden açıldığında ayarları açın</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Her zaman son kullanılan ayarları aç</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -895,7 +895,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menü çubuğu simge teması</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
@@ -1211,7 +1211,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="2818"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">Hata</translation>
+        <translation>Hata</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2826"/>
