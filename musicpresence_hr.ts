@@ -1289,7 +1289,7 @@ Možete podržati razvoj aplikacije sa donacijom. Kliknite ovdje ili u izborniku
         <location filename="../src/app/settings/window.cpp" line="2144"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation>Ime glazbenog servisa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2078"/>
