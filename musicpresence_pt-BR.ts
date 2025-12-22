@@ -600,7 +600,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobble</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="580"/>
