@@ -82,25 +82,25 @@
         <translation>Presence กำลังทำงาน</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4081"/>
+        <location filename="../src/app/app.cpp" line="4079"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>บริจาค</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4086"/>
+        <location filename="../src/app/app.cpp" line="4084"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>สนับสนุนงานของฉันด้วยการบริจาคเล็ก ๆ น้อย ๆ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4093"/>
+        <location filename="../src/app/app.cpp" line="4091"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>ออก</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4194"/>
+        <location filename="../src/app/app.cpp" line="4192"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>เปิด/ปิด presence ในแต่ละแอปพลิเคชัน</translation>
@@ -330,7 +330,7 @@
         <translation type="vanished">โลโก้ {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4098"/>
+        <location filename="../src/app/app.cpp" line="4096"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>ตั้งค่า</translation>
@@ -346,20 +346,20 @@
         <translation type="vanished">อย่าสแปมสิ่งนี้ ลองอีกครั้งใน {amount} วินาที</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5750"/>
-        <location filename="../src/app/app.cpp" line="6194"/>
+        <location filename="../src/app/app.cpp" line="5748"/>
+        <location filename="../src/app/app.cpp" line="6192"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>ตรวจสอบอัปเดต</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5762"/>
+        <location filename="../src/app/app.cpp" line="5760"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>กำลังตรวจสอบอัปเดต...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5641"/>
+        <location filename="../src/app/app.cpp" line="5639"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>ช่วยเหลือ</translation>
@@ -383,205 +383,205 @@
         <translation>ในขณะนี้ยังไม่มีข่าวสารอะไรเพิ่มจากผู้พัฒนา กรุณาตรวจสอบภายหลังหรือเปิดการแจ้งเตือนข่าวสารในการตั้งค่าเพื่อที่จะได้รับข่าวสารได้ทันไว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5645"/>
+        <location filename="../src/app/app.cpp" line="5643"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>มีบางอย่างผิดพลาด</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5652"/>
+        <location filename="../src/app/app.cpp" line="5650"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>ส่งเครื่องเล่นมีเดียที่ตรวจเจอ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5659"/>
+        <location filename="../src/app/app.cpp" line="5657"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>รายงานปัญหาไปยัง Github</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5665"/>
+        <location filename="../src/app/app.cpp" line="5663"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>เข้าเซิร์ฟเวอร์ Discord ของพวกเรา</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5672"/>
+        <location filename="../src/app/app.cpp" line="5670"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>สนับสนุนผู้พัฒนาได้ด้วยการโดเนท</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5678"/>
+        <location filename="../src/app/app.cpp" line="5676"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>กดดาวให้โปรเจคนี้บน Github</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5684"/>
+        <location filename="../src/app/app.cpp" line="5682"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>มีอะไรใหม่ที่จะมาในเร็วๆ นี้?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5691"/>
+        <location filename="../src/app/app.cpp" line="5689"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>ประกาศความเป็นส่วนตัว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5698"/>
-        <location filename="../src/app/app.cpp" line="7833"/>
+        <location filename="../src/app/app.cpp" line="5696"/>
+        <location filename="../src/app/app.cpp" line="7831"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>เกี่ยวกับ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5744"/>
+        <location filename="../src/app/app.cpp" line="5742"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>คุณกำลังใช้เวอร์ชั่น {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5769"/>
+        <location filename="../src/app/app.cpp" line="5767"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>ดูข่าวสารล่าสุด</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5777"/>
+        <location filename="../src/app/app.cpp" line="5775"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>ดูบันทึกรายการ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6129"/>
-        <location filename="../src/app/app.cpp" line="6414"/>
-        <location filename="../src/app/app.cpp" line="6440"/>
-        <location filename="../src/app/app.cpp" line="6448"/>
+        <location filename="../src/app/app.cpp" line="6127"/>
+        <location filename="../src/app/app.cpp" line="6412"/>
+        <location filename="../src/app/app.cpp" line="6438"/>
+        <location filename="../src/app/app.cpp" line="6446"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>มีเวอร์ชั่นใหม่พร้อมอัปเดต</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6134"/>
-        <location filename="../src/app/app.cpp" line="6595"/>
+        <location filename="../src/app/app.cpp" line="6132"/>
+        <location filename="../src/app/app.cpp" line="6593"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>คลิกเพื่อดาวโหลดเวอร์ชั่น {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6252"/>
+        <location filename="../src/app/app.cpp" line="6250"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>กำลังยกเลิกการอัปเดต...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6260"/>
-        <location filename="../src/app/app.cpp" line="7696"/>
+        <location filename="../src/app/app.cpp" line="6258"/>
+        <location filename="../src/app/app.cpp" line="7694"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>ติดตั้ง</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6278"/>
+        <location filename="../src/app/app.cpp" line="6276"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>เปิดใช้งานการอัปเดตอัตโนมัติแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6280"/>
-        <location filename="../src/app/app.cpp" line="6328"/>
-        <location filename="../src/app/app.cpp" line="6538"/>
+        <location filename="../src/app/app.cpp" line="6278"/>
+        <location filename="../src/app/app.cpp" line="6326"/>
+        <location filename="../src/app/app.cpp" line="6536"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>เปิดใช้งานอัปเดตอัตโนมัติ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6305"/>
-        <location filename="../src/app/app.cpp" line="7697"/>
+        <location filename="../src/app/app.cpp" line="6303"/>
+        <location filename="../src/app/app.cpp" line="7695"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>กำลังติดตั้ง...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6338"/>
+        <location filename="../src/app/app.cpp" line="6336"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>ปิดใช้งานการอัปเดตอัตโนมัติแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6417"/>
+        <location filename="../src/app/app.cpp" line="6415"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>คลิกเพื่อติดตั้งเวอร์ชั่น {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6427"/>
+        <location filename="../src/app/app.cpp" line="6425"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>เข้าเว็บดาวโหลดแอปพลิเคชันนี้</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6438"/>
-        <location filename="../src/app/app.cpp" line="6445"/>
+        <location filename="../src/app/app.cpp" line="6436"/>
+        <location filename="../src/app/app.cpp" line="6443"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>กำลังติดตั้งอัปเดต...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6474"/>
-        <location filename="../src/app/app.cpp" line="6479"/>
+        <location filename="../src/app/app.cpp" line="6472"/>
+        <location filename="../src/app/app.cpp" line="6477"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>เวอร์ชั่นนี้เป็นล่าสุดแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6506"/>
+        <location filename="../src/app/app.cpp" line="6504"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>อัปเดตไปเป็นเวอร์ชั่น {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6509"/>
+        <location filename="../src/app/app.cpp" line="6507"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>รีสตาร์ทแอปพลิเคชัน</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6517"/>
+        <location filename="../src/app/app.cpp" line="6515"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>มีบางอย่างผิดพลาด</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6523"/>
-        <location filename="../src/app/app.cpp" line="6526"/>
+        <location filename="../src/app/app.cpp" line="6521"/>
+        <location filename="../src/app/app.cpp" line="6524"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>มีเวอร์ชั่นใหม่ให้ติดตั้ง</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6531"/>
+        <location filename="../src/app/app.cpp" line="6529"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>ติดตั้งแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6534"/>
+        <location filename="../src/app/app.cpp" line="6532"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>ติดตั้งอัปเดตเรียบร้อยแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6535"/>
+        <location filename="../src/app/app.cpp" line="6533"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>รีสตาร์ท</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6561"/>
+        <location filename="../src/app/app.cpp" line="6559"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -589,32 +589,32 @@
 &lt;p&gt;โปรดรีสตาร์ทแอปพลิเคชันเพื่อใช้งานเวอร์ชันล่าสุด&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6602"/>
+        <location filename="../src/app/app.cpp" line="6600"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>เกิดข้อผิดพลาด: ติดตั้งไม่สำเร็จ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6627"/>
+        <location filename="../src/app/app.cpp" line="6625"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>รายงานปัญหานี้</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6637"/>
-        <location filename="../src/app/app.cpp" line="6640"/>
+        <location filename="../src/app/app.cpp" line="6635"/>
+        <location filename="../src/app/app.cpp" line="6638"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>ติดตั้งอัปเดตไม่สำเร็จ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6645"/>
+        <location filename="../src/app/app.cpp" line="6643"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6653"/>
+        <location filename="../src/app/app.cpp" line="6651"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -622,19 +622,19 @@
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6658"/>
+        <location filename="../src/app/app.cpp" line="6656"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>ดาวโหลดด้วยตนเอง</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6855"/>
+        <location filename="../src/app/app.cpp" line="6853"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>สามารถเข้าร่วมดิสคอร์ดเซิร์ฟเวอร์ของพวกเราได้! สามารถพูดคุยกับคนอื่น หรือจะเสนอไอเดียต่างๆ และติดตามข่าวสารล่าสุด คลิกที่นี่ หรือเข้าเมนู “ช่วยเหลือ” เพื่อเข้าเซิร์ฟ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6870"/>
+        <location filename="../src/app/app.cpp" line="6868"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -642,118 +642,118 @@ You can support the development with a donation. Click here or in the tray menu 
 คุณสามารถสนับสนุนผู้พัฒนาด้วยการโดเนท คลิกที่นี่ หรือในที่ tray menu เพื่อดูข้อมูลเพิ่มเติม</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7443"/>
+        <location filename="../src/app/app.cpp" line="7441"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>อย่าแสดงให้ฉันดูอีก</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7689"/>
+        <location filename="../src/app/app.cpp" line="7687"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>มีอัปเดตใหม่</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7690"/>
+        <location filename="../src/app/app.cpp" line="7688"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;แอปพลิเคชัน {app_name} เวอร์ชั่นใหม่มาแล้ว&lt;/b&gt;&lt;/p&gt;&lt;p&gt;สามารถอ่านได้ที่ บันทึกรายการ เพื่อดูว่ามีอะไรใหม่ๆเพิ่มเข้ามา&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7706"/>
+        <location filename="../src/app/app.cpp" line="7704"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>ลองใหม่อีกครั้ง</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7712"/>
+        <location filename="../src/app/app.cpp" line="7710"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>ดาวโหลด</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7723"/>
+        <location filename="../src/app/app.cpp" line="7721"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>ติดตั้งเวอร์ชันใหม่เรียบร้อยแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7729"/>
+        <location filename="../src/app/app.cpp" line="7727"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>มีอะไรใหม่?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7736"/>
+        <location filename="../src/app/app.cpp" line="7734"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>เข้าใจแล้ว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7738"/>
+        <location filename="../src/app/app.cpp" line="7736"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>ข้อความนี้จะแสดงเฉพาะตอนที่มีการปล่อยเวอร์ชันใหม่เท่านั้น</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7749"/>
+        <location filename="../src/app/app.cpp" line="7747"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>บันทึกรายการ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7772"/>
+        <location filename="../src/app/app.cpp" line="7770"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>เปิดใช้งานครั้งแรก</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7777"/>
+        <location filename="../src/app/app.cpp" line="7775"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;คลิกไอคอนใน tray menu เพื่อเปิดหน้าควบคุม&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} จะทำงานอยู่เบื้องหลังตลอดเวลา และคุณสามารถเปิดขึ้นมาได้ทุกเมื่อจากตรงนี้ คุณสามารถเลือกได้ว่าอยากให้แชร์เครื่องเล่นมีเดียตัวไหนในสถานะของคุณ และปรับแต่งสถานะให้ดูแบบที่คุณชอบได้เลย&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7802"/>
+        <location filename="../src/app/app.cpp" line="7800"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>เข้าใจแล้วล่ะ!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7904"/>
+        <location filename="../src/app/app.cpp" line="7902"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>เวอร์ชั่น {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7910"/>
+        <location filename="../src/app/app.cpp" line="7908"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>ใบอนุญาต</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7913"/>
+        <location filename="../src/app/app.cpp" line="7911"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>ประกาศความเป็นส่วนตัว</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7916"/>
+        <location filename="../src/app/app.cpp" line="7914"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>รายงานปัญหาต่างๆ</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7919"/>
+        <location filename="../src/app/app.cpp" line="7917"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>คุณชอบแอปพลิเคชัน {app_name} มั้ย? &lt;a {attributes}&gt;สนับสนุนนักพัฒนาได้ด้วยการโดเนท&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7927"/>
+        <location filename="../src/app/app.cpp" line="7925"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>อยากช่วยสร้างสรรค์โปรเจคนี้หรอ? &lt;a {attributes}&gt;เอาสิมาเลย!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7935"/>
+        <location filename="../src/app/app.cpp" line="7933"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>ขอขอบคุณทุกคนที่ช่วยกันแปลภาษาให้กับแอปนี้:</translation>
@@ -861,9 +861,10 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>หน้าตา</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="913"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="vanished">ธีมไอค่อนขนาดเล็ก</translation>
+        <translation>ธีมไอค่อนขนาดเล็ก</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="923"/>
@@ -1156,7 +1157,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>การตั้งค่า</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="909"/>
+        <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
         <translation>ธีมแถบไอค่อนเมนู</translation>
