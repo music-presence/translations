@@ -1001,24 +1001,24 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para salir de la aplicación, cuando el icono de la barra de menús esté oculto, haga clic en &quot;{exit_category_name}&quot; en la barra lateral.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para salir de la aplicación cuando el icono de la bandeja del sistema esté oculto, haga clic en &quot;{exit_category_name}&quot; en la barra lateral.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la configuración al volver a iniciar la aplicación</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abrir siempre la última categoría de configuración utilizada</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1147,26 +1147,26 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Para mostrar texto personalizado, diríjase a {discord_developer_portal_url} y haga clic en &quot;{new_application_button_name}&quot;. A continuación, introduzca el nombre deseado y haga clic en &quot;{create_button_name}&quot;. En la nueva página que se ha abierto, localice &quot;{application_id_section_name}&quot;, copie el número que se muestra y péguelo en el campo superior.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2090"/>
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID de la aplicación</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2290"/>
@@ -1174,44 +1174,44 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inválido</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobando...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2786"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Error de red</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2818"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2826"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud fallida</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alternar la presencia por usuario de Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3470"/>
@@ -1293,61 +1293,61 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuentas</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reproductores</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema del icono de la barra de menús</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interacción</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el icono de la aplicación en la barra de menús</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el icono de la aplicación en la barra de tareas</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el icono de la aplicación en la bandeja del sistema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir la configuración al hacer clic con el botón izquierdo en el icono de la bandeja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1422"/>
@@ -1728,119 +1728,119 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="3637"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3639"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obligatorio</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Credenciales personales de la API de Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir sus propias credenciales puede ayudar a recuperar metadatos adicionales de canciones de manera más fiable. Vaya a &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; y haga clic en &quot;{create_app_text}&quot;, introduzca su información, luego copie el &quot;{client_id_text}&quot; y el &quot;{client_secret_text}&quot; y péguelos arriba.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Credenciales personales de la API de TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir sus propias credenciales puede ayudar a recuperar metadatos adicionales de canciones de manera más fiable. Vaya a &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; y haga clic en &quot;{create_app_text}&quot;, introduzca su información, luego copie el &quot;{client_id_text}&quot; y el &quot;{client_secret_text}&quot; y péguelos arriba.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Servidor proxy de portadas personalizado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3872"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL del Websocket</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3903"/>
         <location filename="../src/app/settings/window.cpp" line="3921"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opcional</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3905"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3971"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3995"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>¿Necesita ayuda? &lt;a {attributes}&gt;Lea la documentación&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar la verificación TLS</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobando los detalles de la conexión...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>La conexión ha fallado. &lt;a {attributes}&gt;¿Necesita ayuda?&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se han guardado los detalles de la conexión.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño máximo de la imagen (en píxeles)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duración mínima requerida de la caché (en segundos)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4240"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede alojar su propio servidor para mostrar imágenes de portada de mayor calidad y ser independiente del servidor integrado. Para obtener más información, consulte la &lt;a {attributes}&gt;documentación&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="5312"/>
