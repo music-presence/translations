@@ -1749,7 +1749,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Rentrer vos propres crédits peut aider à récupérer des données supplémentaires de manière plus fiable. Allez dans &lt;a {attributes}&gt; {tidal_developer_dashboard_link}&lt;/a&gt; et cliquez sur &quot;{create_app_text}&quot;, entrez vos informations, puis copiez le &quot;{client_id_text}&quot; et &quot;{client_secret_text}&quot; et collez-les au-dessus.</translation>
+        <translation>Rentrer vos propres crédits peut aider à récupérer des données supplémentaires de manière plus fiable. Allez dans &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; et cliquez sur &quot;{create_app_text}&quot;, entrez vos informations, puis copiez le &quot;{client_id_text}&quot; et &quot;{client_secret_text}&quot; et collez-les au-dessus.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
