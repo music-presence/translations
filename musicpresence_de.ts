@@ -1859,7 +1859,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation>Maximale Bildgröße (in Pixel)</translation>
+        <translation>Maximale Bildgröße (in Pixeln)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
