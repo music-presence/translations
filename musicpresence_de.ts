@@ -1047,17 +1047,17 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interaktion</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicke &quot;{exit_category_name}&quot; in der Seitenleiste, um die Anwendung zu schließen, während das Symbol in der Menüleiste versteckt ist.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicke &quot;{exit_category_name}&quot; in der Seitenleiste, um die Anwendung zu schließen, während das Symbol in der Taskleiste versteckt ist.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
