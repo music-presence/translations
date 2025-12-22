@@ -1063,25 +1063,25 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige das App-Symbol in der Menüleiste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige das App-Symbol in der Taskleiste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige das App-Symbol im System-Tray</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1186"/>
         <source>Open the settings by left-clicking the menu bar icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon that is located in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öffne die Einstellungen mit Linksklick auf das Symbol in der Menüleiste</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
