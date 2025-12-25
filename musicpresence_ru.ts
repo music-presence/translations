@@ -31,13 +31,13 @@
         <location filename="../src/app/app.cpp" line="3501"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>Нажмите чтобы активировать</translation>
+        <translation>Нажмите, чтобы активировать</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3505"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>Статус включена</translation>
+        <translation>Статус включен</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3510"/>
@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4192"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Настроить статус для приложения</translation>
+        <translation>Настроить статус для каждого приложения</translation>
     </message>
     <message>
         <source>Player</source>
@@ -441,7 +441,7 @@
         <location filename="../src/app/app.cpp" line="5663"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation>Присоединится к нашему серверу Discord</translation>
+        <translation>Присоединяйтесь к нашему серверу Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5676"/>
@@ -466,7 +466,7 @@
         <location filename="../src/app/app.cpp" line="7831"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation>Про {app_name}</translation>
+        <translation>О {app_name}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5742"/>
@@ -485,7 +485,7 @@
         <location filename="../src/app/app.cpp" line="6250"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation>Отмена загрузки...</translation>
+        <translation>Отмена скачивания...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6258"/>
@@ -498,7 +498,7 @@
         <location filename="../src/app/app.cpp" line="6276"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation>Автообновления включены</translation>
+        <translation>Авто-обновления включены</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6278"/>
@@ -506,7 +506,7 @@
         <location filename="../src/app/app.cpp" line="6536"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation>Включить автообновления</translation>
+        <translation>Включить авто-обновления</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6303"/>
@@ -519,13 +519,13 @@
         <location filename="../src/app/app.cpp" line="6336"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation>Автообновления отключены</translation>
+        <translation>Авто-обновления отключены</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6415"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>Нажмите чтобі установить версию {version}</translation>
+        <translation>Нажмите, чтобы установить версию {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6868"/>
@@ -533,7 +533,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>Вам нравится {app_name}?
-Вы можете поддержать разработчика донатом. Нажмите здесь или в системном трее для большей информации.</translation>
+Вы можете поддержать разработчика донатом. Нажмите здесь или в системном трее для подробной информации.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6127"/>
@@ -576,7 +576,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="2133"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>На данный момент новостей от разработчика нет. Проверьте позже или включите уведомления в настройках чтобы быть уведомленным как только они появятся.</translation>
+        <translation>На данный момент новостей от разработчика нет. Проверьте позже или включите уведомления о новостях в настройках, чтобы получить их, как только они появятся.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5643"/>
@@ -600,7 +600,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6425"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation>Посетите страницу загрузки</translation>
+        <translation>Посетите страницу загрузок</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6436"/>
@@ -651,13 +651,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6532"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation>Обновления установлено</translation>
+        <translation>Обновление установлено</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6533"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation>Перезапустите</translation>
+        <translation>Перезапустить</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6559"/>
@@ -710,7 +710,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6853"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>Не стесняйтесь присоединиться к нашему серверу Discord! Встретьте других пользователей, предложите идеи и будьте в курсе событий. Нажмите здесь или в меню &quot;Помощь&quot;, чтобы присоединиться.</translation>
+        <translation>Не стесняйтесь присоединиться к нашему серверу Discord! Познакомьтесь с другими пользователями, предлагайте идеи и будьте в курсе событий. Нажмите здесь или в меню &quot;Помощь&quot;, чтобы присоединиться.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7441"/>
@@ -728,7 +728,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7688"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Новая версия {app_name} доступна.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Прочитайте список изменений ниже, чтобы узнать, что нового появилось.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Новая версия {app_name} доступна.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Прочитайте список изменений ниже, чтобы узнать, что нового.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7704"/>
@@ -740,7 +740,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7710"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation>Загрузить</translation>
+        <translation>Скачать</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7721"/>
@@ -781,7 +781,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="7775"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Кликните на иконку в трее, чтобы открыть настройки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работает в фоновом режиме и всегда может быть открыта таким образом. Вы можете контролировать какой медиа-плеер отображатеся в статусе и как выглядит ваш статус.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Кликните на иконку в трее, чтобы открыть настройки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работает в фоновом режиме и всегда может быть открыта таким образом. Вы можете настраивать какие медиа-проигрыватели будут отображаться в статусе и как выглядит ваш статус.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7800"/>
@@ -810,13 +810,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7911"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation>Политика Конфиденциальности</translation>
+        <translation>Политика конфиденциальности</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7914"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation>Сообщить про проблему</translation>
+        <translation>Сообщить о проблеме</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7917"/>
@@ -936,7 +936,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="738"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation>Сохранить</translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="747"/>
@@ -948,7 +948,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="904"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation>Оформление</translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="913"/>
@@ -975,7 +975,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="970"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation>Тёмная</translation>
+        <translation>Темная</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="959"/>
@@ -986,24 +986,24 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished">Для выхода из приложения, когда иконка меню спрятана, нажмите &quot;{exit_category_name}&quot; на сайдбаре.</translation>
+        <translation>Чтобы выйти из приложения, когда строка меню спрятана, нажмите &quot;{exit_category_name}&quot; в боковом меню.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation>Для выхода из приложения, когда иконка в трее спрятана, нажмите &quot;{exit_category_name}&quot; на сайдбаре.</translation>
+        <translation>Чтобы выйти из приложения, когда иконка в трее спрятана, нажмите &quot;{exit_category_name}&quot; в боковом меню.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Открывать настройки, когда приложение запущено заново</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Всегда открывать последнюю использованную категорию настроек</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1015,7 +1015,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1247"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation>Запускать {app_name} с входом в систему</translation>
+        <translation>Запускать {app_name} при входе в систему</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1269"/>
@@ -1033,7 +1033,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1290"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation>Уведомлять, когда новая версия доступна</translation>
+        <translation>Уведомлять, когда доступна новая версия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1307"/>
@@ -1051,7 +1051,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1342"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation>Смотреть список изменений</translation>
+        <translation>Посмотреть список изменений</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1362"/>
@@ -1132,26 +1132,26 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы отобразить кастомный текст, перейдите на {discord_developer_portal_url} и нажмите &quot;{new_application_button_name}&quot;. Затем введите желаемое имя и нажмите &quot;{create_button_name}&quot;. Найдите &quot;{application_id_section_name}&quot; на новой открывшейся странице, скопируйте отображенное число и вставьте его в поле выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2090"/>
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательский</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID приложения</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2290"/>
@@ -1159,62 +1159,62 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неверный</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проверка...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2786"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка сети</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2818"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2826"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Запрос не выполнен</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изменять статус для каждого пользователя Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3470"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation>Переключаться на AppleSript, когда происходит ошибка</translation>
+        <translation>Переключаться на AppleScript, когда происходит ошибка</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3473"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>Может случится так, что после следющуего обновления macOS перестанут работать нативные системные интерфейсы. Включите эту опцию, чтобы автоматически переключится на AppleScript в таком случае.</translation>
+        <translation>Может случиться так, что после следующего обновления macOS перестанут работать нативные системные интерфейсы. В таком случае, включите эту опцию, чтобы автоматически переключиться на AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3601"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation>Получать дополнительных исоплнителей</translation>
+        <translation>Получать дополнительных исполнителей</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3612"/>
@@ -1226,7 +1226,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3624"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation>Отправлять код вашей страны</translation>
+        <translation>Отправлять код Вашей страны</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1248,7 +1248,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2456"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation>Не показывать никакую ифнормацию о песне</translation>
+        <translation>Не показывать никакую информацию о песне</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2533"/>
@@ -1272,73 +1272,73 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Выйти</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скробблинг</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунты</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проигрыватели</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурация</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Тема иконки строки меню</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Взаимодействие</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать иконку приложения на строке меню</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать иконку приложения на панели задач</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать иконку приложения в системном трее</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Открывать настройки левым кнопкой мыши по иконке в трее</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1422"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation>Новостные всплывающие окна видны только во время старта программы и никогда во время её использования. Оставьте уведомления включёнными, так Вы будете всегда знать о новых разработках.</translation>
+        <translation>Новостные всплывающие окна видны только во время старта программы и никогда во время её использования. Оставьте уведомления включенными, так Вы будете всегда знать о новых разработках.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
@@ -1351,19 +1351,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2144"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation>Название плеера</translation>
+        <translation>Название проигрывателя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2078"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation>Строчка исполнителя</translation>
+        <translation>Строка исполнителя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2082"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation>Строчка названия</translation>
+        <translation>Строка названия</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2086"/>
@@ -1418,7 +1418,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2450"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation>Отображать информацию о воспроизвидении</translation>
+        <translation>Отображать информацию о воспроизведении</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2461"/>
@@ -1454,7 +1454,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2500"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation>Оффлайн плееры</translation>
+        <translation>Оффлайн проигрыватели</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2510"/>
@@ -1466,7 +1466,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2520"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
-        <translation>Отображать логотип медиа-плеера</translation>
+        <translation>Отображать логотип медиа-проигрывателя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2529"/>
@@ -1483,7 +1483,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2564"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation>Логотип медиа-плеера</translation>
+        <translation>Логотип медиа-проигрывателя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2567"/>
@@ -1495,7 +1495,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2570"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation>Состояние проигрывания</translation>
+        <translation>Состояние воспроизведения</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2574"/>
@@ -1519,26 +1519,26 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2591"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Заполнитель для отсутствующих обложок</translation>
+        <translation>Заполнитель для отсутствующих обложек</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2652"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation>Сбросить всё</translation>
+        <translation>Сбросить все</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2667"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation>Удалить плеер</translation>
+        <translation>Удалить проигрыватель</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="272"/>
         <location filename="../src/app/settings/window.cpp" line="3497"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation>Загружать обложки из меда-плееров</translation>
+        <translation>Загружать обложки из медиа-проигрывателей</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1957"/>
@@ -1579,19 +1579,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3014"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation>Выключить все плееры по умолчанию</translation>
+        <translation>Выключить все проигрыватели по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3035"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Переключить статус для приложения</translation>
+        <translation>Переключить статус для каждого приложения</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3166"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation>Сброс по умолчанию</translation>
+        <translation>Сброс до значений по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3408"/>
@@ -1620,7 +1620,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3459"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>Автоматизация AppleScript может быть более надёжной, но будет работать только с Apple Music и Spotify. Использование нативных системных интерфейсов работает со всеми плеерами.</translation>
+        <translation>Автоматизация AppleScript может быть более надёжной, но будет работать только с Apple Music и Spotify. Использование нативных системных интерфейсов работает со всеми проигрывателями.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3494"/>
@@ -1650,13 +1650,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3552"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>Использовать TIDAL API, когда играет TIDAL</translation>
+        <translation>Использовать TIDAL API, когда слушаешь TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3555"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation>Использовать Deezer API, когда играет Deezer</translation>
+        <translation>Использовать Deezer API, когда слушаешь Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3558"/>
@@ -1668,7 +1668,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3562"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Использовать Apple Music API, когда играет Apple Music</translation>
+        <translation>Использовать Apple Music API, когда слушаешь Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3574"/>
@@ -1702,125 +1702,125 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3631"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Отправка кода страны нужна для поиска некоторых песен, которые доступны только в спецефических регионах, также может улучшить результаты поиска. Ваш код страны убран из любых ссылок перед тем как они будут отображены в статусе Discord.</translation>
+        <translation>Отправка кода страны нужна для поиска некоторых песен, которые доступны только в определенных странах и также может улучшить результаты поиска. Ваш код страны убран из любых ссылок перед тем, как они будут отображены в статусе Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3637"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3639"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Обязательно</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Личные Spotify API реквизиты</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Личные TIDAL API реквизиты</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Кастомный прокси-сервер обложек</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3872"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка Websocket</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3903"/>
         <location filename="../src/app/settings/window.cpp" line="3921"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>Необязательно</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3905"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3971"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3995"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нужна помощь? &lt;a {attributes}&gt;Прочитайте документацию&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отключить проверку TLS</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проверка сведений соединения...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>Соединение не удалось. &lt;a {attributes}&gt;Нужна помощь?&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation>Успешно! Сведения для соединения сохранены.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер изображения (в пикселях)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Минимальная требуемая продолжительность кэша (в секундах)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4240"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете захостить свой собственный сервер, чтобы отображать обложки более высокого качества и быть независимым от встроенного сервера. Для дополнительной информации прочитайте &lt;a {attributes}&gt;документацию&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="5312"/>
