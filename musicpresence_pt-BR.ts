@@ -929,7 +929,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation>Para exibir texto personalizado, acesse {discord_developer_portal_url} e clique em &quot;{new_application_button_name}&quot;. Depois insira o nome desejado e clique em &quot;{create_button_name}&quot;. Na nova página que abriu, procure por &quot;{application_id_section_name}&quot;, copie o número que é mostrado e cole-o na caixa abaixo.</translation>
+        <translation>Para exibir texto personalizado, acesse {discord_developer_portal_url} e clique em &quot;{new_application_button_name}&quot;. Depois insira o nome desejado e clique em &quot;{create_button_name}&quot;. Na nova página que abriu, procure por &quot;{application_id_section_name}&quot;, copie o número que é mostrado e cole-o na caixa acima.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
@@ -1420,7 +1420,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Inserir suas próprias credenciais pode ajudar a obter metadados adicionais de música de forma mais confiável. Acesse &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; e clique em &quot;{create_app_text}&quot;, insira suas informações, copie o &quot;{client_id_text}&quot; e &quot;{client_secret_text}&quot; e cole-os abaixo.</translation>
+        <translation>Inserir suas próprias credenciais pode ajudar a obter metadados adicionais de música de forma mais confiável. Acesse &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; e clique em &quot;{create_app_text}&quot;, insira suas informações, copie o &quot;{client_id_text}&quot; e &quot;{client_secret_text}&quot; e cole-os acima.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
