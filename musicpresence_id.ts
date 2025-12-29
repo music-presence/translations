@@ -1006,24 +1006,24 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk keluar dari aplikasi, ketika ikon bilah menu disembunyikan, klik &quot;{exit_category_name}&quot; di bilah samping.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk keluar dari aplikasi, ketika ikon baki disembunyikan, klik &quot;{exit_category_name}&quot; di bilah samping.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buka pengaturan ketika aplikasi dijalankan kembali</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selalu buka kategori pengaturan terakhir digunakan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1128,7 +1128,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1880"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selalu tampilkan siniar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1904"/>
@@ -1152,26 +1152,26 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk menampilkan tampilan teks kustom, pergi ke {discord_developer_portal_url} dan klik di &quot;{new_application_button_name}&quot;. Lalu masukkan nama terserah dan klik di &quot;{create_button_name}&quot;. Di halaman baru yang dibuka, cari &quot;{application_id_section_name}&quot;, lalu salin nomer yang ditampilkan dan tempel di bagian kotak itu.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2090"/>
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kustom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID Aplikasi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otomatis</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2290"/>
@@ -1179,26 +1179,26 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak valid</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Memeriksa...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2786"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan jaringan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2818"/>
@@ -1210,43 +1210,43 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="2826"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permintaan gagal</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan/nonaktifkan presence untuk masing-masing pengguna Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3470"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alihkan ke AppleScript ketika terjadi kesalahan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3473"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ini bisa terjadi ketika antarmuka sistem natif berhenti bekerja dengan pembaruan macOS berikutnya. Aktifkan opsi ini untuk otomatis mengalihkan ke AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3601"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dapatkan artis lanjutan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3612"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dapatkan sampul album animasi (eksperimental)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3624"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kirim kode negara anda</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1298,49 +1298,49 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Akun</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemutar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema ikon bilah menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interaksi</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan ikon aplikasi di bilah menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan ikon aplikasi di bilah tugas</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
