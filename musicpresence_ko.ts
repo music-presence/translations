@@ -1779,7 +1779,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>개인 인증 정보를 입력하면 추가 곡 메타데이터를 더욱 안정적으로 불러올 수 있습니다. &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt;로 이동하여 &quot;{create_app_text}&quot;를 클릭하고 정보를 입력한 후, &quot;{client_id_text}&quot;와 &quot;{client_secret_text}&quot;를 복사하여 위의 입력란에 붙여넣으세요.</translation>
+        <translation>개인 인증 정보를 입력하면 추가 곡 메타데이터를 더욱 안정적으로 불러올 수 있습니다. &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt;로 이동하여 &quot;{create_app_text}&quot;를 클릭하고 정보를 입력한 후, &quot;{client_id_text}&quot;와 &quot;{client_secret_text}&quot;를 복사하여 위의 입력란에 붙여넣으세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
