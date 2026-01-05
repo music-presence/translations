@@ -1001,24 +1001,24 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>メニューバーアイコンが非表示になっている場合、アプリケーションを終了するには、サイドバーの&quot;{exit_category_name}&quot;をクリックします。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイアイコンが非表示になっている場合、アプリケーションを終了するには、サイドバーの&quot;{exit_category_name}&quot;をクリックします。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>アプリを再度起動した際に設定を開く</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>常に最後に使用した設定カテゴリを開く</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1123,7 +1123,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1880"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>ポッドキャストを表示しない</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1904"/>
@@ -1147,26 +1147,26 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムテキストを表示するには、{discord_developer_portal_url}にアクセスし、&quot;{new_application_button_name}&quot;をクリックします。その後、好きな名前を入力して&quot;{create_button_name}&quot;をクリックします。開かれた新しいページで&quot;{application_id_section_name}&quot;を探し、表示される番号をコピーして上記のフィールドに貼り付けます。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2090"/>
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Application ID</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2290"/>
@@ -1174,74 +1174,74 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>無効</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>確認中…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2786"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークエラー</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2818"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2826"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>要求に失敗</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discordのユーザー毎にアクティビティ表示を切り替える</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3470"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラーが発生したらAppleScriptに切り替える</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3473"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>次回のmacOSアップデートでネイティブシステムインターフェースが動作しなくなる場合があります。その場合は、このオプションを有効にすると自動的にAppleScriptに切り替わります。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3601"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのアーティストを取得する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3612"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>アニメーションのジャケットイラストを取得する (実験的)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3624"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>あなたの国名コードを送信する</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1287,73 +1287,73 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">終了</translation>
+        <translation>終了</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>アカウント</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤー</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>メニューバーのテーマ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>メニューバーにアプリアイコンを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>タスクバーにアプリアイコンを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>システムトレイにアプリアイコンを表示する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>トレイアイコンを左クリックして設定を開く</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1422"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>ニュースのポップアップはアプリ起動時にのみ表示され、使用中は表示されません。通知をオンにしておけば、常に最新の情報を得ることができます。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
@@ -1366,26 +1366,26 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2144"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤー名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2078"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>アーティスト名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2082"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2086"/>
         <location filename="../src/app/settings/window.cpp" line="2148"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>メディアの種類</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2138"/>
@@ -1564,25 +1564,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1957"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{type} / …を再生中</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1964"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{type} / …を視聴中</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1971"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / プレイ中 …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1988"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティの種類</translation>
     </message>
     <message>
         <source>Presence</source>
@@ -1593,25 +1593,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3007"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>アクティビティ表示を有効にする</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3014"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのプレーヤーをデフォルトで無効化する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3035"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished">アプリ毎にアクティビティの表示を切り替える</translation>
+        <translation>アプリ毎にアクティビティの表示を切り替える</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3166"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトに戻す</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3408"/>
@@ -1640,7 +1640,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3459"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScriptによる自動化はより信頼性が高いですが、Apple MusicとSpotifyでのみ動作します。ネイティブシステムインターフェースはすべてのメディアプレーヤーで動作します。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3494"/>
@@ -1688,7 +1688,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3562"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Musicで聴いているとき、Apple Music APIを使用する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3574"/>
@@ -1705,142 +1705,142 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3598"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>曲情報API設定</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3607"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>ジャケットイラストを取得する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3618"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>不足したアルバム名を取得する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3631"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation type="unfinished"></translation>
+        <translation>特定の国でのみ配信されている曲を検索し、検索結果を向上させるには、国名コードの送信が必要です。国名コードは、リンクがDiscordのステータスに表示される前に削除されます。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3637"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3639"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>必須</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>個人のSpotify API認証情報</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>ご自身の認証情報を入力すると、追加の曲メタデータをより確実に取得できるようになります。&lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt;にアクセスし、&quot;{create_app_text}&quot;をクリックして情報を入力し、&quot;{client_id_text}&quot;と&quot;{client_secret_text}&quot;をコピーして上記に貼り付けてください。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>個人のTIDAL API認証情報</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>ご自身の認証情報を入力すると、追加の曲メタデータをより確実に取得できるようになります。&lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt;にアクセスし、&quot;{create_app_text}&quot;をクリックして情報を入力し、&quot;{client_id_text}&quot;と&quot;{client_secret_text}&quot;をコピーして上記に貼り付けてください。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>カスタムジャケットイラストプロキシサーバー</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3872"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Websocket URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3903"/>
         <location filename="../src/app/settings/window.cpp" line="3921"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>任意</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3905"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3971"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>パスワード</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3995"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>助けが必要ですか？&lt;a {attributes}&gt;ドキュメントを読んでください&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>TLS認証を無効化する</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation>接続の詳細をテスト中…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>接続失敗。&lt;a {attributes}&gt;助けが必要ですか？&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation>成功しました！接続の詳細を保存しました。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>最大画像サイズ (ピクセル単位)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>必要な最小キャッシュ期間 (秒)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4240"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>より高品質なカバー画像を表示し、組み込みサーバーに依存しないために、独自のサーバーをホストすることができます。詳しくは&lt;a {attributes}&gt;ドキュメント&lt;/a&gt;をご覧ください。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="5312"/>
