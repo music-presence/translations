@@ -19,7 +19,7 @@
         <location filename="../src/app/app.cpp" line="2133"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation>כרגע אין חדשות מהמפתח. אנא בדוק מאוחר יותר או הפעל התראת חדשות בהגדרות כדי לקבל התראות כאשר חדשות יהיו זמינות.</translation>
+        <translation>כעת אין חדשות מהמפתח. אנא בדוק מאוחר יותר או הפעל התראת חדשות בהגדרות כדי לקבל התראות כאשר חדשות יהיו זמינות.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3256"/>
@@ -73,7 +73,7 @@
         <location filename="../src/app/app.cpp" line="3501"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>לחץ כדי להפעיל</translation>
+        <translation>לחץ להפעלה</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3505"/>
@@ -109,7 +109,7 @@
         <location filename="../src/app/app.cpp" line="4084"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation>תתמוך בעבודתי עם תרומה קטנה</translation>
+        <translation>תמוך בעבודתי עם תרומה קטנה</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4091"/>
@@ -169,7 +169,7 @@
         <location filename="../src/app/app.cpp" line="5676"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation>תככב את הפרויקט בGitHub</translation>
+        <translation>כּכב את הפרויקט בGitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5682"/>
@@ -397,7 +397,7 @@
         <location filename="../src/app/app.cpp" line="6853"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>הרגש חופשי להצטרף לשרת ה-Discord שלנו! תכיר משתמשים אחרים, תביא הצעות ותשאר מעודכן. לחץ כאן או בתפריט העזרה כדי להצטרף.</translation>
+        <translation>הרגש חופשי להצטרף לשרת ה-Discord שלנו! הכר משתמשים אחרים, הבא הצעות והשאר מעודכן. לחץ כאן או בתפריט העזרה להצטרפות.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6868"/>
@@ -405,7 +405,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>האם אתה אוהב את {app_name}? 
-אתה יכול לתמוך בפיתוח עם תרומה. לחץ כן או בתפריט המגש למידע נוסף.</translation>
+אתה יכול לתמוך בפיתוח עם תרומה. לחץ כאן או בתפריט המגש למידע נוסף.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7441"/>
@@ -459,7 +459,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7736"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>זהו מוצג רק כאשר גרסה חדשה נפתחת.</translation>
+        <translation>זהו מוצג רק כשגרסה חדשה נפתחת.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7747"/>
@@ -511,12 +511,12 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="7917"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>האם אתה אוהב את {app_name}? &lt;a {attributes}&gt;תתמוך בפיתוח עם תרומה&lt;/a&gt;</translation>
+        <translation>האם אתה אוהב את {app_name}? &lt;a {attributes}&gt;תמוך בפיתוח עם תרומה&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7925"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>רוצה לעזור בדרכים אחרות? &lt;a {attributes}&gt;תהיה מעורב!&lt;/a&gt;</translation>
+        <translation>רוצה לעזור בדרכים אחרות? &lt;a {attributes}&gt;הֱיֵה מעורב!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7933"/>
