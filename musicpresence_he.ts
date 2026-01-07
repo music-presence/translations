@@ -692,7 +692,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1241"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation>הגדרות ווינדוס</translation>
+        <translation>הגדרות Windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1247"/>
@@ -1117,7 +1117,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2529"/>
         <source>These settings do not apply to streaming services</source>
-        <translation>ההגדרות האלה אינן חלות לשירותי שידור</translation>
+        <translation>הגדרות אלה אינן חלות לשירותי שידור</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2533"/>
@@ -1342,7 +1342,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3589"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>לעוד מידע על איזה נתונים מעוברים לשירותים אלה ואיך זה ישומש, בבקשה תקרא את ה&lt;a{attributes}&gt;הערת פרטיות&lt;/a&gt;.</translation>
+        <translation>לעוד מידע על איזה נתונים מעוברים לשירותים אלה ואיך זה ישומש, בבקשה קרא את ה&lt;a{attributes}&gt;הערת פרטיות&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3598"/>
@@ -1407,7 +1407,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
         <translation>להכניס את מפתחות האישיות שלך יכולות לעזור בלהשיג מטא נתונים נוספים לגבי שירים. לך אל &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; ולחץ על &quot;{create_app_text}&quot;,
-והכנס את המידע שלך ואז תעתיק את &quot;{client_id_text}&quot; ואת &quot;{client_secret_text}&quot; והדבקהם מעלה.</translation>
+והכנס את המידע שלך ואז העתק את &quot;{client_id_text}&quot; ואת &quot;{client_secret_text}&quot; והדבקם מעלה.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
@@ -1419,7 +1419,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
         <translation>להכניס את מפתחות האישיות שלך יכולות לעזור בלהשיג מטא נתונים נוספים לגבי שירים. לך אל &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; ולחץ על &quot;{create_app_text}&quot;,
-והכנס את המידע שלך ואז תעתיק את &quot;{client_id_text}&quot; ואת &quot;{client_secret_text}&quot; והדבקהם מעלה.</translation>
+והכנס את המידע שלך ואז העתק את &quot;{client_id_text}&quot; ואת &quot;{client_secret_text}&quot; והדבקם מעלה.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
@@ -1462,7 +1462,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation>זקוק לעזרה? &lt;a {attributes}&gt;תקרא את המסמך&lt;/a&gt;.</translation>
+        <translation>זקוק לעזרה? &lt;a {attributes}&gt;קרא את המסמך&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
@@ -1492,7 +1492,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation>מירבית גודל התמונה(בפיקסלים)</translation>
+        <translation>מרבית גודל התמונה(בפיקסלים)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
