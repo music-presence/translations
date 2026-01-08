@@ -1016,24 +1016,24 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
     <message>
         <location filename="../src/app/settings/window.cpp" line="1014"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>By wyjść z aplikacji, gdy ikona w pasku menu jest ukryta, kliknij &quot;{exit_category_name}&quot; w pasku bocznym.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1019"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>By wyjść z aplikacji, gdy ikona w zasobniku jest ukryta, kliknij &quot;{exit_category_name}&quot; w pasku bocznym.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1156"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz ustawienia, gdy aplikacja zostanie uruchomiona podczas działania w tle</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1212"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze otwieraj ostatnio używaną kategorię ustawień</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1241"/>
@@ -1119,7 +1119,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1861"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation>Ustawienia Indywidualne</translation>
+        <translation>Ustawienia indywidualne</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1864"/>
@@ -1149,7 +1149,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="1904"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation>Oddziel artystę i nazwę albumu</translation>
+        <translation>Rozdziel nazwę artysty i albumu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1933"/>
@@ -1168,25 +1168,25 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2786"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd sieciowy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2818"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2826"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Żądanie nieudane</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz aktywność między użytkownikami Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3601"/>
@@ -1214,7 +1214,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="3624"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation>Wyślij swój kod kraju</translation>
+        <translation>Wyślij kod swojego kraju</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1230,7 +1230,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2445"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation>Pokaż nazwę albumu, gdy nie ma artysty</translation>
+        <translation>Pokazuj nazwę albumu, gdy brakuje artysty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2456"/>
@@ -1260,78 +1260,78 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Wyjdź</translation>
+        <translation>Wyjdź</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="600"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzacze</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="603"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguracja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="911"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motyw ikony paska menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1002"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interakcja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1076"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ikonę aplikacji na pasku menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1080"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ikonę aplikacji na pasku zadań</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ikonę aplikacji w zasobniku systemowym</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz ustawienia, klikając lewym przyciskiem myszy na ikonę zasobnika</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1422"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation>Komunikaty o wiadomościach są pokazywane tylko przy starcie aplikacji i nigdy podczas jej używania. Zostaw powiadomienia włączone, żeby nigdy nic nie ominąć.</translation>
+        <translation>Komunikaty o wiadomościach są pokazywane tylko przy starcie aplikacji i nigdy podczas jej używania. Zostaw powiadomienia włączone, by być na bieżąco z najnowszymi zmianami.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby wyświetlić własny tekst, odwiedź {discord_developer_portal_url} i kliknij &quot;{new_application_button_name}&quot;. Następnie wpisz wybrany tekst i kliknij na &quot;{create_button_name}&quot;. Na nowo otwartej stronie, znajdź &quot;{application_id_section_name}&quot;, następnie skopiuj wyświetlany numer i wklej go w polu powyżej.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
@@ -1370,25 +1370,25 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2152"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Własny</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2138"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation>Wyświetlany tekst na profilu</translation>
+        <translation>Tekst wyświetlany w profilu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2245"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID aplikacji</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2264"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2290"/>
@@ -1396,38 +1396,38 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2822"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2295"/>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2381"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Pokaż tytuł utworu i wykonawcę w tej samej linii</translation>
+        <translation>Pokaż tytuł utworu i artystę w tej samej linii</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2397"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation>Pokaż wykonawcę i album w tej samej linii</translation>
+        <translation>Pokaż artystę i album w tej samej linii</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2415"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation>Zamień kolejność tytułu utworu i wykonawcy</translation>
+        <translation>Zamień kolejność tytułu utworu i artysty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2420"/>
@@ -1463,13 +1463,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2464"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation>Wyświetl wstrzymane media w statusie</translation>
+        <translation>Wyświetl zatrzymane media w statusie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2468"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation>Pokaż ikonę wstrzymania po wstrzymaniu muzyki</translation>
+        <translation>Pokaż ikonę wstrzymania po zatrzymaniu muzyki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2472"/>
@@ -1493,7 +1493,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2510"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation>Pokaż ikonę odtwarzania podczas słuchania</translation>
+        <translation>Pokaż ikonę odtwarzania muzyki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2520"/>
@@ -1510,7 +1510,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2545"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation>Wyświetl przycisk &quot;{listen_to_this_song}&quot; jako &quot;{play_on_player}&quot;</translation>
+        <translation>Wyświetlaj przycisk &quot;{listen_to_this_song}&quot; jako &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2564"/>
@@ -1552,7 +1552,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2591"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Placeholder dla brakujących okładek</translation>
+        <translation>Zamiennik brakujących obrazów okładek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2652"/>
@@ -1617,13 +1617,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="3014"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation>Wyłącz wszystkie odtwarzacze domyślnie</translation>
+        <translation>Wyłącz domyślnie wszystkie odtwarzacze</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3035"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Włącz aktywność według aplikacji</translation>
+        <translation>Przełącz aktywność według aplikacji</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3166"/>
@@ -1670,7 +1670,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="3473"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>Może się zdarzyć, że natywny interfejs przestanie działać po następnej aktualizacji macOS. Włącz tą opcję, żeby w takim przypadku się automatycznie przełączyło na AppleScript.</translation>
+        <translation>Może się zdarzyć, że natywny interfejs przestanie działać po następnej aktualizacji macOS. Włącz tą opcję, by w takim przypadku się automatycznie przełączyło na AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3494"/>
@@ -1718,13 +1718,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="3562"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Używaj API Apple Music, podczas słuchania Apple Music</translation>
+        <translation>Używaj Apple Music API, podczas słuchania Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3574"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Korzystaj z iTunes API podczas słuchania na Apple Music</translation>
+        <translation>Używaj iTunes API, podczas słuchania na Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3589"/>
@@ -1735,7 +1735,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="3598"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation>Konfiguracja API Muzyki</translation>
+        <translation>Konfiguracja API muzyki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3607"/>
@@ -1752,125 +1752,125 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
     <message>
         <location filename="../src/app/settings/window.cpp" line="3631"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Wysyłanie Twojego kodu kraju jest wymagane, żeby znaleźć wybrane piosenki dostępne jedynie w konkretnych krajach i może usprawnić wyniki wyszukiwania. Twój kod kraju jest usuwany z każdego linku przed pokazaniem na statusie Discord.</translation>
+        <translation>Wysyłanie kodu twojego kraju jest wymagane, żeby znaleźć wybrane piosenki dostępne jedynie w konkretnych krajach i może usprawnić wyniki wyszukiwania. Kod twojego kraju jest usuwany z każdego linku przed pokazaniem na statusie Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3637"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3639"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wymagane</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3803"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Osobiste dane uwierzytelniania dla Spotify API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadzenie własnych danych uwierzytelniających może pomóc w bardziej niezawodnym pobieraniu dodatkowych metadanych utworów. Przejdź do &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; i kliknij &quot;{create_app_text}&quot;, wpisz twoje informacje, następnie skopiuj &quot;{client_id_text}&quot; oraz &quot;{client_secret_text}&quot; i wklej je powyżej.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Osobiste dane uwierzytelniania dla TIDAL API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadzenie własnych danych uwierzytelniających może pomóc w bardziej niezawodnym pobieraniu dodatkowych metadanych utworów. Przejdź do &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; i kliknij &quot;{create_app_text}&quot;, wpisz twoje informacje, następnie skopiuj &quot;{client_id_text}&quot; oraz &quot;{client_secret_text}&quot; i wklej je powyżej.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Własny serwer proxy okładek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3872"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL Websocket</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3903"/>
         <location filename="../src/app/settings/window.cpp" line="3921"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opcjonalne</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3905"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3971"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3995"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4001"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potrzebujesz pomocy? &lt;a {attributes}&gt;Przeczytaj dokumentację&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz weryfikację TLS</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie danych połączenia...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>Połączenie nieudane. &lt;a {attributes}&gt;Potrzebujesz pomocy?&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sukces! Dane połączenia zostały zapisane.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalny rozmiar obrazu (w pikselach)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimalny czas przechowywania w pamięci podręcznej (w sekundach)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4240"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz korzystać z własnego serwera, aby wyświetlać obrazy okładek w wyższej jakości i uniezależnić się od wbudowanego serwera. Więcej informacji można znaleźć w &lt;a {attributes}&gt;dokumentacji&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="5312"/>
