@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4192"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Настроить статус для каждого приложения</translation>
+        <translation>Переключить статус для каждого приложения</translation>
     </message>
     <message>
         <source>Player</source>
@@ -781,7 +781,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="7775"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Кликните на иконку в трее, чтобы открыть настройки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работает в фоновом режиме и всегда может быть открыта таким образом. Вы можете настраивать какие медиа-проигрыватели будут отображаться в статусе и как выглядит ваш статус.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Кликните по иконке в трее, чтобы открыть настройки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работает в фоновом режиме и всегда может быть открыта таким образом. Вы можете настраивать какие медиа-проигрыватели будут отображаться в статусе и как выглядит Ваш статус.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7800"/>
@@ -1196,7 +1196,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3236"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Изменять статус для каждого пользователя Discord</translation>
+        <translation>Переключить статус для каждого пользователя Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3470"/>
@@ -1332,7 +1332,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation>Открывать настройки левым кнопкой мыши по иконке в трее</translation>
+        <translation>Открывать настройки левой кнопкой мыши по иконке в трее</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1422"/>
@@ -1725,7 +1725,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3812"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
+        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите Вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3829"/>
@@ -1736,7 +1736,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3838"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
+        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите Вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3855"/>
