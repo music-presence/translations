@@ -1118,7 +1118,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2538"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>แสดง &quot;{branding_text}&quot; ในสถานะของคุณ</translation>
+        <translation>แสดงปุ่ม &quot;{branding_text}&quot; ในสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2378"/>
