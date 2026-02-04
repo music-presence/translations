@@ -1147,7 +1147,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     <message>
         <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished">Para mostrar texto personalizado, diríjase a {discord_developer_portal_url} y haga clic en &quot;{new_application_button_name}&quot;. A continuación, introduzca el nombre deseado y haga clic en &quot;{create_button_name}&quot;. En la nueva página que se ha abierto, localice &quot;{application_id_section_name}&quot;, copie el número que se muestra y péguelo en el campo superior.</translation>
+        <translation>Para mostrar texto personalizado, diríjase a {discord_developer_portal_url} y haga clic en &quot;{new_application_button_name}&quot;. Introduzca el nombre deseado y haga clic en &quot;{create_button_name}&quot;. En la nueva página que se ha abierto, localice &quot;{application_id_section_name}&quot;, copie el número que se muestra y péguelo en el campo superior.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2090"/>
@@ -1187,7 +1187,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="2309"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished">Comprobando...</translation>
+        <translation>Verificando...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2786"/>
@@ -1287,13 +1287,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="558"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Salir</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="570"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="597"/>
@@ -1347,7 +1347,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="1191"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished">Abrir la configuración al hacer clic con el botón izquierdo en el icono de la bandeja</translation>
+        <translation>Abrir la configuración al hacer clic izquierdo en el icono de la bandeja</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1422"/>
@@ -1811,7 +1811,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="4067"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished">Comprobando los detalles de la conexión...</translation>
+        <translation>Probando los detalles de la conexión…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4104"/>
@@ -1823,7 +1823,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished">Se han guardado los detalles de la conexión.</translation>
+        <translation>¡Éxito! Los detalles de la conexión se han guardado.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4153"/>
