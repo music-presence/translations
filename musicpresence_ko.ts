@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4260"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>애플리케이션마다 활동 전환</translation>
+        <translation>앱별 활동 표시 설정</translation>
     </message>
     <message>
         <source>Player</source>
@@ -180,7 +180,7 @@
         <location filename="../src/app/app.cpp" line="3316"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation>자동화 권환이 거부됨</translation>
+        <translation>자동화 권한이 거부됨</translation>
     </message>
     <message>
         <source>Freeze the progress bar for paused media</source>
@@ -438,7 +438,7 @@
         <location filename="../src/app/app.cpp" line="6357"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation>다운로드 취소 하는 중...</translation>
+        <translation>다운로드 취소하는 중...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6365"/>
@@ -685,7 +685,7 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;{version} 버전으로 업데이트 되었습니다.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;앱을 재시작 해서 최신 버전을 실행하세요.&lt;/p&gt;</translation>
+&lt;p&gt;앱을 재시작해서 최신 버전을 실행하세요.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6707"/>
@@ -801,7 +801,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="7882"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;숨겨진 아이콘 메뉴에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt; 시스템 트레이에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7907"/>
@@ -836,7 +836,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="8024"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>{app_name}이 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원하세요&lt;/a&gt;</translation>
+        <translation>{app_name}이(가) 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원하세요&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8032"/>
@@ -939,7 +939,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="610"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="730"/>
@@ -1634,7 +1634,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3059"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>애플리케이션마다 활동 전환</translation>
+        <translation>앱별 활동 표시 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3190"/>
@@ -1757,12 +1757,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3689"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>국가 코드</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3715"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation type="unfinished"></translation>
+        <translation>기기와 스트리밍 서비스의 국가가 일치하지 않을 경우 국가 코드를 수동으로 설정할 수 있습니다. 스트리밍 서비스의 &lt;a {attributes}&gt;두 자리 국가 코드&lt;/a&gt;를 입력하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3724"/>
@@ -1895,55 +1895,55 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="103"/>
         <source>Artists</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>아티스트</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="106"/>
         <source>Control whether you want to scrobble all artists or only the primary artist. Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobbled artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>모든 아티스트를 스크로블할지 또는 대표 아티스트만 스크로블할지 선택합니다. 일부 미디어 플레이어는 모든 아티스트 정보를 전달하지 않을 수 있으며, 일부 플랫폼은 다중 아티스트 처리 기능이 제한될 수 있음에 유의하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="119"/>
         <source>Track artists</source>
         <comment>Scrobbling: Control how track artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>트랙 아티스트</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="130"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>모든 아티스트 스크로블</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="134"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>대표 아티스트만 스크로블</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="154"/>
         <source>Album artists</source>
         <comment>Scrobbling: Control how album artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범 아티스트</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="166"/>
         <source>Use the same setting as for track artists</source>
         <comment>Scrobbling: For controls on how album artists are scrobbled, the user has the option to use the same setting as for track artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>트랙 아티스트와 동일한 설정 사용</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="172"/>
         <source>Scrobble all album artists</source>
         <comment>Scrobbling: Option to scrobble all album artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>모든 앨범 아티스트 스크로블</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="179"/>
         <source>Scrobble only the primary album artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main album artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>대표 앨범 아티스트만 스크로블</translation>
     </message>
 </context>
 </TS>
