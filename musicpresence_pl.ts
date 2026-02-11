@@ -2372,7 +2372,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation>Leniwy &amp;ndash; Odtworzone sekcje są rejestrowane wiele razy, gdy odtworzone ponownie</translation>
+        <translation>Luźny &amp;ndash; Odtworzone fragmenty są zapisywane wiele razy, gdy odtworzone ponownie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
@@ -2396,7 +2396,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tolerancja błędu (w sekundach)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="694"/>
@@ -2408,13 +2408,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio odtwarzany utwór</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
         <source>The track that has been playing the longest</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utwór, który był odtwarzany najdłużej</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="754"/>
