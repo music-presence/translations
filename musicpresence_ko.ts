@@ -1919,7 +1919,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">플레이어</translation>
+        <translation>플레이어</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
