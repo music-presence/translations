@@ -25,7 +25,7 @@
         <location filename="../src/app/app.cpp" line="3558"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>활동 비활성화됨</translation>
+        <translation>활동 상태 비활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3561"/>
@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="3565"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>활동이 활성화됨</translation>
+        <translation>활동 상태가 활성화됨</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3570"/>
@@ -55,7 +55,7 @@
         <location filename="../src/app/app.cpp" line="3580"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation>활동 표시 중</translation>
+        <translation>활동 상태 표시 중</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4147"/>
@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4260"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>앱별 활동 표시 설정</translation>
+        <translation>앱별 활동 상태 표시 설정</translation>
     </message>
     <message>
         <source>Player</source>
@@ -1148,7 +1148,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3028"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation>활동</translation>
+        <translation>활동 상태</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2810"/>
@@ -1172,7 +1172,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3260"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>디스코드 사용자별 활동 표시 전환</translation>
+        <translation>디스코드 사용자별 활동 상태 표시 전환</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3494"/>
@@ -1246,7 +1246,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2562"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>활동에 &quot;{branding_text}&quot; 표시</translation>
+        <translation>활동 상태에 &quot;{branding_text}&quot; 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2402"/>
@@ -1294,7 +1294,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1026"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation>동작</translation>
+        <translation>상호작용</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1100"/>
@@ -1622,7 +1622,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3031"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation>활동 활성화</translation>
+        <translation>활동 상태 활성화</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3038"/>
@@ -1634,7 +1634,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3059"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>앱별 활동 표시 설정</translation>
+        <translation>앱별 활동 상태 표시 설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3190"/>
@@ -1895,25 +1895,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="62"/>
         <source>Account successfully connected.</source>
         <comment>Scrobbling: Connecting the scrobbling account was successful</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정이 성공적으로 연결되었습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="173"/>
         <source>Next steps</source>
         <comment>Scrobbling: The next steps after connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>다음 단계</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="201"/>
         <source>Review the settings below, to see if they fit your needs.</source>
         <comment>Scrobbling: First step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>아래 설정을 검토하여 본인의 필요에 맞는지 확인해 보세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="205"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>{players}에서 스크로블하려는 미디어 플레이어를 활성화하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
