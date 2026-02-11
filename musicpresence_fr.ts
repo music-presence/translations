@@ -776,7 +776,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/app.cpp" line="7882"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Cliquez sur l&apos;icône dans le menu de la barre des tâches pour ouvrir les contrôles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} fonctionne en arrière-plan et peut toujours être accessible de cette manière. Vous pouvez contrôler quels lecteurs multimédias sont partagés dans votre statut et comment celui-ci apparaît.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Cliquez sur l&apos;icône dans le menu de la barre des tâches pour ouvrir les contrôles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} fonctionne en arrière-plan et peut toujours être accessible de cette manière. Vous pouvez contrôler quels lecteurs multimédia sont partagés dans votre statut et comment celui-ci apparaît.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7907"/>
@@ -1545,7 +1545,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="3521"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation>Récupérer les images de couverture à partir des lecteurs multimédias</translation>
+        <translation>Récupérer les images de couverture à partir des lecteurs multimédia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1981"/>
@@ -1627,7 +1627,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="3483"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>L’automatisation via AppleScript peut être plus fiable, mais ne fonctionne qu’avec Apple Music et Spotify. L’utilisation de l’interface système native est compatible avec tous les lecteurs multimédias.</translation>
+        <translation>L’automatisation via AppleScript peut être plus fiable, mais ne fonctionne qu’avec Apple Music et Spotify. L’utilisation de l’interface système native est compatible avec tous les lecteurs multimédia.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3494"/>
@@ -1727,12 +1727,12 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="3689"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Code de région</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3715"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez régler le code de région manuellement si ceux de votre service de streaming et votre appareil ne sont pas synchronisés. Réglez celui-ci sur les &lt;a {attributes}&gt; code de pays à deux lettres&lt;/a&gt; de votre service de streaming</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3724"/>
@@ -1865,19 +1865,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="103"/>
         <source>Artists</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artistes</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="106"/>
         <source>Control whether you want to scrobble all artists or only the primary artist. Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobbled artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contrôlez si vous désirez scrobbler tous les artistes ou uniquement les artistes principaux. Notez que certains services d&apos;écoute peuvent ne pas inclure tous les artistes et que plusieurs plate-formes sont limitées dans leur capacité à traiter plusieurs artistes scrobblés</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="119"/>
         <source>Track artists</source>
         <comment>Scrobbling: Control how track artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suivre un artiste</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="130"/>
@@ -1895,13 +1895,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="154"/>
         <source>Album artists</source>
         <comment>Scrobbling: Control how album artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albums des artistes</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="166"/>
         <source>Use the same setting as for track artists</source>
         <comment>Scrobbling: For controls on how album artists are scrobbled, the user has the option to use the same setting as for track artists</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utiliser les même réglages que pour les artistes suivis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="172"/>
