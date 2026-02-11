@@ -1290,7 +1290,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="610"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadane</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="935"/>
@@ -1764,12 +1764,12 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="3689"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kod kraju</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3715"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz ustawić kod kraju ręcznie, jeśli kraj urządzenia i serwisu streamingowego się nie zgadzają. Ustaw to na &lt;a {attributes}&gt;dwuznakowy kod kraju&lt;/a&gt; Twojego serwisu streamingowego.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3724"/>
@@ -1902,112 +1902,112 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="62"/>
         <source>Account successfully connected.</source>
         <comment>Scrobbling: Connecting the scrobbling account was successful</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto pomyślnie połączone.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="173"/>
         <source>Next steps</source>
         <comment>Scrobbling: The next steps after connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Następne kroki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="201"/>
         <source>Review the settings below, to see if they fit your needs.</source>
         <comment>Scrobbling: First step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przejrzyj ustawienia poniżej, żeby zobaczyć czy pasują do Twoich potrzeb.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="205"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do {players}, żeby wybrać odtwarzacze, które chcesz do scrobblowania.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Odtwarzacze</translation>
+        <translation>Odtwarzacze</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do {configuration), żeby skonfigurować kiedy piosenka jest scrobblowana.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="226"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="379"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Konfiguracja</translation>
+        <translation>Konfiguracja</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="234"/>
         <source>Go to {metadata} to control what song information is scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do {metadata}, żeby kontrolować jakie informacje o piosence są scrobblowane.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="241"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadane</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="265"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Początkowa konfiguracja</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="270"/>
         <source>Please review the following settings, as the defaults might not suit everyone&apos;s needs.</source>
         <comment>Scrobbling: Description for the &quot;Initial setup&quot; section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proszę przejrzyj następujące ustawienia, ze względu na to, że mogą one nie pasować do potrzeb wszystkich.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="282"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobblowanie Artysty</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="299"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbluj wszystkich artystów</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="304"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="314"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
-        <translation type="unfinished"></translation>
+        <translation>zalecane</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="309"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbluj jedynie  głównego artystę</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="351"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zauważ, że niektóre odtwarzacze mogą nie zgłaszać wszystkich artystów i niektóre platformu mają ograniczenia w scrobblowaniu wielu artystów.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="371"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimalna długość piosenki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="386"/>
         <source>Duration</source>
         <comment>Scrobbling: A time duration in minutes and seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Długość</translation>
     </message>
 </context>
 <context>
@@ -2016,210 +2016,210 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="80"/>
         <source>Accounts</source>
         <comment>Scrobbling: Title of the accounts settings panel</comment>
-        <translation type="unfinished">Konta</translation>
+        <translation>Konta</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="101"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozwól na przechowywanie poświadczeń jako zwykły tekst, w razie potrzeby</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="112"/>
         <source>Confirm</source>
         <comment>Scrobbling: Confirm changing a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="113"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poświadczenia są przechowywane jako zwykły tekst tylko, gdy przechowanie ich w kluczach systemowych się nie powiedzie. Zobaczysz wtedy ikonkę ostrzegawczą. Czy jesteś pewien, że chcesz wyłączyć te zachowanie? Jeżeli wystąpi błąd w kluczu systemowym, możesz nie być w stanie się zalogować.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="123"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="172"/>
         <source>Username and password</source>
         <comment>Scrobbling: Log in to an account with username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika i hasło</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="178"/>
         <source>Browser login</source>
         <comment>Scrobbling: Log in to an account with a web browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Logowanie za pomocą przeglądarki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="248"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto jest połączone i gotowe.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="252"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="363"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poświadczenia są niedostępne. Spróbuj się zalogować ponownie.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="256"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>Te konto jest wylogowane. Zaloguj się ponownie, by go użyć.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="278"/>
         <source>Account {account_id_number}</source>
         <comment>Scrobbling: Hover text to show the ID number of the account, to help with debugging errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto {account_id_number}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="315"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poświadczenia konta są przechowywane w Twoich kluczach systemowych.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="319"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poświadczenia konta są przechowywane jako zwykły tekst.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="329"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="333"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="340"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="432"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie połączyłeś jeszcze żadnego konta.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="457"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Połącz konto</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="459"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Połącz kolejne konto</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="550"/>
         <source>Select a log in method:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz metodę logowania:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="553"/>
         <source>Select a service:</source>
         <comment>Scrobbling: Text before different scrobbling services to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz serwis:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="597"/>
         <source>Alternative ways to log in:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alternatywne metody logowania:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="641"/>
         <source>Reconnect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is reconnected/when the user logs back in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Połącz konto ponownie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="645"/>
         <source>Connect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is connected/when the user logs in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Połącz konto</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="689"/>
         <source>Loading...</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie...</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="712"/>
         <source>Enter your username and password:</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz swoją nazwę użytkownika i hasło:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="731"/>
         <source>Username</source>
         <comment>Scrobbling: Field for entering the account username</comment>
-        <translation type="unfinished">Nazwa użytkownika</translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="742"/>
         <source>Password</source>
         <comment>Scrobbling: Field for entering the account password</comment>
-        <translation type="unfinished">Hasło</translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="759"/>
         <source>Log in</source>
         <comment>Scrobbling: Button to continue with the log in after entering the username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="822"/>
         <source>Continue</source>
         <comment>Scrobbling: Button to continue after authorizing access to a scrobbling account in the browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontynuuj</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="826"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoryzuj dostęp do Twojego konta za pomocą linku otwartego w przeglądarce. Następnie kliknij &quot;{continue_text}&quot;, żeby zakończyć.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="868"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli link się nie otworzył, możesz to zrobić ręcznie:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="960"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="972"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -2228,85 +2228,85 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="106"/>
         <source>Configuration</source>
         <comment>Scrobbling: General scrobbling configuration</comment>
-        <translation type="unfinished">Konfiguracja</translation>
+        <translation>Konfiguracja</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="109"/>
         <source>Configure when and how tracks you listen to are scrobbled.</source>
         <comment>Scrobbling: Description for the general scrobbling configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Skonfiguruj kiedy i jak piosenki, których słuchasz są scrobblowane.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="119"/>
         <source>Minimum required playback time</source>
         <comment>Scrobbling: The amount of playback time that is neede for a track to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimalny wymagany czas odtwarzania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="128"/>
         <source>Percentage</source>
         <comment>Scrobbling: The minimum required playback time expressed as a percentage of the track duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Procent</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="158"/>
         <source>Duration</source>
         <comment>Scrobbling: The minimum required playback time expressed as a duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Długość</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="190"/>
         <source>Tracks are scrobbled at the first threshold, whichever is reached earlier.</source>
         <comment>Scrobbling: Description for the &quot;Minimum required playback time&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Piosenki są scrobblowane na pierwszym progu, który zostanie osiągnięty wcześniej.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="203"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimalny czas trwania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="240"/>
         <source>Tracks with a shorter duration will not be scrobbled.</source>
         <comment>Scrobbling: Description for the &quot;Minimum track duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Piosenki o krótszej długości nie będą scrobblowane.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="250"/>
         <source>When to scrobble</source>
         <comment>Scrobbling: When the track should be scrobbled. You can also translate this as &quot;Scrobble time point&quot;, if translating &quot;When to scrobble&quot; is cumbersome</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kiedy scrobblować</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="262"/>
         <source>As soon as the required playback time is reached</source>
         <comment>Scrobbling: Option to decide when to scrobble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jak tylko wymagany czas odtwarzania zostanie osiągnięty</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="266"/>
         <source>When the track&apos;s playback ends</source>
         <comment>Scrobbling: Option to decide when to scrobble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kiedy zakończy się odtwarzanie piosenki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="306"/>
         <source>Rewinding a track to the beginning also counts as the end of the track&apos;s playback.</source>
         <comment>Scrobbling: Description for the &quot;When to scrobble&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przewinięcie piosenki do jej początku także liczy się jako koniec odtwarzania piosenki.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="316"/>
         <source>Send &quot;Now Playing&quot; information when you start listening</source>
         <comment>Scrobbling: Whether to send to scrobbling services what the user is listening to in the current moment, before the track is scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij informację &quot;Aktualnie odtwarzane&quot;, gdy zaczniesz słuchać</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="334"/>
         <source>Allow others to see what you&apos;re currently listening to on your profile.</source>
         <comment>Scrobbling: Description for the &quot;Send &quot;Now Playing&quot; information when you start listening&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozwól innym zobaczyć, czego aktualnie słuchasz na Twoim profilu.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="349"/>
