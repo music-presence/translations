@@ -25,7 +25,7 @@
         <location filename="../src/app/app.cpp" line="3558"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>AKtywność wyłączona</translation>
+        <translation>Aktywność wyłączona</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3561"/>
@@ -1236,7 +1236,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2480"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation>Nie wyświetlaj żadnych informacji o piosence</translation>
+        <translation>Nie wyświetlaj żadnych informacji o utworze</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2557"/>
@@ -1254,7 +1254,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2402"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation>Informacje o piosence</translation>
+        <translation>Informacje o utworze</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="563"/>
@@ -1758,7 +1758,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
     <message>
         <location filename="../src/app/settings/window.cpp" line="3663"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Wysyłanie kodu twojego kraju jest wymagane, żeby znaleźć wybrane piosenki dostępne jedynie w konkretnych krajach i może usprawnić wyniki wyszukiwania. Kod twojego kraju jest usuwany z każdego linku przed pokazaniem na statusie Discord.</translation>
+        <translation>Wysyłanie kodu twojego kraju jest wymagane, żeby znaleźć wybrane utwory dostępne jedynie w konkretnych krajach i może usprawnić wyniki wyszukiwania. Kod twojego kraju jest usuwany z każdego linku przed pokazaniem na statusie Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3689"/>
@@ -1920,7 +1920,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="205"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Przejdź do {players}, żeby wybrać odtwarzacze, które chcesz do scrobblowania.</translation>
+        <translation>Przejdź do {players}, żeby wybrać odtwarzacze, które chcesz scrobblować.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
@@ -1945,7 +1945,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="234"/>
         <source>Go to {metadata} to control what song information is scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Przejdź do {metadata}, żeby kontrolować jakie informacje o piosence są scrobblowane.</translation>
+        <translation>Przejdź do {metadata}, żeby określić jakie informacje o utworze są scrobblowane.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="241"/>
@@ -1970,7 +1970,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="282"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation>Scrobblowanie Artysty</translation>
+        <translation>Scrobblowanie artysty</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="299"/>
@@ -1995,7 +1995,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="351"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation>Zauważ, że niektóre odtwarzacze mogą nie zgłaszać wszystkich artystów i niektóre platformu mają ograniczenia w scrobblowaniu wielu artystów.</translation>
+        <translation>Zauważ, że niektóre odtwarzacze mogą nie zgłaszać wszystkich artystów i niektóre platformy mają ograniczenia w scrobblowaniu wielu artystów.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="371"/>
@@ -2360,25 +2360,25 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="475"/>
         <source>Playback time recording</source>
         <comment>Scrobbling: Configuration of how the playback time is recorded</comment>
-        <translation>Nagrywanie czasu odtwarzania</translation>
+        <translation>Rejestrowanie czasu odtwarzania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="485"/>
         <source>Strict &amp;ndash; Already played sections are not recorded again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Strict/accurate recording means that played sections of the track will not be recorded multiple times and won&apos;t count towards the minimum playback time more than once</comment>
-        <translation>Surowy &amp;ndash; Odtworzone fragmenty nie są nagrywane ponownie</translation>
+        <translation>Surowy &amp;ndash; Już odtworzone fragmenty nie są rejestrowane ponownie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation>Luźny &amp;ndash; Odtworzone fragmenty są zapisywane wiele razy, gdy odtworzone ponownie</translation>
+        <translation>Luźny &amp;ndash; Odtworzone fragmenty są rejestrowane wiele razy, gdy odtworzone ponownie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation>Opcja &quot;Surowy&quot; zapobiega scrobblowaniu piosenki za wcześnie, gdy np. przewiniesz piosenkę, lub gdy otwarzasz sekcję piosenki ponownie.</translation>
+        <translation>Opcja &quot;Surowy&quot; zapobiega scrobblowaniu piosenki za wcześnie, gdy np. Przewiniesz piosenkę, lub gdy ponownie odtwarzasz fragment piosenki.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
@@ -2390,7 +2390,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="584"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation>Gdy piosenka jest przewinięta, musi zostać przewinięta o conajmniej tyle, żeby została scrobblowana. Zauważ, że piosenka zawsze musi być przewinięta o minimalny wymagany czas odtwarzania.</translation>
+        <translation>Gdy piosenka zostaje przewinięta, musi zostać przewinięta o co najmniej tyle, żeby została scrobblowana. Zauważ, że piosenka zawsze musi być przewinięta o minimalny wymagany czas odtwarzania.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
@@ -2408,7 +2408,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation>Piosenka, która miała ostatnią interakcję</translation>
+        <translation>Utwór, który miał ostatnią interakcję</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
@@ -2420,7 +2420,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="754"/>
         <source>This setting is only relevant when there are multiple media players playing music at the same time and one of the played tracks has to be chosen.</source>
         <comment>Scrobbling: Description for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation>Te ustawienie jest brane pod uwagę tylko, gdy kilka odtwarzaczy odtwarza muzykę w tym samym czasie, i któraś z tych piosenek musi zostać wybrana.</translation>
+        <translation>Te ustawienie jest brane pod uwagę tylko, gdy jest kilka odtwarzaczy grających muzykę i musi zostać wybrany jeden utwór.</translation>
     </message>
 </context>
 <context>
@@ -2465,19 +2465,19 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="166"/>
         <source>Use the same setting as for track artists</source>
         <comment>Scrobbling: For controls on how album artists are scrobbled, the user has the option to use the same setting as for track artists</comment>
-        <translation>Użyj tego samego ustawienia jak dla twórcy piosenki</translation>
+        <translation>Użyj tego samego ustawienia jak dla wykonawców piosenki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="172"/>
         <source>Scrobble all album artists</source>
         <comment>Scrobbling: Option to scrobble all album artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbluj wszystkich artystów albumu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="179"/>
         <source>Scrobble only the primary album artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main album artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbluj głównego artystę albumu</translation>
     </message>
 </context>
 <context>
@@ -2486,13 +2486,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="166"/>
         <source>Disable</source>
         <comment>Scrobbling: Disable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="167"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włącz</translation>
     </message>
 </context>
 </TS>
