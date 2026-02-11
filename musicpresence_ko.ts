@@ -1951,56 +1951,56 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="265"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
-        <translation type="unfinished"></translation>
+        <translation>초기 설정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="270"/>
         <source>Please review the following settings, as the defaults might not suit everyone&apos;s needs.</source>
         <comment>Scrobbling: Description for the &quot;Initial setup&quot; section</comment>
-        <translation type="unfinished"></translation>
+        <translation>기본 설정이 모든 사용자에게 적합하지 않을 수 있습니다. 아래 내용을 확인하고 필요에 따라 조정해 주세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="282"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>아티스트 스크로블링</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="299"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished">모든 아티스트 스크로블</translation>
+        <translation>모든 아티스트 스크로블</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="304"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="314"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
-        <translation type="unfinished"></translation>
+        <translation>권장</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="309"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished">대표 아티스트만 스크로블</translation>
+        <translation>대표 아티스트만 스크로블</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="351"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>특정 미디어 플레이어는 모든 아티스트 정보를 전달하지 않을 수 있으며, 일부 플랫폼은 다중 아티스트 스크로블 처리 기능이 제한될 수 있으니 유의하시기 바랍니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="371"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>최소 곡 재생 시간</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="386"/>
         <source>Duration</source>
         <comment>Scrobbling: A time duration in minutes and seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>재생 시간</translation>
     </message>
 </context>
 <context>
@@ -2009,210 +2009,210 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="80"/>
         <source>Accounts</source>
         <comment>Scrobbling: Title of the accounts settings panel</comment>
-        <translation type="unfinished">계정</translation>
+        <translation>계정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="101"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
-        <translation type="unfinished"></translation>
+        <translation>필요 시 자격 증명을 평문으로 저장 허용</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="112"/>
         <source>Confirm</source>
         <comment>Scrobbling: Confirm changing a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>확인</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="113"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>자격 증명은 시스템 키체인 저장이 실패할 경우에만 평문으로 저장되며, 이때 경고 아이콘이 표시됩니다. 정말 이 기능을 비활성화하시겠습니까? 시스템 키체인에 오류가 발생하면 로그인이 불가능할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="123"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>예</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>아니요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="172"/>
         <source>Username and password</source>
         <comment>Scrobbling: Log in to an account with username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>사용자 이름 및 비밀번호</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="178"/>
         <source>Browser login</source>
         <comment>Scrobbling: Log in to an account with a web browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>브라우저 로그인</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="248"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정이 연결되어 준비되었습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="252"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="363"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>자격 증명을 사용할 수 없습니다. 다시 로그인해 주세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="256"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>이 계정은 로그아웃되었습니다. 사용하려면 다시 로그인해 주세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="278"/>
         <source>Account {account_id_number}</source>
         <comment>Scrobbling: Hover text to show the ID number of the account, to help with debugging errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정 {account_id_number}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="315"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
-        <translation type="unfinished"></translation>
+        <translation>자격 증명이 키체인에 저장되어 있습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="319"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
-        <translation type="unfinished"></translation>
+        <translation>자격 증명이 평문으로 저장되어 있습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="329"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>로그아웃</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="333"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>로그인</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="340"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
-        <translation type="unfinished"></translation>
+        <translation>제거</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="432"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>아직 연결된 계정이 없습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="457"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정 연결</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="459"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>다른 계정 연결</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="550"/>
         <source>Select a log in method:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>로그인 방식 선택:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="553"/>
         <source>Select a service:</source>
         <comment>Scrobbling: Text before different scrobbling services to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>서비스 선택:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="597"/>
         <source>Alternative ways to log in:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>다른 로그인 방식:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="641"/>
         <source>Reconnect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is reconnected/when the user logs back in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정 재연결</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="645"/>
         <source>Connect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is connected/when the user logs in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>계정 연결</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="689"/>
         <source>Loading...</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>불러오는 중...</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="712"/>
         <source>Enter your username and password:</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>사용자 이름 및 비밀번호 입력:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="731"/>
         <source>Username</source>
         <comment>Scrobbling: Field for entering the account username</comment>
-        <translation type="unfinished">사용자 이름</translation>
+        <translation>사용자 이름</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="742"/>
         <source>Password</source>
         <comment>Scrobbling: Field for entering the account password</comment>
-        <translation type="unfinished">비밀번호</translation>
+        <translation>비밀번호</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="759"/>
         <source>Log in</source>
         <comment>Scrobbling: Button to continue with the log in after entering the username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>로그인</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="822"/>
         <source>Continue</source>
         <comment>Scrobbling: Button to continue after authorizing access to a scrobbling account in the browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>계속</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="826"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>브라우저에 열린 링크를 통해 계정 접근을 승인해 주세요. 그런 다음 &quot;{continue_text}&quot;를 클릭하면 완료됩니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="868"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>링크가 열리지 않은 경우, 수동으로 열 수 있습니다:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="960"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation type="unfinished"></translation>
+        <translation>오류가 발생했습니다: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="972"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
 </context>
 <context>
@@ -2221,199 +2221,199 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="106"/>
         <source>Configuration</source>
         <comment>Scrobbling: General scrobbling configuration</comment>
-        <translation type="unfinished">설정</translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="109"/>
         <source>Configure when and how tracks you listen to are scrobbled.</source>
         <comment>Scrobbling: Description for the general scrobbling configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>감상하는 트랙이 스크로블되는 시점과 방식을 설정합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="119"/>
         <source>Minimum required playback time</source>
         <comment>Scrobbling: The amount of playback time that is neede for a track to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>최소 필수 재생 시간</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="128"/>
         <source>Percentage</source>
         <comment>Scrobbling: The minimum required playback time expressed as a percentage of the track duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>퍼센트</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="158"/>
         <source>Duration</source>
         <comment>Scrobbling: The minimum required playback time expressed as a duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="190"/>
         <source>Tracks are scrobbled at the first threshold, whichever is reached earlier.</source>
         <comment>Scrobbling: Description for the &quot;Minimum required playback time&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>두 기준 중 먼저 도달하는 시점에 트랙이 스크로블됩니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="203"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>최소 트랙 길이</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="240"/>
         <source>Tracks with a shorter duration will not be scrobbled.</source>
         <comment>Scrobbling: Description for the &quot;Minimum track duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>이보다 짧은 트랙은 스크로블되지 않습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="250"/>
         <source>When to scrobble</source>
         <comment>Scrobbling: When the track should be scrobbled. You can also translate this as &quot;Scrobble time point&quot;, if translating &quot;When to scrobble&quot; is cumbersome</comment>
-        <translation type="unfinished"></translation>
+        <translation>스크로블 시점</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="262"/>
         <source>As soon as the required playback time is reached</source>
         <comment>Scrobbling: Option to decide when to scrobble</comment>
-        <translation type="unfinished"></translation>
+        <translation>필수 재생 시간 도달 시 즉시</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="266"/>
         <source>When the track&apos;s playback ends</source>
         <comment>Scrobbling: Option to decide when to scrobble</comment>
-        <translation type="unfinished"></translation>
+        <translation>트랙 재생 종료 시</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="306"/>
         <source>Rewinding a track to the beginning also counts as the end of the track&apos;s playback.</source>
         <comment>Scrobbling: Description for the &quot;When to scrobble&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>트랙을 처음으로 되감는 것도 재생 종료로 간주됩니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="316"/>
         <source>Send &quot;Now Playing&quot; information when you start listening</source>
         <comment>Scrobbling: Whether to send to scrobbling services what the user is listening to in the current moment, before the track is scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>감상 시작 시 “지금 재생 중” 정보 전송</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="334"/>
         <source>Allow others to see what you&apos;re currently listening to on your profile.</source>
         <comment>Scrobbling: Description for the &quot;Send &quot;Now Playing&quot; information when you start listening&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>다른 사용자가 프로필에서 현재 감상 중인 정보를 확인할 수 있도록 허용합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="349"/>
         <source>When the track duration is unknown</source>
         <comment>Scrobbling: Settings for the case that a media player does not report the track duration, which makes scrobbling less accurate</comment>
-        <translation type="unfinished"></translation>
+        <translation>트랙 길이를 알 수 없는 경우</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="360"/>
         <source>Some media players do not report the track duration. In those cases the above thresholds are ignored and the following settings apply instead. Tracks with an unknown duration are always scrobbled at the end of their playback or after being rewinded to the beginning.</source>
         <comment>Scrobbling: Description for the &quot;When the track duration is unknown&quot; settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>일부 미디어 플레이어는 트랙 길이를 제공하지 않습니다. 이러한 경우 위에서 설정한 기준은 무시되며 다음 설정이 대신 적용됩니다. 길이를 알 수 없는 트랙은 항상 재생이 종료되거나 처음으로 되감았을 때 스크로블됩니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="380"/>
         <source>Allow multiple scrobbles</source>
         <comment>Scrobbling: Whether to allow multiple scrobbles, when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>중복 스크로블 허용</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="397"/>
         <source>Whether to allow a track with an unknown duration to be scrobbled again when being rewinded to the beginning or when being played on repeat. Note that rewinding early in the track can lead to a scrobble then.</source>
         <comment>Scrobbling: Description for the &quot;Allow multiple scrobbles&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>길이를 알 수 없는 트랙을 처음으로 되감거나 반복 재생할 때 다시 스크로블할지 여부를 설정합니다. 곡 재생 초기에 되감기를 하더라도 스크로블이 기록될 수 있으니 유의하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="409"/>
         <source>Minimum playback time</source>
         <comment>Scrobbling: Minimum time for which a track without a duration has to be played to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>최소 재생 시간</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="447"/>
         <source>Tracks with an unknown duration need to play for at least the specified time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum playback time&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>길이를 알 수 없는 트랙은 최소 지정된 시간만큼 재생되어야 합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="461"/>
         <source>Advanced configuration</source>
         <comment>Scrobbling: Advaned scrobbling configuration category</comment>
-        <translation type="unfinished"></translation>
+        <translation>고급 설정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="465"/>
         <source>Only change these settings, if you know what you&apos;re doing.</source>
         <comment>Scrobbling: Description for the &quot;Advanced configuration&quot; category</comment>
-        <translation type="unfinished"></translation>
+        <translation>이 설정은 내용을 충분히 숙지한 경우에만 변경하십시오.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="475"/>
         <source>Playback time recording</source>
         <comment>Scrobbling: Configuration of how the playback time is recorded</comment>
-        <translation type="unfinished"></translation>
+        <translation>재생 시간 기록 방식</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="485"/>
         <source>Strict &amp;ndash; Already played sections are not recorded again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Strict/accurate recording means that played sections of the track will not be recorded multiple times and won&apos;t count towards the minimum playback time more than once</comment>
-        <translation type="unfinished"></translation>
+        <translation>엄격 &amp;ndash; 이미 재생된 구간은 다시 기록하지 않음</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation type="unfinished"></translation>
+        <translation>완화 &amp;ndash; 재생된 구간을 다시 들을 때 중복 기록 허용</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>“엄격” 옵션은 트랙을 되감거나 특정 구간을 다시 재생할 때, 실제보다 이르게 스크로블되는 것을 방지합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
         <source>Minimum rewind duration</source>
         <comment>Scrobbling: The minimum duration for which a track must be rewinded in order to count it as being played again (or a second time)</comment>
-        <translation type="unfinished"></translation>
+        <translation>최소 되감기 길이</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="584"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>트랙을 되감아 다시 스크로블하려면 최소 이 시간만큼 되감아야 합니다. 단, 다시 스크로블하기 위해서는 항상 &apos;최소 필수 재생 시간&apos;보다 더 많이 되감아야 한다는 점에 유의하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>오차 허용 범위 (초)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="694"/>
         <source>Which track to send &quot;Now Playing&quot; information for</source>
         <comment>Scrobbling: Control over which track is shown on the user&apos;s profile, when multiple tracks are playing at the same time</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;지금 재생 중&apos; 정보를 전송할 트랙 선택</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>가장 최근에 상호작용한 트랙</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
         <source>The track that has been playing the longest</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>가장 오래 재생 중인 트랙</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="754"/>
         <source>This setting is only relevant when there are multiple media players playing music at the same time and one of the played tracks has to be chosen.</source>
         <comment>Scrobbling: Description for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>이 설정은 여러 미디어 플레이어가 동시에 음악을 재생 중이어서, 그중 하나를 선택해야 하는 경우에만 적용됩니다.</translation>
     </message>
 </context>
 <context>
@@ -2479,13 +2479,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="166"/>
         <source>Disable</source>
         <comment>Scrobbling: Disable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>비활성화</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="167"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>활성화</translation>
     </message>
 </context>
 </TS>
