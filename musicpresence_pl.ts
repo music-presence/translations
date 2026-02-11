@@ -2447,25 +2447,25 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="130"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbluj wszystkich artystów</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="134"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbluj tylko głównego artystę</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="154"/>
         <source>Album artists</source>
         <comment>Scrobbling: Control how album artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artysta albumu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="166"/>
         <source>Use the same setting as for track artists</source>
         <comment>Scrobbling: For controls on how album artists are scrobbled, the user has the option to use the same setting as for track artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tego samego ustawienia jak dla twórcy piosenki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="172"/>
