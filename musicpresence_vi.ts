@@ -1932,7 +1932,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="379"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Cấu hình</translation>
+        <translation>Cấu hình</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="234"/>
@@ -2171,13 +2171,13 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="731"/>
         <source>Username</source>
         <comment>Scrobbling: Field for entering the account username</comment>
-        <translation type="unfinished">Tên người dùng</translation>
+        <translation>Tên người dùng</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="742"/>
         <source>Password</source>
         <comment>Scrobbling: Field for entering the account password</comment>
-        <translation type="unfinished">Mật khẩu</translation>
+        <translation>Mật khẩu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="759"/>
@@ -2221,7 +2221,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="106"/>
         <source>Configuration</source>
         <comment>Scrobbling: General scrobbling configuration</comment>
-        <translation type="unfinished">Cấu hình</translation>
+        <translation>Cấu hình</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="109"/>
@@ -2269,7 +2269,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="250"/>
         <source>When to scrobble</source>
         <comment>Scrobbling: When the track should be scrobbled. You can also translate this as &quot;Scrobble time point&quot;, if translating &quot;When to scrobble&quot; is cumbersome</comment>
-        <translation>Thời điểm ghi lại</translation>
+        <translation>Khi nào thì scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="262"/>
@@ -2323,97 +2323,97 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="397"/>
         <source>Whether to allow a track with an unknown duration to be scrobbled again when being rewinded to the beginning or when being played on repeat. Note that rewinding early in the track can lead to a scrobble then.</source>
         <comment>Scrobbling: Description for the &quot;Allow multiple scrobbles&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lựa chọn khi nào thì cho phép bài nhạc không rõ thời lượng được scrobble lần nữa khi được tua lại từ đầu hoặc được phát lặp lại. Lưu ý rằng tua sớm có thể dẫn tới việc scrobble.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="409"/>
         <source>Minimum playback time</source>
         <comment>Scrobbling: Minimum time for which a track without a duration has to be played to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thời lượng phát tối thiểu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="447"/>
         <source>Tracks with an unknown duration need to play for at least the specified time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum playback time&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Các bài nhạc không rõ thời lượng sẽ phải được phát trong bao lâu thì mới scrobble.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="461"/>
         <source>Advanced configuration</source>
         <comment>Scrobbling: Advaned scrobbling configuration category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Các cài đặt nâng cao</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="465"/>
         <source>Only change these settings, if you know what you&apos;re doing.</source>
         <comment>Scrobbling: Description for the &quot;Advanced configuration&quot; category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chỉ thay đổi các cài đặt sau nếu bạn biết rõ mình đang làm gì.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="475"/>
         <source>Playback time recording</source>
         <comment>Scrobbling: Configuration of how the playback time is recorded</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cách ghi lại thời lượng phát</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="485"/>
         <source>Strict &amp;ndash; Already played sections are not recorded again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Strict/accurate recording means that played sections of the track will not be recorded multiple times and won&apos;t count towards the minimum playback time more than once</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nghiêm ngặt &amp;ndash; Những đoạn đã phát sẽ không được tính</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thoải mái &amp;ndash; Những đoạn đã phát sẽ được tính khi phát lại</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tùy chọn &quot;Nghiêm ngặt&quot; ngăn việc bài nhạc bị scrobble sớm hơn, ví dụ như tua lại hoặc phát lại một phần nào đó của bài.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
         <source>Minimum rewind duration</source>
         <comment>Scrobbling: The minimum duration for which a track must be rewinded in order to count it as being played again (or a second time)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thời lượng tua lại ngắn nhất</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="584"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Khi tua lại một bài nhạc, nó cần được tua lại từng này để có thể scrobble. Lưu ý rằng bài nhạc luôn phải được tua lại ít nhất bằng thời lượng phát nhỏ nhất.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Thời gian chênh lệch cho phép (tính bằng giây)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="694"/>
         <source>Which track to send &quot;Now Playing&quot; information for</source>
         <comment>Scrobbling: Control over which track is shown on the user&apos;s profile, when multiple tracks are playing at the same time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chọn bài nào sẽ được gửi thông tin &quot;Hiện đang phát&quot;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bài nhạc được tương tác gần nhất</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
         <source>The track that has been playing the longest</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bài nhạc đã được phát lâu nhất</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="754"/>
         <source>This setting is only relevant when there are multiple media players playing music at the same time and one of the played tracks has to be chosen.</source>
         <comment>Scrobbling: Description for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt này chỉ liên quan khi có nhiều trình phát đang chạy cùng lúc và chỉ được chọn một bài duy nhất.</translation>
     </message>
 </context>
 <context>
@@ -2422,19 +2422,19 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="103"/>
         <source>Artists</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nghệ sĩ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="106"/>
         <source>Control whether you want to scrobble all artists or only the primary artist. Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobbled artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chọn khi nào thì scrobble tất cả nghệ sĩ hoặc chỉ nghệ sĩ chính. Lưu ý rằng một số trình phát có thể không báo lại toàn bộ các nghệ sĩ và một số nền tảng bị hạn chế trong việc scrobble nhiều nghệ sĩ.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="119"/>
         <source>Track artists</source>
         <comment>Scrobbling: Control how track artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nghệ sĩ đóng góp cho bài</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="130"/>
