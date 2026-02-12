@@ -429,7 +429,7 @@
         <location filename="../src/app/app.cpp" line="5718"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation>Сообщить об обнаруженном медиа-плеере</translation>
+        <translation>Сообщить об обнаруженном медиа-проигрывателе</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5725"/>
@@ -1719,7 +1719,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3715"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете ввести код страны вручную, если страны Вашего устройства и стримингового сервиса не совпадают. Установите его в &lt;a {attributes}&gt;двухбуквенный код страны&lt;/a&gt; Вашего стримингового сервиса.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3724"/>
@@ -1864,38 +1864,38 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="201"/>
         <source>Review the settings below, to see if they fit your needs.</source>
         <comment>Scrobbling: First step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ознакомьтесь с приведенными ниже настройками, чтобы убедиться, что они соответствуют Вашим потребностям.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="205"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {players}, чтобы включить медиа-проигрыватели, которые Вы хотите скробблить.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Проигрыватели</translation>
+        <translation>Проигрыватели</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {configuration}, чтобы настроить время, когда трек будет скробблиться.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="226"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="379"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Конфигурация</translation>
+        <translation>Конфигурация</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="234"/>
         <source>Go to {metadata} to control what song information is scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {metadata}, чтобы управлять тем, какая информация о песне будет скробблиться.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="241"/>
@@ -1908,38 +1908,38 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="265"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Начальная настройка</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="270"/>
         <source>Please review the following settings, as the defaults might not suit everyone&apos;s needs.</source>
         <comment>Scrobbling: Description for the &quot;Initial setup&quot; section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, ознакомьтесь со следующими настройками, поскольку значения по умолчанию могут не подойти всем.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="282"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скробблинг исполнителя</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="299"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скробблить всех исполнителей</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="304"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="314"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
-        <translation type="unfinished"></translation>
+        <translation>рекомендуется</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="309"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скробблить только основного исполнителя</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="351"/>
