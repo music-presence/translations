@@ -1780,63 +1780,63 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="62"/>
         <source>Account successfully connected.</source>
         <comment>Scrobbling: Connecting the scrobbling account was successful</comment>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชีสำเร็จแล้ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="173"/>
         <source>Next steps</source>
         <comment>Scrobbling: The next steps after connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>ขั้นตอนต่อไป</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="201"/>
         <source>Review the settings below, to see if they fit your needs.</source>
         <comment>Scrobbling: First step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>โปรดเช็คการตั้งค่าด้านล่าง เพื่อดูว่าเหมาะกับคุณรึยัง</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="205"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่ {players} เพื่อตั้งค่าเครื่องเล่นมีเดียที่อยากให้ scrobble ได้</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">แอปเล่นเพลง</translation>
+        <translation>เครื่องเล่นมีเดีย</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่ {configuration} เพื่อตั้งค่าเพลงที่กำลัง scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="226"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="379"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">การตั้งค่า</translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="234"/>
         <source>Go to {metadata} to control what song information is scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่ {metadata} เพื่อกำหนดข้อมูลเพลงต่าง ๆ ตอนที่กำลัง scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="241"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">เมต้าดาต้า</translation>
+        <translation>เมต้าดาต้า</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="265"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าเริ่มต้น</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="270"/>
