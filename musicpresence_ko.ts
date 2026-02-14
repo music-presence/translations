@@ -43,7 +43,7 @@
         <location filename="../src/app/app.cpp" line="3570"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation>Discord를 기다리는 중</translation>
+        <translation>디스코드를 기다리는 중</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3576"/>
@@ -801,7 +801,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="7882"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt; 시스템 트레이에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;시스템 트레이에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7907"/>
