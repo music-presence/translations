@@ -1945,13 +1945,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="351"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Заметьте, что некоторые медиа-проигрыватели могут не сообщать о каждом исполнителе и то, что некоторые платформы ограничены в их способности обрабатывать нескольких артистов в скробблинге.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="371"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Минимальная продолжительность трека</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="386"/>
@@ -1972,7 +1972,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="101"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить хранение реквизитов в текстовом файле, если необходимо</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="112"/>
@@ -1984,7 +1984,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="113"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Реквизиты сохранятся в текстовом файле только если хранение их в Связке ключей системы не удается. Тогда Вы увидите иконку предупреждения. Вы уверены, что Вы хотите выключить это поведение? Если произойдёт ошибка со Связкой ключей системы, то Вы не сможете войти обратно.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="123"/>
@@ -2012,21 +2012,21 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="248"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт подключен и готов к использованию.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="252"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="363"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Реквизиты недоступны. Попробуйте войти снова.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="256"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>Этот аккаунт вышел из системы. Чтобы пользоваться дальше, войдите снова.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="278"/>
@@ -2038,138 +2038,138 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="315"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
-        <translation type="unfinished"></translation>
+        <translation>Реквизиты аккаунта хранятся в Вашей Связке ключей.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="319"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Реквизиты аккаунта хранятся в текстовом файле.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="329"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выход из системы</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="333"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вход</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="340"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="432"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вы пока не подключили ни одного аккаунта.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="457"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Подключить аккаунт</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="459"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Подключить другой аккаунт</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="550"/>
         <source>Select a log in method:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выберите способ входа:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="553"/>
         <source>Select a service:</source>
         <comment>Scrobbling: Text before different scrobbling services to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выберите сервис:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="597"/>
         <source>Alternative ways to log in:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Другие способы входа:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="641"/>
         <source>Reconnect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is reconnected/when the user logs back in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Переподключить аккаунт</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="645"/>
         <source>Connect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is connected/when the user logs in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Подключение аккаунта</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="689"/>
         <source>Loading...</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка...</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="712"/>
         <source>Enter your username and password:</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Введите Ваши имя пользователя и пароль:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="731"/>
         <source>Username</source>
         <comment>Scrobbling: Field for entering the account username</comment>
-        <translation type="unfinished">Имя пользователя</translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="742"/>
         <source>Password</source>
         <comment>Scrobbling: Field for entering the account password</comment>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="759"/>
         <source>Log in</source>
         <comment>Scrobbling: Button to continue with the log in after entering the username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Войти</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="822"/>
         <source>Continue</source>
         <comment>Scrobbling: Button to continue after authorizing access to a scrobbling account in the browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="826"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизуйтесь в свой аккаунт с помощью ссылки, которая открылась в Вашем браузере . Затем нажмите &quot;{continue_text}&quot;, чтобы завершить авторизацию.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="868"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Если ссылка не открылась, Вы можете открыть её вручную:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="960"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="972"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -2178,49 +2178,49 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="106"/>
         <source>Configuration</source>
         <comment>Scrobbling: General scrobbling configuration</comment>
-        <translation type="unfinished">Конфигурация</translation>
+        <translation>Конфигурация</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="109"/>
         <source>Configure when and how tracks you listen to are scrobbled.</source>
         <comment>Scrobbling: Description for the general scrobbling configuration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настроить когда и как должны скробблиться треки, которые Вы прослушиваете.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="119"/>
         <source>Minimum required playback time</source>
         <comment>Scrobbling: The amount of playback time that is neede for a track to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Минимальное требуемое время проигрывания</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="128"/>
         <source>Percentage</source>
         <comment>Scrobbling: The minimum required playback time expressed as a percentage of the track duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Процент</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="158"/>
         <source>Duration</source>
         <comment>Scrobbling: The minimum required playback time expressed as a duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Продолжительность</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="190"/>
         <source>Tracks are scrobbled at the first threshold, whichever is reached earlier.</source>
         <comment>Scrobbling: Description for the &quot;Minimum required playback time&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Треки скробблятся при первом пороговом значении, в зависимости от того, какой порог достигается раньше других.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="203"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Минимальная длительность трека</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="240"/>
         <source>Tracks with a shorter duration will not be scrobbled.</source>
         <comment>Scrobbling: Description for the &quot;Minimum track duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Треки с меньшей длительностью не будут скробблиться.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="250"/>
