@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="3561"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>활성화하려면 클릭</translation>
+        <translation>클릭하여 활성화</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3565"/>
@@ -394,7 +394,7 @@
         <location filename="../src/app/app.cpp" line="5731"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation>우리 Discord 서버에 참여하세요</translation>
+        <translation>공식 디스코드 서버에 참여하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5744"/>
@@ -486,7 +486,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>{app_name}이(가) 마음에 드나요?
-개발을 기부로 지원할 수 있어요. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
+기부를 통해 개발을 지원할 수 있습니다. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6195"/>
@@ -602,7 +602,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="5738"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation>기부로 개발을 지원하세요</translation>
+        <translation>기부로 개발을 지원해주세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5835"/>
@@ -836,7 +836,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="8024"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>{app_name}이(가) 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원하세요&lt;/a&gt;</translation>
+        <translation>{app_name}이(가) 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원해주세요&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8032"/>
@@ -1117,7 +1117,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1892"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation>광고를 필터링하려고 시도</translation>
+        <translation>광고 필터링 시도</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1898"/>
@@ -1328,7 +1328,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1215"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation>알림 영역 아이콘 우클릭으로 설정 열기</translation>
+        <translation>알림 영역 아이콘 좌클릭으로 설정 열기</translation>
     </message>
     <message>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
@@ -1762,7 +1762,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3715"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation>기기와 스트리밍 서비스의 국가가 일치하지 않을 경우 국가 코드를 수동으로 설정할 수 있습니다. 스트리밍 서비스의 &lt;a {attributes}&gt;두 자리 국가 코드&lt;/a&gt;를 입력하세요.</translation>
+        <translation>기기와 스트리밍 서비스의 국가가 일치하지 않을 경우 국가 코드를 수동으로 설정할 수 있습니다. 스트리밍 서비스의 &lt;a {attributes}&gt;두 글자 국가 코드&lt;/a&gt;를 입력하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3724"/>
@@ -1833,7 +1833,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4082"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation>저장</translation>
+        <translation>저장하기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4088"/>
