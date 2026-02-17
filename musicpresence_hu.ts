@@ -331,19 +331,19 @@
         <location filename="../src/app/app.cpp" line="3316"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatizálási engedély megtagadva</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3322"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} nem szabad automatizálni &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Nyissa meg a rendszerbeállításokat, és engedélyezze az automatizálást a &quot;{player_name}&quot; az &quot;Adatvédelem &amp;nbsp;&amp;amp;&amp;nbsp;Biztonság&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3336"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nyissia meg a beállításokat</translation>
     </message>
     <message>
         <source>Placeholder for missing cover images</source>
@@ -438,25 +438,25 @@
         <location filename="../src/app/app.cpp" line="2009"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hirek a developertol</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elvetés</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jelenleg nincsenek hírek a developertol. Nézz vissza később, vagy engedélyezd a hírekről szóló értesítéseket a beállításokban, hogy értesítést kapj, amint új hírek jelennek meg.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5711"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valami nem működik</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5718"/>
@@ -517,7 +517,7 @@
         <location filename="../src/app/app.cpp" line="5835"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nézze a legfrissebb híreket</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5843"/>
@@ -835,19 +835,19 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mindenképpen zárd be</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hirek</translation>
     </message>
 </context>
 <context>
@@ -867,32 +867,32 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="573"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Általános</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="576"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="594"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szolgáltatások</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="577"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fejlett</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="584"/>
         <location filename="../src/app/settings/window.cpp" line="5915"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hirek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="593"/>
@@ -904,7 +904,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="610"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metaadatok</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="730"/>
@@ -922,13 +922,13 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="749"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazni</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="758"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer nyelve</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="928"/>
@@ -940,62 +940,62 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="937"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tálca ikon téma</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="947"/>
         <location filename="../src/app/settings/window.cpp" line="991"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer téma</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="949"/>
         <location filename="../src/app/settings/window.cpp" line="993"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fényes</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="951"/>
         <location filename="../src/app/settings/window.cpp" line="994"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>sötét</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="983"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>App tema</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1038"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alkalmazásból való kilépéshez, amikor a menüsor ikonja rejtett, kattintson a &quot;{exit_category_name}&quot; az oldalsávban.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1043"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alkalmazásból való kilépéshez, amikor a tálca ikonja rejtett, kattintson a &quot;{exit_category_name}&quot; az oldalsávban.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1180"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a beállításokat, amikor az alkalmazás újraindul</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1236"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mindig nyissa meg az utoljára használt beállítások kategóriáját</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1265"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows beállítások</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1271"/>
@@ -1043,7 +1043,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="1386"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hirek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1389"/>
