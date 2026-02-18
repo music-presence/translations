@@ -1142,7 +1142,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="575"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobbling</translation>
+        <translation>สคร็อบบลิ้ง</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="601"/>
@@ -1798,7 +1798,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="205"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>ไปที่ {players} เพื่อตั้งค่าเครื่องเล่นมีเดียที่อยากให้ scrobble ได้</translation>
+        <translation>ไปที่ {players} เพื่อตั้งค่าเครื่องเล่นมีเดียที่อยากให้ สคร็อบเบิล ได้</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
@@ -1810,7 +1810,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>ไปที่ {configuration} เพื่อตั้งค่าเพลงที่กำลัง scrobble</translation>
+        <translation>ไปที่ {configuration} เพื่อตั้งค่าเพลงที่กำลัง สคร็อบเบิล</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="226"/>
@@ -1823,7 +1823,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="234"/>
         <source>Go to {metadata} to control what song information is scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>ไปที่ {metadata} เพื่อกำหนดข้อมูลเพลงต่าง ๆ ตอนที่กำลัง scrobble</translation>
+        <translation>ไปที่ {metadata} เพื่อกำหนดข้อมูลเพลงต่าง ๆ ตอนที่กำลัง สคร็อบเบิล</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="241"/>
@@ -1848,13 +1848,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="282"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation>scrobbling ศิลปิน</translation>
+        <translation>สคร็อบบลิ้ง ศิลปิน</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="299"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation>Scrobble ศิลปินทั้งหมด</translation>
+        <translation>สคร็อบเบิล ศิลปินทั้งหมด</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="304"/>
@@ -1867,25 +1867,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="309"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation>Scrobble เฉพาะศิลปินหลักเท่านั้น</translation>
+        <translation>สคร็อบเบิล เฉพาะศิลปินหลักเท่านั้น</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="351"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>โปรดทราบว่าเครื่องเล่นสื่อบางประเภทอาจไม่รายงานรายชื่อศิลปินครบทุกคน และบางแพลตฟอร์มมีข้อจำกัดในการประมวลผลศิลปินหลายคนในการสคร็อบเบิล</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="371"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าขั้นต่ำของความยาวเพลง</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="386"/>
         <source>Duration</source>
         <comment>Scrobbling: A time duration in minutes and seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>ระยะเวลา</translation>
     </message>
 </context>
 <context>
@@ -1894,133 +1894,133 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="80"/>
         <source>Accounts</source>
         <comment>Scrobbling: Title of the accounts settings panel</comment>
-        <translation type="unfinished">บัญชี</translation>
+        <translation>บัญชี</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="101"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
-        <translation type="unfinished"></translation>
+        <translation>อนุญาตให้เก็บข้อมูลส่วนตัวแบบไม่เข้ารหัส ในกรณีที่จำเป็น</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="112"/>
         <source>Confirm</source>
         <comment>Scrobbling: Confirm changing a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตกลง</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="113"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลส่วนตัวจะถูกเก็บไว้ในรูปแบบไม่เข้ารหัส ก็ต่อเมื่อระบบ keychain ไม่สามารถใช้งานได้ ซึ่งจะมีไอคอนแจ้งเตือนปรากฏขึ้นหากเกิดกรณีดังกล่าว คุณแน่ใจรึเปล่าที่จะปิดระบบนี้ หากระบบ keychain มีปัญหา คุณอาจจะไม่สามารถเข้าสู่ระบบได้</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="123"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช่</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="172"/>
         <source>Username and password</source>
         <comment>Scrobbling: Log in to an account with username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อผู้ใช้ และ รหัสผ่าน</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="178"/>
         <source>Browser login</source>
         <comment>Scrobbling: Log in to an account with a web browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกอินผ่านเบราว์เซอร์</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="248"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชีและพร้อมใช้งานแล้ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="252"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="363"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบข้อมูลบัญชี ลองเข้าสู่ระบบใหม่อีกครั้ง</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="256"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีถูกเด้งออกจากระบบ ลองเข้าสู่ระบบใหม่อีกครั้ง</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="278"/>
         <source>Account {account_id_number}</source>
         <comment>Scrobbling: Hover text to show the ID number of the account, to help with debugging errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี {account_id_number}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="315"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลบัญชีถูกเก็บไว้ใน keychain ของคุณแล้ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="319"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูลบัญชีถูกเก็บไว้ในข้อความแบบไม่เข้ารหัสแล้ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="329"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ออกจากระบบ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="333"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>เข้าสู่ระบบ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="340"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
-        <translation type="unfinished"></translation>
+        <translation>ลบออก</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="432"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>คุณยังไม่ได้เชื่อมต่อบัญชีเลย</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="457"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชี</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="459"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>เชื่อมต่อบัญชีอื่น ๆ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="550"/>
         <source>Select a log in method:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>เลือกวิธีการเข้าสู่ระบบ:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="553"/>
         <source>Select a service:</source>
         <comment>Scrobbling: Text before different scrobbling services to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>เลือกบริการ:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="597"/>
