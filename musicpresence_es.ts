@@ -4,79 +4,79 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="3456"/>
+        <location filename="../src/app/app.cpp" line="3462"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>deshabilitado</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3463"/>
+        <location filename="../src/app/app.cpp" line="3469"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>habilitado</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3468"/>
+        <location filename="../src/app/app.cpp" line="3474"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>ahora activo</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3558"/>
+        <location filename="../src/app/app.cpp" line="3564"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>Presencia deshabilitada</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3561"/>
+        <location filename="../src/app/app.cpp" line="3567"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>Click para habilitar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3565"/>
+        <location filename="../src/app/app.cpp" line="3571"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>Presencia habilitada</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3570"/>
+        <location filename="../src/app/app.cpp" line="3576"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>Esperando a Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3576"/>
+        <location filename="../src/app/app.cpp" line="3582"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>Esperando reproducción</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3580"/>
+        <location filename="../src/app/app.cpp" line="3586"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>Presencia activa</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4147"/>
+        <location filename="../src/app/app.cpp" line="4153"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>Donar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4152"/>
+        <location filename="../src/app/app.cpp" line="4158"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>Apoya mi trabajo con una pequeña donación</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4159"/>
+        <location filename="../src/app/app.cpp" line="4165"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>Salir</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4260"/>
+        <location filename="../src/app/app.cpp" line="4266"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>Habilitar presencia por aplicación</translation>
@@ -177,7 +177,7 @@
         <translation type="vanished">Mostrar reproducción pausada en tu estado</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3316"/>
+        <location filename="../src/app/app.cpp" line="3322"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation>Permiso de automatización denegada</translation>
@@ -253,7 +253,7 @@
         <translation type="vanished">Placeholders para cubiertas inexistentes</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4164"/>
+        <location filename="../src/app/app.cpp" line="4170"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>Ajustes</translation>
@@ -264,7 +264,7 @@
         <translation type="vanished">Utilizar portadas desde los reproductores</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3504"/>
+        <location filename="../src/app/app.cpp" line="3510"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_title} por {media_artist}</translation>
@@ -330,14 +330,14 @@
         <translation type="vanished">Instalar actualizaciones automáticamente</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5816"/>
-        <location filename="../src/app/app.cpp" line="6299"/>
+        <location filename="../src/app/app.cpp" line="5822"/>
+        <location filename="../src/app/app.cpp" line="6305"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>Comprobar si hay actualizaciones</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5828"/>
+        <location filename="../src/app/app.cpp" line="5834"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>Comprobando actualizaciones...</translation>
@@ -368,7 +368,7 @@
         <translation type="vanished">Inicializar {app_name} al inicio</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5707"/>
+        <location filename="../src/app/app.cpp" line="5713"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>Ayuda</translation>
@@ -379,109 +379,109 @@
         <translation type="vanished">Mi reproductor no esta detectado</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5718"/>
+        <location filename="../src/app/app.cpp" line="5724"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>Reportar reproductores detectados</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5725"/>
+        <location filename="../src/app/app.cpp" line="5731"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>Reportar un problema en GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5731"/>
+        <location filename="../src/app/app.cpp" line="5737"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>Únete a nuestro Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5744"/>
+        <location filename="../src/app/app.cpp" line="5750"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>Dale una estrella al proyecto en GitHub</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5750"/>
+        <location filename="../src/app/app.cpp" line="5756"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>¿Que se añadirá?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5757"/>
+        <location filename="../src/app/app.cpp" line="5763"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>Aviso de privacidad</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5764"/>
-        <location filename="../src/app/app.cpp" line="7938"/>
+        <location filename="../src/app/app.cpp" line="5770"/>
+        <location filename="../src/app/app.cpp" line="7944"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>Sobre {app_name}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5810"/>
+        <location filename="../src/app/app.cpp" line="5816"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>Estas usando versión {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6200"/>
-        <location filename="../src/app/app.cpp" line="6700"/>
+        <location filename="../src/app/app.cpp" line="6206"/>
+        <location filename="../src/app/app.cpp" line="6706"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>Click para descargar versión {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6357"/>
+        <location filename="../src/app/app.cpp" line="6363"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>Cancelando descargas...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6365"/>
-        <location filename="../src/app/app.cpp" line="7801"/>
+        <location filename="../src/app/app.cpp" line="6371"/>
+        <location filename="../src/app/app.cpp" line="7807"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>Instalar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6383"/>
+        <location filename="../src/app/app.cpp" line="6389"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>Actualizaciones automáticas están habilitadas</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6385"/>
-        <location filename="../src/app/app.cpp" line="6433"/>
-        <location filename="../src/app/app.cpp" line="6643"/>
+        <location filename="../src/app/app.cpp" line="6391"/>
+        <location filename="../src/app/app.cpp" line="6439"/>
+        <location filename="../src/app/app.cpp" line="6649"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>Habilitar actualizaciones automáticas</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6410"/>
-        <location filename="../src/app/app.cpp" line="7802"/>
+        <location filename="../src/app/app.cpp" line="6416"/>
+        <location filename="../src/app/app.cpp" line="7808"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>Instalando...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6443"/>
+        <location filename="../src/app/app.cpp" line="6449"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>Actualizaciones automáticas están deshabilitadas</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6522"/>
+        <location filename="../src/app/app.cpp" line="6528"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>Haz click para instalar versión {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6975"/>
+        <location filename="../src/app/app.cpp" line="6981"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -489,10 +489,10 @@ You can support the development with a donation. Click here or in the tray menu 
 Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja para mas información.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6195"/>
-        <location filename="../src/app/app.cpp" line="6519"/>
-        <location filename="../src/app/app.cpp" line="6545"/>
-        <location filename="../src/app/app.cpp" line="6553"/>
+        <location filename="../src/app/app.cpp" line="6201"/>
+        <location filename="../src/app/app.cpp" line="6525"/>
+        <location filename="../src/app/app.cpp" line="6551"/>
+        <location filename="../src/app/app.cpp" line="6559"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>Nueva versión disponible</translation>
@@ -504,13 +504,13 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <translation>Noticias del desarrollador</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3322"/>
+        <location filename="../src/app/app.cpp" line="3328"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation>&lt;p&gt;&lt;b&gt;{app_name} no puede automatizar &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Abre tu configuración de sistema y habilita la automatización para &quot;{player_name}&quot; en &quot;Privacidad&amp;nbsp;&amp;amp;&amp;nbsp;Seguridad&quot; &gt; &quot;Automatización&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3336"/>
+        <location filename="../src/app/app.cpp" line="3342"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>Abrir configuración</translation>
@@ -593,94 +593,94 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <translation>Por ahora no hay noticias del desarrollador. Revisa después o habilita las notificaciones para ser notificado sobre nuevas noticias apenas haya.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5711"/>
+        <location filename="../src/app/app.cpp" line="5717"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>Algo no funciona</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5738"/>
+        <location filename="../src/app/app.cpp" line="5744"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>Apoya al desarrollo con una donación</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5835"/>
+        <location filename="../src/app/app.cpp" line="5841"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>Leer las últimas noticias</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5843"/>
+        <location filename="../src/app/app.cpp" line="5849"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>Ver registro de cambios</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6532"/>
+        <location filename="../src/app/app.cpp" line="6538"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>Visitar la pagina de descarga</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6543"/>
-        <location filename="../src/app/app.cpp" line="6550"/>
+        <location filename="../src/app/app.cpp" line="6549"/>
+        <location filename="../src/app/app.cpp" line="6556"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>Instalando actualización...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6579"/>
-        <location filename="../src/app/app.cpp" line="6584"/>
+        <location filename="../src/app/app.cpp" line="6585"/>
+        <location filename="../src/app/app.cpp" line="6590"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>No hay actualizaciones disponibles</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6611"/>
+        <location filename="../src/app/app.cpp" line="6617"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>Actualizado a versión {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6614"/>
+        <location filename="../src/app/app.cpp" line="6620"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>Reiniciar la aplicación</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6622"/>
+        <location filename="../src/app/app.cpp" line="6628"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>Algo fue mal</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6628"/>
-        <location filename="../src/app/app.cpp" line="6631"/>
+        <location filename="../src/app/app.cpp" line="6634"/>
+        <location filename="../src/app/app.cpp" line="6637"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>Nueva versión instalada</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6636"/>
+        <location filename="../src/app/app.cpp" line="6642"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>Instalado</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6639"/>
+        <location filename="../src/app/app.cpp" line="6645"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>Actualización instalada</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6640"/>
+        <location filename="../src/app/app.cpp" line="6646"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>Reiniciar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6666"/>
+        <location filename="../src/app/app.cpp" line="6672"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -688,32 +688,32 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
 &lt;p&gt;Reinicia la aplicación para iniciar la nueva versión.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6707"/>
+        <location filename="../src/app/app.cpp" line="6713"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>Error: Instalación fallida</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6732"/>
+        <location filename="../src/app/app.cpp" line="6738"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>Reportar este problema</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6742"/>
-        <location filename="../src/app/app.cpp" line="6745"/>
+        <location filename="../src/app/app.cpp" line="6748"/>
+        <location filename="../src/app/app.cpp" line="6751"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>Instalación de actualización fallida</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6750"/>
+        <location filename="../src/app/app.cpp" line="6756"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6758"/>
+        <location filename="../src/app/app.cpp" line="6764"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -721,130 +721,130 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6763"/>
+        <location filename="../src/app/app.cpp" line="6769"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>Descargar manualmente</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6960"/>
+        <location filename="../src/app/app.cpp" line="6966"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>Únete a nuestro Discord! Conoce a otros usuarios, haz sugerencias y quédate al tanto. Haz click aquí o en el menu de Ayuda para unirte.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7548"/>
+        <location filename="../src/app/app.cpp" line="7554"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>No mostrar esto de nuevo</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7794"/>
+        <location filename="../src/app/app.cpp" line="7800"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>Actualización disponible</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7795"/>
+        <location filename="../src/app/app.cpp" line="7801"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;Una nueva versión de {app_name} esta disponible.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lee el registro de cambios para ver que hay de nuevo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7811"/>
+        <location filename="../src/app/app.cpp" line="7817"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>Reintentar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7817"/>
+        <location filename="../src/app/app.cpp" line="7823"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>Descargar</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7828"/>
+        <location filename="../src/app/app.cpp" line="7834"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>Nueva versión instalada</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7834"/>
+        <location filename="../src/app/app.cpp" line="7840"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>¿Que hay de nuevo?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7841"/>
+        <location filename="../src/app/app.cpp" line="7847"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>Entendido</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7843"/>
+        <location filename="../src/app/app.cpp" line="7849"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>Esto solo se muestra cuando se lanza una nueva versión.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7854"/>
+        <location filename="../src/app/app.cpp" line="7860"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>Registro de cambios</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7877"/>
+        <location filename="../src/app/app.cpp" line="7883"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>Primer inicio</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7882"/>
+        <location filename="../src/app/app.cpp" line="7888"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Haga clic en el icono del menú de la bandeja para abrir los controles.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} se ejecuta en segundo plano y siempre se puede acceder a él de esta manera. Puede controlar qué reproductores multimedia se comparten en su estado y cómo se vera.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7907"/>
+        <location filename="../src/app/app.cpp" line="7913"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>¡Entendido!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8009"/>
+        <location filename="../src/app/app.cpp" line="8015"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>Versión {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8015"/>
+        <location filename="../src/app/app.cpp" line="8021"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>Licencia</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8018"/>
+        <location filename="../src/app/app.cpp" line="8024"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>Aviso de privacidad</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8021"/>
+        <location filename="../src/app/app.cpp" line="8027"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>Reportar un problema</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8024"/>
+        <location filename="../src/app/app.cpp" line="8030"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>¿Te gusta {app_name}? &lt;a {attributes}&gt;Apoya al desarrollo con una donación&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8032"/>
+        <location filename="../src/app/app.cpp" line="8038"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>¿Te gustaría ayudar de otras maneras? &lt;a {attributes}&gt;¡Involúcrate!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8040"/>
+        <location filename="../src/app/app.cpp" line="8046"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>Gracias a todos aquellos quienes ayudaron a traducir esta app:</translation>
@@ -924,7 +924,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="584"/>
-        <location filename="../src/app/settings/window.cpp" line="5915"/>
+        <location filename="../src/app/settings/window.cpp" line="5924"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>Noticias</translation>
@@ -1860,7 +1860,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <translation>Puede alojar su propio servidor para mostrar imágenes de portada de mayor calidad y ser independiente del servidor integrado. Para obtener más información, consulte la &lt;a {attributes}&gt;documentación&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="5674"/>
+        <location filename="../src/app/settings/window.cpp" line="5683"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>General</translation>
@@ -1983,210 +1983,221 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
 <context>
     <name>music_presence::qt_components::ScrobblingAccountsPanel</name>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="80"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="82"/>
         <source>Accounts</source>
         <comment>Scrobbling: Title of the accounts settings panel</comment>
         <translation type="unfinished">Cuentas</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="101"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="103"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="112"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="114"/>
         <source>Confirm</source>
         <comment>Scrobbling: Confirm changing a setting</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="113"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="115"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="123"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="127"/>
         <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="172"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="174"/>
         <source>Username and password</source>
         <comment>Scrobbling: Log in to an account with username and password</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="178"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="180"/>
         <source>Browser login</source>
         <comment>Scrobbling: Log in to an account with a web browser</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="248"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="252"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="363"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="370"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="437"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="256"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="374"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="440"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="278"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="620"/>
+        <source>Select a login method</source>
+        <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="668"/>
+        <source>Alternative login methods</source>
+        <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="796"/>
+        <source>Loading…</source>
+        <comment>Scrobbling: Text that is shown when something is loading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="810"/>
+        <source>Back</source>
+        <comment>Scrobbling: Navigate back from the username and password login panel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="858"/>
+        <source>Enter your login details</source>
+        <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="325"/>
         <source>Account {account_id_number}</source>
         <comment>Scrobbling: Hover text to show the ID number of the account, to help with debugging errors</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="315"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="388"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="319"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="392"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="329"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="402"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="333"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="406"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="340"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="414"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="432"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="500"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="457"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="506"/>
+        <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="524"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="459"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="526"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="550"/>
-        <source>Select a log in method:</source>
-        <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="553"/>
-        <source>Select a service:</source>
-        <comment>Scrobbling: Text before different scrobbling services to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="597"/>
-        <source>Alternative ways to log in:</source>
-        <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="641"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="722"/>
         <source>Reconnect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is reconnected/when the user logs back in to an account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="645"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="726"/>
         <source>Connect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is connected/when the user logs in to an account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="689"/>
-        <source>Loading...</source>
-        <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="712"/>
-        <source>Enter your username and password:</source>
-        <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="731"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="878"/>
         <source>Username</source>
         <comment>Scrobbling: Field for entering the account username</comment>
         <translation type="unfinished">Nombre de usuario</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="742"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="890"/>
         <source>Password</source>
         <comment>Scrobbling: Field for entering the account password</comment>
         <translation type="unfinished">Contraseña</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="759"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
+        <source>Your password is never stored and is only transmitted to authenticate you.</source>
+        <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="923"/>
         <source>Log in</source>
         <comment>Scrobbling: Button to continue with the log in after entering the username and password</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="822"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="994"/>
         <source>Continue</source>
         <comment>Scrobbling: Button to continue after authorizing access to a scrobbling account in the browser</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="826"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="998"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="868"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1042"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="960"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1118"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="972"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1130"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
         <translation type="unfinished"></translation>

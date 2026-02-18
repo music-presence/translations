@@ -4,79 +4,79 @@
 <context>
     <name>Application</name>
     <message>
-        <location filename="../src/app/app.cpp" line="3456"/>
+        <location filename="../src/app/app.cpp" line="3462"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
         <translation>비활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3463"/>
+        <location filename="../src/app/app.cpp" line="3469"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
         <translation>활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3468"/>
+        <location filename="../src/app/app.cpp" line="3474"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
         <translation>현재 표시 중</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3558"/>
+        <location filename="../src/app/app.cpp" line="3564"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
         <translation>활동 상태 비활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3561"/>
+        <location filename="../src/app/app.cpp" line="3567"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
         <translation>클릭하여 활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3565"/>
+        <location filename="../src/app/app.cpp" line="3571"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
         <translation>활동 상태가 활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3570"/>
+        <location filename="../src/app/app.cpp" line="3576"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
         <translation>디스코드를 기다리는 중</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3576"/>
+        <location filename="../src/app/app.cpp" line="3582"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
         <translation>미디어 재생을 기다리는 중</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3580"/>
+        <location filename="../src/app/app.cpp" line="3586"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
         <translation>활동 상태 표시 중</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4147"/>
+        <location filename="../src/app/app.cpp" line="4153"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>기부</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4152"/>
+        <location filename="../src/app/app.cpp" line="4158"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>제 작업을 작은 기부로 지원해주세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4159"/>
+        <location filename="../src/app/app.cpp" line="4165"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>종료</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4260"/>
+        <location filename="../src/app/app.cpp" line="4266"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>앱별 활동 상태 표시 설정</translation>
@@ -177,7 +177,7 @@
         <translation type="vanished">상태에 일시 정지된 미디어 표시</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3316"/>
+        <location filename="../src/app/app.cpp" line="3322"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
         <translation>자동화 권한이 거부됨</translation>
@@ -253,7 +253,7 @@
         <translation type="vanished">누락된 표지 이미지에 대한 자리 표시자</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4164"/>
+        <location filename="../src/app/app.cpp" line="4170"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>설정</translation>
@@ -264,7 +264,7 @@
         <translation type="vanished">미디어 플레이어의 표지 이미지를 사용</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3504"/>
+        <location filename="../src/app/app.cpp" line="3510"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
         <translation>{media_artist}의 {media_title}</translation>
@@ -330,14 +330,14 @@
         <translation type="vanished">자동으로 업데이트 설치</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5816"/>
-        <location filename="../src/app/app.cpp" line="6299"/>
+        <location filename="../src/app/app.cpp" line="5822"/>
+        <location filename="../src/app/app.cpp" line="6305"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>업데이트 확인하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5828"/>
+        <location filename="../src/app/app.cpp" line="5834"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>업데이트 확인 중...</translation>
@@ -368,7 +368,7 @@
         <translation type="vanished">로그인 시 {app_name} 시작</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5707"/>
+        <location filename="../src/app/app.cpp" line="5713"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>도움말</translation>
@@ -379,109 +379,109 @@
         <translation type="vanished">내 미디어 플레이어가 감지되지 않음</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5718"/>
+        <location filename="../src/app/app.cpp" line="5724"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>감지된 미디어 플레이어 제출</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5725"/>
+        <location filename="../src/app/app.cpp" line="5731"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>GitHub에서 문제 보고</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5731"/>
+        <location filename="../src/app/app.cpp" line="5737"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>공식 디스코드 서버에 참여하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5744"/>
+        <location filename="../src/app/app.cpp" line="5750"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>GitHub에서 프로젝트에 별표 추가★</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5750"/>
+        <location filename="../src/app/app.cpp" line="5756"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>다음에 무엇이 올까요?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5757"/>
+        <location filename="../src/app/app.cpp" line="5763"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>개인정보 처리방침</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5764"/>
-        <location filename="../src/app/app.cpp" line="7938"/>
+        <location filename="../src/app/app.cpp" line="5770"/>
+        <location filename="../src/app/app.cpp" line="7944"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5810"/>
+        <location filename="../src/app/app.cpp" line="5816"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>현재 {version} 버전을 사용 중입니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6200"/>
-        <location filename="../src/app/app.cpp" line="6700"/>
+        <location filename="../src/app/app.cpp" line="6206"/>
+        <location filename="../src/app/app.cpp" line="6706"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>버전 {version}을(를) 다운로드하려면 클릭하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6357"/>
+        <location filename="../src/app/app.cpp" line="6363"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>다운로드 취소하는 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6365"/>
-        <location filename="../src/app/app.cpp" line="7801"/>
+        <location filename="../src/app/app.cpp" line="6371"/>
+        <location filename="../src/app/app.cpp" line="7807"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>설치</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6383"/>
+        <location filename="../src/app/app.cpp" line="6389"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>자동 업데이트 활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6385"/>
-        <location filename="../src/app/app.cpp" line="6433"/>
-        <location filename="../src/app/app.cpp" line="6643"/>
+        <location filename="../src/app/app.cpp" line="6391"/>
+        <location filename="../src/app/app.cpp" line="6439"/>
+        <location filename="../src/app/app.cpp" line="6649"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>자동 업데이트 활성화</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6410"/>
-        <location filename="../src/app/app.cpp" line="7802"/>
+        <location filename="../src/app/app.cpp" line="6416"/>
+        <location filename="../src/app/app.cpp" line="7808"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>설치 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6443"/>
+        <location filename="../src/app/app.cpp" line="6449"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>자동 업데이트가 비활성화됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6522"/>
+        <location filename="../src/app/app.cpp" line="6528"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>버전 {version}을(를) 설치하려면 클릭하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6975"/>
+        <location filename="../src/app/app.cpp" line="6981"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -489,10 +489,10 @@ You can support the development with a donation. Click here or in the tray menu 
 기부를 통해 개발을 지원할 수 있습니다. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6195"/>
-        <location filename="../src/app/app.cpp" line="6519"/>
-        <location filename="../src/app/app.cpp" line="6545"/>
-        <location filename="../src/app/app.cpp" line="6553"/>
+        <location filename="../src/app/app.cpp" line="6201"/>
+        <location filename="../src/app/app.cpp" line="6525"/>
+        <location filename="../src/app/app.cpp" line="6551"/>
+        <location filename="../src/app/app.cpp" line="6559"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>새 버전 사용 가능</translation>
@@ -504,13 +504,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>개발자의 소식</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3322"/>
+        <location filename="../src/app/app.cpp" line="3328"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
         <translation>&lt;p&gt;&lt;b&gt;{app_name}은(는) {player_name}을 자동화할 수 없습니다&lt;/b&gt;&lt;/p&gt;&lt;p&gt;시스템 설정을 열고 개인정보 보호&amp;nbsp;&amp;amp;&amp;nbsp;보안 &gt; 자동화 &gt; {app_name}에서 {player_name} 자동화를 허용해 주세요&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="3336"/>
+        <location filename="../src/app/app.cpp" line="3342"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
         <translation>설정 열기</translation>
@@ -593,94 +593,94 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>현재 개발자로부터 전달된 소식이 없습니다. 추후 확인하시거나, 설정에서 소식 알림을 활성화하시면 새로운 소식이 등록될 때 알려드립니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5711"/>
+        <location filename="../src/app/app.cpp" line="5717"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>무언가가 작동하지 않습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5738"/>
+        <location filename="../src/app/app.cpp" line="5744"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>기부로 개발을 지원해주세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5835"/>
+        <location filename="../src/app/app.cpp" line="5841"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>최신 소식 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5843"/>
+        <location filename="../src/app/app.cpp" line="5849"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>변경사항 보기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6532"/>
+        <location filename="../src/app/app.cpp" line="6538"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>다운로드 페이지 방문하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6543"/>
-        <location filename="../src/app/app.cpp" line="6550"/>
+        <location filename="../src/app/app.cpp" line="6549"/>
+        <location filename="../src/app/app.cpp" line="6556"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>업데이트 설치 중...</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6579"/>
-        <location filename="../src/app/app.cpp" line="6584"/>
+        <location filename="../src/app/app.cpp" line="6585"/>
+        <location filename="../src/app/app.cpp" line="6590"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>사용 가능한 업데이트가 없습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6611"/>
+        <location filename="../src/app/app.cpp" line="6617"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>{version} 버전으로 업데이트됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6614"/>
+        <location filename="../src/app/app.cpp" line="6620"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>애플리케이션을 재시작하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6622"/>
+        <location filename="../src/app/app.cpp" line="6628"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>무언가 잘못됐습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6628"/>
-        <location filename="../src/app/app.cpp" line="6631"/>
+        <location filename="../src/app/app.cpp" line="6634"/>
+        <location filename="../src/app/app.cpp" line="6637"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>새 버전이 설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6636"/>
+        <location filename="../src/app/app.cpp" line="6642"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6639"/>
+        <location filename="../src/app/app.cpp" line="6645"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>업데이트가 설치되었습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6640"/>
+        <location filename="../src/app/app.cpp" line="6646"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>재시작</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6666"/>
+        <location filename="../src/app/app.cpp" line="6672"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -688,32 +688,32 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;앱을 재시작해서 최신 버전을 실행하세요.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6707"/>
+        <location filename="../src/app/app.cpp" line="6713"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>오류: 설치 실패</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6732"/>
+        <location filename="../src/app/app.cpp" line="6738"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>이 문제 신고하기</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6742"/>
-        <location filename="../src/app/app.cpp" line="6745"/>
+        <location filename="../src/app/app.cpp" line="6748"/>
+        <location filename="../src/app/app.cpp" line="6751"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>업데이트 설치 실패</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6750"/>
+        <location filename="../src/app/app.cpp" line="6756"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6758"/>
+        <location filename="../src/app/app.cpp" line="6764"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -721,130 +721,130 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6763"/>
+        <location filename="../src/app/app.cpp" line="6769"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>수동으로 다운로드</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6960"/>
+        <location filename="../src/app/app.cpp" line="6966"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>저희 Discord 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 이곳을 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7548"/>
+        <location filename="../src/app/app.cpp" line="7554"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>다시 보여주지 마세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7794"/>
+        <location filename="../src/app/app.cpp" line="7800"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>업데이트 가능</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7795"/>
+        <location filename="../src/app/app.cpp" line="7801"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;새 버전 {app_name} 이(가) 가능합니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;아래의 변경 사항을 읽고 새로운 내용을 확인하세요.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7811"/>
+        <location filename="../src/app/app.cpp" line="7817"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>다시 시도하세요</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7817"/>
+        <location filename="../src/app/app.cpp" line="7823"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>다운로드</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7828"/>
+        <location filename="../src/app/app.cpp" line="7834"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>새 버전이 설치됨</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7834"/>
+        <location filename="../src/app/app.cpp" line="7840"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>새로운 기능은 무엇인가요?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7841"/>
+        <location filename="../src/app/app.cpp" line="7847"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>알겠습니다</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7843"/>
+        <location filename="../src/app/app.cpp" line="7849"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>이것은 새 버전이 시행될 때만 표시됩니다.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7854"/>
+        <location filename="../src/app/app.cpp" line="7860"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>변경 사항</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7877"/>
+        <location filename="../src/app/app.cpp" line="7883"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>첫 실행</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7882"/>
+        <location filename="../src/app/app.cpp" line="7888"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;시스템 트레이에서 아이콘을 클릭하여 설정을 여세요.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}는 백그라운드에서 실행되며, 항상 이렇게 접근할 수 있습니다. 상태에서 어떤 미디어 플레이어가 공유될지와 상태가 어떻게 표시될지 제어할 수 있습니다.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7907"/>
+        <location filename="../src/app/app.cpp" line="7913"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>알았어요!</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8009"/>
+        <location filename="../src/app/app.cpp" line="8015"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>버전 {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8015"/>
+        <location filename="../src/app/app.cpp" line="8021"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>라이센스</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8018"/>
+        <location filename="../src/app/app.cpp" line="8024"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>개인정보 처리방침</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8021"/>
+        <location filename="../src/app/app.cpp" line="8027"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>문제 보고</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8024"/>
+        <location filename="../src/app/app.cpp" line="8030"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>{app_name}이(가) 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원해주세요&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8032"/>
+        <location filename="../src/app/app.cpp" line="8038"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>다른 방법으로 도움을 주고 싶나요? &lt;a {attributes}&gt;참여하세요!&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8040"/>
+        <location filename="../src/app/app.cpp" line="8046"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>앱 번역을 도와준 모든 분들께 감사드립니다:</translation>
@@ -924,7 +924,7 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="584"/>
-        <location filename="../src/app/settings/window.cpp" line="5915"/>
+        <location filename="../src/app/settings/window.cpp" line="5924"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>소식</translation>
@@ -1883,7 +1883,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>고화질 커버 이미지를 표시하고 내장 서버로부터 독립하기 위해 자체 서버를 구축하여 사용할 수 있습니다. 자세한 내용은 &lt;a {attributes}&gt;도움말 문서&lt;/a&gt;를 확인해 보세요.</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="5674"/>
+        <location filename="../src/app/settings/window.cpp" line="5683"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>일반</translation>
@@ -2006,210 +2006,246 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>music_presence::qt_components::ScrobblingAccountsPanel</name>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="80"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="82"/>
         <source>Accounts</source>
         <comment>Scrobbling: Title of the accounts settings panel</comment>
         <translation>계정</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="101"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="103"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
         <translation>필요 시 자격 증명을 평문으로 저장 허용</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="112"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="114"/>
         <source>Confirm</source>
         <comment>Scrobbling: Confirm changing a setting</comment>
         <translation>확인</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="113"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="115"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
         <translation>자격 증명은 시스템 키체인 저장이 실패할 경우에만 평문으로 저장되며, 이때 경고 아이콘이 표시됩니다. 정말 이 기능을 비활성화하시겠습니까? 시스템 키체인에 오류가 발생하면 로그인이 불가능할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="123"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>Yes</source>
         <translation>예</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="127"/>
         <source>No</source>
         <translation>아니요</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="172"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="174"/>
         <source>Username and password</source>
         <comment>Scrobbling: Log in to an account with username and password</comment>
         <translation>사용자 이름 및 비밀번호</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="178"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="180"/>
         <source>Browser login</source>
         <comment>Scrobbling: Log in to an account with a web browser</comment>
         <translation>브라우저 로그인</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="248"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
         <translation>계정이 연결되어 준비되었습니다.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="252"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="363"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="370"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="437"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
         <translation>자격 증명을 사용할 수 없습니다. 다시 로그인해 주세요.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="256"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="366"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="374"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="440"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
         <translation>이 계정은 로그아웃되었습니다. 사용하려면 다시 로그인해 주세요.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="278"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="620"/>
+        <source>Select a login method</source>
+        <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="668"/>
+        <source>Alternative login methods</source>
+        <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="796"/>
+        <source>Loading…</source>
+        <comment>Scrobbling: Text that is shown when something is loading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="810"/>
+        <source>Back</source>
+        <comment>Scrobbling: Navigate back from the username and password login panel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="858"/>
+        <source>Enter your login details</source>
+        <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="325"/>
         <source>Account {account_id_number}</source>
         <comment>Scrobbling: Hover text to show the ID number of the account, to help with debugging errors</comment>
         <translation>계정 {account_id_number}</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="315"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="388"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
         <translation>자격 증명이 키체인에 저장되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="319"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="392"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
         <translation>자격 증명이 평문으로 저장되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="329"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="402"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
         <translation>로그아웃</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="333"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="406"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
         <translation>로그인</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="340"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="414"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
         <translation>제거</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="432"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="500"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
         <translation>아직 연결된 계정이 없습니다.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="457"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="506"/>
+        <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="524"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
         <translation>계정 연결</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="459"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="526"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
         <translation>다른 계정 연결</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="550"/>
         <source>Select a log in method:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation>로그인 방식 선택:</translation>
+        <translation type="vanished">로그인 방식 선택:</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="553"/>
         <source>Select a service:</source>
         <comment>Scrobbling: Text before different scrobbling services to choose from when connecting a scrobbling account</comment>
-        <translation>서비스 선택:</translation>
+        <translation type="vanished">서비스 선택:</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="597"/>
         <source>Alternative ways to log in:</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation>다른 로그인 방식:</translation>
+        <translation type="vanished">다른 로그인 방식:</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="641"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="722"/>
         <source>Reconnect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is reconnected/when the user logs back in to an account</comment>
         <translation>계정 재연결</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="645"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="726"/>
         <source>Connect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is connected/when the user logs in to an account</comment>
         <translation>계정 연결</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="689"/>
         <source>Loading...</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation>불러오는 중...</translation>
+        <translation type="vanished">불러오는 중...</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="712"/>
         <source>Enter your username and password:</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation>사용자 이름 및 비밀번호 입력:</translation>
+        <translation type="vanished">사용자 이름 및 비밀번호 입력:</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="731"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="878"/>
         <source>Username</source>
         <comment>Scrobbling: Field for entering the account username</comment>
         <translation>사용자 이름</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="742"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="890"/>
         <source>Password</source>
         <comment>Scrobbling: Field for entering the account password</comment>
         <translation>비밀번호</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="759"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
+        <source>Your password is never stored and is only transmitted to authenticate you.</source>
+        <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="923"/>
         <source>Log in</source>
         <comment>Scrobbling: Button to continue with the log in after entering the username and password</comment>
         <translation>로그인</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="822"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="994"/>
         <source>Continue</source>
         <comment>Scrobbling: Button to continue after authorizing access to a scrobbling account in the browser</comment>
         <translation>계속</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="826"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="998"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
         <translation>브라우저에 열린 링크를 통해 계정 접근을 승인해 주세요. 그런 다음 &quot;{continue_text}&quot;를 클릭하면 완료됩니다.</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="868"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1042"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
         <translation>링크가 열리지 않은 경우, 수동으로 열 수 있습니다:</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="960"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1118"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
         <translation>오류가 발생했습니다: {error_text}</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="972"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1130"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
         <translation>닫기</translation>
