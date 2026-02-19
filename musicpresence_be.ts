@@ -2125,15 +2125,54 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>music_presence::qt_components::ScrobblingPlayerWidget</name>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="166"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="172"/>
         <source>Disable</source>
         <comment>Scrobbling: Disable a media player for scrobbling</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="167"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="173"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>music_presence::qt_components::ScrobblingPlayersPanel</name>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="57"/>
+        <source>Enabled media players</source>
+        <comment>Scrobbling: The list of media players that were enabled by the user for scrobbling</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="89"/>
+        <source>Available media players</source>
+        <comment>Scrobbling: The list of available media players that can be enabled for scrobbling</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="100"/>
+        <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
+        <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="107"/>
+        <source>Enable</source>
+        <comment>Scrobbling: Enable a media player for scrobbling</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="122"/>
+        <source>No media players detected. Play some music, then return here.</source>
+        <comment>Scrobbling: No media players can be shown in the player selection because no media players are detected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="133"/>
+        <source>No other media players detected. Play some music, then return here.</source>
+        <comment>Scrobbling: Some media players are detected, but no other media players are detected, so no additional media players can be shown in the player selection. The emphasis is on &quot;other&quot; here</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
