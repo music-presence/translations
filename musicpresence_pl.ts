@@ -1266,7 +1266,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="575"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobbling</translation>
+        <translation>Scrobblowanie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="601"/>
@@ -2082,31 +2082,31 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="620"/>
         <source>Select a login method</source>
         <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz metodę logowania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="668"/>
         <source>Alternative login methods</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alternatywne metody logowania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="796"/>
         <source>Loading…</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie…</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="810"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from the username and password login panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Powrót</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="858"/>
         <source>Enter your login details</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź swoje dane logowania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="325"/>
@@ -2153,7 +2153,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="506"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie możesz połączyć tylko jedno konto. Wsparcie dla wielu kont i więcej serwisów wkrótce.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="524"/>
@@ -2220,7 +2220,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
         <source>Your password is never stored and is only transmitted to authenticate you.</source>
         <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Twoje hasło nigdy nie jest przechowywane i jest jedynie transmitowane, żeby Cię uwierzytelnić.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="923"/>
@@ -2537,37 +2537,37 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="57"/>
         <source>Enabled media players</source>
         <comment>Scrobbling: The list of media players that were enabled by the user for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włączone odtwarzacze</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="89"/>
         <source>Available media players</source>
         <comment>Scrobbling: The list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne odtwarzacze</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="100"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz, którymi odtwarzaczami scrobblować wciskając &quot;{enable_button}&quot;. Piosenki są jedynie scrobblowane z odtwarzaczy, które sam wybierzesz.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="107"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished">Włącz</translation>
+        <translation>Włącz</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="122"/>
         <source>No media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: No media players can be shown in the player selection because no media players are detected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie wykryto odtwarzaczy. Włącz muzykę, po czym wróć tutaj.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="133"/>
         <source>No other media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: Some media players are detected, but no other media players are detected, so no additional media players can be shown in the player selection. The emphasis is on &quot;other&quot; here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie wykryto innych odtwarzaczy. Włącz muzykę, po czym wróć tutaj.</translation>
     </message>
 </context>
 </TS>
