@@ -1586,7 +1586,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="3038"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
-        <translation>Désactive tous les lecteurs par défaut</translation>
+        <translation>Désactiver tous les lecteurs par défaut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3059"/>
@@ -2045,31 +2045,31 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="620"/>
         <source>Select a login method</source>
         <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une méthode de connexion</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="668"/>
         <source>Alternative login methods</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Méthodes de connexion alternatives</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="796"/>
         <source>Loading…</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chargement…</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="810"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from the username and password login panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Retour</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="858"/>
         <source>Enter your login details</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Entrez vos identifiants de connexion</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="325"/>
@@ -2116,7 +2116,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="506"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne pouvez connecter qu&apos;un seul compte pour le moment. Une adaptation pour plusieurs comptes et plus de services est à venir.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="524"/>
@@ -2183,7 +2183,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
         <source>Your password is never stored and is only transmitted to authenticate you.</source>
         <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Votre mot de passe n&apos;est jamais enregistré et est transmis uniquement dans le but de vous authentifier.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="923"/>
