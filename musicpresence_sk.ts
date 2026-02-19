@@ -944,7 +944,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="610"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadáta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="730"/>
@@ -1768,13 +1768,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="3724"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatické</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3726"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Povinné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3890"/>
@@ -1945,7 +1945,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadáta</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="265"/>
@@ -2032,12 +2032,12 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Áno</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="127"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="174"/>
