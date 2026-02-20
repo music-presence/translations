@@ -2075,31 +2075,31 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="620"/>
         <source>Select a login method</source>
         <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chọn cách đăng nhập</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="668"/>
         <source>Alternative login methods</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Phương thức đăng nhập khác</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="796"/>
         <source>Loading…</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Đang tải…</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="810"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from the username and password login panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Quay lại</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="858"/>
         <source>Enter your login details</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nhập thông tin đăng nhập</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="325"/>
@@ -2146,7 +2146,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="506"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện tại bạn chỉ có thể kết nối một tài khoản. Hỗ trợ cho nhiều tài khoản và các dịch vụ khác sẽ sớm được ra mắt.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="524"/>
@@ -2213,7 +2213,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
         <source>Your password is never stored and is only transmitted to authenticate you.</source>
         <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mật khẩu của bạn không bao giờ được lưu lại và chỉ được gửi đi để xác thực bạn.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="923"/>
@@ -2530,19 +2530,19 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="57"/>
         <source>Enabled media players</source>
         <comment>Scrobbling: The list of media players that were enabled by the user for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Các trình phát đã bật</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="89"/>
         <source>Available media players</source>
         <comment>Scrobbling: The list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Các trình phát có sẵn</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="100"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chọn các trình phát mà bạn muốn ghi lại bằng cách nhấn vào nút &quot;{enable_button}&quot;. Các bài nhạc chỉ được ghi lại từ các trình phát mà bạn đã chọn.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="107"/>
@@ -2554,13 +2554,13 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="122"/>
         <source>No media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: No media players can be shown in the player selection because no media players are detected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm thấy trình phát nào. Hãy thử phát một bài nhạc, rồi quay lại đây.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="133"/>
         <source>No other media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: Some media players are detected, but no other media players are detected, so no additional media players can be shown in the player selection. The emphasis is on &quot;other&quot; here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm thấy trình phát nào khác. Hãy thử phát một bài nhạc, rồi quay lại đây.</translation>
     </message>
 </context>
 </TS>
