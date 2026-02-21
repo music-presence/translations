@@ -19,13 +19,13 @@
         <location filename="../src/app/app.cpp" line="3474"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation>현재 표시 중</translation>
+        <translation>현재 사용 중</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3564"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation>활동 상태 비활성화됨</translation>
+        <translation>활동 상태 꺼짐</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3567"/>
@@ -37,7 +37,7 @@
         <location filename="../src/app/app.cpp" line="3571"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation>활동 상태가 활성화됨</translation>
+        <translation>활동 상태 켜짐</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3576"/>
@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>앱별 활동 상태 표시 설정</translation>
+        <translation>앱별 활동 상태 표시 전환</translation>
     </message>
     <message>
         <source>Player</source>
@@ -1634,7 +1634,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3059"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>앱별 활동 상태 표시 설정</translation>
+        <translation>앱별 활동 상태 표시 전환</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3190"/>
