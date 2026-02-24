@@ -2100,7 +2100,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="998"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าลิ้งค์ในเบราว์เซอร์ของคุณเพื่ออนุญาตการเข้าถึงบัญชี หลังจากอนุญาตเสร็จกดปุ่ม &quot;{continue_text}&quot;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1042"/>
