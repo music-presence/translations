@@ -2106,19 +2106,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1042"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>หากไม่มีอะไรเด้งขึ้นมา คุณสามารถเข้าลิ้งค์ได้ด้วยตัวเอง:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1118"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาด: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1130"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
-        <translation type="unfinished"></translation>
+        <translation>ปิด</translation>
     </message>
 </context>
 <context>
@@ -2127,7 +2127,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="106"/>
         <source>Configuration</source>
         <comment>Scrobbling: General scrobbling configuration</comment>
-        <translation type="unfinished">การตั้งค่า</translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="109"/>
