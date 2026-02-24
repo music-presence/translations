@@ -2047,31 +2047,31 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="620"/>
         <source>Select a login method</source>
         <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metoda de autentificare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="668"/>
         <source>Alternative login methods</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metode de autentificare alternative</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="796"/>
         <source>Loading…</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se încarcă…</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="810"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from the username and password login panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înapoi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="858"/>
         <source>Enter your login details</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu datele de autentificare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="325"/>
@@ -2118,7 +2118,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="506"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>În prezent, puteți conecta un singur cont. În curând va fi disponibil suport pentru mai multe conturi și mai multe servicii.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="524"/>
@@ -2185,7 +2185,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
         <source>Your password is never stored and is only transmitted to authenticate you.</source>
         <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parola ta nu este niciodată stocată și este transmisă doar pentru a vă autentifica.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="923"/>
@@ -2502,37 +2502,37 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="57"/>
         <source>Enabled media players</source>
         <comment>Scrobbling: The list of media players that were enabled by the user for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Playere active</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="89"/>
         <source>Available media players</source>
         <comment>Scrobbling: The list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Playere disponibile</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="100"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alege playerele media pe care dorești să le reînregistrezi prin scrobble făcând clic pe &quot;{enable_button}&quot;. Melodiile sunt reînregistrate prin scrobble doar de pe playerele media pe care le activezi explicit.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="107"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished">Activează</translation>
+        <translation>Activează</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="122"/>
         <source>No media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: No media players can be shown in the player selection because no media players are detected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au detectat playere media. Redă muzică, apoi revino aici.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="133"/>
         <source>No other media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: Some media players are detected, but no other media players are detected, so no additional media players can be shown in the player selection. The emphasis is on &quot;other&quot; here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu au fost detectate alte playere media. Redă muzică, apoi revino aici.</translation>
     </message>
 </context>
 </TS>
