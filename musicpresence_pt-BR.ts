@@ -1975,55 +1975,55 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="397"/>
         <source>Whether to allow a track with an unknown duration to be scrobbled again when being rewinded to the beginning or when being played on repeat. Note that rewinding early in the track can lead to a scrobble then.</source>
         <comment>Scrobbling: Description for the &quot;Allow multiple scrobbles&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se uma faixa com uma duração de tempo descohecida deve ser registrada novamente quando for rebobinada ou quando for tocada em repetição. Esteja ciente que ao voltar a um tempo anterior na faixa, será considerado como um novo registro.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="409"/>
         <source>Minimum playback time</source>
         <comment>Scrobbling: Minimum time for which a track without a duration has to be played to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tempo mínimo de reprodução</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="447"/>
         <source>Tracks with an unknown duration need to play for at least the specified time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum playback time&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Faixas com uma duração desconhecida devem ser tocadas até o tempo especificado.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="461"/>
         <source>Advanced configuration</source>
         <comment>Scrobbling: Advaned scrobbling configuration category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configuração avançada</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="465"/>
         <source>Only change these settings, if you know what you&apos;re doing.</source>
         <comment>Scrobbling: Description for the &quot;Advanced configuration&quot; category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apenas mude essas configurações caso você saiba o que esteja fazendo.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="475"/>
         <source>Playback time recording</source>
         <comment>Scrobbling: Configuration of how the playback time is recorded</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gravação de tempo de reprodução</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="485"/>
         <source>Strict &amp;ndash; Already played sections are not recorded again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Strict/accurate recording means that played sections of the track will not be recorded multiple times and won&apos;t count towards the minimum playback time more than once</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estrito &amp;ndash; Seções já reproduzidas anteriormente não serão gravadas novamente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Frouxo &amp;ndash; Seções já tocadas serão gravadas múltiplas vezes quando tocadas novamente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>A opção &quot;Estrito&quot; previne que uma faixa seja registrada mais cedo. Por exemplo: rebobinando a faixa ou tocando uma parte novamente.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
