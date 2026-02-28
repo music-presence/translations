@@ -2029,43 +2029,43 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
         <source>Minimum rewind duration</source>
         <comment>Scrobbling: The minimum duration for which a track must be rewinded in order to count it as being played again (or a second time)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duração mínima de rebobinação</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="584"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Quando uma faixa é rebobinada, ela precisa ser voltada por ao menos essa duração para ser registrada. Observe que uma faixa sempre precisa ser rebobinada pelo menos pelo tempo mínimo de reprodução exigido.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tolerância de erro (em seg.)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="694"/>
         <source>Which track to send &quot;Now Playing&quot; information for</source>
         <comment>Scrobbling: Control over which track is shown on the user&apos;s profile, when multiple tracks are playing at the same time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qual faixa mostrar a informação de &quot;Reproduzindo agora&quot;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>A faixa que foi interagida mais recentemente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
         <source>The track that has been playing the longest</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>A faixa que está sendo reproduzida por mais tempo</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="754"/>
         <source>This setting is only relevant when there are multiple media players playing music at the same time and one of the played tracks has to be chosen.</source>
         <comment>Scrobbling: Description for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esta configuração é apenas relevante quando há vários reprodutores de mídia tocando música ao mesmo tempo, e uma das faixas precisa ser escolhida.</translation>
     </message>
 </context>
 <context>
@@ -2074,7 +2074,7 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="103"/>
         <source>Artists</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artistas</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="106"/>
