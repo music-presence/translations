@@ -944,7 +944,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="610"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadata</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="730"/>
@@ -1352,57 +1352,57 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1108"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan ikon aplikasi di sistem baki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1215"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buka pengaturan dengan mengklik kiri ikon baki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1446"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pop-up kabar hanya ditampilkan saat aplikasi dimulai jangan pernah saat kamu sedang menggunakannya. Biarkan notifikasi tetap aktif, agar Anda selalu mendapatkan informasi terbaru tentang perkembangan terkini.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2094"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilan teks</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2098"/>
         <location filename="../src/app/settings/window.cpp" line="2168"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nama pemutar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2102"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Baris artis</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2106"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Baris judul</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2110"/>
         <location filename="../src/app/settings/window.cpp" line="2172"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipe media</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2162"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilan teks profil</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2405"/>
@@ -1570,25 +1570,25 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1981"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Mendengarkan …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1988"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Menonton …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1995"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Bermain …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2012"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipe aktivitas</translation>
     </message>
     <message>
         <source>Presence</source>
@@ -1599,7 +1599,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="3031"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan presence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3038"/>
