@@ -589,7 +589,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished">Singkirkan</translation>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
@@ -2347,61 +2347,61 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="485"/>
         <source>Strict &amp;ndash; Already played sections are not recorded again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Strict/accurate recording means that played sections of the track will not be recorded multiple times and won&apos;t count towards the minimum playback time more than once</comment>
-        <translation type="unfinished"></translation>
+        <translation>Strict &amp;ndash; Bagian yang sudah diputar tidak direkam lagi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lax &amp;ndash; Bagian yang diputar direkam beberapa kali, saat diputar kembali</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opsi &quot;Strict&quot; mencegah trek dari scrobbler dari awal, semisal ketika memutar lagi trek atau ketika memutar bagian trek itu lagi.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
         <source>Minimum rewind duration</source>
         <comment>Scrobbling: The minimum duration for which a track must be rewinded in order to count it as being played again (or a second time)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimal durasi pemutaran ulang</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="584"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ketika trek diputar ulang, itu membutuhkan untuk pemutaran ulang setidaknya sebanyak ini agar bisa di scrobble. Perlu dicatat trek selalu membutuhkan pemutaran ulang setidaknya minimal yang dibutuhkan oleh waktu pemutaran.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan toleransi (dalam detik)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="694"/>
         <source>Which track to send &quot;Now Playing&quot; information for</source>
         <comment>Scrobbling: Control over which track is shown on the user&apos;s profile, when multiple tracks are playing at the same time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trek mana yang akan dikirimkan informasi &quot;Sedang Diputar&quot; untuk</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trek mana yang terakhir kali diakses</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
         <source>The track that has been playing the longest</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trek yang diputar paling lama</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="754"/>
         <source>This setting is only relevant when there are multiple media players playing music at the same time and one of the played tracks has to be chosen.</source>
         <comment>Scrobbling: Description for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan ini hanya berlaku ketika beberapa pemutar media memutar musik saat di waktu yang sama dan salah satu trek yang diputar sudah dipilih.</translation>
     </message>
 </context>
 <context>
@@ -2410,55 +2410,55 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="103"/>
         <source>Artists</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="106"/>
         <source>Control whether you want to scrobble all artists or only the primary artist. Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobbled artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol apa yang ingin di scrobble semua artis atau hanya artis utama. Perlu dicatat beberapa pemutar media mungkin tidak mencatat beberapa artis dan beberapa platform membatasi di kemampuan mereka untuk memproses scrobble beberapa artis.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="119"/>
         <source>Track artists</source>
         <comment>Scrobbling: Control how track artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trek artis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="130"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobble semua artis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="134"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobble hanya artis utama</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="154"/>
         <source>Album artists</source>
         <comment>Scrobbling: Control how album artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artis Album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="166"/>
         <source>Use the same setting as for track artists</source>
         <comment>Scrobbling: For controls on how album artists are scrobbled, the user has the option to use the same setting as for track artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan pengaturan yang sama untuk trek artis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="172"/>
         <source>Scrobble all album artists</source>
         <comment>Scrobbling: Option to scrobble all album artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobble semua album artis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="179"/>
         <source>Scrobble only the primary album artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main album artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobble hanya untuk artis album utama</translation>
     </message>
 </context>
 <context>
@@ -2467,13 +2467,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="172"/>
         <source>Disable</source>
         <comment>Scrobbling: Disable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="173"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan</translation>
     </message>
 </context>
 <context>
@@ -2482,37 +2482,37 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="57"/>
         <source>Enabled media players</source>
         <comment>Scrobbling: The list of media players that were enabled by the user for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan pemutar media</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="89"/>
         <source>Available media players</source>
         <comment>Scrobbling: The list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemutar media yang tersedia</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="100"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pilih masing pemutar media untuk scrobble dengan mengklik di &quot;{enable_button}&quot;. Trek hanya di scrobble dari pemutar media yang kamu aktifkan.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="107"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="122"/>
         <source>No media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: No media players can be shown in the player selection because no media players are detected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada pemutar media yang terdeteksi. Putar beberapa musik, dan kembali kesini.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="133"/>
         <source>No other media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: Some media players are detected, but no other media players are detected, so no additional media players can be shown in the player selection. The emphasis is on &quot;other&quot; here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada pemutar media yang terdeteksi. Putar beberapa musik, dan kembali kesini.</translation>
     </message>
 </context>
 </TS>
