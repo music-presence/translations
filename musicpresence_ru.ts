@@ -1460,7 +1460,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2524"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation>Оффлайн проигрыватели</translation>
+        <translation>Оффлайн-проигрыватели</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2534"/>
