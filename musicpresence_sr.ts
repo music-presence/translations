@@ -7,203 +7,203 @@
         <location filename="../src/app/app.cpp" line="3462"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>onemogućen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3469"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>omogućen</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3474"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>sada aktivan</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3564"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prisustvo je onemogućeno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3567"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klikni da omogućiš</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3571"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prisustvo je omogućeno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3576"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čekam Discord</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3582"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čekanje na reprodukciju medije</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3586"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prisustvo je aktivno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4153"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Donirajte</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4158"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podržite moj rad sa malom donacijom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4165"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Izlaz</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uključite/Isklučite prisustvo po aplikaciji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4170"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odbaci</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trenutno nema vesti od progamera. Proverite ponovo kasnije ili omogućite obaveštenja o vestima u podešavanjima da biste bili obavešteni čim budu dostupne vesti.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3322"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dozvola za automatizaciju je odbijena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3510"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} od {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5822"/>
         <location filename="../src/app/app.cpp" line="6305"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proveri ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5834"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished"></translation>
+        <translation>Provera ažuriranja...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5713"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5724"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pošaljite otkrivene medijske plejere</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5731"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prijavite problem na GitHub-u</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5737"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pridružite se našem Discord serveru</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5750"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Označite projekat zvezdicom na GitHub-u</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5756"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Šta nam novo dolazi?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5763"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obaveštenje o privatnosti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5770"/>
         <location filename="../src/app/app.cpp" line="7944"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>O aplikaciji</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5816"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vi koristite verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6206"/>
         <location filename="../src/app/app.cpp" line="6706"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite da preuzmete verziju {verziju}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6363"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otkazivanje preuzimanja...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6371"/>
         <location filename="../src/app/app.cpp" line="7807"/>
         <source>Install</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalirajte</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6389"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatska ažuriranja su omogućena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6391"/>
@@ -211,33 +211,34 @@
         <location filename="../src/app/app.cpp" line="6649"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Omogući automatska ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6416"/>
         <location filename="../src/app/app.cpp" line="7808"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instaliranje...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6449"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automatska ažuriranja su onemogućena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6528"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite da instalirate verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6981"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Da li Vam se sviđa {app_name}?
+Možete da podržite razvoj sa donacijom. Kliknite ovde ili na ikonicu u Menu Bar za više informacija.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6201"/>
@@ -246,246 +247,248 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6559"/>
         <source>New version available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nova verzija je dostupna</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2009"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vesti od programera</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3328"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} nema dozvolu za automatizaciju &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Otvorite sistemska podešavanja i omogućite automatizaciju za &quot;{player_name}&quot; pod &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3342"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otvorite podešavanja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5717"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nešto ne funkcioniše</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5744"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation type="unfinished"></translation>
+        <translation>Podržite razvoj sa donacijom</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5841"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pogledajte najnovije vesti</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5849"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pogledajte listu promena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6538"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Posetite stranicu za preuzimanje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6549"/>
         <location filename="../src/app/app.cpp" line="6556"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instaliranje ažuriranja...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6585"/>
         <location filename="../src/app/app.cpp" line="6590"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nema dostupnih ažuriranja</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6617"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažurirano na verziju {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6620"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovo pokrenite aplikaciju</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6628"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6634"/>
         <location filename="../src/app/app.cpp" line="6637"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nova verzija je instalirana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6642"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalirano</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6645"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ažuriranje je instalirano</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6646"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovo pokreni</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6672"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Ažurirano na verziju {version}.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ponovo pokrenite aplikaciju da pokrenete najnoviju verziju.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6713"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Greška: Instalacija neuspešna</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6738"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prijavite ovaj problem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6748"/>
         <location filename="../src/app/app.cpp" line="6751"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalacija ažuriranja nije uspela</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6756"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6764"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Došlo je do greške tokom instalacije ažuriranja&lt;/p&gt;
+&lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6769"/>
         <source>Download manually</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmite ručno</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6966"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slobodno se pridružite našem Discord serveru! Upoznajte druge korisnike, dajte predloge i budite u toku. Kliknite ovde ili na Pomoć meniju.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7554"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ne prikazuj ovo više</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7800"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dostupno ažuriranje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7801"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Nova verzija {app_name} je dostupna.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Pročitajte promene ispod kako biste saznali šta je novo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7817"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokušajte ponovo</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7823"/>
         <source>Download</source>
         <comment>popup button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmite</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7834"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nova verzija instalirana</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7840"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Šta je novo?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7847"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Razumem</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7849"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ovo je prikazano samo prilikom pokretanja nove verzije.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7860"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lista promena</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7883"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prvo pokretanje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7888"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Kliknte ikonicu u Menu Bar da otvorite kontrole&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} radi u pozadini i uvek se može pristupiti na ovaj način. Možete upravljati koji medija plejeri dele u Vašem statusu i kako Vaš status izgleda.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7913"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Razumem!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8015"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verzija {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8021"/>
