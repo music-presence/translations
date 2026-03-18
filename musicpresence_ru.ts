@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Переключить статус для каждого приложения</translation>
+        <translation>Переключить активность для каждого приложения</translation>
     </message>
     <message>
         <source>Player</source>
@@ -1133,7 +1133,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3028"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation>Статус</translation>
+        <translation>Активность</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2043"/>
@@ -1202,7 +1202,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3260"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Переключить статус для каждого пользователя Discord</translation>
+        <translation>Переключить активность для каждого пользователя Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3494"/>
@@ -1579,7 +1579,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3031"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation>Включить статус</translation>
+        <translation>Включить активность</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3038"/>
@@ -1591,7 +1591,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3059"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Переключить статус для каждого приложения</translation>
+        <translation>Переключить активность для каждого приложения</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3190"/>
