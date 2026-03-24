@@ -2402,7 +2402,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation>A opção &quot;Exato&quot; previne uma faixa de ir para scrobble mais cedo, quando ex. ao retroceder uma fixa ou ao reproduzir uma secção da faixa de novo.</translation>
+        <translation>A opção &quot;Exato&quot; previne uma faixa de ir para scrobble mais cedo, quando por exemplo - ao retroceder uma faixa ou ao reproduzir uma secção da faixa de novo.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
@@ -2432,7 +2432,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="705"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation>A faixa que foi mais recentemente interagida</translation>
+        <translation>A faixa que foi interagida mais recentemente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="710"/>
