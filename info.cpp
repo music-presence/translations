@@ -321,7 +321,7 @@ std::vector<Contributor> const& translations::contributors()
             .github_name = "koolych",
             .codeberg_name = "koolych",
             .link_to_github = true,
-            .translated_languages = {"ru"},
+            .translated_languages = {"ru","sah"},
         },
         {
             .name = "Marko XCX",
