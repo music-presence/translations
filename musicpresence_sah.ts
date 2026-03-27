@@ -7,139 +7,139 @@
         <location filename="../src/app/app.cpp" line="2009"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Разработчиктан биллэриилэр</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2039"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сап</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2154"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Билиҥҥи кэмҥэ разработчиктан биллэриилэр суохтар. Кэнники кэлэн көр эбэтэр настройкаҕа биллэриилэр кэллэхтэринэ көһүннэр гына оҥор.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3322"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Автоматизация көҥүлэ сатаммат</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3328"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} сыһыарыы &quot;{player_name}&quot; автоматизациялыыр көҥүлэ суох.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Системнай настройкаларга &quot;Конфиденциальность &amp;nbsp;&amp;amp;&amp;nbsp;Безопасность&quot; &gt; &quot;Автоматизация&quot; &gt; &quot;{app_name}&quot; арый уонна &quot;{player_name}&quot; автоматизациятын холбоо.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3342"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настройкалары арый</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3462"/>
         <source>disabled</source>
         <comment>label next to a disabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>арахсыбыт</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3469"/>
         <source>enabled</source>
         <comment>label next to an enabled media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>холбоммут</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3474"/>
         <source>now active</source>
         <comment>label next to an active media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>билигин үлэлиир</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3510"/>
         <source>{media_title} by {media_artist}</source>
         <comment>media title and artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>{media_title} - {media_artist}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3564"/>
         <source>Presence disabled</source>
         <comment>checkbox text: presence is currently disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Турук арахсан турар</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3567"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Холбуурга баттаа</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3571"/>
         <source>Presence is enabled</source>
         <comment>checkbox text: the presence is enabled, but not active</comment>
-        <translation type="unfinished"></translation>
+        <translation>Турук холбонон турар</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3576"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord-у кэтэһэр</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3582"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Медиа оонньуурун кэтэһэр</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3586"/>
         <source>Presence is active</source>
         <comment>checkbox text: media is shared in the user&apos;s discord activity</comment>
-        <translation type="unfinished"></translation>
+        <translation>Турук үлэлии турар</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4153"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сиэртибэлээ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4158"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Мин үлэбин кыра харчынан өйөөҥ</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4165"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
-        <translation type="unfinished"></translation>
+        <translation>Таҕыс</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4170"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Настройкалар</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4266"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Хас биирдии сыһыарыыга туругу уларытыы</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5713"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
-        <translation type="unfinished"></translation>
+        <translation>Көмө</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5717"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Туох эрэ үлэлээбэт</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5724"/>
