@@ -821,7 +821,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="634"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">เมต้าดาต้า</translation>
+        <translation>เมต้าดาต้า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="644"/>
@@ -1783,7 +1783,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="6380"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>ดู</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6414"/>
