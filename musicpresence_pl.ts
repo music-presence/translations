@@ -1266,7 +1266,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="634"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Metadane</translation>
+        <translation>Metadane</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="635"/>
@@ -1278,7 +1278,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="653"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Edycje</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="668"/>
@@ -1905,44 +1905,44 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="6380"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Widok</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6414"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zamiennik z tą nazwą już istnieje.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6548"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Predefiniowane zamienniki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6639"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zamienniki</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6657"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy zamiennik</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6668"/>
         <location filename="../src/app/settings/window.cpp" line="6714"/>
         <source>Something went wrong</source>
         <comment>Metadata: Popup title for when an error occurred while saving an edit</comment>
-        <translation type="unfinished">Coś poszło nie tak</translation>
+        <translation>Coś poszło nie tak</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6698"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj zamiennik</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6849"/>
@@ -1957,13 +1957,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="300"/>
         <source>Disable</source>
         <comment>Metadata: Disable a metadata pattern replacement</comment>
-        <translation type="unfinished">Wyłącz</translation>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="301"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a metadata pattern replacement</comment>
-        <translation type="unfinished">Włącz</translation>
+        <translation>Włącz</translation>
     </message>
 </context>
 <context>
@@ -1972,13 +1972,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="56"/>
         <source>Basic replacements</source>
         <comment>Metadata: Basic metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zwykłe zamienniki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="86"/>
         <source>Advanced replacements</source>
         <comment>Metadata: Advanced metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zaawansowane zamienniki</translation>
     </message>
 </context>
 <context>
@@ -1987,19 +1987,19 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="51"/>
         <source>Custom replacements</source>
         <comment>Metadata: Section title for custom regular expression replacements created by the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Własne zamienniki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="110"/>
         <source>Create your first replacement</source>
         <comment>Metadata: Button text for creating the first regular expression replacement. No replacements exist when this text is shown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stwórz swój pierwszy zamiennik</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="114"/>
         <source>Create another replacement</source>
         <comment>Metadata: Button text for creating another regular expression replacement. The user has already created some replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stwórz kolejny zamiennik</translation>
     </message>
 </context>
 <context>
@@ -2008,272 +2008,272 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="124"/>
         <source>Title</source>
         <comment>Metadata: Placeholder text for he title of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="128"/>
         <source>Artist</source>
         <comment>Metadata: Placeholder text for he artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artysta</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="132"/>
         <source>Album</source>
         <comment>Metadata: Placeholder text for he album of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="136"/>
         <source>Album artist</source>
         <comment>Metadata: Placeholder text for he album artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artysta albumu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="140"/>
         <source>Composer</source>
         <comment>Metadata: Placeholder text for he composer of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kompozytor</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="156"/>
         <source>Name</source>
         <comment>Metadata: Placeholder text of the input for a name of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="183"/>
         <source>Description</source>
         <comment>Metadata: Placeholder text of the input for a description of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="224"/>
         <source>Replacement type</source>
         <comment>Metadata: Section title for the type of a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ zamiennika</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="264"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zastąp atrybuty medatanych, które pasują do wzorców</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="274"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź i zastąp fragmenty atrybutów metadanych</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="342"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zastępuje atrybuty metadanych, które pasują do wszystkich wzorców.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="350"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Znajduje i zastępuje fragmenty atrybutów metadanych.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="399"/>
         <source>Match patterns</source>
         <comment>Metadata: Section title for regular expression match patterns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wzorce dopasowania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="404"/>
         <source>Search patterns</source>
         <comment>Metadata: Section title for regular expression match patterns for the &quot;search and replace&quot; replacement type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wzorce wyszukiwania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="499"/>
         <source>Replacements</source>
         <comment>Metadata: Section title for metadata attribute replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zamienniki</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="541"/>
         <source>Enter at least one search pattern to perform replacements.</source>
         <comment>Metadata: Informational text to inform the user that with the &quot;search and replace&quot; replacement type at least one match pattern has to be entered to perform replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź przynajmniej jeden wzorzec wyszukiwania, by przeprowadzać zamiany.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="872"/>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1095"/>
         <source>Media players</source>
         <comment>Metadata: Section title for the selection of media players to which a replacement should be restricted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzacze</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="900"/>
         <source>Select</source>
         <comment>Metadata: Button text for a dropdown to select which media players a replacement should be restricted to</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="904"/>
         <source>Search</source>
         <comment>Metadata: Placeholder text for searching a media player by name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="906"/>
         <source>Not found</source>
         <comment>Metadata: Informational text to inform the user that a media player that was searched for was not found/does not exist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="970"/>
         <source>You can restrict this edit to specific media players.</source>
         <comment>Metadata: Informational text to inform the user that this metadata edit can be restricted to specific media players. It&apos;s important that this text implies that it&apos;s optional (they &quot;can&quot;, but they don&apos;t have to). When no media player is selected, the edit is applied to metadata from all media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Możesz ograniczyć tę edycję do konkretnych odtwarzaczy.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1128"/>
         <source>This edit is only applied to {player_name}.</source>
         <comment>Metadata: Informational text for a preset that it&apos;s only applied to one specific media player.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ta edycja jest stosowana jedynie dla {player_name}.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1177"/>
         <source>Test</source>
         <comment>Metadata: Section title for testing an edit, replacement, filter, etc. Note that &quot;Test&quot; is a verb here, not a noun! As in &quot;to test&quot; and not &quot;the test&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Testuj</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1182"/>
         <source>Example</source>
         <comment>Metadata: Section title for example metadata that matches a preset edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przykład</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1205"/>
         <source>Matches</source>
         <comment>Metadata: Informational text to inform the user that their match patterns all match, i.e. the edit &quot;matches&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pasuje</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1233"/>
         <source>Does not match</source>
         <comment>Metadata: Informational text to inform the user that their match patterns do not match, i.e. the edit &quot;does not match&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie pasuje</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1252"/>
         <source>Result</source>
         <comment>Metadata: Section title for the metadata that is the result of applying a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wynik</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1437"/>
         <source>Error: {error_message}</source>
         <comment>Metadata: A regular expression failed to compile with the given error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: {error_message}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1464"/>
         <source>Miscellaneous</source>
         <comment>Metadata: Section title for miscellaneous settings of an edit</comment>
-        <translation type="unfinished">Różne</translation>
+        <translation>Różne</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1486"/>
         <source>Show the field for the composer</source>
         <comment>Metadata: Checkbox for showing the composer attribute with match patterns and replacements. This is hidden by default because the composer is rarely needed for any edits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż pole dla kompozytora</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zasugeruj ten zamiennik jako predefiniowaną opcję</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1552"/>
         <source>Submit</source>
         <comment>Metadata: Button text for submitting a custom replacement as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1581"/>
         <source>Delete this replacement</source>
         <comment>Metadata: The user may delete custom replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń ten zamiennik</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1587"/>
         <source>Delete</source>
         <comment>Metadata: Button text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1603"/>
         <source>Are you sure?</source>
         <comment>Metadata: Confirmation text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś pewien?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1610"/>
         <source>Yes</source>
         <comment>Metadata: Confirm the deletion of a custom replacement</comment>
-        <translation type="unfinished">Tak</translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1620"/>
         <source>No</source>
         <comment>Metadata: Cancel the deletion of a custom replacement</comment>
-        <translation type="unfinished">Nie</translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1934"/>
         <source>Missing name</source>
         <comment>Metadata: Error title for a missing name of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brakuje nazwy</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1936"/>
         <source>Enter a name for your replacement.</source>
         <comment>Metadata: Error description for a missing name of an edit. Every edit must have a name that briefly describes what it does</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę dla twojego zamiennika.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1942"/>
         <source>Missing match pattern</source>
         <comment>Metadata: Error title for a missing match pattern of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brakujący wzorzec dopasowania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1945"/>
         <source>At least one match pattern is required.</source>
         <comment>Metadata: Error description for a missing match pattern of an edit. Every edit must have at least one match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przynajmniej jeden wzorzec dopasowania jest wymagany.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1960"/>
         <source>Missing replacement</source>
         <comment>Metadata: Error title for a missing replacement of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brakuje zamiennika</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1962"/>
         <source>At least one replacement is required.</source>
         <comment>Metadata: Error description for a missing replacement of a replacement edit. Every replacement edit must have at least one replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przynajmniej jeden zamiennik jest wymagany.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1969"/>
         <source>Invalid match pattern</source>
         <comment>Metadata: Error title for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy wzorzec dopasowania</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1973"/>
         <source>One or more match patterns are invalid.</source>
         <comment>Metadata: Error description for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jeden lub więcej wzorców dopasowania jest nieprawidłowych.</translation>
     </message>
 </context>
 <context>
@@ -2283,31 +2283,31 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="432"/>
         <source>You have unsaved changes</source>
         <comment>There are unsaved changes that should be saved.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Masz niezapisane zmiany</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="76"/>
         <source>Reset</source>
         <comment>Button that resets unsaved changes back to the last saved state</comment>
-        <translation type="unfinished">Zresetuj</translation>
+        <translation>Zresetuj</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="97"/>
         <source>Save</source>
         <comment>Button to save unsaved changes</comment>
-        <translation type="unfinished">Zapisz</translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="238"/>
         <source>OK</source>
         <comment>Confirm a popup message and close the popup</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="434"/>
         <source>Please save your changes first or discard them.</source>
         <comment>More detailed description for a popup that says that there are unsaved changes.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz swoje zmiany lub je odrzuć.</translation>
     </message>
 </context>
 <context>
