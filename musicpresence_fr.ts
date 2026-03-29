@@ -1935,13 +1935,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="56"/>
         <source>Basic replacements</source>
         <comment>Metadata: Basic metadata replacement presets</comment>
-        <translation type="unfinished">Substitutions de base</translation>
+        <translation>Substitutions simples</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="86"/>
         <source>Advanced replacements</source>
         <comment>Metadata: Advanced metadata replacement presets</comment>
-        <translation type="unfinished">Substitutions avancées</translation>
+        <translation>Substitutions avancées</translation>
     </message>
 </context>
 <context>
