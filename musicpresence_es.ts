@@ -939,7 +939,7 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="653"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ediciones</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="660"/>
@@ -1875,19 +1875,19 @@ Puedes apoyar al desarrollo con una donación. Haz click aquí o en la bandeja p
         <location filename="../src/app/settings/window.cpp" line="6380"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ver</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6414"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un reemplazo con este nombre ya existe.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6548"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes predefinidos</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6639"/>
