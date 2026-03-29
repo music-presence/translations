@@ -2019,25 +2019,25 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="264"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation>Remplacer les paramètres des métadonnées qui correspondent à tous les modèles</translation>
+        <translation type="unfinished">Substituer les attributs des métadonnées qui correspondent à tous les modèles</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="274"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished">Rechercher et remplacer les parties des paramètres des métadonnées</translation>
+        <translation type="unfinished">Rechercher et substituer les parties des attributs des métadonnées</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="342"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished">Remplacer les paramètres des métadonnées qui correspondent à tous les modèles.</translation>
+        <translation type="unfinished">Remplacer les attributs des métadonnées qui correspondent à tous les modèles.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="350"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished">Rechercher et remplacer des parties des paramètres des métadonnées.</translation>
+        <translation type="unfinished">Rechercher et substituer des parties des attributs des métadonnées.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="399"/>
