@@ -901,7 +901,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="634"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Métadonnées</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="644"/>
@@ -1868,13 +1868,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="6380"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished">Voir</translation>
+        <translation>Voir</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6414"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished">Un remplacement avec ce nom existe déjà.</translation>
+        <translation>Un remplacement portant ce nom existe déjà.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6548"/>
