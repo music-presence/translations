@@ -2043,25 +2043,25 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="399"/>
         <source>Match patterns</source>
         <comment>Metadata: Section title for regular expression match patterns</comment>
-        <translation type="unfinished">Motifs de correspondance</translation>
+        <translation>Motifs de correspondance</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="404"/>
         <source>Search patterns</source>
         <comment>Metadata: Section title for regular expression match patterns for the &quot;search and replace&quot; replacement type</comment>
-        <translation type="unfinished">Modèles de recherche</translation>
+        <translation>Motifs de recherche</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="499"/>
         <source>Replacements</source>
         <comment>Metadata: Section title for metadata attribute replacements</comment>
-        <translation type="unfinished">Substitutions</translation>
+        <translation>Substitutions</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="541"/>
         <source>Enter at least one search pattern to perform replacements.</source>
         <comment>Metadata: Informational text to inform the user that with the &quot;search and replace&quot; replacement type at least one match pattern has to be entered to perform replacements</comment>
-        <translation type="unfinished">Entrez au moins un motif de recherche pour effectuer les substitutions.</translation>
+        <translation>Saisir au moins un motif de recherche pour effectuer des substitutions.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="872"/>
@@ -2092,13 +2092,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="970"/>
         <source>You can restrict this edit to specific media players.</source>
         <comment>Metadata: Informational text to inform the user that this metadata edit can be restricted to specific media players. It&apos;s important that this text implies that it&apos;s optional (they &quot;can&quot;, but they don&apos;t have to). When no media player is selected, the edit is applied to metadata from all media players</comment>
-        <translation type="unfinished">Vous pouvez restreindre cette modification à certains lecteurs spécifiques.</translation>
+        <translation>Vous pouvez restreindre cette édition à certains lecteurs.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1128"/>
         <source>This edit is only applied to {player_name}.</source>
         <comment>Metadata: Informational text for a preset that it&apos;s only applied to one specific media player.</comment>
-        <translation type="unfinished">Cette modification est appliquée à {player_name} uniquement.</translation>
+        <translation>Cette édition est uniquement appliquée à {player_name}.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1177"/>
@@ -2116,13 +2116,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1205"/>
         <source>Matches</source>
         <comment>Metadata: Informational text to inform the user that their match patterns all match, i.e. the edit &quot;matches&quot;</comment>
-        <translation type="unfinished">Correspond à</translation>
+        <translation>Correspond</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1233"/>
         <source>Does not match</source>
         <comment>Metadata: Informational text to inform the user that their match patterns do not match, i.e. the edit &quot;does not match&quot;</comment>
-        <translation type="unfinished">Ne correspond pas à</translation>
+        <translation>Ne correspond pas</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1252"/>
@@ -2152,7 +2152,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suggérer cette substitution en tant que préréglage</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1552"/>
@@ -2164,7 +2164,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1581"/>
         <source>Delete this replacement</source>
         <comment>Metadata: The user may delete custom replacements</comment>
-        <translation type="unfinished">Supprimer cette substitution</translation>
+        <translation>Supprimer cette substitution</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1587"/>
