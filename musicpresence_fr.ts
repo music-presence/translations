@@ -1874,7 +1874,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="6414"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished">Une substitution portant ce nom existe déjà.</translation>
+        <translation>Une substitution portant ce nom existe déjà.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6548"/>
@@ -1886,13 +1886,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="6639"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished">Substitutions</translation>
+        <translation>Substitutions</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6657"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished">Nouvelle substitution</translation>
+        <translation>Nouvelle substitution</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6668"/>
@@ -1905,7 +1905,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="6698"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished">Modifier la substitution</translation>
+        <translation>Éditer la substitution</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6849"/>
@@ -1956,13 +1956,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="110"/>
         <source>Create your first replacement</source>
         <comment>Metadata: Button text for creating the first regular expression replacement. No replacements exist when this text is shown</comment>
-        <translation type="unfinished">Créez votre première substitution</translation>
+        <translation>Créez votre première substitution</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="114"/>
         <source>Create another replacement</source>
         <comment>Metadata: Button text for creating another regular expression replacement. The user has already created some replacements</comment>
-        <translation type="unfinished">Créer une autre substitution</translation>
+        <translation>Créer une autre substitution</translation>
     </message>
 </context>
 <context>
@@ -2013,19 +2013,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="224"/>
         <source>Replacement type</source>
         <comment>Metadata: Section title for the type of a replacement edit</comment>
-        <translation type="unfinished">Type de substitution</translation>
+        <translation>Type de substitution</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="264"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished">Substituer les attributs des métadonnées qui correspondent à tous les modèles</translation>
+        <translation>Substituer les attributs des métadonnées qui correspondent à tous les motifs</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="274"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished">Rechercher et substituer les parties des attributs des métadonnées</translation>
+        <translation>Rechercher et substituer des parties d&apos;attributs des métadonnées</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="342"/>
