@@ -1900,7 +1900,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../src/app/settings/window.cpp" line="6622"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation>Preset</translation>
+        <translation>Preimpostazioni</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6713"/>
@@ -2174,7 +2174,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation>Suggerisci questa sostituzione come predefinita</translation>
+        <translation>Suggerisci questa sostituzione come preimpostazione</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1552"/>
@@ -2837,7 +2837,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="632"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Questo parametro lascia del margine d’errore durante lo scrobble. Incrementarlo potrebbe aiutare, ad esempio, quando il cursore di una barra sovrastante è al 100% e occasionalmente non viene effettuato lo scrobble per i brani. Non è necessario, generalmente, incrementare questo parametro.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="696"/>
