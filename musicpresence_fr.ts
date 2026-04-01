@@ -1880,7 +1880,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="6622"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Préconfigurations</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6713"/>
@@ -1952,7 +1952,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="51"/>
         <source>Custom replacements</source>
         <comment>Metadata: Section title for custom regular expression replacements created by the user</comment>
-        <translation type="unfinished">Substitutions personnalisées</translation>
+        <translation>Substitutions personnalisées</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="110"/>
@@ -2033,13 +2033,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="342"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished">Remplacer les attributs des métadonnées qui correspondent à tous les modèles.</translation>
+        <translation>Remplace les attributs des métadonnées qui correspondent à tous les motifs.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="350"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished">Rechercher et substituer des parties des attributs des métadonnées.</translation>
+        <translation>Recherche et substitue des parties des attributs des métadonnées.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="399"/>
@@ -2070,7 +2070,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1095"/>
         <source>Media players</source>
         <comment>Metadata: Section title for the selection of media players to which a replacement should be restricted</comment>
-        <translation type="unfinished">Lecteurs média</translation>
+        <translation>Lecteurs</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="900"/>
@@ -2148,7 +2148,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1486"/>
         <source>Show the field for the composer</source>
         <comment>Metadata: Checkbox for showing the composer attribute with match patterns and replacements. This is hidden by default because the composer is rarely needed for any edits</comment>
-        <translation type="unfinished">Afficher le champ pour le compositeur</translation>
+        <translation>Afficher le champ du compositeur</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
@@ -2208,13 +2208,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1942"/>
         <source>Missing match pattern</source>
         <comment>Metadata: Error title for a missing match pattern of an edit</comment>
-        <translation type="unfinished">Motif de correspondance manquant</translation>
+        <translation>Motif de correspondance manquant</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1945"/>
         <source>At least one match pattern is required.</source>
         <comment>Metadata: Error description for a missing match pattern of an edit. Every edit must have at least one match pattern</comment>
-        <translation type="unfinished">La modification doit contenir au moins un motif de correspondance.</translation>
+        <translation>Au moins un motif de correspondance est requis.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1960"/>
@@ -2226,19 +2226,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1962"/>
         <source>At least one replacement is required.</source>
         <comment>Metadata: Error description for a missing replacement of a replacement edit. Every replacement edit must have at least one replacement</comment>
-        <translation type="unfinished">La modification doit contenir au moins une substitution.</translation>
+        <translation>Au moins une substitution est requise.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1969"/>
         <source>Invalid match pattern</source>
         <comment>Metadata: Error title for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished">Motif de correspondance invalide</translation>
+        <translation>Motif de correspondance invalide</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1973"/>
         <source>One or more match patterns are invalid.</source>
         <comment>Metadata: Error description for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished">Un ou plusieurs motif de correspondance est invalide.</translation>
+        <translation>Un ou plusieurs motifs de correspondance sont invalides.</translation>
     </message>
 </context>
 <context>
@@ -2272,7 +2272,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="434"/>
         <source>Please save your changes first or discard them.</source>
         <comment>More detailed description for a popup that says that there are unsaved changes.</comment>
-        <translation type="unfinished">Veuillez d&apos;abord sauvegarder vos modifications ou les annuler.</translation>
+        <translation>Merci d&apos;enregistrer vos modifications en premier ou les annuler.</translation>
     </message>
 </context>
 <context>
@@ -2817,7 +2817,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="632"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation type="unfinished">Cette valeur peut induire des erreurs lors du suivi. L&apos;augmenter peut aider, lorsqu&apos;un curseur au-dessus est placé à 100% et que les pistes ne sont occasionellement pas scrobblées par exemple. Généralement, vous n&apos;avez pas besoin d&apos;augmenter cette valeur.</translation>
+        <translation>Cette valeur laisse une certaine marge d&apos;erreur lors du suivi. Il peut être utile de l&apos;augmenter, par exemple lorsque l&apos;un des curseurs du dessus est placé à 100% et que certaines pistes ne sont pas scrobblées. En général, vous n&apos;avez en pas besoin d&apos;augmenter cette valeur.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="696"/>
