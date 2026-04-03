@@ -784,7 +784,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="8009"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>이것은 새 버전이 시행될 때만 표시됩니다.</translation>
+        <translation>이것은 새 버전이 실행될 때만 표시됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8020"/>
@@ -2847,7 +2847,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="632"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation type="unfinished"></translation>
+        <translation>이 값은 트래킹 중 발생할 수 있는 오차를 어느 정도 허용합니다. 값을 높이면, 예를 들어 위의 슬라이더가 100%로 설정되어 있는데도 간헐적으로 트랙이 스크로블되지 않는 경우에 도움이 될 수 있습니다. 일반적으로는 이 값을 늘릴 필요가 없습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="696"/>
