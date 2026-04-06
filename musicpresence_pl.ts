@@ -2854,7 +2854,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="632"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ta wartość zapewnia pewien margines błędu podczas śledzenia. Zwiększenie jej może pomóc np. w sytuacji, gdy suwak powyżej jest ustawiony na 100%, a utwory nie są okazjonalnie scrobblowane. Zwykle nie ma potrzeby zwiększania tej wartości.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="696"/>
