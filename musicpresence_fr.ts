@@ -2154,7 +2154,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation>Suggérer cette substitution en tant que préréglage</translation>
+        <translation>Suggérer cette substitution comme préréglage</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1552"/>
