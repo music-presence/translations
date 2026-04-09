@@ -966,7 +966,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="663"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="670"/>
@@ -1905,31 +1905,31 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="6394"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6541"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eine Ersetzung mit diesem Namen existiert bereits.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6622"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6713"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6731"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neue Ersetzung</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6742"/>
@@ -1944,7 +1944,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="6789"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzung bearbeiten</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6960"/>
@@ -1959,13 +1959,13 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="300"/>
         <source>Disable</source>
         <comment>Metadata: Disable a metadata pattern replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="301"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a metadata pattern replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren</translation>
     </message>
 </context>
 <context>
@@ -1974,13 +1974,13 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="56"/>
         <source>Basic replacements</source>
         <comment>Metadata: Basic metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grundlegende Ersetzungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="86"/>
         <source>Advanced replacements</source>
         <comment>Metadata: Advanced metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Ersetzungen</translation>
     </message>
 </context>
 <context>
@@ -1989,19 +1989,19 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="51"/>
         <source>Custom replacements</source>
         <comment>Metadata: Section title for custom regular expression replacements created by the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eigene Ersetzungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="110"/>
         <source>Create your first replacement</source>
         <comment>Metadata: Button text for creating the first regular expression replacement. No replacements exist when this text is shown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle deine erste Ersetzung</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="114"/>
         <source>Create another replacement</source>
         <comment>Metadata: Button text for creating another regular expression replacement. The user has already created some replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle eine weitere Ersetzung</translation>
     </message>
 </context>
 <context>
@@ -2010,170 +2010,170 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="124"/>
         <source>Title</source>
         <comment>Metadata: Placeholder text for he title of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="128"/>
         <source>Artist</source>
         <comment>Metadata: Placeholder text for he artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Künstler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="132"/>
         <source>Album</source>
         <comment>Metadata: Placeholder text for he album of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="136"/>
         <source>Album artist</source>
         <comment>Metadata: Placeholder text for he album artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albumkünstler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="140"/>
         <source>Composer</source>
         <comment>Metadata: Placeholder text for he composer of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Komponist</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="156"/>
         <source>Name</source>
         <comment>Metadata: Placeholder text of the input for a name of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="183"/>
         <source>Description</source>
         <comment>Metadata: Placeholder text of the input for a description of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="224"/>
         <source>Replacement type</source>
         <comment>Metadata: Section title for the type of a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzungstyp</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="264"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadatenattribute ersetzen, wenn alle Muster übereinstimmen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="274"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Teile von Metadatenattributen suchen und ersetzen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="342"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzt Metadatenattribute, wenn alle Muster übereinstimmen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="350"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sucht und ersetzt Teile von Metadatenattributen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="399"/>
         <source>Match patterns</source>
         <comment>Metadata: Section title for regular expression match patterns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vergleichsmuster</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="404"/>
         <source>Search patterns</source>
         <comment>Metadata: Section title for regular expression match patterns for the &quot;search and replace&quot; replacement type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suchmuster</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="499"/>
         <source>Replacements</source>
         <comment>Metadata: Section title for metadata attribute replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="541"/>
         <source>Enter at least one search pattern to perform replacements.</source>
         <comment>Metadata: Informational text to inform the user that with the &quot;search and replace&quot; replacement type at least one match pattern has to be entered to perform replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gib mindestens ein Suchmuster ein, um Ersetzungen durchzuführen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="872"/>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1095"/>
         <source>Media players</source>
         <comment>Metadata: Section title for the selection of media players to which a replacement should be restricted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medienspieler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="900"/>
         <source>Select</source>
         <comment>Metadata: Button text for a dropdown to select which media players a replacement should be restricted to</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auswählen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="904"/>
         <source>Search</source>
         <comment>Metadata: Placeholder text for searching a media player by name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="906"/>
         <source>Not found</source>
         <comment>Metadata: Informational text to inform the user that a media player that was searched for was not found/does not exist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nicht gefunden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="970"/>
         <source>You can restrict this edit to specific media players.</source>
         <comment>Metadata: Informational text to inform the user that this metadata edit can be restricted to specific media players. It&apos;s important that this text implies that it&apos;s optional (they &quot;can&quot;, but they don&apos;t have to). When no media player is selected, the edit is applied to metadata from all media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Du kannst diese Bearbeitung auf bestimmte Medienspieler beschränken.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1128"/>
         <source>This edit is only applied to {player_name}.</source>
         <comment>Metadata: Informational text for a preset that it&apos;s only applied to one specific media player.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Bearbeitung wird nur auf {player_name} angewendet.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1177"/>
         <source>Test</source>
         <comment>Metadata: Section title for testing an edit, replacement, filter, etc. Note that &quot;Test&quot; is a verb here, not a noun! As in &quot;to test&quot; and not &quot;the test&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Testen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1182"/>
         <source>Example</source>
         <comment>Metadata: Section title for example metadata that matches a preset edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beispiel</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1205"/>
         <source>Matches</source>
         <comment>Metadata: Informational text to inform the user that their match patterns all match, i.e. the edit &quot;matches&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trifft zu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1233"/>
         <source>Does not match</source>
         <comment>Metadata: Informational text to inform the user that their match patterns do not match, i.e. the edit &quot;does not match&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trifft nicht zu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1252"/>
         <source>Result</source>
         <comment>Metadata: Section title for the metadata that is the result of applying a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1437"/>
         <source>Error: {error_message}</source>
         <comment>Metadata: A regular expression failed to compile with the given error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: {error_message}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1464"/>
@@ -2185,97 +2185,97 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1486"/>
         <source>Show the field for the composer</source>
         <comment>Metadata: Checkbox for showing the composer attribute with match patterns and replacements. This is hidden by default because the composer is rarely needed for any edits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Feld für den Komponisten anzeigen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Ersetzung als Voreinstellung vorschlagen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1552"/>
         <source>Submit</source>
         <comment>Metadata: Button text for submitting a custom replacement as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Senden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1581"/>
         <source>Delete this replacement</source>
         <comment>Metadata: The user may delete custom replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Ersetzung löschen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1587"/>
         <source>Delete</source>
         <comment>Metadata: Button text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1603"/>
         <source>Are you sure?</source>
         <comment>Metadata: Confirmation text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bist du sicher?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1610"/>
         <source>Yes</source>
         <comment>Metadata: Confirm the deletion of a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1620"/>
         <source>No</source>
         <comment>Metadata: Cancel the deletion of a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nein</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1934"/>
         <source>Missing name</source>
         <comment>Metadata: Error title for a missing name of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehlender Name</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1936"/>
         <source>Enter a name for your replacement.</source>
         <comment>Metadata: Error description for a missing name of an edit. Every edit must have a name that briefly describes what it does</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gib einen Namen für deine Ersetzung ein.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1942"/>
         <source>Missing match pattern</source>
         <comment>Metadata: Error title for a missing match pattern of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehlendes Vergleichsmuster</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1945"/>
         <source>At least one match pattern is required.</source>
         <comment>Metadata: Error description for a missing match pattern of an edit. Every edit must have at least one match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mindestens ein Vergleichsmuster ist erforderlich.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1960"/>
         <source>Missing replacement</source>
         <comment>Metadata: Error title for a missing replacement of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehlende Ersetzung</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1962"/>
         <source>At least one replacement is required.</source>
         <comment>Metadata: Error description for a missing replacement of a replacement edit. Every replacement edit must have at least one replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mindestens eine Ersetzung ist erforderlich.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1969"/>
         <source>Invalid match pattern</source>
         <comment>Metadata: Error title for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Vergleichsmuster</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1973"/>
         <source>One or more match patterns are invalid.</source>
         <comment>Metadata: Error description for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ein oder mehrere Vergleichsmuster sind ungültig.</translation>
     </message>
 </context>
 <context>
@@ -2285,7 +2285,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="432"/>
         <source>You have unsaved changes</source>
         <comment>There are unsaved changes that should be saved.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Du hast ungespeicherte Änderungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="76"/>
@@ -2309,7 +2309,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="434"/>
         <source>Please save your changes first or discard them.</source>
         <comment>More detailed description for a popup that says that there are unsaved changes.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitte speichere deine Änderungen zuerst oder verwerfe sie.</translation>
     </message>
 </context>
 <context>
@@ -2318,37 +2318,37 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="62"/>
         <source>Account successfully connected.</source>
         <comment>Scrobbling: Connecting the scrobbling account was successful</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto erfolgreich verbunden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="171"/>
         <source>Next steps</source>
         <comment>Scrobbling: The next steps after connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Schritte</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="199"/>
         <source>Review the settings below, to see if they fit your needs.</source>
         <comment>Scrobbling: First step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prüfe die Einstellungen unten, um zu sehen, ob sie deinen Anforderungen entsprechen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="203"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {players}, um die Medienspieler zu aktivieren, die du scrobbeln möchtest.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="210"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Spieler</translation>
+        <translation>Medienspieler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="217"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {configuration}, um festzulegen, wann ein Titel gescrobbelt wird.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="224"/>
@@ -2361,7 +2361,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="232"/>
         <source>Go to {metadata} to control what song information is scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {metadata}, um festzulegen, welche Songinformationen gescrobbelt werden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="239"/>
@@ -2374,19 +2374,19 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="263"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ersteinrichtung</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="268"/>
         <source>Please review the following settings, as the defaults might not suit everyone&apos;s needs.</source>
         <comment>Scrobbling: Description for the &quot;Initial setup&quot; section</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitte prüfe die folgenden Einstellungen, da die Standardwerte möglicherweise nicht für alle passen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="280"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Künstler-Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="297"/>
@@ -2399,7 +2399,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="312"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
-        <translation type="unfinished"></translation>
+        <translation>empfohlen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="307"/>
@@ -2411,19 +2411,19 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="349"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beachte, dass manche Medienspieler möglicherweise nicht alle Künstler übermitteln und dass einige Plattformen mehrere Scrobble-Künstler nur eingeschränkt verarbeiten können.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="369"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Titellänge</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="384"/>
         <source>Duration</source>
         <comment>Scrobbling: A time duration in minutes and seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dauer</translation>
     </message>
 </context>
 <context>
@@ -2438,162 +2438,162 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="103"/>
         <source>Allow storing credentials in plain-text, if necessary</source>
         <comment>Scrobbling: Whether to store account credentials unsecurely as plain text, when it&apos;s necessary</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erlaube das Speichern von Zugangsdaten im Klartext, falls erforderlich</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="114"/>
         <source>Confirm</source>
         <comment>Scrobbling: Confirm changing a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bestätigen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="115"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zugangsdaten werden nur im Klartext gespeichert, wenn das Speichern im System-Schlüsselbund fehlschlägt. In diesem Fall wird ein Warnsymbol angezeigt. Bist du sicher, dass du dieses Verhalten deaktivieren möchtest? Wenn es ein Problem mit dem System-Schlüsselbund gibt, kannst du dich möglicherweise nicht anmelden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="125"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="127"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nein</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="174"/>
         <source>Username and password</source>
         <comment>Scrobbling: Log in to an account with username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzername und Passwort</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="180"/>
         <source>Browser login</source>
         <comment>Scrobbling: Log in to an account with a web browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anmeldung im Browser</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="347"/>
         <source>Account is connected and ready.</source>
         <comment>Scrobbling: Hover text when an account is ready for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto ist verbunden und bereit.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="351"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="420"/>
         <source>Credentials are unavailable. Try logging back in.</source>
         <comment>Scrobbling: Hover text for when there is an issue with loading account credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zugangsdaten sind nicht verfügbar. Versuche, dich erneut anzumelden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="355"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="423"/>
         <source>This account is logged out. Log back in to use it.</source>
         <comment>Scrobbling: Hover text for when an account is logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Konto ist abgemeldet. Melde dich erneut an, um es zu verwenden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="605"/>
         <source>Select a login method</source>
         <comment>Scrobbling: Text before different login options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anmeldemethode auswählen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="653"/>
         <source>Alternative login methods</source>
         <comment>Scrobbling: Text before different log in options/methods to choose from when connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alternative Anmeldemethoden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="781"/>
         <source>Loading…</source>
         <comment>Scrobbling: Text that is shown when something is loading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wird geladen…</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="795"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from the username and password login panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="843"/>
         <source>Enter your login details</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gib deine Anmeldedaten ein</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="306"/>
         <source>Account {account_id_number}</source>
         <comment>Scrobbling: Hover text to show the ID number of the account, to help with debugging errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto {account_id_number}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="369"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Zugangsdaten des Kontos sind in deinem Schlüsselbund gespeichert.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="373"/>
         <source>The account credentials are stored in plain-text.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored in plain-text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Zugangsdaten des Kontos sind im Klartext gespeichert.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="383"/>
         <source>Log out</source>
         <comment>Scrobbling: Log out a connected account without deleting it or its associated settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="387"/>
         <source>Log in</source>
         <comment>Scrobbling: Log back in to an account after it was logged out</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="395"/>
         <source>Remove</source>
         <comment>Scrobbling: Remove a connected account and delete all associated settings and data</comment>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="485"/>
         <source>You haven&apos;t connected any accounts yet.</source>
         <comment>Scrobbling: Indicates that no scrobbling accounts were connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Du hast noch keine Konten verbunden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="491"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Derzeit kannst du nur ein Konto verbinden. Unterstützung für mehrere Konten und weitere Dienste kommt bald.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="509"/>
         <source>Connect an account</source>
         <comment>Scrobbling: Connect the first scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto verbinden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="511"/>
         <source>Connect another account</source>
         <comment>Scrobbling: Connect another scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Weiteres Konto verbinden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="707"/>
         <source>Reconnect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is reconnected/when the user logs back in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto erneut verbinden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="711"/>
         <source>Connect account</source>
         <comment>Scrobbling: Title for the tab that is opened when an account is connected/when the user logs in to an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konto verbinden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="863"/>
@@ -2611,42 +2611,42 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="893"/>
         <source>Your password is never stored and is only transmitted to authenticate you.</source>
         <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dein Passwort wird niemals gespeichert und nur zur Authentifizierung übertragen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="908"/>
         <source>Log in</source>
         <comment>Scrobbling: Button to continue with the log in after entering the username and password</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="979"/>
         <source>Continue</source>
         <comment>Scrobbling: Button to continue after authorizing access to a scrobbling account in the browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Weiter</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="983"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisiere den Zugriff auf dein Konto über den Link, der in deinem Browser geöffnet wurde. Klicke anschließend auf &quot;{continue_text}&quot;, um fortzufahren.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1027"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn sich der Link nicht geöffnet hat, kannst du ihn manuell öffnen:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1103"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Es ist ein Fehler aufgetreten: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1115"/>
         <source>Close</source>
         <comment>Scrobbling: Close the error message box</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schliessen</translation>
     </message>
 </context>
 <context>
@@ -2667,193 +2667,193 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="119"/>
         <source>Minimum required playback time</source>
         <comment>Scrobbling: The amount of playback time that is neede for a track to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimale erforderliche Wiedergabezeit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="128"/>
         <source>Percentage</source>
         <comment>Scrobbling: The minimum required playback time expressed as a percentage of the track duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prozent</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="158"/>
         <source>Duration</source>
         <comment>Scrobbling: The minimum required playback time expressed as a duration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dauer</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="190"/>
         <source>Tracks are scrobbled at the first threshold, whichever is reached earlier.</source>
         <comment>Scrobbling: Description for the &quot;Minimum required playback time&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tracks werden beim ersten Schwellenwert gescrobbelt, je nachdem, welcher zuerst erreicht wird.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="203"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Titeldauer</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="240"/>
         <source>Tracks with a shorter duration will not be scrobbled.</source>
         <comment>Scrobbling: Description for the &quot;Minimum track duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titel mit kürzerer Dauer werden nicht gescrobbelt.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="250"/>
         <source>When to scrobble</source>
         <comment>Scrobbling: When the track should be scrobbled. You can also translate this as &quot;Scrobble time point&quot;, if translating &quot;When to scrobble&quot; is cumbersome</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobble-Zeitpunkt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="262"/>
         <source>As soon as the required playback time is reached</source>
         <comment>Scrobbling: Option to decide when to scrobble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sobald die erforderliche Wiedergabezeit erreicht ist</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="266"/>
         <source>When the track&apos;s playback ends</source>
         <comment>Scrobbling: Option to decide when to scrobble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Am Ende der Titelwiedergabe</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="306"/>
         <source>Rewinding a track to the beginning also counts as the end of the track&apos;s playback.</source>
         <comment>Scrobbling: Description for the &quot;When to scrobble&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Das Zurückspulen eines Titels bis zum Anfang zählt ebenfalls als Ende der Titelwiedergabe.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="316"/>
         <source>Send &quot;Now Playing&quot; information when you start listening</source>
         <comment>Scrobbling: Whether to send to scrobbling services what the user is listening to in the current moment, before the track is scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Now Playing&quot;-Informationen beim Start der Wiedergabe senden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="334"/>
         <source>Allow others to see what you&apos;re currently listening to on your profile.</source>
         <comment>Scrobbling: Description for the &quot;Send &quot;Now Playing&quot; information when you start listening&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Andere können auf deinem Profil sehen, was du gerade hörst.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="349"/>
         <source>When the track duration is unknown</source>
         <comment>Scrobbling: Settings for the case that a media player does not report the track duration, which makes scrobbling less accurate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn die Titeldauer unbekannt ist</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="360"/>
         <source>Some media players do not report the track duration. In those cases the above thresholds are ignored and the following settings apply instead. Tracks with an unknown duration are always scrobbled at the end of their playback or after being rewinded to the beginning.</source>
         <comment>Scrobbling: Description for the &quot;When the track duration is unknown&quot; settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manche Medienspieler übermitteln die Titeldauer nicht. In diesen Fällen werden die obigen Schwellenwerte ignoriert und stattdessen die folgenden Einstellungen verwendet. Titel mit unbekannter Dauer werden immer am Ende ihrer Wiedergabe oder nach dem Zurückspulen bis zum Anfang gescrobbelt.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="380"/>
         <source>Allow multiple scrobbles</source>
         <comment>Scrobbling: Whether to allow multiple scrobbles, when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mehrfaches Scrobbeln erlauben</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="397"/>
         <source>Whether to allow a track with an unknown duration to be scrobbled again when being rewinded to the beginning or when being played on repeat. Note that rewinding early in the track can lead to a scrobble then.</source>
         <comment>Scrobbling: Description for the &quot;Allow multiple scrobbles&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legt fest, ob ein Titel mit unbekannter Dauer erneut gescrobbelt werden darf, wenn er bis zum Anfang zurückgespult oder wiederholt abgespielt wird. Beachte, dass ein frühes Zurückspulen im Titel dann bereits zu einem Scrobble führen kann.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="409"/>
         <source>Minimum playback time</source>
         <comment>Scrobbling: Minimum time for which a track without a duration has to be played to be scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Wiedergabezeit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="447"/>
         <source>Tracks with an unknown duration need to play for at least the specified time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum playback time&quot; setting for when the track duration is unknown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titel mit unbekannter Dauer müssen mindestens die angegebene Zeit wiedergegeben werden.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="461"/>
         <source>Advanced configuration</source>
         <comment>Scrobbling: Advaned scrobbling configuration category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Konfiguration</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="465"/>
         <source>Only change these settings, if you know what you&apos;re doing.</source>
         <comment>Scrobbling: Description for the &quot;Advanced configuration&quot; category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ändere diese Einstellungen nur, wenn du weißt, was du tust.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="475"/>
         <source>Playback time recording</source>
         <comment>Scrobbling: Configuration of how the playback time is recorded</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aufzeichnung der Wiedergabezeit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="485"/>
         <source>Strict &amp;ndash; Already played sections are not recorded again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Strict/accurate recording means that played sections of the track will not be recorded multiple times and won&apos;t count towards the minimum playback time more than once</comment>
-        <translation type="unfinished"></translation>
+        <translation>Strikt &amp;ndash; Bereits wiedergegebene Abschnitte werden nicht erneut erfasst</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="492"/>
         <source>Lax &amp;ndash; Played sections are recorded multiple times, when played again</source>
         <comment>Scrobbling: Option for the &quot;Playback time recording&quot; setting. Lax/inaccurate recording means that played sections can be recorded multiple times and are allowed to count more than once to the minimum required playback time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Großzügig &amp;ndash; Erneut abgespielte Abschnitte werden mehrfach erfasst</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="533"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Option „Strikt“ verhindert, dass ein Titel früher gescrobbelt wird, z. B. wenn der Titel zurückgespult oder ein Abschnitt erneut abgespielt wird.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="547"/>
         <source>Minimum rewind duration</source>
         <comment>Scrobbling: The minimum duration for which a track must be rewinded in order to count it as being played again (or a second time)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimale Zurückspuldauer</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="584"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn ein Titel zurückgespult wird, muss er mindestens um diesen Wert zurückgespult werden, damit er gescrobbelt werden kann. Beachte, dass ein Titel immer mindestens um die erforderliche Wiedergabezeit zurückgespult werden muss.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="598"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehlertoleranz (in Sekunden)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="632"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Wert lässt bei der Erfassung etwas Spielraum für Ungenauigkeiten. Eine Erhöhung kann z. B. helfen, wenn ein Regler oben auf 100 % steht und Titel gelegentlich nicht gescrobbelt werden. In der Regel sollte es nicht nötig sein, diesen Wert zu erhöhen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="696"/>
         <source>Which track to send &quot;Now Playing&quot; information for</source>
         <comment>Scrobbling: Control over which track is shown on the user&apos;s profile, when multiple tracks are playing at the same time</comment>
-        <translation type="unfinished"></translation>
+        <translation>Für welchen Titel „Now Playing“-Informationen gesendet werden sollen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="707"/>
         <source>The track that was most recently interacted with</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Titel, mit dem zuletzt interagiert wurde</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="712"/>
         <source>The track that has been playing the longest</source>
         <comment>Scrobbling: Option for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Titel, der am längsten abgespielt wird</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="756"/>
         <source>This setting is only relevant when there are multiple media players playing music at the same time and one of the played tracks has to be chosen.</source>
         <comment>Scrobbling: Description for the &quot;Which track to send &quot;Now Playing&quot; information for&quot; setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Einstellung ist nur relevant, wenn mehrere Medienspieler gleichzeitig Musik abspielen und einer der abgespielten Titel ausgewählt werden muss.</translation>
     </message>
 </context>
 <context>
@@ -2919,13 +2919,13 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="176"/>
         <source>Disable</source>
         <comment>Scrobbling: Disable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivieren</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayerWidget.cpp" line="177"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren</translation>
     </message>
 </context>
 <context>
@@ -2934,37 +2934,37 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="57"/>
         <source>Enabled media players</source>
         <comment>Scrobbling: The list of media players that were enabled by the user for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivierte Medienspieler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="89"/>
         <source>Available media players</source>
         <comment>Scrobbling: The list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verfügbare Medienspieler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="100"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wähle durch Klicken auf „{enable_button}“ aus, von welchen Medienspielern gescrobbelt werden soll. Titel werden nur von Medienspielern gescrobbelt, die du ausdrücklich aktivierst.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="107"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivieren</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="122"/>
         <source>No media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: No media players can be shown in the player selection because no media players are detected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Medienspieler erkannt. Spiele etwas Musik ab und kehre dann hierher zurück.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="133"/>
         <source>No other media players detected. Play some music, then return here.</source>
         <comment>Scrobbling: Some media players are detected, but no other media players are detected, so no additional media players can be shown in the player selection. The emphasis is on &quot;other&quot; here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine weiteren Medienspieler erkannt. Spiele etwas Musik ab und kehre dann hierher zurück.</translation>
     </message>
 </context>
 </TS>
