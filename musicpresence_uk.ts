@@ -911,7 +911,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="644"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Метадані</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="654"/>
@@ -924,7 +924,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="663"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Зміни</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="670"/>
@@ -936,7 +936,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="687"/>
         <source>Metadata</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Метадані</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="810"/>
