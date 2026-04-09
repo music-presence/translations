@@ -472,7 +472,7 @@
         <location filename="../src/app/app.cpp" line="5898"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
-        <translation>Gebe dem Projekt einen Stern auf GitHub</translation>
+        <translation>Gib dem Projekt einen Stern auf GitHub</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5904"/>
@@ -695,7 +695,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
         <translation>&lt;p&gt;&lt;b&gt;Auf Version {version} aktualisiert.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Starte die Anwendung neu um das Update abzuschließen.&lt;/p&gt;</translation>
+&lt;p&gt;Starte die Anwendung neu, um das Update abzuschließen.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6873"/>
@@ -758,7 +758,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/app.cpp" line="7961"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Eine neue Version von {app_name} ist verfügbar.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lese den Änderungsverlauf um zu erfahren was neu ist.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Eine neue Version von {app_name} ist verfügbar.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Lies den Änderungsverlauf, um zu erfahren, was neu ist.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7977"/>
@@ -1008,7 +1008,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="824"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation>Helfe beim Übersetzen</translation>
+        <translation>Hilf beim Übersetzen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="829"/>
@@ -1191,7 +1191,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="1976"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation>Zeige immer &quot;{podcast_activity_name}&quot; wenn du Podcasts hörst</translation>
+        <translation>Zeige immer &quot;{podcast_activity_name}&quot;, wenn du Podcasts hörst</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1980"/>
@@ -1233,7 +1233,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2131"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation>Um beliebigen Text anzuzeigen, öffne {discord_developer_portal_url} und klicke auf &quot;{new_application_button_name}&quot;. Gebe den gewünschten Namen ein und klicke auf &quot;{create_button_name}&quot;. Schaue nach &quot;{application_id_section_name}&quot; auf der Seite, die sich im Anschluss öffnet, kopiere die angezeigte Zahl und füge sie in das obige Feld ein.</translation>
+        <translation>Um beliebigen Text anzuzeigen, öffne {discord_developer_portal_url} und klicke auf &quot;{new_application_button_name}&quot;. Gib den gewünschten Namen ein und klicke auf &quot;{create_button_name}&quot;. Schaue nach &quot;{application_id_section_name}&quot; auf der Seite, die sich im Anschluss öffnet, kopiere die angezeigte Zahl und füge sie in das obige Feld ein.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2898"/>
@@ -1747,7 +1747,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3700"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>Für mehr Informationen darüber, welche Daten an diese Dienste übermittelt werden und wofür sie verwendet werden, lese die &lt;a {attributes}&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
+        <translation>Für mehr Informationen darüber, welche Daten an diese Dienste übermittelt werden und wofür sie verwendet werden, lies die &lt;a {attributes}&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3709"/>
@@ -1781,7 +1781,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3802"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation>Du kannst den Ländercode manuell angeben, wenn der Ländercode deines Geräts nicht mit dem deines Streamingdienstes übereinstimmt. Gebe hier den &lt;a {attributes}&gt;zweistelligen Ländercode&lt;/a&gt; deines Streamingdienstes an.</translation>
+        <translation>Du kannst den Ländercode manuell angeben, wenn der Ländercode deines Geräts nicht mit dem deines Streamingdienstes übereinstimmt. Gib hier den &lt;a {attributes}&gt;zweistelligen Ländercode&lt;/a&gt; deines Streamingdienstes an.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3811"/>
@@ -1804,7 +1804,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3986"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Deine eigenen Zugangsdaten einzugeben kann dabei helfen zusätzliche Musikinformationen zuverlässiger abzurufen. Öffne &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; und klicke auf &quot;{create_app_text}&quot;. Gebe die benötigten Informationen ein, dann kopiere &quot;{client_id_text}&quot; und &quot;{client_secret_text}&quot; und füge sie oben ein.</translation>
+        <translation>Deine eigenen Zugangsdaten einzugeben kann dabei helfen zusätzliche Musikinformationen zuverlässiger abzurufen. Öffne &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; und klicke auf &quot;{create_app_text}&quot;. Gib die benötigten Informationen ein, dann kopiere &quot;{client_id_text}&quot; und &quot;{client_secret_text}&quot; und füge sie oben ein.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4003"/>
@@ -1815,7 +1815,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="4012"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Deine eigenen Zugangsdaten einzugeben kann dabei helfen zusätzliche Musikinformationen zuverlässiger abzurufen. Öffne &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; und klicke auf &quot;{create_app_text}&quot;. Gebe die benötigten Informationen ein, dann kopiere &quot;{client_id_text}&quot; und &quot;{client_secret_text}&quot; und füge sie oben ein.</translation>
+        <translation>Deine eigenen Zugangsdaten einzugeben kann dabei helfen zusätzliche Musikinformationen zuverlässiger abzurufen. Öffne &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; und klicke auf &quot;{create_app_text}&quot;. Gib die benötigten Informationen ein, dann kopiere &quot;{client_id_text}&quot; und &quot;{client_secret_text}&quot; und füge sie oben ein.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4029"/>
@@ -1858,7 +1858,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="4175"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation>Hilfe benötigt? &lt;a {attributes}&gt;Lese die Dokumentation&lt;/a&gt;.</translation>
+        <translation>Hilfe benötigt? &lt;a {attributes}&gt;Lies die Dokumentation&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4195"/>
@@ -1899,7 +1899,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="4414"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation>Du kannst deinen eigenen Server hosten um Coverbilder in besserer Qualität anzuzeigen und um unabhängig vom eingebauten Server zu sein. Für weitere Informationen, lese die &lt;a {attributes}&gt;Dokumentation&lt;/a&gt;.</translation>
+        <translation>Du kannst deinen eigenen Server hosten um Coverbilder in besserer Qualität anzuzeigen und um unabhängig vom eingebauten Server zu sein. Für weitere Informationen, lies die &lt;a {attributes}&gt;Dokumentation&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6394"/>
