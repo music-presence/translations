@@ -1740,13 +1740,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1095"/>
         <source>Media players</source>
         <comment>Metadata: Section title for the selection of media players to which a replacement should be restricted</comment>
-        <translation type="unfinished"></translation>
+        <translation>נגני מדיה</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="900"/>
         <source>Select</source>
         <comment>Metadata: Button text for a dropdown to select which media players a replacement should be restricted to</comment>
-        <translation type="unfinished"></translation>
+        <translation>בחר</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="904"/>
