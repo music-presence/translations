@@ -3574,7 +3574,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="449"/>
         <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation>Ulteriori funzioni e supporto per altre piattaforme come {listenbrainz_brand} e {librefm_brand} sono in arrivo presto! Dai un&apos;occhiata alla &lt;a {roadmap_attributes}&gt;roadmap del progetto&lt;/a&gt;.</translation>
+        <translation>Ulteriori funzioni e supporto per altre piattaforme come {listenbrainz_brand} e {librefm_brand} arriveranno presto! Dai un&apos;occhiata alla &lt;a {roadmap_attributes}&gt;roadmap del progetto&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="477"/>
@@ -3592,7 +3592,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="497"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation>Mostra ai tuoi amici cosa stai ascoltando condividendo il brano che stai riproducendo in questo momento sul tuo profilo Discord! Questo funziona con quasi tutti i lettori multimediali.</translation>
+        <translation>Mostra ai tuoi amici cosa stai ascoltando condividendo il brano che stai riproducendo in questo momento sul tuo profilo Discord! Questa funzione è compatibile con quasi tutti i lettori multimediali.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="511"/>
