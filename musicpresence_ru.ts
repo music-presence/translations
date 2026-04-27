@@ -3547,79 +3547,79 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="477"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord Rich Presence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="491"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="497"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Покажите своим друзьям какой трек вы сейчас слушаете, отобразив его в профиле Discord! Это работает почти со всеми медиа-проигрывателями.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="511"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Установите и запустите &lt;a {discord_attributes}&gt;настольное приложение Discord&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="521"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Убедитесь, что &lt;a {activity_sharing_attributes}&gt;«Публиковать активность»&lt;/a&gt; включена в настройках аккаунта Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="531"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проиграйте музыку в медиа-проигрывателе. На данный момент вам необходимо использовать настольное приложение вашего проигрывателя, а скоро будет доступно и &lt;a {browser_support_attributes}&gt;поддержка браузеров&lt;/a&gt;. В зависимости от вашего медиа-проигрывателя, вам возможно потребуется &lt;a {plugin_attributes}&gt;плагин&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="546"/>
         <source>Go to {appearance} to customize your status in general and per media player</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {appearance}, чтобы настроить статус — как общий, так и для каждого проигрывателя в отдельности</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="553"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="560"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {services}, чтобы настроить использование сторонних сервисов</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="565"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Службы</translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="575"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Также ознакомьтесь со &lt;a {media_players_attributes}&gt;списком поддерживаемых плееров&lt;/a&gt;, загляните на &lt;a {help_attributes}&gt;страницу помощи&lt;/a&gt; или узнайте, как &lt;a {add_support_attributes}&gt;добавить поддержку нового медиаплеера&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="602"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нужна помощь?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="625"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Посетите &lt;a {help_attributes}&gt;страницу помощи&lt;/a&gt; для решения частых проблем</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="633"/>
