@@ -921,7 +921,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="669"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Date meta</translation>
+        <translation>Date meta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="684"/>
@@ -934,7 +934,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="693"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificări</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="700"/>
@@ -1299,13 +1299,13 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="319"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă licența de scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="322"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plasează fișierul de licență în această fereastră pentru a-l importa.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="656"/>
@@ -1323,7 +1323,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="676"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bine ai venit</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="708"/>
@@ -1347,13 +1347,13 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="717"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Artiști</translation>
+        <translation>Artiști</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="720"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Licență</translation>
+        <translation>Licență</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1063"/>
@@ -1899,31 +1899,31 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="6711"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6858"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished"></translation>
+        <translation>Există deja un înlocuitor cu acest nume.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6939"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Presetări</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7037"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiri</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7055"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuire nouă</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7066"/>
@@ -1932,13 +1932,13 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../src/app/settings/window.cpp" line="7144"/>
         <source>Something went wrong</source>
         <comment>Metadata: Popup title for when an error occurred while saving an edit</comment>
-        <translation type="unfinished">Ceva nu a funcționat</translation>
+        <translation>Ceva nu a funcționat</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7113"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modifică înlocuirea</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7349"/>
@@ -1953,13 +1953,13 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="300"/>
         <source>Disable</source>
         <comment>Metadata: Disable a metadata pattern replacement</comment>
-        <translation type="unfinished">Dezactivează</translation>
+        <translation>Dezactivează</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="301"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a metadata pattern replacement</comment>
-        <translation type="unfinished">Activează</translation>
+        <translation>Activează</translation>
     </message>
 </context>
 <context>
@@ -1968,13 +1968,13 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic replacements</source>
         <comment>Metadata: Basic metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiri de bază</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="87"/>
         <source>Advanced replacements</source>
         <comment>Metadata: Advanced metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiri avansate</translation>
     </message>
 </context>
 <context>
@@ -1983,43 +1983,43 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="23"/>
         <source>Custom replacements are currently only available for scrobbling. Your replacements are only applied after connecting an account.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuirile personalizate sunt disponibile în prezent doar pentru scrobbling. Înlocuirile sunt aplicate numai după conectarea unui cont.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuirile personalizate sunt disponibile în prezent doar pentru scrobbling și necesită o licență.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuirile personalizate sunt disponibile în prezent doar pentru scrobbling, iar perioada de probă gratuită s-a încheiat. Cumpără o licență pentru a continua să utilizezi această funcție.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuirile personalizate sunt disponibile în prezent doar pentru scrobbling, iar licența ta a expirat. Cumpără o licență nouă pentru a continua să utilizezi această funcție.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
         <source>Custom replacements</source>
         <comment>Metadata: Section title for custom regular expression replacements created by the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiri personalizate</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="160"/>
         <source>Create your first replacement</source>
         <comment>Metadata: Button text for creating the first regular expression replacement. No replacements exist when this text is shown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Creează prima înlocuire</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="164"/>
         <source>Create another replacement</source>
         <comment>Metadata: Button text for creating another regular expression replacement. The user has already created some replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Creează o altă înlocuire</translation>
     </message>
 </context>
 <context>
@@ -2028,272 +2028,272 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="125"/>
         <source>Title</source>
         <comment>Metadata: Placeholder text for he title of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="129"/>
         <source>Artist</source>
         <comment>Metadata: Placeholder text for he artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artist</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="133"/>
         <source>Album</source>
         <comment>Metadata: Placeholder text for he album of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="137"/>
         <source>Album artist</source>
         <comment>Metadata: Placeholder text for he album artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artistul albumului</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="141"/>
         <source>Composer</source>
         <comment>Metadata: Placeholder text for he composer of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Compozitor</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="157"/>
         <source>Name</source>
         <comment>Metadata: Placeholder text of the input for a name of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="184"/>
         <source>Description</source>
         <comment>Metadata: Placeholder text of the input for a description of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descriere</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="225"/>
         <source>Replacement type</source>
         <comment>Metadata: Section title for the type of a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipul înlocuirii</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="265"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește atributele metadatelor care corespund tuturor modelelor</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="275"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caută și înlocuiește părți din atributele de metadate</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="343"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește atributele metadatelor care corespund tuturor modelelor.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="351"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caută și înlocuiește părți ale atributelor de metadate.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="400"/>
         <source>Match patterns</source>
         <comment>Metadata: Section title for regular expression match patterns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modele de potrivire</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="405"/>
         <source>Search patterns</source>
         <comment>Metadata: Section title for regular expression match patterns for the &quot;search and replace&quot; replacement type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modele de căutare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="500"/>
         <source>Replacements</source>
         <comment>Metadata: Section title for metadata attribute replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiri</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="542"/>
         <source>Enter at least one search pattern to perform replacements.</source>
         <comment>Metadata: Informational text to inform the user that with the &quot;search and replace&quot; replacement type at least one match pattern has to be entered to perform replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu cel puțin un model de căutare pentru a efectua înlocuiri.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="874"/>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1098"/>
         <source>Media players</source>
         <comment>Metadata: Section title for the selection of media players to which a replacement should be restricted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Playere media</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="902"/>
         <source>Select</source>
         <comment>Metadata: Button text for a dropdown to select which media players a replacement should be restricted to</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selectează</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="906"/>
         <source>Search</source>
         <comment>Metadata: Placeholder text for searching a media player by name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caută</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="908"/>
         <source>Not found</source>
         <comment>Metadata: Informational text to inform the user that a media player that was searched for was not found/does not exist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niciun rezultat</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="972"/>
         <source>You can restrict this edit to specific media players.</source>
         <comment>Metadata: Informational text to inform the user that this metadata edit can be restricted to specific media players. It&apos;s important that this text implies that it&apos;s optional (they &quot;can&quot;, but they don&apos;t have to). When no media player is selected, the edit is applied to metadata from all media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poți restricționa această editare la anumite playere media.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1131"/>
         <source>This edit is only applied to {player_name}.</source>
         <comment>Metadata: Informational text for a preset that it&apos;s only applied to one specific media player.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această modificare se aplică doar pentru {player_name}.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1180"/>
         <source>Test</source>
         <comment>Metadata: Section title for testing an edit, replacement, filter, etc. Note that &quot;Test&quot; is a verb here, not a noun! As in &quot;to test&quot; and not &quot;the test&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1185"/>
         <source>Example</source>
         <comment>Metadata: Section title for example metadata that matches a preset edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Exemplu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1208"/>
         <source>Matches</source>
         <comment>Metadata: Informational text to inform the user that their match patterns all match, i.e. the edit &quot;matches&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potriviri</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1236"/>
         <source>Does not match</source>
         <comment>Metadata: Informational text to inform the user that their match patterns do not match, i.e. the edit &quot;does not match&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nicio potrivire</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1255"/>
         <source>Result</source>
         <comment>Metadata: Section title for the metadata that is the result of applying a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1440"/>
         <source>Error: {error_message}</source>
         <comment>Metadata: A regular expression failed to compile with the given error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: {error_message}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1467"/>
         <source>Miscellaneous</source>
         <comment>Metadata: Section title for miscellaneous settings of an edit</comment>
-        <translation type="unfinished">Diverse</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1489"/>
         <source>Show the field for the composer</source>
         <comment>Metadata: Checkbox for showing the composer attribute with match patterns and replacements. This is hidden by default because the composer is rarely needed for any edits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afișează câmpul pentru compozitor</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1541"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sugerează această înlocuire ca presetare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1555"/>
         <source>Submit</source>
         <comment>Metadata: Button text for submitting a custom replacement as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1584"/>
         <source>Delete this replacement</source>
         <comment>Metadata: The user may delete custom replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge înlocuirea</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1590"/>
         <source>Delete</source>
         <comment>Metadata: Button text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1606"/>
         <source>Are you sure?</source>
         <comment>Metadata: Confirmation text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1613"/>
         <source>Yes</source>
         <comment>Metadata: Confirm the deletion of a custom replacement</comment>
-        <translation type="unfinished">Da</translation>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1623"/>
         <source>No</source>
         <comment>Metadata: Cancel the deletion of a custom replacement</comment>
-        <translation type="unfinished">Nu</translation>
+        <translation>Nu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1938"/>
         <source>Missing name</source>
         <comment>Metadata: Error title for a missing name of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lipsește numele</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1940"/>
         <source>Enter a name for your replacement.</source>
         <comment>Metadata: Error description for a missing name of an edit. Every edit must have a name that briefly describes what it does</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu un nume pentru înlocuire.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1946"/>
         <source>Missing match pattern</source>
         <comment>Metadata: Error title for a missing match pattern of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Model de potrivire lipsă</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1949"/>
         <source>At least one match pattern is required.</source>
         <comment>Metadata: Error description for a missing match pattern of an edit. Every edit must have at least one match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este necesar cel puțin un model de potrivire.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1964"/>
         <source>Missing replacement</source>
         <comment>Metadata: Error title for a missing replacement of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lipsește înlocuirea</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1966"/>
         <source>At least one replacement is required.</source>
         <comment>Metadata: Error description for a missing replacement of a replacement edit. Every replacement edit must have at least one replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este necesară cel puțin o înlocuire.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1973"/>
         <source>Invalid match pattern</source>
         <comment>Metadata: Error title for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Model de potrivire nevalid</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1977"/>
         <source>One or more match patterns are invalid.</source>
         <comment>Metadata: Error description for an invalid match pattern of an edit. A regular expression that does not compile may e.g. be an invalid match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unul sau mai multe modele de potrivire sunt nevalide.</translation>
     </message>
 </context>
 <context>
@@ -2302,7 +2302,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/reusable/OverlayPopup.cpp" line="111"/>
         <source>OK</source>
         <comment>Confirm a popup message and close the popup</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2312,31 +2312,31 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="432"/>
         <source>You have unsaved changes</source>
         <comment>There are unsaved changes that should be saved.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ai modificări nesalvate</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="76"/>
         <source>Reset</source>
         <comment>Button that resets unsaved changes back to the last saved state</comment>
-        <translation type="unfinished">Resetează</translation>
+        <translation>Resetează</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="97"/>
         <source>Save</source>
         <comment>Button to save unsaved changes</comment>
-        <translation type="unfinished">Salvează</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="238"/>
         <source>OK</source>
         <comment>Confirm a popup message and close the popup</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/reusable/SaveContainerWidget.cpp" line="434"/>
         <source>Please save your changes first or discard them.</source>
         <comment>More detailed description for a popup that says that there are unsaved changes.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Te rugăm să salvezi mai întâi modificările sau să le ștergi.</translation>
     </message>
 </context>
 <context>
@@ -2398,26 +2398,26 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="206"/>
         <source>Go to {artists} to control how artists are scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {artists} pentru a controla modul în care artiștii sunt evidențiați prin Scrobble.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="278"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Artiști</translation>
+        <translation>Artiști</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways.</source>
         <comment>Scrobbling: Fifth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {edits} pentru a edita metadatele muzicale stocate în Scrobble în diverse moduri.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="226"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editări</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="253"/>
@@ -2481,37 +2481,37 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="58"/>
         <source>Your license has expired.</source>
         <comment>Scrobbling: Informative message that the limited time scrobbling license the user is using has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licența ta a expirat.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="62"/>
         <source>A new license is required to continue scrobbling.</source>
         <comment>Scrobbling: Informative message that a new license has to be bought to use scrobbling features after a limited time license has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este necesară o nouă licență pentru a continua scrobbling-ul.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="70"/>
         <source>Your free trial has ended.</source>
         <comment>Scrobbling: Informative message that the scrobbling free trial period has ended</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perioada ta de probă gratuită s-a încheiat.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="73"/>
         <source>A license is required to continue scrobbling.</source>
         <comment>Scrobbling: Informative message that a license has to be bought to use scrobbling features after the free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este necesară o licență pentru a continua scrobbling-ul.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="104"/>
         <source>Buy license</source>
         <comment>Scrobbling: Button text to continue to buy a scrobbling license</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cumpără licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="116"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from a panel to the previous panel</comment>
-        <translation type="unfinished">Înapoi</translation>
+        <translation>Înapoi</translation>
     </message>
 </context>
 <context>
@@ -2520,31 +2520,31 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="60"/>
         <source>Start your &lt;span {attributes}&gt;{duration}-day free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period</comment>
-        <translation type="unfinished"></translation>
+        <translation>Începe perioada de probă gratuită de &lt;span {attributes}&gt;{duration}&lt;/span&gt; zile pentru a evalua toate funcțiile de scrobbling. După perioada de evaluare, este necesară o licență pentru a continua scrobbling-ul.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="72"/>
         <source>Start your &lt;span {attributes}&gt;free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period, a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period. Alternative text in case the free trial period can&apos;t be loaded from the server</comment>
-        <translation type="unfinished"></translation>
+        <translation>Începe &lt;span {attributes}&gt;perioada de încercare gratuită&lt;/span&gt; pentru a evalua toate funcțiile de scrobbling. După perioada de evaluare, este necesară o licență pentru a continua scrobbling-ul.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="94"/>
         <source>Start free trial</source>
         <comment>Scrobbling: Button to start the scrobbling free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Începe perioada de probă gratuită</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="105"/>
         <source>By continuing you agree to the &lt;a {terms_attributes}&gt;Terms&lt;/a&gt; and &lt;a {privacy_attributes}&gt;Privacy Policy&lt;/a&gt;.</source>
         <comment>Scrobbling: Text to inform the user about their consent to the terms and privacy policy by continuing to start the free trial. Use legal language for the words &quot;Terms&quot; and &quot;Privacy Policy&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Continuând, ești de acord cu &lt;a {terms_attributes}&gt;Termenii&lt;/a&gt; și &lt;a {privacy_attributes}&gt;Politica de confidențialitate&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="134"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from a panel to the previous panel</comment>
-        <translation type="unfinished">Înapoi</translation>
+        <translation>Înapoi</translation>
     </message>
 </context>
 <context>
@@ -2637,7 +2637,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="988"/>
         <source>Back</source>
         <comment>Scrobbling: Navigate back from a panel to the previous panel</comment>
-        <translation type="unfinished">Înapoi</translation>
+        <translation>Înapoi</translation>
     </message>
     <message>
         <source>Back</source>
@@ -2980,7 +2980,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="676"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această valoare lasă loc de eroare în timpul urmăririi. Mărirea acesteia poate ajuta, de exemplu, atunci când un cursor de mai sus este la 100% și piesele nu sunt ocazional derulate prin scrobble. În general, nu ar trebui să fie nevoie să mărești această valoare.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="743"/>
@@ -3013,55 +3013,55 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="43"/>
         <source>No account is connected</source>
         <comment>Scrobbling: Pop-up title to inform that no account is connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niciun cont conectat</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="56"/>
         <source>A license is required</source>
         <comment>Scrobbling: Pop-up title to inform that a license is required to use scrobbling features</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este necesară o licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="73"/>
         <source>Connect an account first before configuring scrobbling.</source>
         <comment>Scrobbling: Pop-up message that no account is connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conectează mai întâi un cont înainte de a configura scrobbling-ul.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="78"/>
         <source>You need to connect an account for your configuration changes to take effect.</source>
         <comment>Scrobbling: Pop-up message that no account is connected yet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să conectezi un cont pentru ca modificările de configurare să aibă efect.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="91"/>
         <source>A valid license is required to scrobble.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use scrobbling features</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este necesară o licență validă pentru a face scrobble.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="95"/>
         <source>Your free trial has ended. Buy a license to continue scrobbling.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use scrobbling features after the free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perioada de încercare gratuită s-a încheiat. Cumpără o licență pentru a continua să folosești funcția de Scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="100"/>
         <source>Your license has expired. Buy a new license to continue scrobbling.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use scrobbling features after a limited time license has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licența ta a expirat. Cumpără o licență nouă pentru a continua să folosești funcția de Scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="116"/>
         <source>Connect account</source>
         <comment>Scrobbling: Button text to continue to connect an account. Keep this text as short as possible</comment>
-        <translation type="unfinished">Conectează contul</translation>
+        <translation>Conectează contul</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="120"/>
         <source>Buy license</source>
         <comment>Scrobbling: Button text to continue to buy a scrobbling license. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cumpără o licență</translation>
     </message>
 </context>
 <context>
@@ -3070,55 +3070,55 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="222"/>
         <source>Owner</source>
         <comment>Scrobbling: Label for the owner of a scrobbling license. Keep this text short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proprietar</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="235"/>
         <source>ID</source>
         <comment>Scrobbling: Label for the ID of a scrobbling license. Keep this text short</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="242"/>
         <source>Purchase date</source>
         <comment>Scrobbling: Label for the date at which a scrobbling license was purchased. Keep this text short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data achiziționării</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="248"/>
         <source>Expiry date</source>
         <comment>Scrobbling: Label for the date at which a license expires. Keep this text short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data expirării</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="355"/>
         <source>Lifetime License</source>
         <comment>Scrobbling: The name for a license that never expires. If it sounds better, keep the word &quot;Lifetime&quot; instead of translating it. In some languages it might sound awkward to translate it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licență perpetuă</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="361"/>
         <source>Standard License</source>
         <comment>Scrobbling: The name for a standard license that expires after a certain period</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licență standard</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="367"/>
         <source>Free Trial License</source>
         <comment>The name for a license that is granted to the user during the scrobbling free trial. You can also translate this shorter as &quot;Trial License&quot; or &quot;Test License&quot;, whatever comes closer to the English meaning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Licență de încercare gratuită</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="401"/>
         <source>Expired</source>
         <comment>Scrobbling: Label for an expired scrobbling license</comment>
-        <translation type="unfinished"></translation>
+        <translation>Expirată</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="551"/>
         <source>Never expires</source>
         <comment>Scrobbling: Informational text that the license never expires. Keep this short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu expiră</translation>
     </message>
 </context>
 <context>
@@ -3127,190 +3127,190 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="89"/>
         <source>License</source>
         <comment>Scrobbling: Title of the scrobbling license settings panel</comment>
-        <translation type="unfinished">Licență</translation>
+        <translation>Licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="133"/>
         <source>Terms</source>
         <comment>Scrobbling: Word for Terms of Service. Use legal language here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Termeni</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="144"/>
         <source>Privacy Policy</source>
         <comment>Scrobbling: Word for Privacy Policy. Use legal language here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Politica de confidențialitate</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="156"/>
         <source>Contact</source>
         <comment>Scrobbling: Word for Terms of Service. Use legal language here</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contact</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="249"/>
         <source>Scrobbling requires a valid license or an active free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling necesită o licență validă sau o perioadă de încercare gratuită activă.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="256"/>
         <source>You can import your license by dragging the license file into this window or by opening the file selector via the button below. Before buying a license you have the option to try all features by starting a free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poți importa licența trăgând fișierul de licență în această fereastră sau deschizând selectorul de fișiere prin intermediul butonului de mai jos. Înainte de a cumpăra o licență, ai opțiunea de a încerca toate funcțiile începând o perioadă de încercare gratuită.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="298"/>
         <source>Import your license file</source>
         <comment>Scrobbling: Description text for importing a license file into the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă fișierul de licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="301"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="425"/>
         <source>Import</source>
         <comment>Scrobbling: Button text for importing a license file into the app. Keep this short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="315"/>
         <source>Get a test license to try all features</source>
         <comment>Scrobbling: Description text for starting a free trial and receiving a test license for evaluating all scrobbling features</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obține o licență de testare pentru a încerca toate funcțiile</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="319"/>
         <source>Start free trial</source>
         <comment>Scrobbling: Button text for starting the scrobbling free trial. Keep this short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Începe perioada de probă gratuită</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="333"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="385"/>
         <source>Buy a license</source>
         <comment>Scrobbling: Description text for buying a scrobbling license</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cumpără o licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="335"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="392"/>
         <source>Buy license</source>
         <comment>Scrobbling: Button text for buying a scrobbling license. Keep this short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cumpără licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="417"/>
         <source>Import a different license</source>
         <comment>Scrobbling: Description text to import a different license when the current license has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă o altă licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="453"/>
         <source>Show the license file in Finder</source>
         <comment>Scrobbling: Description text for the action to show the scrobbling license file in the file explorer (specific for Mac, literally called &quot;Finder&quot;. Do not translate the &quot;Finder&quot; name!)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afișează fișierul de licență în Finder</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="459"/>
         <source>Show the license file in File Explorer</source>
         <comment>Scrobbling: Description text for the action to show the scrobbling license file in the file explorer (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afișează fișierul de licență în File Explorer</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="463"/>
         <source>Show the license file in the file browser</source>
         <comment>Scrobbling: Description text for the action to show the scrobbling license file in the file explorer (any OS other than Mac or Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afișează fișierul de licență în browserul de fișiere</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="473"/>
         <source>Show</source>
         <comment>Scrobbling: Button text for showing the scrobbling license file in the file explorer on the user&apos;s computer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="497"/>
         <source>Remove the license and delete it</source>
         <comment>Scrobbling: Description text for removing the imported scrobbling license from the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină licența și șterge-o</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="506"/>
         <source>Remove</source>
         <comment>Scrobbling: Button text for removing an imported scrobbling license from the app</comment>
-        <translation type="unfinished">Șterge</translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="524"/>
         <source>Make sure you have a copy of your license file before removing!</source>
         <comment>Scrobbling: Warning text before removing the scrobbling license from the app and deleting the associated file from the file system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asigură-te că ai o copie a fișierului de licență înainte de a-l elimina!</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="566"/>
         <source>End free trial and log out all accounts</source>
         <comment>Scrobbling: Description text to end the free trial. This logs out all connected scrobbling accounts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Încheie perioada de probă gratuită și deconectează-te de la toate conturile</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="574"/>
         <source>End free trial</source>
         <comment>Scrobbling: Button text to end the free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Încheie perioada de probă gratuită</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="634"/>
         <source>Instructions</source>
         <comment>Scrobbling: Section title for instructions on how to buy a license</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instrucțiuni</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="667"/>
         <source>Go to the page that opened in your browser. If it did not open automatically, you can click this link to open it manually: {url}</source>
         <comment>Scrobbling: Buying a scrobbling license, step 1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mergi la pagina care s-a deschis în browser. Dacă nu s-a deschis automat, poți face clic pe acest link pentru a o deschide manual: {url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="677"/>
         <source>Choose a license to buy and complete the purchase.</source>
         <comment>Scrobbling: Buying a scrobbling license, step 2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alege o licență și finalizează achiziția.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="680"/>
         <source>Download the license file from the confirmation e-mail.</source>
         <comment>Scrobbling: Buying a scrobbling license, step 3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descarcă fișierul de licență din e-mailul de confirmare.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="683"/>
         <source>Import your license by dragging the license file into this window or by using the file selector. Make sure to keep a copy of your license file in a safe place. That&apos;s it!</source>
         <comment>Scrobbling: Buying a scrobbling license, step 4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă licența trăgând fișierul de licență în această fereastră sau utilizând selectorul de fișiere. Asigură-te că păstrezi o copie a fișierului de licență într-un loc sigur. Asta e tot!</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="691"/>
         <source>Drag your license file here to import it.</source>
         <comment>Scrobbling: Description text for a drop region where the scrobbling license file can be dragged</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trage fișierul de licență aici pentru a-l importa.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="694"/>
         <source>Open file selector</source>
         <comment>Scrobbling: Button text for opening the file selector for selecting the scrobbling license file to import. Keep this short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți selectorul de fișiere</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="757"/>
         <source>Buy a license</source>
         <comment>Scrobbling: Tab name for the context tab in the scrobbling license panel with instructions on how to buy and import a license</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cumpără o licență</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="781"/>
         <source>Select your license file</source>
         <comment>Scrobbling: File selector window title for selecting a scrobbling license file</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selectează fișierul licenței</translation>
     </message>
 </context>
 <context>
@@ -3391,7 +3391,7 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="22"/>
         <source>You need to connect an account before you can scrobble music from this media player.</source>
         <comment>Scrobbling: Pop-up message that connecting an account is required to enable a media player for scrobbling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să conectezi un cont înainte de a putea reda muzică de pe acest player media prin Scrobble.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="76"/>
@@ -3436,235 +3436,235 @@ Poți susține dezvoltarea cu o donație. Apasă aici sau accesează meniul din 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="135"/>
         <source>Show this welcome page when opening the settings</source>
         <comment>Welcome: Checkbox whether to show the welcome screen whenever the settings window is opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afișează această pagină de bun venit la deschiderea setărilor</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="234"/>
         <source>Welcome to {app_name}</source>
         <comment>Welcome: Title of the &quot;Welcome&quot; settings panel that introduces the functions of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bun venit în {app_name}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="250"/>
         <source>{app_name} is a tool to broadcast your music listening activity to other platforms. Continue reading to get an introduction to all features of the app and how to use them.</source>
         <comment>Welcome: Introductory line to the functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} este un instrument pentru a transmite activitatea ta de ascultare a muzicii către alte platforme. Continuă să citești pentru a obține o introducere în toate funcțiile aplicației și cum să le utilizezi.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="269"/>
         <source>Interacting with the app</source>
         <comment>Welcome: Interaction section title to explain that the app lives in the tray menu and runs in the background</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interacțiunea cu aplicația</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="300"/>
         <source>Control {app_name} by right-clicking the menu bar icon</source>
         <comment>Welcome: How to interact with the app (Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controlează {app_name} făcând clic dreapta pe pictograma din bara de meniu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="303"/>
         <source>Control {app_name} by right-clicking the tray icon</source>
         <comment>Welcome: How to interact with the app (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controlează {app_name} făcând clic dreapta pe pictograma din bara de instrumente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="319"/>
         <source>You can also open the settings by launching the app again</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>De asemenea, poți deschide setările lansând din nou aplicația</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="334"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished">Statistici de ascultare</translation>
+        <translation>Statistici de ascultare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="348"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Statistici de ascultare</translation>
+        <translation>Statistici de ascultare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="356"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling este procesul de păstrare a istoricului ascultărilor tale muzicale pe o platformă precum {lastfm_brand}. Este util pentru statistici, recomandări muzicale și pentru a găsi suprapuneri în gusturile tale muzicale cu cele ale altor persoane.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="372"/>
         <source>Go to {accounts} to connect your {lastfm_brand} account</source>
         <comment>Scrobbling: First step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {accounts} pentru a conecta contul {lastfm_brand}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="376"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Conturi</translation>
+        <translation>Conturi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="387"/>
         <source>Go to {players} to enable the media players you want to scrobble</source>
         <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {players} pentru a activa playerele media pe care dorești să le accesezi prin scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="393"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Playere</translation>
+        <translation>Playere</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="401"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {configuration} pentru a configura momentul în care o piesă este trecută în Scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="407"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Configurare</translation>
+        <translation>Configurare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="416"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {artists} pentru a controla modul în care artiștii sunt evidențiați prin Scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="421"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Artiști</translation>
+        <translation>Artiști</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="429"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {edits} pentru a edita metadatele muzicale stocate în Scrobble în diverse moduri</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="435"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editări</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="449"/>
         <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe funcții și asistență pentru mai multe platforme precum {listenbrainz_brand} și {librefm_brand} vor fi disponibile în curând! Aruncă o privire la &lt;a {roadmap_attributes}&gt;foaia de parcurs a proiectului&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="477"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rich Presence pentru Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="491"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="497"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată-le prietenilor tăi ce asculți afișând melodia redată în prezent pe profilul tău Discord! Funcționează cu aproape orice player media.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="511"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalează și rulează &lt;a {discord_attributes}&gt;aplicația Discord pentru desktop&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="521"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asigură-te că &lt;a {activity_sharing_attributes}&gt;Partajarea activității&lt;/a&gt; este activată în setările contului tău Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="531"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redă muzică cu playerul media. În prezent, trebuie să utilizezi versiunea de aplicație pentru desktop a playerului media, dar &lt;a {browser_support_attributes}&gt;suportul pentru browser&lt;/a&gt; va fi disponibil în curând. În funcție de playerul media, este posibil să ai nevoie și de un &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="546"/>
         <source>Go to {appearance} to customize your status in general and per media player</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {appearance} pentru a-ți personaliza starea în general și pentru fiecare player media în parte</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="553"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Aspect</translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="560"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Accesează {services} pentru a configura modul în care sunt utilizate serviciile externe</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="565"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Servicii</translation>
+        <translation>Servicii</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="575"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aruncă o privire și la &lt;a {media_players_attributes}&gt;lista de playere media acceptate&lt;/a&gt;, la &lt;a {help_attributes}&gt;pagina de ajutor&lt;/a&gt; și la cum să &lt;a {add_support_attributes}&gt;adaugi suport pentru un alt player media&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="602"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ai nevoie de ajutor?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="625"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vizitează &lt;a {help_attributes}&gt;pagina de ajutor&lt;/a&gt; pentru soluții la problemele frecvente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="633"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alătură-te serverului Discord: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="641"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Raportează o eroare sau sugerează o funcție nouă &lt;a {issue_tracker_attributes}&gt;aici&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="650"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Consultă &lt;a {media_players_attributes}&gt;lista de playere media acceptate&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="659"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Află cum să &lt;a {add_support_attributes}&gt;adaugi suport pentru un alt player media&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="668"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Citește documentația la {documentation_link}</translation>
     </message>
 </context>
 </TS>
