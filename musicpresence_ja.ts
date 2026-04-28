@@ -58,25 +58,25 @@
         <translation>アクティビティに表示中</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4310"/>
+        <location filename="../src/app/app.cpp" line="4303"/>
         <source>Donate</source>
         <comment>button</comment>
         <translation>寄付</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4315"/>
+        <location filename="../src/app/app.cpp" line="4308"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
         <translation>少額の寄付で活動を支援できます</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4322"/>
+        <location filename="../src/app/app.cpp" line="4315"/>
         <source>Exit</source>
         <comment>button: close the application</comment>
         <translation>終了</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4423"/>
+        <location filename="../src/app/app.cpp" line="4416"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
         <translation>アプリ毎にアクティビティの表示を切り替える</translation>
@@ -248,7 +248,7 @@
         <translation type="vanished">ジャケットイラストがない場合の代替画像</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="4327"/>
+        <location filename="../src/app/app.cpp" line="4320"/>
         <source>Settings</source>
         <comment>button: general settings, keep this short, ideally a single word</comment>
         <translation>設定</translation>
@@ -325,14 +325,14 @@
         <translation type="vanished">自動的にアップデートをインストールする</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5979"/>
-        <location filename="../src/app/app.cpp" line="6474"/>
+        <location filename="../src/app/app.cpp" line="5972"/>
+        <location filename="../src/app/app.cpp" line="6467"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>アップデートを確認する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5991"/>
+        <location filename="../src/app/app.cpp" line="5984"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>アップデートを確認中…</translation>
@@ -363,7 +363,7 @@
         <translation type="vanished">ログイン時に{app_name}を起動する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5870"/>
+        <location filename="../src/app/app.cpp" line="5863"/>
         <source>Help</source>
         <comment>button: opens the help menu, keep this short, ideally a single word</comment>
         <translation>ヘルプ</translation>
@@ -374,109 +374,109 @@
         <translation type="vanished">メディアプレイヤーが認識されません</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5881"/>
+        <location filename="../src/app/app.cpp" line="5874"/>
         <source>Submit detected media players</source>
         <comment>help link: opens a github issue with all detected media players</comment>
         <translation>認識されたメディアプレイヤーを投稿する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5888"/>
+        <location filename="../src/app/app.cpp" line="5881"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
         <translation>問題をGitHubで報告する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5894"/>
+        <location filename="../src/app/app.cpp" line="5887"/>
         <source>Join our Discord server</source>
         <comment>help link</comment>
         <translation>Discordに参加する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5907"/>
+        <location filename="../src/app/app.cpp" line="5900"/>
         <source>Star the project on GitHub</source>
         <comment>help link</comment>
         <translation>GitHubでスターを付ける</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5913"/>
+        <location filename="../src/app/app.cpp" line="5906"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
         <translation>次の新機能は？</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5920"/>
+        <location filename="../src/app/app.cpp" line="5913"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
         <translation>プライバシーポリシー</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5927"/>
-        <location filename="../src/app/app.cpp" line="8113"/>
+        <location filename="../src/app/app.cpp" line="5920"/>
+        <location filename="../src/app/app.cpp" line="8106"/>
         <source>About</source>
         <comment>about the app: you may use {app_name} to refer to the application</comment>
         <translation>このアプリについて</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5973"/>
+        <location filename="../src/app/app.cpp" line="5966"/>
         <source>You are using version {version}</source>
         <comment>help menu info text</comment>
         <translation>現在のバージョン: {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6375"/>
-        <location filename="../src/app/app.cpp" line="6875"/>
+        <location filename="../src/app/app.cpp" line="6368"/>
+        <location filename="../src/app/app.cpp" line="6868"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
         <translation>クリックしてバージョン {version}をダウンロード</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6532"/>
+        <location filename="../src/app/app.cpp" line="6525"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
         <translation>ダウンロードを中止中…</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6540"/>
-        <location filename="../src/app/app.cpp" line="7976"/>
+        <location filename="../src/app/app.cpp" line="6533"/>
+        <location filename="../src/app/app.cpp" line="7969"/>
         <source>Install</source>
         <comment>popup button</comment>
         <translation>インストール</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6558"/>
+        <location filename="../src/app/app.cpp" line="6551"/>
         <source>Automatic updates are enabled</source>
         <comment>checkbox status text</comment>
         <translation>自動アップデートが有効</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6560"/>
-        <location filename="../src/app/app.cpp" line="6608"/>
-        <location filename="../src/app/app.cpp" line="6818"/>
+        <location filename="../src/app/app.cpp" line="6553"/>
+        <location filename="../src/app/app.cpp" line="6601"/>
+        <location filename="../src/app/app.cpp" line="6811"/>
         <source>Enable automatic updates</source>
         <comment>checkbox text</comment>
         <translation>自動アップデートを有効にする</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6585"/>
-        <location filename="../src/app/app.cpp" line="7977"/>
+        <location filename="../src/app/app.cpp" line="6578"/>
+        <location filename="../src/app/app.cpp" line="7970"/>
         <source>Installing...</source>
         <comment>update hint text</comment>
         <translation>インストール中…</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6618"/>
+        <location filename="../src/app/app.cpp" line="6611"/>
         <source>Automatic updates are disabled</source>
         <comment>checkbox status text</comment>
         <translation>自動アップデートが無効</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6697"/>
+        <location filename="../src/app/app.cpp" line="6690"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
         <translation>クリックしてバージョン {version}をインストールする</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7150"/>
+        <location filename="../src/app/app.cpp" line="7143"/>
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
@@ -484,10 +484,10 @@ You can support the development with a donation. Click here or in the tray menu 
 寄付をすることで開発をサポートすることができます。ここをクリックするか、トレイメニューから詳しい情報を確認できます。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6370"/>
-        <location filename="../src/app/app.cpp" line="6694"/>
-        <location filename="../src/app/app.cpp" line="6720"/>
-        <location filename="../src/app/app.cpp" line="6728"/>
+        <location filename="../src/app/app.cpp" line="6363"/>
+        <location filename="../src/app/app.cpp" line="6687"/>
+        <location filename="../src/app/app.cpp" line="6713"/>
+        <location filename="../src/app/app.cpp" line="6721"/>
         <source>New version available</source>
         <comment>update hint text</comment>
         <translation>新しいバージョンが利用可能</translation>
@@ -593,94 +593,94 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>現在、開発者からのニュースはありません。後でもう一度確認するか、設定でニュース通知を有効にして、新規ニュースの通知を受け取る事ができます。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5874"/>
+        <location filename="../src/app/app.cpp" line="5867"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
         <translation>何かうまく動作していません</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5901"/>
+        <location filename="../src/app/app.cpp" line="5894"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
         <translation>寄付で開発をサポートする</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="5998"/>
+        <location filename="../src/app/app.cpp" line="5991"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
         <translation>最新のニュースを閲覧する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6006"/>
+        <location filename="../src/app/app.cpp" line="5999"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
         <translation>更新履歴を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6707"/>
+        <location filename="../src/app/app.cpp" line="6700"/>
         <source>Visit the download page</source>
         <comment>button: opens the downloads page for the app</comment>
         <translation>ダウンロードページを表示する</translation>
     </message>
     <message>
+        <location filename="../src/app/app.cpp" line="6711"/>
         <location filename="../src/app/app.cpp" line="6718"/>
-        <location filename="../src/app/app.cpp" line="6725"/>
         <source>Installing update...</source>
         <comment>update hint text</comment>
         <translation>アップデートをインストール中…</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6754"/>
-        <location filename="../src/app/app.cpp" line="6759"/>
+        <location filename="../src/app/app.cpp" line="6747"/>
+        <location filename="../src/app/app.cpp" line="6752"/>
         <source>No updates available</source>
         <comment>update hint text</comment>
         <translation>すでに最新版です</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6786"/>
+        <location filename="../src/app/app.cpp" line="6779"/>
         <source>Updated to version {version}</source>
         <comment>update hint text</comment>
         <translation>バージョン {version}にアップデート済み</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6789"/>
+        <location filename="../src/app/app.cpp" line="6782"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
         <translation>アプリを再起動します</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6797"/>
+        <location filename="../src/app/app.cpp" line="6790"/>
         <source>Something went wrong</source>
         <comment>update hint text</comment>
         <translation>問題が発生しました</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6803"/>
-        <location filename="../src/app/app.cpp" line="6806"/>
+        <location filename="../src/app/app.cpp" line="6796"/>
+        <location filename="../src/app/app.cpp" line="6799"/>
         <source>New version installed</source>
         <comment>update hint text</comment>
         <translation>新しいバージョンがインストールされました</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6811"/>
+        <location filename="../src/app/app.cpp" line="6804"/>
         <source>Installed</source>
         <comment>disabled installation button text</comment>
         <translation>インストール完了</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6814"/>
+        <location filename="../src/app/app.cpp" line="6807"/>
         <source>Update installed</source>
         <comment>popup window title</comment>
         <translation>アップデート完了</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6815"/>
+        <location filename="../src/app/app.cpp" line="6808"/>
         <source>Restart</source>
         <comment>button text: restart the app after update installation</comment>
         <translation>再起動</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6841"/>
+        <location filename="../src/app/app.cpp" line="6834"/>
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
@@ -688,32 +688,32 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;最新版を使用するためにアプリを再起動してください。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6882"/>
+        <location filename="../src/app/app.cpp" line="6875"/>
         <source>Error: Installation failed</source>
         <comment>update error hint</comment>
         <translation>エラー: インストール失敗</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6907"/>
+        <location filename="../src/app/app.cpp" line="6900"/>
         <source>Report this problem</source>
         <comment>tray menu button</comment>
         <translation>この問題を報告する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6917"/>
-        <location filename="../src/app/app.cpp" line="6920"/>
+        <location filename="../src/app/app.cpp" line="6910"/>
+        <location filename="../src/app/app.cpp" line="6913"/>
         <source>Update installation failed</source>
         <comment>update error hint</comment>
         <translation>アップデートのインストールに失敗しました</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6925"/>
+        <location filename="../src/app/app.cpp" line="6918"/>
         <source>Error</source>
         <comment>disabled popup install button error text, keep it short</comment>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6933"/>
+        <location filename="../src/app/app.cpp" line="6926"/>
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
@@ -721,130 +721,130 @@ You can support the development with a donation. Click here or in the tray menu 
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="6938"/>
+        <location filename="../src/app/app.cpp" line="6931"/>
         <source>Download manually</source>
         <comment>popup button</comment>
         <translation>手動でダウンロード</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7135"/>
+        <location filename="../src/app/app.cpp" line="7128"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
         <translation>私たちのDiscordサーバーに参加しましょう！他のユーザーと交流したり、開発者に提案をしたり、最新情報を受け取りましょう。ここをクリックするか、ヘルプメニューから参加できます。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7723"/>
+        <location filename="../src/app/app.cpp" line="7716"/>
         <source>Do not show this again</source>
         <comment>checkbox: do not show this popup again</comment>
         <translation>もう表示しない</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7969"/>
+        <location filename="../src/app/app.cpp" line="7962"/>
         <source>Update available</source>
         <comment>new version available popup title</comment>
         <translation>アップデート利用可能</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7970"/>
+        <location filename="../src/app/app.cpp" line="7963"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
         <translation>&lt;p&gt;&lt;b&gt;新しいバージョン {app_name}が利用可能になりました。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;更新履歴から新機能を確認できます。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7986"/>
+        <location filename="../src/app/app.cpp" line="7979"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
         <translation>もう一度試す</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="7992"/>
+        <location filename="../src/app/app.cpp" line="7985"/>
         <source>Download</source>
         <comment>popup button</comment>
         <translation>ダウンロード</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8003"/>
+        <location filename="../src/app/app.cpp" line="7996"/>
         <source>New version installed</source>
         <comment>changelog popup: changelog caption after a new version is installed</comment>
         <translation>新しいバージョンがインストールされました</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8009"/>
+        <location filename="../src/app/app.cpp" line="8002"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
         <translation>新機能</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8016"/>
+        <location filename="../src/app/app.cpp" line="8009"/>
         <source>Got it</source>
         <comment>button: confirm installation of a new version</comment>
         <translation>了解</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8018"/>
+        <location filename="../src/app/app.cpp" line="8011"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
         <translation>これは新バージョンが初めて起動したときのみ表示されます。</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8029"/>
+        <location filename="../src/app/app.cpp" line="8022"/>
         <source>Changelog</source>
         <comment>changelog window title</comment>
         <translation>更新履歴</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8052"/>
+        <location filename="../src/app/app.cpp" line="8045"/>
         <source>First launch</source>
         <comment>first launch popup window title</comment>
         <translation>初めての起動</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8057"/>
+        <location filename="../src/app/app.cpp" line="8050"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;タスクトレイのアイコンをクリックしてメニューを開きます。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name}はバックグラウンドで実行され、いつでもこの方法でアクセスできます。メニューからどのプレーヤーをアクティビティに表示するか、またどのように表示するかを制御できます。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8082"/>
+        <location filename="../src/app/app.cpp" line="8075"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
         <translation>了解！</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8184"/>
+        <location filename="../src/app/app.cpp" line="8177"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
         <translation>バージョン {version}</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8190"/>
+        <location filename="../src/app/app.cpp" line="8183"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
         <translation>ライセンス</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8193"/>
+        <location filename="../src/app/app.cpp" line="8186"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
         <translation>プライバシー告知</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8196"/>
+        <location filename="../src/app/app.cpp" line="8189"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
         <translation>問題を報告する</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8199"/>
+        <location filename="../src/app/app.cpp" line="8192"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
         <translation>{app_name}を気に入りましたか？ &lt;a {attributes}&gt;寄付で開発をサポートする&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8207"/>
+        <location filename="../src/app/app.cpp" line="8200"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
         <translation>他の方法で助けたい？ &lt;a {attributes}&gt;参加しましょう！&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="8215"/>
+        <location filename="../src/app/app.cpp" line="8208"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
         <translation>アプリの翻訳に協力してくれた皆様に感謝します:</translation>
@@ -888,369 +888,375 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>SettingsWindow</name>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="524"/>
+        <location filename="../src/app/settings/window.cpp" line="527"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
         <translation>アップデートを確認する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="308"/>
+        <location filename="../src/app/settings/window.cpp" line="310"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="668"/>
+        <location filename="../src/app/settings/window.cpp" line="671"/>
         <source>General</source>
         <comment>settings category</comment>
         <translation>一般</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="671"/>
+        <location filename="../src/app/settings/window.cpp" line="676"/>
         <source>Discord</source>
         <comment>settings category</comment>
         <translation>Discord</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="701"/>
+        <location filename="../src/app/settings/window.cpp" line="708"/>
         <source>Services</source>
         <comment>settings category</comment>
         <translation>サービス</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="672"/>
+        <location filename="../src/app/settings/window.cpp" line="677"/>
         <source>Advanced</source>
         <comment>settings category</comment>
         <translation>詳細設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="669"/>
+        <location filename="../src/app/settings/window.cpp" line="672"/>
         <source>Metadata</source>
         <comment>settings category</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="684"/>
-        <location filename="../src/app/settings/window.cpp" line="7613"/>
+        <location filename="../src/app/settings/window.cpp" line="689"/>
+        <location filename="../src/app/settings/window.cpp" line="7665"/>
         <source>News</source>
         <comment>settings category</comment>
         <translation>ニュース</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="693"/>
+        <location filename="../src/app/settings/window.cpp" line="698"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="700"/>
+        <location filename="../src/app/settings/window.cpp" line="705"/>
+        <source>Settings</source>
+        <comment>subcategory of the &quot;Discord&quot; settings category</comment>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="707"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
         <translation>表示設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="850"/>
+        <location filename="../src/app/settings/window.cpp" line="856"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
         <translation>言語 / {language}</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="864"/>
+        <location filename="../src/app/settings/window.cpp" line="870"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
         <translation>翻訳を手伝う</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="869"/>
+        <location filename="../src/app/settings/window.cpp" line="875"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
         <translation>適用</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="878"/>
+        <location filename="../src/app/settings/window.cpp" line="884"/>
         <source>System language</source>
         <comment>language setting</comment>
         <translation>システム言語</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1056"/>
+        <location filename="../src/app/settings/window.cpp" line="1062"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
         <translation>表示設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1065"/>
+        <location filename="../src/app/settings/window.cpp" line="1071"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
         <translation>トレイアイコンのテーマ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1075"/>
-        <location filename="../src/app/settings/window.cpp" line="1119"/>
+        <location filename="../src/app/settings/window.cpp" line="1081"/>
+        <location filename="../src/app/settings/window.cpp" line="1125"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
         <translation>システムテーマ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1077"/>
-        <location filename="../src/app/settings/window.cpp" line="1121"/>
+        <location filename="../src/app/settings/window.cpp" line="1083"/>
+        <location filename="../src/app/settings/window.cpp" line="1127"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
         <translation>ライト</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1079"/>
-        <location filename="../src/app/settings/window.cpp" line="1122"/>
+        <location filename="../src/app/settings/window.cpp" line="1085"/>
+        <location filename="../src/app/settings/window.cpp" line="1128"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
         <translation>ダーク</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1111"/>
+        <location filename="../src/app/settings/window.cpp" line="1117"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
         <translation>アプリのテーマ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1166"/>
+        <location filename="../src/app/settings/window.cpp" line="1172"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
         <translation>メニューバーアイコンが非表示になっている場合、アプリケーションを終了するには、サイドバーの&quot;{exit_category_name}&quot;をクリックします。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1171"/>
+        <location filename="../src/app/settings/window.cpp" line="1177"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
         <translation>トレイアイコンが非表示になっている場合、アプリケーションを終了するには、サイドバーの&quot;{exit_category_name}&quot;をクリックします。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1308"/>
+        <location filename="../src/app/settings/window.cpp" line="1314"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
         <translation>アプリを再度起動した際に設定を開く</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1364"/>
+        <location filename="../src/app/settings/window.cpp" line="1370"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
         <translation>常に最後に使用した設定カテゴリを開く</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1393"/>
+        <location filename="../src/app/settings/window.cpp" line="1399"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
         <translation>Windows設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1399"/>
+        <location filename="../src/app/settings/window.cpp" line="1405"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
         <translation>ログイン時に{app_name}を起動する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1421"/>
+        <location filename="../src/app/settings/window.cpp" line="1427"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
         <translation>アップデート</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1427"/>
+        <location filename="../src/app/settings/window.cpp" line="1433"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
         <translation>自動的にアップデートをインストールする</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1442"/>
+        <location filename="../src/app/settings/window.cpp" line="1448"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
         <translation>新しいバージョンが利用可能になったら通知する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1459"/>
+        <location filename="../src/app/settings/window.cpp" line="1465"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
         <translation>新しいバージョンを起動するとき新機能を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1485"/>
+        <location filename="../src/app/settings/window.cpp" line="1491"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
         <translation>アップデートを確認中…</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1494"/>
+        <location filename="../src/app/settings/window.cpp" line="1500"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
         <translation>更新履歴を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1514"/>
+        <location filename="../src/app/settings/window.cpp" line="1520"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
         <translation>ニュース</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1517"/>
+        <location filename="../src/app/settings/window.cpp" line="1523"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
         <translation>開発者からのニュースに関する通知を受け取る</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1579"/>
+        <location filename="../src/app/settings/window.cpp" line="1585"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
         <translation>最新のニュースを閲覧する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1645"/>
-        <location filename="../src/app/settings/window.cpp" line="1710"/>
-        <location filename="../src/app/settings/window.cpp" line="1836"/>
-        <location filename="../src/app/settings/window.cpp" line="3510"/>
+        <location filename="../src/app/settings/window.cpp" line="1651"/>
+        <location filename="../src/app/settings/window.cpp" line="1716"/>
+        <location filename="../src/app/settings/window.cpp" line="1842"/>
+        <location filename="../src/app/settings/window.cpp" line="3516"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
         <translation>リセット</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2013"/>
+        <location filename="../src/app/settings/window.cpp" line="2019"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
         <translation>個別設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2016"/>
+        <location filename="../src/app/settings/window.cpp" line="2022"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
         <translation>ポッドキャストを再生中、ステータスを&quot;{podcast_activity_name}&quot;として常に表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2020"/>
+        <location filename="../src/app/settings/window.cpp" line="2026"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
         <translation>広告を除外する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2026"/>
+        <location filename="../src/app/settings/window.cpp" line="2032"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
         <translation>ステータスにポッドキャストのみを表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2032"/>
+        <location filename="../src/app/settings/window.cpp" line="2038"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
         <translation>ポッドキャストを表示しない</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2056"/>
+        <location filename="../src/app/settings/window.cpp" line="2062"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
         <translation>アーティスト名とアルバム名を分けて表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2085"/>
+        <location filename="../src/app/settings/window.cpp" line="2091"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
         <translation>&quot;{player_name}&quot;として表示</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2107"/>
-        <location filename="../src/app/settings/window.cpp" line="3156"/>
+        <location filename="../src/app/settings/window.cpp" line="2113"/>
+        <location filename="../src/app/settings/window.cpp" line="3162"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
         <translation>アクティビティ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2171"/>
+        <location filename="../src/app/settings/window.cpp" line="2177"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
         <translation>カスタムテキストを表示するには、{discord_developer_portal_url}にアクセスし、&quot;{new_application_button_name}&quot;をクリックします。その後、好きな名前を入力して&quot;{create_button_name}&quot;をクリックします。開かれた新しいページで&quot;{application_id_section_name}&quot;を探し、表示される番号をコピーして上記のフィールドに貼り付けます。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2242"/>
-        <location filename="../src/app/settings/window.cpp" line="2304"/>
+        <location filename="../src/app/settings/window.cpp" line="2248"/>
+        <location filename="../src/app/settings/window.cpp" line="2310"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2397"/>
+        <location filename="../src/app/settings/window.cpp" line="2403"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
         <translation type="unfinished">Application ID</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2416"/>
+        <location filename="../src/app/settings/window.cpp" line="2422"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2442"/>
-        <location filename="../src/app/settings/window.cpp" line="2485"/>
-        <location filename="../src/app/settings/window.cpp" line="2974"/>
+        <location filename="../src/app/settings/window.cpp" line="2448"/>
+        <location filename="../src/app/settings/window.cpp" line="2491"/>
+        <location filename="../src/app/settings/window.cpp" line="2980"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2447"/>
-        <location filename="../src/app/settings/window.cpp" line="2962"/>
+        <location filename="../src/app/settings/window.cpp" line="2453"/>
+        <location filename="../src/app/settings/window.cpp" line="2968"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
         <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2461"/>
+        <location filename="../src/app/settings/window.cpp" line="2467"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
         <translation>確認中…</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2938"/>
+        <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
         <translation>ネットワークエラー</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2970"/>
+        <location filename="../src/app/settings/window.cpp" line="2976"/>
         <source>Error</source>
         <comment>An error occurred</comment>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2978"/>
+        <location filename="../src/app/settings/window.cpp" line="2984"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
         <translation>要求に失敗</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3387"/>
+        <location filename="../src/app/settings/window.cpp" line="3393"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
         <translation>Discordのユーザー毎にアクティビティ表示を切り替える</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3621"/>
+        <location filename="../src/app/settings/window.cpp" line="3627"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
         <translation>エラーが発生したらAppleScriptに切り替える</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3624"/>
+        <location filename="../src/app/settings/window.cpp" line="3630"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
         <translation>次回のmacOSアップデートでネイティブシステムインターフェースが動作しなくなる場合があります。その場合は、このオプションを有効にすると自動的にAppleScriptに切り替わります。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3752"/>
+        <location filename="../src/app/settings/window.cpp" line="3758"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
         <translation>すべてのアーティストを取得する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3763"/>
+        <location filename="../src/app/settings/window.cpp" line="3769"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
         <translation>アニメーションのジャケットイラストを取得する (実験的)</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3775"/>
+        <location filename="../src/app/settings/window.cpp" line="3781"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
         <translation>あなたの国名コードを送信する</translation>
@@ -1266,326 +1272,326 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">ステータスを&quot;{playing_activity_label}&quot;として表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2597"/>
+        <location filename="../src/app/settings/window.cpp" line="2603"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
         <translation>アーティスト名がない場合、代わりにアルバム名を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2608"/>
+        <location filename="../src/app/settings/window.cpp" line="2614"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
         <translation>曲情報を表示しない</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2685"/>
+        <location filename="../src/app/settings/window.cpp" line="2691"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
         <translation>ボタン</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2690"/>
+        <location filename="../src/app/settings/window.cpp" line="2696"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
         <translation>ステータスに&quot;{branding_text}&quot;を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2530"/>
+        <location filename="../src/app/settings/window.cpp" line="2536"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
         <translation>曲情報</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="319"/>
+        <location filename="../src/app/settings/window.cpp" line="322"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="322"/>
+        <location filename="../src/app/settings/window.cpp" line="325"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="656"/>
+        <location filename="../src/app/settings/window.cpp" line="659"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
         <translation>終了</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="670"/>
+        <location filename="../src/app/settings/window.cpp" line="674"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
         <translation type="unfinished">Scrobbling</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="676"/>
+        <location filename="../src/app/settings/window.cpp" line="681"/>
         <source>Welcome</source>
         <comment>settings category</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="708"/>
+        <location filename="../src/app/settings/window.cpp" line="716"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="711"/>
+        <location filename="../src/app/settings/window.cpp" line="719"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation>プレーヤー</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="714"/>
+        <location filename="../src/app/settings/window.cpp" line="722"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="717"/>
+        <location filename="../src/app/settings/window.cpp" line="725"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="720"/>
+        <location filename="../src/app/settings/window.cpp" line="728"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation type="unfinished">ライセンス</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1063"/>
+        <location filename="../src/app/settings/window.cpp" line="1069"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
         <translation>メニューバーのテーマ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1154"/>
+        <location filename="../src/app/settings/window.cpp" line="1160"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
         <translation>操作</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1228"/>
+        <location filename="../src/app/settings/window.cpp" line="1234"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
         <translation>メニューバーにアプリアイコンを表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1232"/>
+        <location filename="../src/app/settings/window.cpp" line="1238"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
         <translation>タスクバーにアプリアイコンを表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1236"/>
+        <location filename="../src/app/settings/window.cpp" line="1242"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
         <translation>システムトレイにアプリアイコンを表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1343"/>
+        <location filename="../src/app/settings/window.cpp" line="1349"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
         <translation>トレイアイコンを左クリックして設定を開く</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="1574"/>
+        <location filename="../src/app/settings/window.cpp" line="1580"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
         <translation>ニュースのポップアップはアプリ起動時にのみ表示され、使用中は表示されません。通知をオンにしておけば、常に最新の情報を得ることができます。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2222"/>
+        <location filename="../src/app/settings/window.cpp" line="2228"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2226"/>
-        <location filename="../src/app/settings/window.cpp" line="2296"/>
+        <location filename="../src/app/settings/window.cpp" line="2232"/>
+        <location filename="../src/app/settings/window.cpp" line="2302"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
         <translation>プレーヤー名</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2230"/>
+        <location filename="../src/app/settings/window.cpp" line="2236"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
         <translation>アーティスト名</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2234"/>
+        <location filename="../src/app/settings/window.cpp" line="2240"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
         <translation>曲名</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2238"/>
-        <location filename="../src/app/settings/window.cpp" line="2300"/>
+        <location filename="../src/app/settings/window.cpp" line="2244"/>
+        <location filename="../src/app/settings/window.cpp" line="2306"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
         <translation>メディアの種類</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2290"/>
+        <location filename="../src/app/settings/window.cpp" line="2296"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2533"/>
+        <location filename="../src/app/settings/window.cpp" line="2539"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
         <translation>曲名とアーティスト名を1行で表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2549"/>
+        <location filename="../src/app/settings/window.cpp" line="2555"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
         <translation>アーティスト名とアルバム名を1行で表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2567"/>
+        <location filename="../src/app/settings/window.cpp" line="2573"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
         <translation>曲名とアーティスト名の順序を入れ替える</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2572"/>
+        <location filename="../src/app/settings/window.cpp" line="2578"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
         <translation>アーティスト名の先頭に&quot;{prefix}&quot;をつける</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2579"/>
+        <location filename="../src/app/settings/window.cpp" line="2585"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
         <translation>アルバム名の先頭に&quot;{prefix}&quot;をつける</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2585"/>
+        <location filename="../src/app/settings/window.cpp" line="2591"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
         <translation>アルバム名を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2602"/>
+        <location filename="../src/app/settings/window.cpp" line="2608"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
         <translation>曲の情報を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2613"/>
+        <location filename="../src/app/settings/window.cpp" line="2619"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
         <translation>一時停止中のメディア</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2616"/>
+        <location filename="../src/app/settings/window.cpp" line="2622"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
         <translation>一時停止中でもメディアをステータスに表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2620"/>
+        <location filename="../src/app/settings/window.cpp" line="2626"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
         <translation>音楽の一時停止中に一時停止中アイコンをアクティビティに表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2624"/>
+        <location filename="../src/app/settings/window.cpp" line="2630"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
         <translation>一時停止中にプログレスバーを止める</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2638"/>
+        <location filename="../src/app/settings/window.cpp" line="2644"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
         <translation>一時停止している時間を表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2652"/>
+        <location filename="../src/app/settings/window.cpp" line="2658"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
         <translation>オフラインプレーヤー</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2662"/>
+        <location filename="../src/app/settings/window.cpp" line="2668"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
         <translation>音楽の再生中に再生中アイコンをアクティビティに表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2672"/>
+        <location filename="../src/app/settings/window.cpp" line="2678"/>
         <source>Show the logo of the media player</source>
         <comment>appearance setting</comment>
         <translation>ステータスにプレイヤーのロゴを表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2681"/>
+        <location filename="../src/app/settings/window.cpp" line="2687"/>
         <source>These settings do not apply to streaming services</source>
         <translation>これらの設定はストリーミングサービスには適用されません</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2697"/>
+        <location filename="../src/app/settings/window.cpp" line="2703"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
         <translation>&quot;{listen_to_this_song}&quot;ボタンを&quot;{play_on_player}&quot;として表示する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2716"/>
+        <location filename="../src/app/settings/window.cpp" line="2722"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
         <translation>プレーヤーのロゴ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2719"/>
+        <location filename="../src/app/settings/window.cpp" line="2725"/>
         <source>Music note</source>
         <comment>Placeholder image: A music note</comment>
         <translation>音符</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2722"/>
+        <location filename="../src/app/settings/window.cpp" line="2728"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
         <translation>再生状態</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2726"/>
+        <location filename="../src/app/settings/window.cpp" line="2732"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
         <translation>CD</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2732"/>
+        <location filename="../src/app/settings/window.cpp" line="2738"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
         <translation>{app_name}のロゴ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2739"/>
+        <location filename="../src/app/settings/window.cpp" line="2745"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
         <translation>その他</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2743"/>
+        <location filename="../src/app/settings/window.cpp" line="2749"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
         <translation>ジャケットイラストがない場合の代替画像</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2804"/>
+        <location filename="../src/app/settings/window.cpp" line="2810"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
         <translation>すべてリセット</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2819"/>
+        <location filename="../src/app/settings/window.cpp" line="2825"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
         <translation>このプレーヤーを削除</translation>
@@ -1596,32 +1602,32 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">ジャケット</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="370"/>
-        <location filename="../src/app/settings/window.cpp" line="3648"/>
+        <location filename="../src/app/settings/window.cpp" line="373"/>
+        <location filename="../src/app/settings/window.cpp" line="3654"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
         <translation>プレーヤーのジャケットイラストをアップロードする</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2109"/>
+        <location filename="../src/app/settings/window.cpp" line="2115"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
         <translation type="unfinished">{type} / …を再生中</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2116"/>
+        <location filename="../src/app/settings/window.cpp" line="2122"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
         <translation type="unfinished">{type} / …を視聴中</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2123"/>
+        <location filename="../src/app/settings/window.cpp" line="2129"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
         <translation>{type} / プレイ中 …</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2140"/>
+        <location filename="../src/app/settings/window.cpp" line="2146"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
         <translation>アクティビティの種類</translation>
@@ -1632,31 +1638,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="obsolete">アクティビティ</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3159"/>
+        <location filename="../src/app/settings/window.cpp" line="3165"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
         <translation>アクティビティ表示を有効にする</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3166"/>
+        <location filename="../src/app/settings/window.cpp" line="3172"/>
         <source>Disable all players by default</source>
         <comment>discord setting: ensures that all players are disabled by default and must be enabled explicitly to appear in the status</comment>
         <translation>すべてのプレーヤーをデフォルトで無効化する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3187"/>
+        <location filename="../src/app/settings/window.cpp" line="3193"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
         <translation>アプリ毎にアクティビティの表示を切り替える</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3317"/>
+        <location filename="../src/app/settings/window.cpp" line="3323"/>
         <source>Reset to default</source>
         <comment>reset an overridden setting</comment>
         <translation>デフォルトに戻す</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3559"/>
+        <location filename="../src/app/settings/window.cpp" line="3565"/>
         <source>Media detection</source>
         <comment>advanced setting group: control how media is detected on the device</comment>
         <translation>メディア検出</translation>
@@ -1667,284 +1673,443 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="vanished">これらの設定はアプリの再起動後に適用されます</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3564"/>
+        <location filename="../src/app/settings/window.cpp" line="3570"/>
         <source>Use native system interfaces</source>
         <comment>media detection: option to use native system APIs/interfaces</comment>
         <translation>ネイティブシステムインターフェイスを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3587"/>
+        <location filename="../src/app/settings/window.cpp" line="3593"/>
         <source>Use AppleScript automation</source>
         <comment>media detection option</comment>
         <translation>AppleScriptを使用したオートメーションを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3610"/>
+        <location filename="../src/app/settings/window.cpp" line="3616"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
         <translation>AppleScriptによる自動化はより信頼性が高いですが、Apple MusicとSpotifyでのみ動作します。ネイティブシステムインターフェースはすべてのメディアプレーヤーで動作します。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3645"/>
+        <location filename="../src/app/settings/window.cpp" line="3651"/>
         <source>Album covers</source>
         <comment>services setting group</comment>
         <translation>アルバムジャケット</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3658"/>
+        <location filename="../src/app/settings/window.cpp" line="3664"/>
         <source>Don&apos;t spam this. Try again in {amount} seconds</source>
         <comment>cover image from media players checkbox: spam cooldown, amount is always &gt; 1, use the plural form</comment>
         <translation>連打しないでください。{amount} 秒後にもう一度お試しください</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3681"/>
+        <location filename="../src/app/settings/window.cpp" line="3687"/>
         <source>Always use local cover images</source>
         <comment>album covers setting</comment>
         <translation>常にローカルのジャケットイラストを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3700"/>
+        <location filename="../src/app/settings/window.cpp" line="3706"/>
         <source>External services</source>
         <comment>services setting group</comment>
         <translation>外部サービス</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3703"/>
+        <location filename="../src/app/settings/window.cpp" line="3709"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
         <translation>TIDALで聴いているとき、TIDAL APIを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3706"/>
+        <location filename="../src/app/settings/window.cpp" line="3712"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
         <translation>Deezerで聴いているとき、Deezer APIを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3709"/>
+        <location filename="../src/app/settings/window.cpp" line="3715"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
         <translation>Spotifyで聴いているとき、Spotify APIを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3713"/>
+        <location filename="../src/app/settings/window.cpp" line="3719"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Apple Musicで聴いているとき、Apple Music APIを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3725"/>
+        <location filename="../src/app/settings/window.cpp" line="3731"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
         <translation>Apple Musicで聴いているとき、iTunes APIを使用する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3740"/>
+        <location filename="../src/app/settings/window.cpp" line="3746"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
         <translation>どのデータがこれらのサービスに送信され、どのように使用されるかについての情報は&lt;a {attributes}&gt;プライバシーポリシー&lt;/a&gt;をお読みください。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3749"/>
+        <location filename="../src/app/settings/window.cpp" line="3755"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
         <translation>曲情報API設定</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3758"/>
+        <location filename="../src/app/settings/window.cpp" line="3764"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
         <translation>ジャケットイラストを取得する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3769"/>
+        <location filename="../src/app/settings/window.cpp" line="3775"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
         <translation>不足したアルバム名を取得する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3790"/>
+        <location filename="../src/app/settings/window.cpp" line="3796"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
         <translation>特定の国でのみ配信されている曲を検索し、検索結果を向上させるには、国名コードの送信が必要です。国名コードは、リンクがDiscordのステータスに表示される前に削除されます。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3816"/>
+        <location filename="../src/app/settings/window.cpp" line="3822"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3842"/>
+        <location filename="../src/app/settings/window.cpp" line="3848"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3851"/>
+        <location filename="../src/app/settings/window.cpp" line="3857"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="3853"/>
+        <location filename="../src/app/settings/window.cpp" line="3859"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
         <translation>必須</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4017"/>
+        <location filename="../src/app/settings/window.cpp" line="4023"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
         <translation>個人のSpotify API認証情報</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4026"/>
+        <location filename="../src/app/settings/window.cpp" line="4032"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
         <translation>ご自身の認証情報を入力すると、追加の曲メタデータをより確実に取得できるようになります。&lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt;にアクセスし、&quot;{create_app_text}&quot;をクリックして情報を入力し、&quot;{client_id_text}&quot;と&quot;{client_secret_text}&quot;をコピーして上記に貼り付けてください。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4043"/>
+        <location filename="../src/app/settings/window.cpp" line="4049"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
         <translation>個人のTIDAL API認証情報</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4052"/>
+        <location filename="../src/app/settings/window.cpp" line="4058"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
         <translation>ご自身の認証情報を入力すると、追加の曲メタデータをより確実に取得できるようになります。&lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt;にアクセスし、&quot;{create_app_text}&quot;をクリックして情報を入力し、&quot;{client_id_text}&quot;と&quot;{client_secret_text}&quot;をコピーして上記に貼り付けてください。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4069"/>
+        <location filename="../src/app/settings/window.cpp" line="4075"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
         <translation>カスタムジャケットイラストプロキシサーバー</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4086"/>
+        <location filename="../src/app/settings/window.cpp" line="4092"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
         <translation type="unfinished">Websocket URL</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4117"/>
-        <location filename="../src/app/settings/window.cpp" line="4135"/>
+        <location filename="../src/app/settings/window.cpp" line="4123"/>
+        <location filename="../src/app/settings/window.cpp" line="4141"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
         <translation>任意</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4119"/>
+        <location filename="../src/app/settings/window.cpp" line="4125"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
         <translation>ユーザー名</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4185"/>
+        <location filename="../src/app/settings/window.cpp" line="4191"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
         <translation>パスワード</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4209"/>
+        <location filename="../src/app/settings/window.cpp" line="4215"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4215"/>
+        <location filename="../src/app/settings/window.cpp" line="4221"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
         <translation>助けが必要ですか？&lt;a {attributes}&gt;ドキュメントを読んでください&lt;/a&gt;。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4235"/>
+        <location filename="../src/app/settings/window.cpp" line="4241"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
         <translation>TLS認証を無効化する</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4281"/>
+        <location filename="../src/app/settings/window.cpp" line="4287"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
         <translation>接続の詳細をテスト中…</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4318"/>
+        <location filename="../src/app/settings/window.cpp" line="4324"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
         <translation>接続失敗。&lt;a {attributes}&gt;助けが必要ですか？&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4326"/>
+        <location filename="../src/app/settings/window.cpp" line="4332"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
         <translation>成功しました！接続の詳細を保存しました。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4367"/>
+        <location filename="../src/app/settings/window.cpp" line="4373"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
         <translation>最大画像サイズ (ピクセル単位)</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4413"/>
+        <location filename="../src/app/settings/window.cpp" line="4419"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
         <translation>必要な最小キャッシュ期間 (秒)</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="4454"/>
+        <location filename="../src/app/settings/window.cpp" line="4460"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
         <translation>より高品質なカバー画像を表示し、組み込みサーバーに依存しないために、独自のサーバーをホストすることができます。詳しくは&lt;a {attributes}&gt;ドキュメント&lt;/a&gt;をご覧ください。</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="6711"/>
+        <location filename="../src/app/settings/window.cpp" line="6699"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="6858"/>
+        <location filename="../src/app/settings/window.cpp" line="6846"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="6939"/>
+        <location filename="../src/app/settings/window.cpp" line="6927"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="7037"/>
+        <location filename="../src/app/settings/window.cpp" line="7025"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="7055"/>
+        <location filename="../src/app/settings/window.cpp" line="7043"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="7066"/>
-        <location filename="../src/app/settings/window.cpp" line="7080"/>
-        <location filename="../src/app/settings/window.cpp" line="7130"/>
-        <location filename="../src/app/settings/window.cpp" line="7144"/>
+        <location filename="../src/app/settings/window.cpp" line="7054"/>
+        <location filename="../src/app/settings/window.cpp" line="7068"/>
+        <location filename="../src/app/settings/window.cpp" line="7118"/>
+        <location filename="../src/app/settings/window.cpp" line="7132"/>
         <source>Something went wrong</source>
         <comment>Metadata: Popup title for when an error occurred while saving an edit</comment>
         <translation type="unfinished">問題が発生しました</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="7113"/>
+        <location filename="../src/app/settings/window.cpp" line="7101"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="7349"/>
+        <location filename="../src/app/settings/window.cpp" line="7366"/>
         <source>General</source>
         <comment>general tab for the discord appearance settings</comment>
         <translation>一般</translation>
+    </message>
+</context>
+<context>
+    <name>music_presence::qt_components::DiscordIntroPanel</name>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
+        <source>Right-click the menu bar icon to change settings quickly</source>
+        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
+        <source>Right-click the tray menu icon to change settings quickly</source>
+        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
+        <source>Discord Rich Presence</source>
+        <comment>Welcome: Discord Rich Presence feature section title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
+        <source>Discord</source>
+        <comment>settings category</comment>
+        <translation type="unfinished">Discord</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
+        <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
+        <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
+        <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
+        <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
+        <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
+        <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
+        <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
+        <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
+        <source>Go to {settings} for general configuration</source>
+        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
+        <source>Settings</source>
+        <comment>subcategory of the &quot;Discord&quot; settings category</comment>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
+        <source>Go to {appearance} to customize your status</source>
+        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
+        <source>Appearance</source>
+        <comment>subcategory of the &quot;Discord&quot; settings category</comment>
+        <translation type="unfinished">表示設定</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
+        <source>Go to {services} to configure how external services are used</source>
+        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
+        <source>Services</source>
+        <comment>settings category</comment>
+        <translation type="unfinished">サービス</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
+        <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
+        <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>music_presence::qt_components::HelpLinksPanel</name>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
+        <source>Need help?</source>
+        <comment>Welcome: Help feature section title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
+        <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
+        <comment>Welcome: Help item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
+        <source>Join the Discord server: {discord_invite_link}</source>
+        <comment>Welcome: Help item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
+        <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
+        <comment>Welcome: Help item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
+        <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
+        <comment>Welcome: Help item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
+        <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
+        <comment>Welcome: Help item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
+        <source>Read the documentation at {documentation_link}</source>
+        <comment>Welcome: Help item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>music_presence::qt_components::IntroPanel</name>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="123"/>
+        <source>Getting started</source>
+        <comment>Section title for instructions on how to start using a specific feature of the app</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="181"/>
+        <source>Learn more</source>
+        <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="192"/>
+        <source>Show less</source>
+        <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2372,94 +2537,94 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation type="unfinished">プレーヤー</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="191"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="192"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="198"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="367"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="199"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="370"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation type="unfinished">設定</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="206"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="207"/>
         <source>Go to {artists} to control how artists are scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="212"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="278"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="213"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="281"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="219"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="221"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways.</source>
         <comment>Scrobbling: Fifth step under &quot;Next steps&quot; after connecting an account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="226"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="228"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="253"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="256"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="258"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="261"/>
         <source>Please review the following settings, as the defaults might not suit everyone&apos;s needs.</source>
         <comment>Scrobbling: Description for the &quot;Initial setup&quot; section</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="270"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="273"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="287"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="292"/>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="302"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="295"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="305"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="297"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="300"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="339"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="342"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="359"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="362"/>
         <source>Minimum track duration</source>
         <comment>Scrobbling: The minimum track duration for a track to be scrobbled. Tracks shorter than the given duration are not scrobbled</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="374"/>
+        <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="377"/>
         <source>Duration</source>
         <comment>Scrobbling: A time duration in minutes and seconds</comment>
         <translation type="unfinished"></translation>
@@ -3025,6 +3190,93 @@ You can support the development with a donation. Click here or in the tray menu 
     </message>
 </context>
 <context>
+    <name>music_presence::qt_components::ScrobblingIntroPanel</name>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
+        <source>Scrobbling</source>
+        <comment>Welcome: Scrobbling feature section title</comment>
+        <translation type="unfinished">Scrobbling</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="20"/>
+        <source>Scrobbling</source>
+        <comment>settings category</comment>
+        <translation type="unfinished">Scrobbling</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="23"/>
+        <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
+        <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="33"/>
+        <source>Go to {accounts} to connect your {lastfm_brand} account</source>
+        <comment>Scrobbling: First step of the scrobbling instructions</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="37"/>
+        <source>Accounts</source>
+        <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
+        <translation type="unfinished">アカウント</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="46"/>
+        <source>Go to {players} to enable the media players you want to scrobble</source>
+        <comment>Scrobbling: Second step of the scrobbling instructions</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="52"/>
+        <source>Players</source>
+        <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
+        <translation type="unfinished">プレーヤー</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="59"/>
+        <source>Go to {configuration} to configure when a track is scrobbled</source>
+        <comment>Scrobbling: Third step of the scrobbling instructions</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="65"/>
+        <source>Configuration</source>
+        <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="73"/>
+        <source>Go to {artists} to control how artists are scrobbled</source>
+        <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="78"/>
+        <source>Artists</source>
+        <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="85"/>
+        <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
+        <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="91"/>
+        <source>Edits</source>
+        <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="102"/>
+        <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
+        <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>music_presence::qt_components::ScrobblingLicenseInfoCard</name>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="222"/>
@@ -3393,238 +3645,62 @@ You can support the development with a donation. Click here or in the tray menu 
 <context>
     <name>music_presence::qt_components::WelcomePanel</name>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="135"/>
+        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="74"/>
         <source>Show this welcome page when opening the settings</source>
         <comment>Welcome: Checkbox whether to show the welcome screen whenever the settings window is opened</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="234"/>
+        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="173"/>
         <source>Welcome to {app_name}</source>
         <comment>Welcome: Title of the &quot;Welcome&quot; settings panel that introduces the functions of the app</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="250"/>
+        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="189"/>
         <source>{app_name} is a tool to broadcast your music listening activity to other platforms. Continue reading to get an introduction to all features of the app and how to use them.</source>
         <comment>Welcome: Introductory line to the functionality of the app</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="269"/>
-        <source>Interacting with the app</source>
-        <comment>Welcome: Interaction section title to explain that the app lives in the tray menu and runs in the background</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="300"/>
-        <source>Control {app_name} by right-clicking the menu bar icon</source>
-        <comment>Welcome: How to interact with the app (Mac version)</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="303"/>
-        <source>Control {app_name} by right-clicking the tray icon</source>
-        <comment>Welcome: How to interact with the app (generic version)</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="319"/>
-        <source>You can also open the settings by launching the app again</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="334"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation type="obsolete">Scrobbling</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="348"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation type="obsolete">Scrobbling</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="356"/>
-        <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
-        <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="372"/>
-        <source>Go to {accounts} to connect your {lastfm_brand} account</source>
-        <comment>Scrobbling: First step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="376"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">アカウント</translation>
+        <translation type="obsolete">アカウント</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="387"/>
-        <source>Go to {players} to enable the media players you want to scrobble</source>
-        <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="393"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">プレーヤー</translation>
+        <translation type="obsolete">プレーヤー</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="401"/>
-        <source>Go to {configuration} to configure when a track is scrobbled</source>
-        <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="407"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="416"/>
-        <source>Go to {artists} to control how artists are scrobbled</source>
-        <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="421"/>
-        <source>Artists</source>
-        <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="429"/>
-        <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
-        <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="435"/>
-        <source>Edits</source>
-        <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="449"/>
-        <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
-        <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="477"/>
-        <source>Discord Rich Presence</source>
-        <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="491"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation type="obsolete">Discord</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="497"/>
-        <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
-        <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="511"/>
-        <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
-        <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="521"/>
-        <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
-        <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="531"/>
-        <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
-        <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="546"/>
-        <source>Go to {appearance} to customize your status in general and per media player</source>
-        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="553"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">表示設定</translation>
+        <translation type="obsolete">表示設定</translation>
     </message>
     <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="560"/>
-        <source>Go to {services} to configure how external services are used</source>
-        <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="565"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">サービス</translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="575"/>
-        <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
-        <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="602"/>
-        <source>Need help?</source>
-        <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="625"/>
-        <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="633"/>
-        <source>Join the Discord server: {discord_invite_link}</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="641"/>
-        <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="650"/>
-        <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="659"/>
-        <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="668"/>
-        <source>Read the documentation at {documentation_link}</source>
-        <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">サービス</translation>
     </message>
 </context>
 </TS>
