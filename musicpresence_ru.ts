@@ -2178,57 +2178,57 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="18"/>
         <source>{category} / {tab}</source>
         <comment>Link text for a link to a tab in a specific settings category. This e.g. looks like &quot;Edits / Presets&quot; for the &quot;Presets&quot; tab in the &quot;Edits&quot; settings category. You can usually just leave it this way, unless it&apos;s more natural to use a different character other than the slash character to separate the two. If you are translating to a right-to-left language, then you might want to consider switching the two placeholders</comment>
-        <translation type="unfinished"></translation>
+        <translation>{category} / {tab}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="40"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="42"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Метаданные</translation>
+        <translation>Метаданные</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="44"/>
         <source>Edit music metadata with custom regular expressions and useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for</comment>
-        <translation type="unfinished"></translation>
+        <translation>Меняйте метаданные музыки, используя кастомные регулярные выражения и полезные заготовки.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="51"/>
         <source>Go to {presets} to look at all available presets</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {presets}, чтобы увидеть все доступные заготовки</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="56"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="73"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Правки</translation>
+        <translation>Правки</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="59"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished">Заготовки</translation>
+        <translation>Заготовки</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="67"/>
         <source>Go to {replacements} to edit metadata with regular expressions</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {replacements}, чтобы изменить метаданные, используя регулярные выражения</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="76"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished">Замены</translation>
+        <translation>Замены</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="84"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Скоро будет доступно больше способов изменить метаданные, изучите &lt;a {roadmap_attributes}&gt;план развития проекта&lt;/a&gt; для подробностей.</translation>
     </message>
 </context>
 <context>
@@ -3351,7 +3351,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="91"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Метаданные</translation>
+        <translation>Метаданные</translation>
     </message>
     <message>
         <source>Edits</source>
