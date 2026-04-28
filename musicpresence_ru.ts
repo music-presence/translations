@@ -781,7 +781,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/app.cpp" line="8050"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Кликните по иконке в трее, чтобы открыть настройки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работает в фоновом режиме и всегда может быть открыта таким образом. Вы можете настраивать какие медиа-проигрыватели будут отображаться в статусе и как выглядит Ваш статус.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Кликните по иконке в трее, чтобы открыть настройки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} работает в фоновом режиме и всегда может быть открыта таким образом. Вы можете настраивать какие медиа-проигрыватели будут отображаться в статусе и как выглядит ваш статус.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8075"/>
@@ -1243,7 +1243,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3781"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation>Отправлять код Вашей страны</translation>
+        <translation>Отправлять код вашей страны</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1319,7 +1319,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="705"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="716"/>
@@ -1391,7 +1391,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1580"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation>Новостные всплывающие окна видны только во время старта программы и никогда во время её использования. Оставьте уведомления включенными, так Вы будете всегда знать о новых разработках.</translation>
+        <translation>Новостные всплывающие окна видны только во время старта программы и никогда во время её использования. Оставьте уведомления включенными, так вы будете всегда знать о новых разработках.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2228"/>
@@ -1766,7 +1766,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3848"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation>Вы можете ввести код страны вручную, если страны Вашего устройства и стримингового сервиса не совпадают. Установите его в &lt;a {attributes}&gt;двухбуквенный код страны&lt;/a&gt; Вашего стримингового сервиса.</translation>
+        <translation>Вы можете ввести код страны вручную, если страны вашего устройства и стримингового сервиса не совпадают. Установите его в &lt;a {attributes}&gt;двухбуквенный код страны&lt;/a&gt; вашего стримингового сервиса.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3857"/>
@@ -1789,7 +1789,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="4032"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите Вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
+        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4049"/>
@@ -1800,7 +1800,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="4058"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите Вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
+        <translation>Ввод своих личных реквизитов поможет получать дополнительные сведения о песнях более надежно. Перейдите на &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; и нажмите &quot;{create_app_text}&quot;, введите вашу информацию, затем скопируйте &quot;{client_id_text}&quot; и &quot;{client_secret_text}&quot; и вставьте их выше.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4075"/>
@@ -1944,91 +1944,91 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Быстро меняйте настройки, кликнув правой кнопкой мыши по строке меню</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Быстро меняйте настройки, кликнув правой кнопкой мыши по иконке в трее</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished">Интеграция с Discord</translation>
+        <translation>Интеграция с Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Покажите своим друзьям какой трек вы сейчас слушаете, отобразив его в профиле Discord! Это работает почти со всеми медиа-проигрывателями.</translation>
+        <translation>Покажите своим друзьям какой трек вы сейчас слушаете, отобразив его в профиле Discord! Это работает почти со всеми медиа-проигрывателями.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Установите и запустите &lt;a {discord_attributes}&gt;настольное приложение Discord&lt;/a&gt;</translation>
+        <translation>Установите и запустите &lt;a {discord_attributes}&gt;настольное приложение Discord&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Убедитесь, что &lt;a {activity_sharing_attributes}&gt;«Публиковать активность»&lt;/a&gt; включена в настройках аккаунта Discord</translation>
+        <translation>Убедитесь, что опция &lt;a {activity_sharing_attributes}&gt;«Публиковать активность»&lt;/a&gt; включена в настройках аккаунта Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Проиграйте музыку в медиа-проигрывателе. На данный момент вам необходимо использовать настольное приложение вашего проигрывателя, а скоро будет доступно и &lt;a {browser_support_attributes}&gt;поддержка браузеров&lt;/a&gt;. В зависимости от вашего медиа-проигрывателя, вам возможно потребуется &lt;a {plugin_attributes}&gt;плагин&lt;/a&gt;</translation>
+        <translation>Проиграйте музыку в медиа-проигрывателе. На данный момент вам необходимо использовать настольное приложение вашего проигрывателя, но скоро будет доступно и &lt;a {browser_support_attributes}&gt;поддержка браузеров&lt;/a&gt;. В зависимости от вашего медиа-проигрывателя, вам возможно потребуется &lt;a {plugin_attributes}&gt;плагин&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {settings} для общих конфигураций</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в {appearance}, чтобы настроить статус</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Перейдите в {services}, чтобы настроить использование сторонних сервисов</translation>
+        <translation>Перейдите в {services}, чтобы настроить использование сторонних сервисов</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Службы</translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Также ознакомьтесь со &lt;a {media_players_attributes}&gt;списком поддерживаемых плееров&lt;/a&gt;, загляните на &lt;a {help_attributes}&gt;страницу помощи&lt;/a&gt; или узнайте, как &lt;a {add_support_attributes}&gt;добавить поддержку нового медиаплеера&lt;/a&gt;.</translation>
+        <translation>Также ознакомьтесь со &lt;a {media_players_attributes}&gt;списком поддерживаемых проигрывателей&lt;/a&gt;, загляните на &lt;a {help_attributes}&gt;страницу помощи&lt;/a&gt; и узнайте, как &lt;a {add_support_attributes}&gt;добавить поддержку нового медиа-проигрывателя&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -2037,43 +2037,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished">Нужна помощь?</translation>
+        <translation>Нужна помощь?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Посетите &lt;a {help_attributes}&gt;страницу помощи&lt;/a&gt; для решения частых проблем</translation>
+        <translation>Посетите &lt;a {help_attributes}&gt;страницу помощи&lt;/a&gt; для решения частых проблем</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Присоединяйтесь к серверу Discord: {discord_invite_link}</translation>
+        <translation>Присоединяйтесь к серверу Discord: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Сообщите о проблеме или предложите новую функцию &lt;a {issue_tracker_attributes}&gt;здесь&lt;/a&gt;</translation>
+        <translation>Сообщите о проблеме или предложите новую функцию &lt;a {issue_tracker_attributes}&gt;здесь&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Посмотрите на &lt;a {media_players_attributes}&gt;лист поддерживаемых медиа-проигрывателей&lt;/a&gt;</translation>
+        <translation>Посмотрите на &lt;a {media_players_attributes}&gt;список поддерживаемых медиа-проигрывателей&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Узнайте, как &lt;a {add_support_attributes}&gt;добавить поддержку для других медиа-проигрывателей&lt;/a&gt;</translation>
+        <translation>Узнайте, как &lt;a {add_support_attributes}&gt;добавить поддержку для других медиа-проигрывателей&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Прочитайте документацию: {documentation_link}</translation>
+        <translation>Прочитайте документацию: {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -2082,19 +2082,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="123"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Начало работы</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="181"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Узнать больше</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="192"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть</translation>
     </message>
 </context>
 <context>
@@ -2145,13 +2145,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation>На данный момент кастомные замены только доступны для скробблинга и Ваш пробный период закончился. Купите лицензию, чтобы продолжить использование этой функции.</translation>
+        <translation>На данный момент кастомные замены только доступны для скробблинга и ваш пробный период закончился. Купите лицензию, чтобы продолжить использование этой функции.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation>На данный момент кастомные замены только доступны для скробблинга и Ваша лицензия истекла. Купите новую лицензию, чтобы продолжить использование этой функции.</translation>
+        <translation>На данный момент кастомные замены только доступны для скробблинга и ваша лицензия истекла. Купите новую лицензию, чтобы продолжить использование этой функции.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
@@ -2507,13 +2507,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="173"/>
         <source>Review the settings below, to see if they fit your needs.</source>
         <comment>Scrobbling: First step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Ознакомьтесь с приведенными ниже настройками, чтобы убедиться, что они соответствуют Вашим потребностям.</translation>
+        <translation>Ознакомьтесь с приведенными ниже настройками, чтобы убедиться, что они соответствуют вашим потребностям.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="177"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Перейдите в {players}, чтобы включить медиа-проигрыватели, которые Вы хотите скробблить.</translation>
+        <translation>Перейдите в {players}, чтобы включить медиа-проигрыватели, которые вы хотите скробблить.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="184"/>
@@ -2721,7 +2721,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="129"/>
         <source>Credentials are only stored in plain-text, if storing them in the system keychain fails. You&apos;ll see a warning icon then. Are you sure you want to disable this behaviour? If there is an error with the system keychain, you might not be able to log in.</source>
         <comment>Scrobbling: Warning message that is shown when the &quot;Allow storing credentials in plain-text, if necessary&quot; setting is disabled</comment>
-        <translation>Реквизиты сохранятся в текстовом файле только если хранение их в Связке ключей системы не удается. Тогда Вы увидите иконку предупреждения. Вы уверены, что Вы хотите выключить это поведение? Если произойдёт ошибка со Связкой ключей системы, то Вы не сможете войти обратно.</translation>
+        <translation>Реквизиты сохранятся в текстовом файле только если хранение их в Связке ключей системы не удается. Тогда вы увидите иконку предупреждения. Вы уверены, что вы хотите выключить это поведение? Если произойдёт ошибка со Связкой ключей системы, то вы не сможете войти обратно.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="139"/>
@@ -2798,7 +2798,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1025"/>
         <source>Enter your login details</source>
         <comment>Scrobbling: Text before the input boxes for the scrobbling account username and password</comment>
-        <translation>Введите Ваши данные для входа</translation>
+        <translation>Введите ваши данные для входа</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="374"/>
@@ -2810,7 +2810,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="437"/>
         <source>The account credentials are stored in your keychain.</source>
         <comment>Scrobbling: Hover text to indicate that account credentials are stored securely in the system&apos;s keychain</comment>
-        <translation>Реквизиты аккаунта хранятся в Вашей Связке ключей.</translation>
+        <translation>Реквизиты аккаунта хранятся в вашей Связке ключей.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="441"/>
@@ -2845,7 +2845,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="566"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation>Сейчас Вы можете подключить только один аккаунт. Поддержка нескольких аккаунтов и других сервисов скоро будет доступно.</translation>
+        <translation>Сейчас вы можете подключить только один аккаунт. Поддержка нескольких аккаунтов и других сервисов скоро будет доступно.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="584"/>
@@ -2929,13 +2929,13 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1168"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation>Авторизуйтесь в свой аккаунт с помощью ссылки, которая открылась в Вашем браузере. Затем нажмите &quot;{continue_text}&quot;, чтобы завершить авторизацию.</translation>
+        <translation>Авторизуйтесь в свой аккаунт с помощью ссылки, которая открылась в вашем браузере. Затем нажмите &quot;{continue_text}&quot;, чтобы завершить авторизацию.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1213"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation>Если ссылка не открылась, Вы можете открыть её вручную:</translation>
+        <translation>Если ссылка не открылась, вы можете открыть её вручную:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1317"/>
@@ -2962,7 +2962,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="117"/>
         <source>Configure when and how tracks you listen to are scrobbled.</source>
         <comment>Scrobbling: Description for the general scrobbling configuration</comment>
-        <translation>Настроить когда и как должны скробблиться треки, которые Вы прослушиваете.</translation>
+        <translation>Настроить когда и как должны скробблиться треки, которые вы прослушиваете.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="127"/>
@@ -3034,7 +3034,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="363"/>
         <source>Allow others to see what you&apos;re currently listening to on your profile.</source>
         <comment>Scrobbling: Description for the &quot;Send &quot;Now Playing&quot; information when you start listening&quot; setting</comment>
-        <translation>Разрешает другим видеть, что Вы сейчас прослушиваете, в Вашем профиле.</translation>
+        <translation>Разрешает другим видеть, что вы сейчас прослушиваете, в вашем профиле.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="378"/>
@@ -3082,7 +3082,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="500"/>
         <source>Only change these settings, if you know what you&apos;re doing.</source>
         <comment>Scrobbling: Description for the &quot;Advanced configuration&quot; category</comment>
-        <translation>Меняйте эти настройки, только если Вы знаете, что Вы делаете.</translation>
+        <translation>Меняйте эти настройки, только если вы знаете, что вы делаете.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="510"/>
@@ -3130,7 +3130,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="676"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation>Это значение оставляет некоторую погрешность при отслеживании. Его увеличение может помочь, например, когда ползунок выше находится на 100%, и треки иногда не скробблятся. Обычно Вам не нужно увеличивать это значение.</translation>
+        <translation>Это значение оставляет некоторую погрешность при отслеживании. Его увеличение может помочь, например, когда ползунок выше находится на 100%, и треки иногда не скробблятся. Обычно вам не нужно увеличивать это значение.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="743"/>
@@ -3220,85 +3220,85 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished">Скробблинг</translation>
+        <translation>Скробблинг</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="20"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Скробблинг</translation>
+        <translation>Скробблинг</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="23"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Скробблинг позволяет записывать историю ваших прослушиваний на таких сервисах, как {lastfm_brand}. Это полезно для ведения статистики, подбора рекомендаций и поиска единомышленников.</translation>
+        <translation>Скробблинг позволяет записывать историю ваших прослушиваний на таких сервисах, как {lastfm_brand}. Это полезно для ведения статистики, подбора рекомендаций и поиска единомышленников.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="33"/>
         <source>Go to {accounts} to connect your {lastfm_brand} account</source>
         <comment>Scrobbling: First step of the scrobbling instructions</comment>
-        <translation type="unfinished">Перейдите в {accounts}, чтобы соединить {lastfm_brand} account</translation>
+        <translation>Перейдите в {accounts}, чтобы соединить {lastfm_brand} account</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="37"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Аккаунты</translation>
+        <translation>Аккаунты</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="46"/>
         <source>Go to {players} to enable the media players you want to scrobble</source>
         <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation type="unfinished">Перейдите в {players}, чтобы включить скробблинг медиа-проигрывателей</translation>
+        <translation>Перейдите в {players}, чтобы включить скробблинг медиа-проигрывателей</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="52"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Проигрыватели</translation>
+        <translation>Проигрыватели</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="59"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished">Перейдите в {configuration}, чтобы настроить, когда трек должен скробблиться</translation>
+        <translation>Перейдите в {configuration}, чтобы настроить, когда трек должен скробблиться</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="65"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Конфигурация</translation>
+        <translation>Конфигурация</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="73"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished">Перейдите в {artists}, чтобы настроить скробблинг исполнителей</translation>
+        <translation>Перейдите в {artists}, чтобы настроить скробблинг исполнителей</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="78"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Исполнители</translation>
+        <translation>Исполнители</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="85"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation type="unfinished">Перейдите в {edits}, чтобы настроить метаданные музыки для скробблов</translation>
+        <translation>Перейдите в {edits}, чтобы настроить метаданные музыки для скробблов</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="91"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Правки</translation>
+        <translation>Правки</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="102"/>
         <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Скоро появится поддержка {listenbrainz_brand}, {librefm_brand} и других платформ, а также новые функции! Ознакомьтесь с &lt;a {roadmap_attributes}&gt;планом развития проекта&lt;/a&gt;.</translation>
+        <translation>Скоро появится поддержка {listenbrainz_brand}, {librefm_brand} и других платформ, а также новые функции! Ознакомьтесь с &lt;a {roadmap_attributes}&gt;планом развития проекта&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -3646,7 +3646,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="119"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation>Выберите, какие медиа-проигрыватели будут скробблиться, нажав на &quot;{enable_button}&quot;. Треки будут скробблиться только исключительно из включенных медиа-проигрывателей.</translation>
+        <translation>Выберите, какие медиа-проигрыватели будут скробблиться, нажав на &quot;{enable_button}&quot;. Треки будут скробблиться исключительно из включенных медиа-проигрывателей.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="126"/>
