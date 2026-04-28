@@ -3547,7 +3547,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="477"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation>Discord Rich Presence</translation>
+        <translation>Интеграция с Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="491"/>
@@ -3625,31 +3625,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="633"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Присоединяйтесь к серверу Discord: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="641"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сообщите о проблеме или предложите новую функцию &lt;a {issue_tracker_attributes}&gt;здесь&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="650"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Посмотрите на &lt;a {media_players_attributes}&gt;лист поддерживаемых медиа-проигрывателей&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="659"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Узнайте, как &lt;a {add_support_attributes}&gt;добавить поддержку для других медиа-проигрывателей&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="668"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Прочитайте документацию: {documentation_link}</translation>
     </message>
 </context>
 </TS>
