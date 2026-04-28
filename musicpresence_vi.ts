@@ -1294,7 +1294,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Cài đặt</translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="717"/>
@@ -1987,91 +1987,91 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nhấp chuột phải vào biểu tượng thanh menu để nhanh chóng thay đổi cài đặt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nhấp chuột phải vào biểu tượng dưới khay để nhanh chóng thay đổi cài đặt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished">Discord Rich Presence</translation>
+        <translation>Discord Rich Presence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Cho bạn bè biết bạn đang nghe gì bằng cách hiển thị bài nhạc đang phát lên Discord của bạn! Hỗ trợ cho hầu hết các trình phát nhạc.</translation>
+        <translation>Cho bạn bè biết bạn đang nghe gì bằng cách hiển thị bài nhạc đang phát lên Discord của bạn! Hỗ trợ cho hầu hết các trình phát nhạc.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Cài đặt và mở &lt;a {discord_attributes}&gt;ứng dụng Discord cho máy tính&lt;/a&gt;</translation>
+        <translation>Cài đặt và mở &lt;a {discord_attributes}&gt;ứng dụng Discord cho máy tính bàn&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Hãy đảm bảo rằng &lt;a {activity_sharing_attributes}&gt;Chia sẻ Trạng thái&lt;/a&gt; đã được bật trong cài đặt Discord của bạn nhé</translation>
+        <translation>Hãy đảm bảo rằng &lt;a {activity_sharing_attributes}&gt;Chia sẻ Trạng thái&lt;/a&gt; đã được bật trong cài đặt Discord của bạn nhé</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Hãy bật nhạc bằng trình phát của bạn. Hiện tại bạn cần phải sử dụng ứng dụng dành cho máy tính để phát nhạc, nhưng việc &lt;a {browser_support_attributes}&gt;hỗ trợ cho trình duyệt&lt;/a&gt; sắp được ra mắt. Tuỳ theo trình phát nhạc mà bạn cũng phải cần cài thêm &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt; nha</translation>
+        <translation>Hãy bật nhạc bằng trình phát của bạn. Hiện tại bạn cần phải sử dụng ứng dụng dành cho máy tính để phát nhạc, nhưng việc &lt;a {browser_support_attributes}&gt;hỗ trợ cho trình duyệt&lt;/a&gt; sắp được ra mắt. Tuỳ theo trình phát nhạc mà bạn cũng phải cần cài thêm &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt; nha</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Đi tới {settings} để cấu hình tổng quát</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Cài đặt</translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Đi tới {appearance} để cấu hình cho trạng thái</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ngoại hình</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Hãy đi tới {services} để cấu hình cách sử dụng các dịch vụ bên ngoài</translation>
+        <translation>Đi tới {services} để cấu hình cách sử dụng các dịch vụ bên ngoài</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Dịch vụ</translation>
+        <translation>Dịch vụ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Bạn cũng hãy xem qua &lt;a {media_players_attributes}&gt;danh sách các trình phát được hỗ trợ&lt;/a&gt;, &lt;a {help_attributes}&gt;trang hướng dẫn&lt;/a&gt; và cách &lt;a {add_support_attributes}&gt;hỗ trợ thêm cho trình phát khác&lt;/a&gt;.</translation>
+        <translation>Bạn cũng hãy xem qua &lt;a {media_players_attributes}&gt;danh sách các trình phát được hỗ trợ&lt;/a&gt;, &lt;a {help_attributes}&gt;trang hướng dẫn&lt;/a&gt; và làm sao để &lt;a {add_support_attributes}&gt;hỗ trợ thêm cho trình phát khác&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -2080,31 +2080,31 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished">Cần giúp đỡ?</translation>
+        <translation>Cần giúp đỡ?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Hãy ghé thăm &lt;a {help_attributes}&gt;trang trợ giúp&lt;/a&gt; để tìm giải pháp cho các lỗi thường gặp</translation>
+        <translation>Hãy ghé thăm &lt;a {help_attributes}&gt;trang trợ giúp&lt;/a&gt; để tìm giải pháp cho các lỗi thường gặp</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Tham gia Discord: {discord_invite_link}</translation>
+        <translation>Tham gia Discord: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Báo lỗi hoặc gợi ý thêm tính năng mới &lt;a {issue_tracker_attributes}&gt;tại đây&lt;/a&gt;</translation>
+        <translation>Báo lỗi hoặc gợi ý thêm tính năng mới &lt;a {issue_tracker_attributes}&gt;tại đây&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Hãy xem &lt;a {media_players_attributes}&gt;danh sách các trình phát được hỗ trợ&lt;/a&gt;</translation>
+        <translation>Hãy xem &lt;a {media_players_attributes}&gt;danh sách các trình phát được hỗ trợ&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
@@ -2240,14 +2240,14 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="51"/>
         <source>Go to {presets} to look at all available presets</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Đi tới {presets} để xem các mẫu cài đặt có sẵn</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="56"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="73"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Chỉnh sửa</translation>
+        <translation>Tuỳ chỉnh</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="59"/>
@@ -2259,7 +2259,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="67"/>
         <source>Go to {replacements} to edit metadata with regular expressions</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Đi tới {replacements} để chỉnh sửa siêu dữ liệu bằng các mẫu tìm kiếm đặc biệt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="76"/>
