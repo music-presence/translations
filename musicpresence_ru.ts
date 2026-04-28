@@ -1313,7 +1313,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="676"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Знакомство</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="708"/>
