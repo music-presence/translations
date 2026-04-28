@@ -2110,13 +2110,13 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Tìm hiểu cách &lt;a {add_support_attributes}&gt;thêm hỗ trợ cho trình phát khác&lt;/a&gt;</translation>
+        <translation>Tìm hiểu cách &lt;a {add_support_attributes}&gt;thêm hỗ trợ cho trình phát khác&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Đọc tài liệu tại {documentation_link}</translation>
+        <translation>Đọc tài liệu tại {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -2125,19 +2125,19 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bắt đầu sử dụng</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tìm hiểu thêm</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ẩn bớt</translation>
     </message>
 </context>
 <context>
@@ -2221,20 +2221,20 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="18"/>
         <source>{category} / {tab}</source>
         <comment>Link text for a link to a tab in a specific settings category. This e.g. looks like &quot;Edits / Presets&quot; for the &quot;Presets&quot; tab in the &quot;Edits&quot; settings category. You can usually just leave it this way, unless it&apos;s more natural to use a different character other than the slash character to separate the two. If you are translating to a right-to-left language, then you might want to consider switching the two placeholders</comment>
-        <translation type="unfinished"></translation>
+        <translation>{category} / {tab}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="40"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="42"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Siêu dữ liệu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="44"/>
         <source>Edit music metadata with custom regular expressions and useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chỉnh sửa siêu dữ liệu bằng các biểu thức chính quy tùy chỉnh và mẫu cài đặt sẵn hữu ích.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="51"/>
@@ -2253,25 +2253,25 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="59"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished">Mẫu</translation>
+        <translation>Mẫu cài sẵn</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="67"/>
         <source>Go to {replacements} to edit metadata with regular expressions</source>
         <comment>TODO</comment>
-        <translation>Đi tới {replacements} để chỉnh sửa siêu dữ liệu bằng các mẫu tìm kiếm đặc biệt</translation>
+        <translation>Đi tới {replacements} để chỉnh sửa siêu dữ liệu bằng các biểu thức chính quy</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="76"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished">Thay thế</translation>
+        <translation>Thay thế</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="84"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nhiều cách chỉnh sửa siêu dữ liệu sắp được ra mắt, xem chi tiết tại &lt;a {roadmap_attributes}&gt;tiến độ dự án&lt;/a&gt; .</translation>
     </message>
 </context>
 <context>
@@ -3322,79 +3322,79 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="20"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="23"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Scrobbling là việc lưu lại lịch sử nghe nhạc của bạn trên nền tảng như {lastfm_brand}. Nó giúp bạn xem lại thống kê, gợi ý bài hát và tìm người có gu âm nhạc giống bạn.</translation>
+        <translation>Scrobbling là việc lưu lại lịch sử nghe nhạc của bạn trên nền tảng như {lastfm_brand}. Nó giúp bạn xem lại thống kê, gợi ý bài hát và tìm người có gu âm nhạc giống bạn.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="33"/>
         <source>Go to {accounts} to connect your {lastfm_brand} account</source>
         <comment>Scrobbling: First step of the scrobbling instructions</comment>
-        <translation type="unfinished">Hãy đi tới {accounts} để kết nối tài khoản {lastfm_brand} của bạn</translation>
+        <translation>Đi tới {accounts} để kết nối tài khoản {lastfm_brand} của bạn</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="37"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="46"/>
         <source>Go to {players} to enable the media players you want to scrobble</source>
         <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation type="unfinished">Hãy đi tới {players} để bật các trình phát mà bạn muốn scrobble</translation>
+        <translation>Đi tới {players} để bật các trình phát mà bạn muốn scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="52"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trình phát</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="59"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished">Hãy đi tới {configuration} để cấu hình ghi lại nhạc</translation>
+        <translation>Đi tới {configuration} để cấu hình cách ghi lại nhạc</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="65"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Cấu hình</translation>
+        <translation>Cấu hình</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="73"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished">Hãy đi tới {artists} để quản lý cách ghi lại nghệ sĩ</translation>
+        <translation>Đi tới {artists} để quản lý cách ghi lại nghệ sĩ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="78"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Nghệ sĩ</translation>
+        <translation>Nghệ sĩ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="85"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation type="unfinished">Hãy đi tới {edits} để chỉnh sửa siêu dữ liệu nhạc trong nhiều cách khác nhau</translation>
+        <translation>Đi tới {edits} để chỉnh sửa siêu dữ liệu nhạc theo nhiều cách khác nhau</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="91"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Siêu dữ liệu</translation>
     </message>
     <message>
         <source>Edits</source>
@@ -3405,7 +3405,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="97"/>
         <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Nhiều tính năng mới và hỗ trợ thêm nhiều nền tảng khác như {listenbrainz_brand} và {librefm_brand} sẽ sớm được ra mắt. Hãy xem ở mục &lt;a {roadmap_attributes}&gt;tiến độ dự án&lt;/a&gt; nhé.</translation>
+        <translation>Nhiều tính năng mới và hỗ trợ thêm nhiều nền tảng khác như {listenbrainz_brand} và {librefm_brand} sẽ sớm được ra mắt. Hãy xem ở mục &lt;a {roadmap_attributes}&gt;tiến độ dự án&lt;/a&gt; nhé.</translation>
     </message>
 </context>
 <context>
