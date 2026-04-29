@@ -1299,7 +1299,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">설정</translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="717"/>
@@ -1987,91 +1987,91 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>메뉴바 아이콘을 우클릭하여 설정을 빠르게 변경하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>트레이 메뉴 아이콘을 우클릭하여 설정을 빠르게 변경하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished">Discord 활동 상태</translation>
+        <translation>디스코드 활동 상태</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">디스코드</translation>
+        <translation>디스코드</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">현재 재생 중인 노래를 Discord 프로필에 표시하여 친구들에게 무엇을 듣고 있는지 보여주세요! 거의 모든 미디어 플레이어에서 작동합니다.</translation>
+        <translation>현재 재생 중인 노래를 디스코드 프로필에 표시하여 친구들에게 무엇을 듣고 있는지 보여주세요! 거의 모든 미디어 플레이어에서 작동합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">&lt;a {discord_attributes}&gt;Discord 데스크톱 앱&lt;/a&gt;을 설치하고 실행하세요</translation>
+        <translation>&lt;a {discord_attributes}&gt;디스코드 데스크톱 앱&lt;/a&gt;을 설치하고 실행하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Discord 계정 설정에서 &lt;a {activity_sharing_attributes}&gt;내 활동 공유&lt;/a&gt;가 활성화되어 있는지 확인하세요</translation>
+        <translation>디스코드 계정 설정에서 &lt;a {activity_sharing_attributes}&gt;내 활동 공유&lt;/a&gt;가 활성화되어 있는지 확인하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">미디어 플레이어로 음악을 재생하세요. 현재는 미디어 플레이어의 데스크톱 앱 버전을 사용해야 하지만, &lt;a {browser_support_attributes}&gt;브라우저 지원&lt;/a&gt;이 곧 추가될 예정입니다. 미디어 플레이어에 따라 &lt;a {plugin_attributes}&gt;플러그인&lt;/a&gt;이 필요할 수도 있습니다</translation>
+        <translation>미디어 플레이어로 음악을 재생하세요. 현재는 미디어 플레이어의 데스크톱 앱 버전을 사용해야 하지만, &lt;a {browser_support_attributes}&gt;브라우저 지원&lt;/a&gt;이 곧 추가될 예정입니다. 미디어 플레이어에 따라 &lt;a {plugin_attributes}&gt;플러그인&lt;/a&gt;이 필요할 수도 있습니다</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>{settings}로 이동하여 일반 설정을 구성하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">설정</translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>{appearance}로 이동하여 상태 표시를 사용자 지정하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">환경 설정</translation>
+        <translation>환경 설정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">{services}로 이동하여 외부 서비스 사용 방식을 설정하세요</translation>
+        <translation>{services}로 이동하여 외부 서비스 사용 방식을 설정하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">서비스</translation>
+        <translation>서비스</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">&lt;a {media_players_attributes}&gt;지원되는 미디어 플레이어 목록&lt;/a&gt;, &lt;a {help_attributes}&gt;도움말 페이지&lt;/a&gt;, 다른 미디어 플레이어 &lt;a {add_support_attributes}&gt;지원 추가 방법&lt;/a&gt;도 확인해 보세요.</translation>
+        <translation>&lt;a {media_players_attributes}&gt;지원되는 미디어 플레이어 목록&lt;/a&gt;, &lt;a {help_attributes}&gt;도움말 페이지&lt;/a&gt;, 다른 미디어 플레이어 &lt;a {add_support_attributes}&gt;지원 추가 방법&lt;/a&gt;도 확인해 보세요.</translation>
     </message>
 </context>
 <context>
@@ -2080,43 +2080,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished">도움이 필요하신가요?</translation>
+        <translation>도움이 필요하신가요?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">일반적인 문제의 해결 방법은 &lt;a {help_attributes}&gt;도움말 페이지&lt;/a&gt;를 방문하세요</translation>
+        <translation>일반적인 문제의 해결 방법은 &lt;a {help_attributes}&gt;도움말 페이지&lt;/a&gt;를 방문하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Discord 서버 참여: {discord_invite_link}</translation>
+        <translation>디스코드 서버 참여: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">버그를 신고하거나 새 기능을 제안하려면 &lt;a {issue_tracker_attributes}&gt;여기&lt;/a&gt;를 클릭하세요</translation>
+        <translation>버그를 신고하거나 새 기능을 제안하려면 &lt;a {issue_tracker_attributes}&gt;여기&lt;/a&gt;를 클릭하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">&lt;a {media_players_attributes}&gt;지원되는 미디어 플레이어 목록&lt;/a&gt; 확인하기</translation>
+        <translation>&lt;a {media_players_attributes}&gt;지원되는 미디어 플레이어 목록&lt;/a&gt; 확인하기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">다른 미디어 플레이어 &lt;a {add_support_attributes}&gt;지원 추가 방법&lt;/a&gt; 알아보기</translation>
+        <translation>다른 미디어 플레이어 &lt;a {add_support_attributes}&gt;지원 추가 방법&lt;/a&gt; 알아보기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">{documentation_link}에서 문서 읽기</translation>
+        <translation>{documentation_link}에서 문서 읽기</translation>
     </message>
 </context>
 <context>
@@ -2125,19 +2125,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>시작하기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>자세히 알아보기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>간단히 보기</translation>
     </message>
 </context>
 <context>
@@ -2221,57 +2221,57 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="18"/>
         <source>{category} / {tab}</source>
         <comment>Link text for a link to a tab in a specific settings category. This e.g. looks like &quot;Edits / Presets&quot; for the &quot;Presets&quot; tab in the &quot;Edits&quot; settings category. You can usually just leave it this way, unless it&apos;s more natural to use a different character other than the slash character to separate the two. If you are translating to a right-to-left language, then you might want to consider switching the two placeholders</comment>
-        <translation type="unfinished"></translation>
+        <translation>{category} / {tab}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="40"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="42"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">메타데이터</translation>
+        <translation>메타데이터</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="44"/>
         <source>Edit music metadata with custom regular expressions and useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for</comment>
-        <translation type="unfinished"></translation>
+        <translation>사용자 지정 정규식과 유용한 프리셋으로 음악 메타데이터를 편집하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="51"/>
         <source>Go to {presets} to look at all available presets</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>{presets}(으)로 이동하여 사용 가능한 모든 프리셋을 확인하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="56"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="73"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">편집</translation>
+        <translation>편집</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="59"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished">프리셋</translation>
+        <translation>프리셋</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="67"/>
         <source>Go to {replacements} to edit metadata with regular expressions</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>{replacements}(으)로 이동하여 정규식으로 메타데이터를 편집하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="76"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished">대체</translation>
+        <translation>대체</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="84"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터를 편집하는 더 많은 방법이 곧 추가될 예정입니다. 자세한 내용은 &lt;a {roadmap_attributes}&gt;프로젝트 로드맵&lt;/a&gt;을 확인하세요.</translation>
     </message>
 </context>
 <context>
@@ -3322,79 +3322,79 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished">스크로블링</translation>
+        <translation>스크로블링</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="20"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">스크로블링</translation>
+        <translation>스크로블링</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="23"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">스크로블링은 {lastfm_brand} 같은 플랫폼에 음악 감상 기록을 남기는 과정입니다. 통계, 음악 추천, 다른 사람과 음악 취향이 겹치는 부분을 찾는 데 유용합니다.</translation>
+        <translation>스크로블링은 {lastfm_brand} 같은 플랫폼에 음악 감상 기록을 남기는 과정입니다. 통계, 음악 추천, 다른 사람과 음악 취향이 겹치는 부분을 찾는 데 유용합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="33"/>
         <source>Go to {accounts} to connect your {lastfm_brand} account</source>
         <comment>Scrobbling: First step of the scrobbling instructions</comment>
-        <translation type="unfinished">{accounts}로 이동하여 {lastfm_brand} 계정을 연결하세요</translation>
+        <translation>{accounts}(으)로 이동하여 {lastfm_brand} 계정을 연결하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="37"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">계정</translation>
+        <translation>계정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="46"/>
         <source>Go to {players} to enable the media players you want to scrobble</source>
         <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation type="unfinished">{players}로 이동하여 스크로블할 미디어 플레이어를 활성화하세요</translation>
+        <translation>{players}(으)로 이동하여 스크로블할 미디어 플레이어를 활성화하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="52"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">플레이어</translation>
+        <translation>플레이어</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="59"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished">{configuration}으로 이동하여 트랙이 언제 스크로블될지 설정하세요</translation>
+        <translation>{configuration}(으)로 이동하여 트랙이 언제 스크로블될지 설정하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="65"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">설정</translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="73"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished">{artists}로 이동하여 아티스트가 스크로블되는 방식을 제어하세요</translation>
+        <translation>{artists}(으)로 이동하여 아티스트가 스크로블되는 방식을 제어하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="78"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">아티스트</translation>
+        <translation>아티스트</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="85"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation type="unfinished">{edits}로 이동하여 스크로블된 음악 메타데이터를 다양한 방식으로 편집하세요</translation>
+        <translation>{edits}(으)로 이동하여 스크로블된 음악 메타데이터를 다양한 방식으로 편집하세요</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="91"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">메타데이터</translation>
+        <translation>메타데이터</translation>
     </message>
     <message>
         <source>Edits</source>
@@ -3405,7 +3405,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="97"/>
         <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation type="unfinished">{listenbrainz_brand} 및 {librefm_brand} 같은 더 많은 플랫폼을 지원하는 기능이 곧 추가될 예정입니다! &lt;a {roadmap_attributes}&gt;프로젝트 로드맵&lt;/a&gt;을 확인해 보세요.</translation>
+        <translation>{listenbrainz_brand} 및 {librefm_brand} 같은 더 많은 플랫폼을 지원하는 기능이 곧 추가될 예정입니다! &lt;a {roadmap_attributes}&gt;프로젝트 로드맵&lt;/a&gt;을 확인해 보세요.</translation>
     </message>
 </context>
 <context>
