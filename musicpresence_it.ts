@@ -1977,91 +1977,91 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>È possibile modificare le impostazioni rapidamente facendo clic destro sull’icona nella barra dei menu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>È possibile modificare le impostazioni rapidamente facendo clic destro sull’icona nell’area di notifica</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished">Attività di Discord</translation>
+        <translation>Attività di Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Mostra ai tuoi amici cosa stai ascoltando condividendo il brano che stai riproducendo in questo momento sul tuo profilo Discord! Questa funzione è compatibile con quasi tutti i lettori multimediali.</translation>
+        <translation>Mostra ai tuoi amici cosa stai ascoltando condividendo il brano che stai riproducendo in questo momento sul tuo profilo Discord! Questa funzione è compatibile con quasi tutti i lettori multimediali.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Installa e avvia l&apos;&lt;a {discord_attributes}&gt;applicazione desktop di Discord&lt;/a&gt;</translation>
+        <translation>Installa e avvia l&apos;&lt;a {discord_attributes}&gt;applicazione desktop di Discord&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Assicurati che la &lt;a {activity_sharing_attributes}&gt;Condivisione attività&lt;/a&gt; sia abilitata nelle impostazioni del tuo account Discord</translation>
+        <translation>Assicurati che la &lt;a {activity_sharing_attributes}&gt;Condivisione attività&lt;/a&gt; sia abilitata nelle impostazioni del tuo account Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Riproduci dei brani con il tuo lettore multimediale. Al momento hai bisogno di utilizzare l&apos;applicazione desktop del tuo lettore multimediale, ma il &lt;a {browser_support_attributes}&gt;supporto per browser&lt;/a&gt; arriverà presto. Per alcuni lettori multimediali è anche richiesto un &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</translation>
+        <translation>Riproduci dei brani con il tuo lettore multimediale. Al momento hai bisogno di utilizzare l&apos;applicazione desktop del tuo lettore multimediale, ma il &lt;a {browser_support_attributes}&gt;supporto per browser&lt;/a&gt; arriverà presto. Per alcuni lettori multimediali è anche richiesto un &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vai su {settings} per le impostazioni generali</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Impostazioni</translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vai su {appereance} per personalizzare la tua attività</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Aspetto</translation>
+        <translation>Aspetto</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Vai su {services} per configurare come i servizi esterni vengono utilizzati</translation>
+        <translation>Vai su {services} per configurare come i servizi esterni vengono utilizzati</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Servizi</translation>
+        <translation>Servizi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Dai un&apos;occhiata alla &lt;a {media_players_attributes}&gt;lista di lettori multimediali supportati&lt;/a&gt;, alla &lt;a {help_attributes}&gt;pagina di aiuto&lt;/a&gt; e a come &lt;a {add_support_attributes}&gt;aggiungere il supporto per un altro lettore multimediale&lt;/a&gt;.</translation>
+        <translation>Dai un&apos;occhiata alla &lt;a {media_players_attributes}&gt;lista di lettori multimediali supportati&lt;/a&gt;, alla &lt;a {help_attributes}&gt;pagina di aiuto&lt;/a&gt; e a come &lt;a {add_support_attributes}&gt;aggiungere il supporto per un altro lettore multimediale&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -2070,43 +2070,43 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished">Hai bisogno di aiuto?</translation>
+        <translation>Hai bisogno di aiuto?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Visita la &lt;a {help_attributes}&gt;pagina di aiuto&lt;/a&gt; per le soluzioni ai problemi più frequenti</translation>
+        <translation>Visita la &lt;a {help_attributes}&gt;pagina di aiuto&lt;/a&gt; per le soluzioni ai problemi più frequenti</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Entra nel server Discord: {discord_invite_link}</translation>
+        <translation>Entra nel server Discord: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Segnala un bug o suggerisci una nuova funzione &lt;a {issue_tracker_attributes}&gt;qui&lt;/a&gt;</translation>
+        <translation>Segnala un bug o suggerisci una nuova funzione &lt;a {issue_tracker_attributes}&gt;qui&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Dai un&apos;occhiata alla &lt;a {media_players_attributes}&gt;lista dei lettori multimediali supportati&lt;/a&gt;</translation>
+        <translation>Dai un&apos;occhiata alla &lt;a {media_players_attributes}&gt;lista dei lettori multimediali supportati&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Scopri come &lt;a {add_support_attributes}&gt;aggiungere il supporto per un altro lettore multimediale&lt;/a&gt;</translation>
+        <translation>Scopri come &lt;a {add_support_attributes}&gt;aggiungere il supporto per un altro lettore multimediale&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Leggi la documentazione qui: {documentation_link}</translation>
+        <translation>Leggi la documentazione qui: {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -2115,19 +2115,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Per iniziare</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scopri di più</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostra meno</translation>
     </message>
 </context>
 <context>
