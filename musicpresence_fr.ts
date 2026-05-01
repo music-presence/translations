@@ -406,7 +406,7 @@
         <location filename="../src/app/app.cpp" line="5906"/>
         <source>What&apos;s coming next?</source>
         <comment>help link: opens the project roadmap page</comment>
-        <translation>Quelles seront les prochaines nouveautés&#x2009;?</translation>
+        <translation>Quelles seront les prochaines nouveautés&#x202f;?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5913"/>
@@ -485,7 +485,7 @@
         <source>Do you like {app_name}?
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
-        <translation>Vous aimez {app_name}&#x2009;? 
+        <translation>Vous aimez {app_name}&#x202f;?
 Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu de la barre des tâches pour plus d&apos;infos.</translation>
     </message>
     <message>
@@ -659,7 +659,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <source>&lt;p&gt;&lt;b&gt;Updated to version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Restart the application to run the newest version.&lt;/p&gt;</source>
         <comment>update installed popup: preserve the HTML</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Mis à jour à la version {version}.&lt;/b&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;Mis à jour vers la version {version}.&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Redémarrez l&apos;application pour utiliser la nouvelle version.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -692,7 +692,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation>&lt;p&gt;Une erreur est survenue lors de l&apos;installation de la mise à jour :&lt;/p&gt;
+        <translation>&lt;p&gt;Une erreur est survenue lors de l&apos;installation de la mise à jour&#xa0;:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
@@ -705,7 +705,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="7128"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>N&apos;hésitez pas à rejoindre notre serveur Discord&#x2009;! Rencontrez d&apos;autres utilisateurs, proposez des suggestions et restez informé. Cliquez ici ou dans le menu Aide pour nous rejoindre.</translation>
+        <translation>N&apos;hésitez pas à rejoindre notre serveur Discord&#x202f;! Rencontrez d&apos;autres utilisateurs, proposez des suggestions et restez informé. Cliquez ici ou dans le menu Aide pour nous rejoindre.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7716"/>
@@ -747,7 +747,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="8002"/>
         <source>What&apos;s new?</source>
         <comment>new version launched popup title</comment>
-        <translation>Quelles sont les nouveautés&#x2009;?</translation>
+        <translation>Quelles sont les nouveautés&#x202f;?</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8009"/>
@@ -782,7 +782,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/app.cpp" line="8075"/>
         <source>Got it!</source>
         <comment>button: first launch confirmation. this should sound excited! the user is using Music Presence for the very first time!</comment>
-        <translation>Entendu&#x2009;!</translation>
+        <translation>Compris&#x202f;!</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8177"/>
@@ -811,18 +811,18 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/app.cpp" line="8192"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>Vous aimez {app_name}&#x2009;? &lt;a {attributes}&gt;Soutenez le développement avec un don&lt;/a&gt;</translation>
+        <translation>Vous aimez {app_name}&#x202f;? &lt;a {attributes}&gt;Soutenez le développement avec un don&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8200"/>
         <source>Wanna help in other ways? &lt;a {attributes}&gt;Get involved!&lt;/a&gt;</source>
-        <translation>Vous voulez aider d&apos;une autre manière&#x2009;? &lt;a {attributes}&gt;Participez&#x2009;!&lt;/a&gt;</translation>
+        <translation>Vous voulez aider d&apos;une autre manière&#x202f;? &lt;a {attributes}&gt;Participez&#x202f;!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8208"/>
         <source>Thanks to everyone who helped translate the app:</source>
         <comment>about window: the names of all translators come after this</comment>
-        <translation>Merci à tous ceux qui ont aidé à traduire l&apos;application :</translation>
+        <translation>Merci à tous ceux qui ont aidé à traduire l&apos;application&#xa0;:</translation>
     </message>
     <message>
         <source>Play music to configure a specific player</source>
@@ -1245,7 +1245,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="675"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Suivi d&apos;écoute</translation>
+        <translation>Suivi d&apos;écoute (scrobbling)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="682"/>
@@ -1779,7 +1779,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/settings/window.cpp" line="3849"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation>Vous pouvez régler le code de région manuellement si ceux de votre service de streaming et votre appareil ne sont pas synchronisés. Réglez celui-ci sur les &lt;a {attributes}&gt; code de pays à deux lettres&lt;/a&gt; de votre service de streaming.</translation>
+        <translation>Vous pouvez régler le code de région manuellement si ceux de votre service de streaming et votre appareil ne sont pas synchronisés. Réglez celui-ci sur les &lt;a {attributes}&gt;codes de pays à deux lettres&lt;/a&gt; de votre service de streaming.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3858"/>
@@ -1856,7 +1856,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="4222"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation>Besoin d&apos;aide ? &lt;a {attributes}&gt;Lisez la documentation&lt;/a&gt;.</translation>
+        <translation>Besoin d&apos;aide&#x202f;? &lt;a {attributes}&gt;Lisez la documentation&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4242"/>
@@ -1874,7 +1874,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="4325"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation>La connection a échoué. &lt;a {attributes}&gt;Besoin d&apos;aide ?&lt;/a&gt;</translation>
+        <translation>La connection a échoué. &lt;a {attributes}&gt;Besoin d&apos;aide&#x202f;?&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4333"/>
@@ -1957,61 +1957,61 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished">Effectuez un clic droit sur l&apos;icône de la barre des tâches pour changer de paramètres rapidement</translation>
+        <translation>Effectuez un clic droit sur l&apos;icône de la barre des tâches pour changer de paramètres rapidement</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Faites un clic droit sur l&apos;icône de la barre des tâches pour changer de réglages rapidement</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished">Présence sur Discord</translation>
+        <translation>Présence Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Montrez à vos amis ce que vous écoutez en affichant la musique qui se joue actuellement sur votre profil Discord&#x202f;! Compatible avec presque tous les lecteurs.</translation>
+        <translation>Montrez à vos amis ce que vous écoutez en affichant la musique qui se joue actuellement sur votre profil Discord&#x202f;! Compatible avec presque tous les lecteurs.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Installez et lancez &lt;a {discord_attributes}&gt; l&apos;application de bureau Discord&lt;/a&gt;</translation>
+        <translation>Installez et lancez &lt;a {discord_attributes}&gt;l&apos;application de bureau Discord&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Vérifiez que &lt;a {activity_sharing_attributes}&gt;le partage d&apos;activité&lt;/a&gt; est activé dans les paramètres de votre profil Discord</translation>
+        <translation>Vérifiez que &lt;a {activity_sharing_attributes}&gt;le Partage d&apos;Activité&lt;/a&gt; est activé dans les paramètres de votre profil Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Jouez de la musique avec votre lecteur multimédia. Vous avez pour l&apos;instant besoin d&apos;utiliser l&apos;application bureau de votre lecteur, mais &lt;a {browser_support_attributes}&gt;une compatibilié avec le navigateur&lt;/a&gt; arrive bientôt. Selon votre lecteur, vous aurez peut-être également besoin d&apos;un &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</translation>
+        <translation>Jouez de la musique avec votre lecteur multimédia. Vous avez pour l&apos;instant besoin d&apos;utiliser l&apos;application bureau de votre lecteur, mais &lt;a {browser_support_attributes}&gt;une compatibilié avec le navigateur&lt;/a&gt; arrive bientôt. Selon votre lecteur, vous aurez peut-être également besoin d&apos;un &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Allez dans {settings} pour la configuration générale</translation>
+        <translation>Allez dans {settings} pour la configuration générale</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
@@ -2023,25 +2023,25 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Apparence</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished">Allez dans {services} pour configurer la manière dont les services externes sont utilisés</translation>
+        <translation>Allez dans {services} pour configurer la manière dont les services externes sont utilisés</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Services</translation>
+        <translation>Services</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished">Regardez aussi la &lt;a {media_players_attributes}&gt; liste des lecteurs supportés&lt;/a&gt;, la &lt;a {help_attributes}&gt; page d&apos;aide&lt;/a&gt; ainsi que comment &lt;a {add_support_attributes}&gt;ajouter une compatibilité pour un autre lecteur multimédia&lt;/a&gt;.</translation>
+        <translation>Regardez aussi la &lt;a {media_players_attributes}&gt;liste des lecteurs supportés&lt;/a&gt;, la &lt;a {help_attributes}&gt;page d&apos;aide&lt;/a&gt; ainsi que comment &lt;a {add_support_attributes}&gt;ajouter une compatibilité pour un autre lecteur&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -2050,43 +2050,43 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished">Besoin d&apos;aide&#x202f;?</translation>
+        <translation>Besoin d&apos;aide&#x202f;?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Visitez la &lt;a {help_attributes}&gt;page d&apos;aide&lt;/a&gt; pour trouver des solutions à des problèmes récurrents</translation>
+        <translation>Visitez la &lt;a {help_attributes}&gt;page d&apos;aide&lt;/a&gt; pour trouver des solutions à des problèmes courants</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Rejoignez le serveur Discord&#xa0;: {discord_invite_link}</translation>
+        <translation>Rejoignez le serveur Discord&#xa0;: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Signaler un bug ou suggérer une nouvelle fonctionnalité &lt;a {issue_tracker_attributes}&gt;ici&lt;/a&gt;</translation>
+        <translation>Signalez un bug ou suggérez une nouvelle fonctionnalité &lt;a {issue_tracker_attributes}&gt;ici&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Jeter un œil à &lt;a {media_players_attributes}&gt;la liste des lecteurs supportés&lt;/a&gt;</translation>
+        <translation>Jetez un œil à &lt;a {media_players_attributes}&gt;la liste des lecteurs supportés&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Découvrir comment &lt;a {add_support_attributes}&gt;ajouter le support d&apos;un autre lecteur&lt;/a&gt;</translation>
+        <translation>Découvrez comment &lt;a {add_support_attributes}&gt;ajouter le support d&apos;un autre lecteur&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished">Lire la documentation ici&#xa0;: {documentation_link}</translation>
+        <translation>Lisez la documentation ici&#xa0;: {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -2095,7 +2095,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished">Démarrer</translation>
+        <translation>Commencer</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
@@ -2107,7 +2107,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished">Afficher moins</translation>
+        <translation>Afficher moins</translation>
     </message>
 </context>
 <context>
@@ -2146,25 +2146,25 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="23"/>
         <source>Custom replacements are currently only available for scrobbling. Your replacements are only applied after connecting an account.</source>
         <comment>TODO</comment>
-        <translation type="unfinished">Les subsitutions personnalisées ne sont pour l&apos;instant disponibles que pour le scrobbling. Vos substitutions ne seront appliquées qu&apos;après la connexion à un compte.</translation>
+        <translation>Les subsitutions personnalisées ne sont pour l&apos;instant disponibles que pour le scrobbling. Vos substitutions ne seront appliquées qu&apos;après la connexion à un compte.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation type="unfinished">Les substitutions personnalisées sont seulement disponible pour le scrobbling pour le moment et requiert une licence.</translation>
+        <translation>Les substitutions personnalisées ne sont pour l&apos;instant disponibles que pour le scrobbling et nécessitent une licence.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation type="unfinished">Les substitutions personnalisées sont seulement disponibles pour le scrobbling pour le moment et votre essais gratuit a pris fin. Acheter une licence pour continuer d&apos;utiliser cette fonctionnalité.</translation>
+        <translation>Les substitutions personnalisées ne sont pour l&apos;instant disponibles que pour le scrobbling et votre essai gratuit a pris fin. Vous devez acheter une licence pour continuer d&apos;utiliser cette fonctionnalité.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation type="unfinished">Les substitutions personnalisées sont seulement pour le scrobbling pour le moment at votre licence a expiré. Acheter une licence pour continuer d&apos;utiliser cette fonctionnalité.</translation>
+        <translation>Les substitutions personnalisées sont seulement pour le scrobbling pour le moment at votre licence a expiré. Vous devez acheter une licence pour continuer d&apos;utiliser cette fonctionnalité.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
@@ -2198,7 +2198,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="42"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Métadonnées</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="44"/>
@@ -2217,13 +2217,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="73"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Modifications</translation>
+        <translation>Modifications</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="59"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished">Préconfigurations</translation>
+        <translation>Préréglages</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="67"/>
@@ -2235,13 +2235,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="76"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished">Substitutions</translation>
+        <translation>Substitutions</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="84"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished">Plus de manières de modifier les métadonnées arrivent bientôt, regardez &lt;a {roadmap_attributes}&gt;l&apos;avancement du projet&lt;/a&gt; pour plus de détails.</translation>
+        <translation>Plus de manières de modifier les métadonnées arrivent bientôt, allez voir &lt;a {roadmap_attributes}&gt;l&apos;avancement du projet&lt;/a&gt; pour plus de détails.</translation>
     </message>
 </context>
 <context>
@@ -2413,7 +2413,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1440"/>
         <source>Error: {error_message}</source>
         <comment>Metadata: A regular expression failed to compile with the given error message</comment>
-        <translation>Erreur : {error_message}</translation>
+        <translation>Erreur&#xa0;: {error_message}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1467"/>
@@ -2455,7 +2455,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1606"/>
         <source>Are you sure?</source>
         <comment>Metadata: Confirmation text for deleting a custom replacement</comment>
-        <translation>Êtes-vous sûr ?</translation>
+        <translation>Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1613"/>
@@ -2620,7 +2620,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="207"/>
         <source>Go to {artists} to control how artists are scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished">Aller sur {artists} pour contrôler la façon dont les artistes sont scrobblés.</translation>
+        <translation>Allez sur {artists} pour contrôler la façon dont les artistes sont scrobblés.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="213"/>
@@ -2633,13 +2633,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="221"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways.</source>
         <comment>Scrobbling: Fifth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation type="unfinished">Aller vers {edits} pour éditer les métadonnées des musiques scrobblés de diverses manières.</translation>
+        <translation>Allez dans {edits} pour modifier les métadonnées des musiques scrobblées de diverses manières.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="228"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Modifications</translation>
+        <translation>Modifications</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="256"/>
@@ -2742,13 +2742,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="60"/>
         <source>Start your &lt;span {attributes}&gt;{duration}-day free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period</comment>
-        <translation type="unfinished"></translation>
+        <translation>Démarrez votre &lt;span {attributes}&gt;essai gratuit de {duration} jours&lt;/span&gt; pour tester toutes les fonctionnalités du scrobbling. Après la période d&apos;essai, une licence sera requise pour continuer à utiliser ces fonctionnalités.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="72"/>
         <source>Start your &lt;span {attributes}&gt;free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period, a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period. Alternative text in case the free trial period can&apos;t be loaded from the server</comment>
-        <translation type="unfinished"></translation>
+        <translation>Démarrez votre &lt;span {attributes}&gt;essai gratuit&lt;/span&gt; pour tester toutes les fonctionnalités du scrobbling. Après la période d&apos;essai, une licence sera requise pour continuer à utiliser ces fonctionnalités.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="94"/>
@@ -2760,7 +2760,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="105"/>
         <source>By continuing you agree to the &lt;a {terms_attributes}&gt;Terms&lt;/a&gt; and &lt;a {privacy_attributes}&gt;Privacy Policy&lt;/a&gt;.</source>
         <comment>Scrobbling: Text to inform the user about their consent to the terms and privacy policy by continuing to start the free trial. Use legal language for the words &quot;Terms&quot; and &quot;Privacy Policy&quot;</comment>
-        <translation>En continuant, vous acceptez les &lt;a {terms_attributes&gt; Termes et conditions&lt;/a&gt; ainsi que la &lt;a {privacy_attributes}&gt; Politique de Confidentialité&lt;/a&gt;.</translation>
+        <translation>En continuant, vous acceptez les &lt;a {terms_attributes&gt;Termes et conditions&lt;/a&gt; ainsi que la &lt;a {privacy_attributes}&gt;Politique de Confidentialité&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="134"/>
@@ -3007,13 +3007,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1213"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation>Si le lien ne s&apos;est pas ouvert, vous pouvez l&apos;ouvrir manuellement :</translation>
+        <translation>Si le lien ne s&apos;est pas ouvert, vous pouvez l&apos;ouvrir manuellement&#xa0;:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1317"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation>Une erreur est survenue : {error_text}</translation>
+        <translation>Une erreur est survenue&#xa0;: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1329"/>
@@ -3292,79 +3292,79 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suivi d&apos;écoute (scrobbling)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="20"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suivi d&apos;écoute (scrobbling)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="23"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute sur une plate-forme comme {lastfm_brand}. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="33"/>
         <source>Go to {accounts} to connect your {lastfm_brand} account</source>
         <comment>Scrobbling: First step of the scrobbling instructions</comment>
-        <translation type="unfinished">Allez dans {accounts} pour connecter votre compte {lastfm_brand}</translation>
+        <translation>Allez dans {accounts} pour connecter votre compte {lastfm_brand}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="37"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Comptes</translation>
+        <translation>Comptes</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="46"/>
         <source>Go to {players} to enable the media players you want to scrobble</source>
         <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Allez dans {players} pour activer les lecteurs que vous voulez scrobbler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="52"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Lecteurs</translation>
+        <translation>Lecteurs</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="59"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez dans {configuration} pour configurer quand une piste doit être scrobblée</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="65"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Configuration</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="73"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez dans {artists} pour contrôler comment les artistes doivent être scrobblés</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="78"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Artistes</translation>
+        <translation>Artistes</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="85"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Allez dans {edits} pour modifier de différentes manières les métadonnées de la musique scrobblée</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="91"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Métadonnées</translation>
     </message>
     <message>
         <source>Edits</source>
@@ -3375,7 +3375,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="97"/>
         <source>More features and support for more platforms like {listenbrainz_brand} and {librefm_brand} is coming soon! Have a look at the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Plus d&apos;options et une compatiblité avec plus de plate-formes comme {listenbrain_brand} et {librefm_brand} sont sur le chemin&#x202f;! Jetez un coup d&apos;œil à &lt;a {roadmap_attributes}&gt;l&apos;avancée du projet&lt;/a&gt;.</translation>
+        <translation>Plus d&apos;options et une compatiblité avec plus de plates-formes comme {listenbrain_brand} et {librefm_brand} sont en route&#x202f;! Jetez un coup d&apos;œil à &lt;a {roadmap_attributes}&gt;l&apos;avancée du projet&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -3396,7 +3396,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="242"/>
         <source>Purchase date</source>
         <comment>Scrobbling: Label for the date at which a scrobbling license was purchased. Keep this text short</comment>
-        <translation type="unfinished">Date d&apos;achat</translation>
+        <translation>Date d&apos;achat</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="248"/>
@@ -3420,19 +3420,19 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="367"/>
         <source>Free Trial License</source>
         <comment>The name for a license that is granted to the user during the scrobbling free trial. You can also translate this shorter as &quot;Trial License&quot; or &quot;Test License&quot;, whatever comes closer to the English meaning</comment>
-        <translation type="unfinished">Licence d&apos;essai gratuit</translation>
+        <translation>Licence d&apos;essai gratuit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="401"/>
         <source>Expired</source>
         <comment>Scrobbling: Label for an expired scrobbling license</comment>
-        <translation type="unfinished">Expirée</translation>
+        <translation>Expirée</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="551"/>
         <source>Never expires</source>
         <comment>Scrobbling: Informational text that the license never expires. Keep this short</comment>
-        <translation type="unfinished">N&apos;expire jamais</translation>
+        <translation>N&apos;expire jamais</translation>
     </message>
 </context>
 <context>
@@ -3441,7 +3441,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="89"/>
         <source>License</source>
         <comment>Scrobbling: Title of the scrobbling license settings panel</comment>
-        <translation type="unfinished">Licence</translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="133"/>
@@ -3471,7 +3471,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="256"/>
         <source>You can import your license by dragging the license file into this window or by opening the file selector via the button below. Before buying a license you have the option to try all features by starting a free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez importer votre licence en déposant le fichier de la licence dans cette fenêtre ou en ouvrant le selecteur de fichier depuis le bouton ci-dessous. Avant d&apos;acheter une licence, vous avez l&apos;option d&apos;essayer toutes les fonctionnalités avec l&apos;essai gratuit.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="298"/>
@@ -3496,7 +3496,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="319"/>
         <source>Start free trial</source>
         <comment>Scrobbling: Button text for starting the scrobbling free trial. Keep this short</comment>
-        <translation type="unfinished">Démarrer l&apos;essai gratuit</translation>
+        <translation>Démarrer l&apos;essai gratuit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="333"/>
@@ -3516,7 +3516,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="417"/>
         <source>Import a different license</source>
         <comment>Scrobbling: Description text to import a different license when the current license has expired</comment>
-        <translation type="unfinished">Importer une autre licence</translation>
+        <translation>Importer une autre licence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="453"/>
@@ -3540,13 +3540,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="473"/>
         <source>Show</source>
         <comment>Scrobbling: Button text for showing the scrobbling license file in the file explorer on the user&apos;s computer</comment>
-        <translation type="unfinished">Afficher</translation>
+        <translation>Afficher</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="497"/>
         <source>Remove the license and delete it</source>
         <comment>Scrobbling: Description text for removing the imported scrobbling license from the app</comment>
-        <translation type="unfinished">Supprimer la licence</translation>
+        <translation>Supprimer la licence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="506"/>
@@ -3600,7 +3600,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="683"/>
         <source>Import your license by dragging the license file into this window or by using the file selector. Make sure to keep a copy of your license file in a safe place. That&apos;s it!</source>
         <comment>Scrobbling: Buying a scrobbling license, step 4</comment>
-        <translation>Importer votre licence par un glissé-déposé du fichier dans cette fenêtre ou en utilisant le sélecteur de fichiers. Assurez-vous de garder une copie du fichier de licence dans un endroit sécurisé. Et c&apos;est tout&#x202f;!</translation>
+        <translation>Importer votre licence par un glissé-déposé du fichier dans cette fenêtre ou en utilisant le sélecteur de fichiers. Assurez-vous de garder une copie du fichier de licence dans un endroit sécurisé. C&apos;est tout&#x202f;!</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="691"/>
