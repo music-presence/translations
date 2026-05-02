@@ -3304,7 +3304,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="23"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute sur une plate-forme comme {lastfm_brand}. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
+        <translation>Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute sur une plate-forme comme {lastfm_brand} par exemple. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="33"/>
@@ -3334,7 +3334,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="59"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation type="unfinished">Allez dans {configuration} pour configurer quand une piste doit être scrobblée</translation>
+        <translation>Allez dans {configuration} pour configurer quand une piste doit être scrobblée</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="65"/>
@@ -3346,7 +3346,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="73"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation type="unfinished">Allez dans {artists} pour contrôler comment les artistes doivent être scrobblés</translation>
+        <translation>Allez dans {artists} pour contrôler comment les artistes sont scrobblés</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="78"/>
@@ -3390,7 +3390,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="235"/>
         <source>ID</source>
         <comment>Scrobbling: Label for the ID of a scrobbling license. Keep this text short</comment>
-        <translation type="unfinished">Identifiant</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="242"/>
