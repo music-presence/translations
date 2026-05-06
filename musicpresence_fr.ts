@@ -1333,7 +1333,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="1350"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation>Ouvrir les paramètres par un clic gauche sur l&apos;icône de la barre des tâches</translation>
+        <translation>Ouvrir les paramètres avec un clic gauche sur l&apos;icône de la barre des tâches</translation>
     </message>
     <message>
         <source>To exit the application when the menu bar icon is hidden, click on &quot;{exit_category_name}&quot; in the sidebar.</source>
