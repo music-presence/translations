@@ -690,24 +690,24 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1173"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>若要退出应用程序，当菜单栏图标隐藏时，请点击侧边栏中的“{exit_category_name}”。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>若要退出应用程序，当菜单栏图标隐藏时，请点击侧边栏中的“{exit_category_name}”。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1315"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>再次启动应用程序时打开设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>总是打开上次使用的设置分类</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1400"/>
@@ -836,26 +836,26 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2178"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>如需显示自定义文本，请前往 {discord_developer_portal_url} 并点击“{new_application_button_name}”。接着输入您想要的文本，然后点击“{create_button_name}”。在打开的新页面中，找到“{application_id_section_name}”，复制显示的数字并将其粘贴到上方的输入框中。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2249"/>
         <location filename="../src/app/settings/window.cpp" line="2311"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Application ID</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2423"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2449"/>
@@ -863,44 +863,44 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2981"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>无效</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2454"/>
         <location filename="../src/app/settings/window.cpp" line="2969"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2468"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>检查中...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2945"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>网络错误</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2977"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2985"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>请求失败</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3394"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>按 Discord 用户切换状态显示</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3628"/>
@@ -976,13 +976,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="323"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>导入您的 Scrobbling 许可证</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>将您的许可证文件拖至此窗口以导入。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="660"/>
@@ -994,19 +994,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="675"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="682"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>欢迎</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="717"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>账号</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="720"/>
@@ -1442,52 +1442,52 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3823"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>国家/地区代码</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3849"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果设备或流媒体服务无法匹配您所在的地区，可以选择手动指定国家/地区代码。为您的流媒体服务设置 &lt;a {attributes}&gt;国家代码&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3858"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3860"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>必填</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4024"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spotify API 个人凭证</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4033"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入您自己的凭证可以更稳定地获取额外的歌曲元数据。请前往 &lt;a {attributes}&gt;{spotify_developer_dashboard_link} 并点击“{create_app_text}”，输入您的信息，然后复制“{client_id_text}”和“{client_secret_text}”并粘贴到上方。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIDAL API 个人凭证</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4059"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入您自己的凭据可以更稳定地获取额外的歌曲元数据。请前往 &lt;a {attributes}&gt;{tidal_developer_dashboard_link} 并点击“{create_app_text}”，输入您的信息，然后复制“{client_id_text}”和“{client_secret_text}”并粘贴到上方。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4076"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>自定义专辑封面代理服务器</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4093"/>
@@ -1500,67 +1500,67 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4142"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>选填</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4126"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4192"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4216"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4222"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>需要帮助？&lt;a {attributes}&gt;请阅读文档&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4242"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>禁用 TLS 验证</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4288"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在测试连接详情...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4325"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>连接失败。&lt;a {attributes}&gt;需要帮助吗？&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4333"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation>连接成功！已保存连接详情。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4374"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>最大图像大小（像素）</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4420"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>最小缓存保留时间（秒）</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4461"/>
@@ -3385,7 +3385,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="189"/>
         <source>{app_name} is a tool to broadcast your music listening activity to other platforms. Continue reading to get an introduction to all features of the app and how to use them.</source>
         <comment>Welcome: Introductory line to the functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} 是一款能将您的音乐同步广播到其他平台的工具。请继续阅读，了解该应用的所有功能及使用方法。</translation>
     </message>
     <message>
         <source>Discord</source>
