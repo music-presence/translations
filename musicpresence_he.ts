@@ -855,7 +855,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="323"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>יבא את רישיון ההסקרבלה שלך</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
