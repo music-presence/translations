@@ -834,7 +834,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="699"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="708"/>
@@ -1147,13 +1147,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="323"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>นำเข้าสิทธิ์การใช้งาน Scrobbling ของคุณ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>วาง ไฟล์สิทธิ์การใช้งาน ลงในนี้ได้เลย</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="660"/>
@@ -1171,13 +1171,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="682"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="706"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">ตั้งค่า</translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="717"/>
@@ -1201,13 +1201,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="726"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">ศิลปิน</translation>
+        <translation>ศิลปิน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="729"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">ใบอนุญาต</translation>
+        <translation>สิทธิ์การใช้งาน</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1070"/>
@@ -1625,7 +1625,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3707"/>
         <source>External services</source>
         <comment>services setting group</comment>
-        <translation>เซอร์วิสภายนอก</translation>
+        <translation>บริการภายนอก</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3710"/>
@@ -1824,25 +1824,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="6847"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished"></translation>
+        <translation>มีชื่อที่ใช้แทนนี้อยู่แล้วในระบบ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6929"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>พรีเซ็ต</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7027"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished"></translation>
+        <translation>การแทนที่</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7045"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มรายการใหม่</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7056"/>
@@ -1851,13 +1851,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="7134"/>
         <source>Something went wrong</source>
         <comment>Metadata: Popup title for when an error occurred while saving an edit</comment>
-        <translation type="unfinished">มีบางอย่างผิดพลาด</translation>
+        <translation>มีบางอย่างผิดพลาด</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7103"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>แก้ไขรายการ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7383"/>
@@ -1872,91 +1872,91 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>คลิกขวาที่ไอคอนบนแถบเมนูเพื่อเปลี่ยนการตั้งค่าอย่างรวดเร็ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>คลิกขวาที่ไอคอนบนแถบเมนูเพื่อเปลี่ยนการตั้งค่าอย่างรวดเร็ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord Rich Presence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงให้เพื่อนของคุณดูว่าคุณกำลังฟังอะไรอยู่ โดยการแสดงเพลงที่กำลังเล่นบนโปรไฟล์ Discord ของคุณ! ฟีเจอร์นี้รองรับเครื่องเล่นมีเดียเกือบทุกอัน</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งและรัน &lt;a {discord_attributes}&gt;แอป Discord บนเดสก์ท็อป&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบให้แน่ใจว่าได้เปิดใช้งาน &lt;a {activity_sharing_attributes}&gt;แชร์กิจกรรมของฉัน&lt;/a&gt; ในการตั้งค่าบัญชี Discord ของคุณแล้ว</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>เปิดเพลงด้วยเครื่องเล่นมีเดียของคุณ ในขณะนี้คุณจำเป็นต้องใช้เครื่องเล่นมีเดียเวอร์ชันแอปเดสก์ท็อป แต่ &lt;a {browser_support_attributes}&gt;การรองรับบนเบราว์เซอร์&lt;/a&gt; กำลังจะมาเร็ว ๆ นี้ ทั้งนี้ คุณอาจต้องใช้ &lt;a {plugin_attributes}&gt;ปลั๊กอินเสริม&lt;/a&gt; ขึ้นอยู่กับเครื่องเล่นมีเดียที่คุณใช้งาน</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่ {settings} เพื่อตั้งค่าทั่วไป</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">ตั้งค่า</translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่ {appearance} เพื่อปรับแต่งสถานะของคุณ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">หน้าตา</translation>
+        <translation>หน้าตา</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่ {services} เพื่อตั้งค่าการใช้งานบริการภายนอก</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">เซอร์วิส</translation>
+        <translation>บริการ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>นอกจากนี้ คุณยังสามารถดู &lt;a {media_players_attributes}&gt;รายชื่อเครื่องเล่นมีเดียที่รองรับ&lt;/a&gt; &lt;a {help_attributes}&gt;หน้าช่วยเหลือ&lt;/a&gt; และวิธี &lt;a {add_support_attributes}&gt;เพิ่มการรองรับสำหรับเครื่องเล่นสื่ออื่น ๆ ได้อีกด้วย&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1965,7 +1965,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>ต้องการความช่วยเหลือ?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
