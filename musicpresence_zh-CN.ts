@@ -988,7 +988,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="660"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="675"/>
@@ -1024,7 +1024,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="726"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>艺术家</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="729"/>
@@ -1036,37 +1036,37 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1070"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>菜单栏图标主题</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1235"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>在菜单栏显示应用图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>在任务栏显示应用图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1243"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>在系统托盘显示应用图标</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1350"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>左键单击托盘图标打开设置</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1581"/>
@@ -1565,7 +1565,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="4461"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以部署自己的服务器来显示更高质量的封面图像，并摆脱对内置服务器的依赖。欲了解更多信息，请阅读&lt;a {attributes}&gt;文档&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6700"/>
@@ -1604,7 +1604,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="7134"/>
         <source>Something went wrong</source>
         <comment>Metadata: Popup title for when an error occurred while saving an edit</comment>
-        <translation type="unfinished">发生错误</translation>
+        <translation>发生错误</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7103"/>
@@ -1625,19 +1625,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>右键点击菜单栏图标可快速更改设置</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>右键点击托盘图标可快速更改设置</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord Rich Presence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
@@ -1649,19 +1649,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>在您的 Discord 个人资料上展示正在播放的歌曲，向好友分享您的听歌实时动态！这几乎适用于任何媒体播放器。</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>安装并运行 &lt;a {discord_attributes}&gt;Discord&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>请确保 Discord 设置中的 &lt;a {activity_sharing_attributes}&gt;动态分享&lt;/a&gt; 已启用</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
@@ -3373,7 +3373,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="74"/>
         <source>Show this welcome page when opening the settings</source>
         <comment>Welcome: Checkbox whether to show the welcome screen whenever the settings window is opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>打开设置时显示欢迎页面</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="173"/>
