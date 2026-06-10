@@ -523,7 +523,7 @@
         <location filename="../src/app/app.cpp" line="5999"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Változások listájának megtekintése</translation>
+        <translation>Frissítési jegyzet megtekintése</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6363"/>
@@ -856,12 +856,12 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="528"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Frissítés keresése</translation>
+        <translation>Frissítések keresése</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="311"/>
         <source>Settings</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="672"/>
@@ -891,7 +891,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="673"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Metaadatok</translation>
+        <translation>Metaadatok</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="690"/>
@@ -910,7 +910,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="708"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Megjelenés</translation>
+        <translation>Megjelenés</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -921,13 +921,13 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="857"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Nyelv / {language}</translation>
+        <translation>Nyelv / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="871"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Segíts a fordításban</translation>
+        <translation>Segíts a fordításban</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="876"/>
@@ -945,7 +945,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="1063"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Megjelenés</translation>
+        <translation>Megjelenés</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1072"/>
@@ -1018,13 +1018,13 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="1428"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Frissítések</translation>
+        <translation>Frissítések</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1434"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Frissítések automatikus telepítése</translation>
+        <translation>Frissítések automatikus telepítése</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1449"/>
@@ -1036,19 +1036,19 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="1466"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Újdonságok mutatása frissítés után</translation>
+        <translation>Újdonságok mutatása frissítés után</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1492"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Frissítések keresése...</translation>
+        <translation>Frissítések keresése...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1501"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Változások listájának megtekintése</translation>
+        <translation>Frissítési jegyzetek megtekintése</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1521"/>
@@ -1066,7 +1066,7 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <location filename="../src/app/settings/window.cpp" line="1586"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished">Nézze a legfrissebb híreket</translation>
+        <translation>A legújabb hírek megtekintése</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1652"/>
