@@ -43,13 +43,13 @@
         <location filename="../src/app/app.cpp" line="3730"/>
         <source>Waiting for Discord</source>
         <comment>status text: discord is not detected yet</comment>
-        <translation>디스코드를 기다리는 중</translation>
+        <translation>디스코드 대기 중</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3736"/>
         <source>Waiting for media playback</source>
         <comment>status text: no media is detected on the device</comment>
-        <translation>미디어 재생을 기다리는 중</translation>
+        <translation>미디어 재생 대기 중</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3740"/>
@@ -61,13 +61,13 @@
         <location filename="../src/app/app.cpp" line="4303"/>
         <source>Donate</source>
         <comment>button</comment>
-        <translation>기부</translation>
+        <translation>후원</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4308"/>
         <source>Support my work with a small donation</source>
         <comment>donate button: hover text</comment>
-        <translation>제 작업을 작은 기부로 지원해주세요</translation>
+        <translation>제 작업을 작은 후원으로 지원해주세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="4315"/>
@@ -334,7 +334,7 @@
         <location filename="../src/app/app.cpp" line="6467"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation>업데이트 확인하기</translation>
+        <translation>업데이트 확인</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5984"/>
@@ -388,7 +388,7 @@
         <location filename="../src/app/app.cpp" line="5881"/>
         <source>Report a problem on GitHub</source>
         <comment>help link</comment>
-        <translation>GitHub에서 문제 보고</translation>
+        <translation>GitHub에서 문제 제보하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5887"/>
@@ -432,13 +432,13 @@
         <location filename="../src/app/app.cpp" line="6868"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>버전 {version}을(를) 다운로드하려면 클릭하세요</translation>
+        <translation>{version} 버전을 다운로드하려면 클릭하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6525"/>
         <source>Cancelling downloads...</source>
         <comment>status text</comment>
-        <translation>다운로드 취소하는 중...</translation>
+        <translation>다운로드 취소 중...</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6533"/>
@@ -478,7 +478,7 @@
         <location filename="../src/app/app.cpp" line="6690"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>버전 {version}을(를) 설치하려면 클릭하세요</translation>
+        <translation>{version} 버전을 설치하려면 클릭하세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7143"/>
@@ -486,7 +486,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>{app_name}이(가) 마음에 드나요?
-기부를 통해 개발을 지원할 수 있습니다. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
+후원를 통해 개발을 지원할 수 있습니다. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6363"/>
@@ -602,7 +602,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="5894"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation>기부로 개발을 지원해주세요</translation>
+        <translation>후원로 개발을 지원해주세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5991"/>
@@ -646,7 +646,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="6782"/>
         <source>Restart the application</source>
         <comment>update hint text</comment>
-        <translation>애플리케이션을 재시작하기</translation>
+        <translation>앱 재시작</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6790"/>
@@ -730,7 +730,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7128"/>
         <source>Feel free to join our Discord server! Meet other users, make suggestions and stay up to date. Click here or in the Help menu to join.</source>
         <comment>desktop notification</comment>
-        <translation>저희 Discord 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 이곳을 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
+        <translation>저희 디스코드 서버에 자유롭게 참여하세요! 다른 사용자들과 만나고, 제안을 하며 최신 정보를 얻을 수 있습니다. 이곳을 클릭하거나 도움말 메뉴에서 참여하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7716"/>
@@ -748,13 +748,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="7963"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;새 버전 {app_name} 이(가) 가능합니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;아래의 변경 사항을 읽고 새로운 내용을 확인하세요.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;새로운 {app_name} 버전을 사용할 수 있습니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;아래의 변경 사항을 읽고 새로운 내용을 확인하세요.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7979"/>
         <source>Try again</source>
         <comment>button: update not installed, retry</comment>
-        <translation>다시 시도하세요</translation>
+        <translation>다시 시도</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7985"/>
@@ -813,13 +813,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="8177"/>
         <source>Version {version}</source>
         <comment>application version information</comment>
-        <translation>버전 {version}</translation>
+        <translation>{version} 버전</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8183"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation>라이센스</translation>
+        <translation>라이선스</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8186"/>
@@ -831,12 +831,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="8189"/>
         <source>Report an issue</source>
         <comment>about window: opens github issues to report an issue</comment>
-        <translation>문제 보고</translation>
+        <translation>문제 제보하기</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8192"/>
         <source>Do you like {app_name}? &lt;a {attributes}&gt;Support development with a donation&lt;/a&gt;</source>
-        <translation>{app_name}이(가) 마음에 드시나요? &lt;a {attributes}&gt;기부로 개발을 지원해주세요&lt;/a&gt;</translation>
+        <translation>{app_name}이(가) 마음에 드시나요? &lt;a {attributes}&gt;후원으로 개발을 지원해주세요&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8200"/>
@@ -891,7 +891,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="528"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation>업데이트 확인하기</translation>
+        <translation>업데이트 확인</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="311"/>
@@ -1018,7 +1018,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="1173"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation>메뉴 막대 아이콘이 보이지 않는 경우, 사이드바의 &quot;{exit_category_name}&quot; 항목을 클릭하여 애플리케이션을 종료할 수 있습니다.</translation>
+        <translation>메뉴 막대 아이콘이 보이지 않는 경우, 사이드바의 &quot;{exit_category_name}&quot; 항목을 클릭하여 앱을 종료할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
@@ -1269,13 +1269,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="323"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation>스크로블링 라이센스 가져오기</translation>
+        <translation>스크로블링 라이선스 가져오기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation>라이센스 파일을 이 창에 놓아 가져오세요.</translation>
+        <translation>라이선스 파일을 이 창에 놓아 가져오세요.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="660"/>
@@ -1329,7 +1329,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="729"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation>라이센스</translation>
+        <translation>라이선스</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1070"/>
@@ -1400,7 +1400,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2229"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>텍스트 표시</translation>
+        <translation>표시 텍스트</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2233"/>
@@ -1798,7 +1798,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3797"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>특정 국가에서만 제공되는 일부 노래를 찾기 위해 국가 코드를 전송해야 합니다. 이는 검색 결과의 정확도를 높이는 데도 도움이 됩니다. 국가 코드는 Discord 상태에 표시되는 링크에서 자동으로 제거됩니다.</translation>
+        <translation>특정 국가에서만 제공되는 일부 노래를 찾기 위해 국가 코드를 전송해야 합니다. 이는 검색 결과의 정확도를 높이는 데도 도움이 됩니다. 국가 코드는 디스코드 상태에 표시되는 링크에서 자동으로 제거됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3823"/>
@@ -2182,19 +2182,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation>사용자 지정 대체는 현재 스크로블링에서만 사용할 수 있으며 라이센스가 필요합니다.</translation>
+        <translation>사용자 지정 대체는 현재 스크로블링에서만 사용할 수 있으며 라이선스가 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation>사용자 지정 대체는 현재 스크로블링에서만 사용할 수 있으며 무료 체험이 종료되었습니다. 이 기능을 계속 사용하려면 라이센스를 구매하세요.</translation>
+        <translation>사용자 지정 대체는 현재 스크로블링에서만 사용할 수 있으며 무료 체험이 종료되었습니다. 이 기능을 계속 사용하려면 라이선스를 구매하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation>사용자 지정 대체는 현재 스크로블링에서만 사용할 수 있으며 라이센스가 만료되었습니다. 이 기능을 계속 사용하려면 새 라이센스를 구매하세요.</translation>
+        <translation>사용자 지정 대체는 현재 스크로블링에서만 사용할 수 있으며 라이센스가 만료되었습니다. 이 기능을 계속 사용하려면 새 라이선스를 구매하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
@@ -2733,13 +2733,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="58"/>
         <source>Your license has expired.</source>
         <comment>Scrobbling: Informative message that the limited time scrobbling license the user is using has expired</comment>
-        <translation>라이센스가 만료되었습니다.</translation>
+        <translation>라이선스가 만료되었습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="62"/>
         <source>A new license is required to continue scrobbling.</source>
         <comment>Scrobbling: Informative message that a new license has to be bought to use scrobbling features after a limited time license has expired</comment>
-        <translation>스크로블링을 계속하려면 새 라이센스가 필요합니다.</translation>
+        <translation>스크로블링을 계속하려면 새 라이선스가 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="70"/>
@@ -2751,13 +2751,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="73"/>
         <source>A license is required to continue scrobbling.</source>
         <comment>Scrobbling: Informative message that a license has to be bought to use scrobbling features after the free trial</comment>
-        <translation>스크로블링을 계속하려면 라이센스가 필요합니다.</translation>
+        <translation>스크로블링을 계속하려면 라이선스가 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="104"/>
         <source>Buy license</source>
         <comment>Scrobbling: Button text to continue to buy a scrobbling license</comment>
-        <translation>라이센스 구매</translation>
+        <translation>라이선스 구매</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="116"/>
@@ -2772,13 +2772,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="60"/>
         <source>Start your &lt;span {attributes}&gt;{duration}-day free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period</comment>
-        <translation>&lt;span {attributes}&gt;{duration}일 무료 체험&lt;/span&gt;을 시작하여 모든 스크로블링 기능을 평가해 보세요. 평가 기간이 끝나면 스크로블링을 계속하려면 라이센스가 필요합니다.</translation>
+        <translation>&lt;span {attributes}&gt;{duration}일 무료 체험&lt;/span&gt;을 시작하여 모든 스크로블링 기능을 평가해 보세요. 평가 기간이 끝나면 스크로블링을 계속하려면 라이선스가 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="72"/>
         <source>Start your &lt;span {attributes}&gt;free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period, a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period. Alternative text in case the free trial period can&apos;t be loaded from the server</comment>
-        <translation>&lt;span {attributes}&gt;무료 체험&lt;/span&gt;을 시작하여 모든 스크로블링 기능을 평가해 보세요. 평가 기간이 끝나면 스크로블링을 계속하려면 라이센스가 필요합니다.</translation>
+        <translation>&lt;span {attributes}&gt;무료 체험&lt;/span&gt;을 시작하여 모든 스크로블링 기능을 평가해 보세요. 평가 기간이 끝나면 스크로블링을 계속하려면 라이선스가 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="94"/>
@@ -3271,7 +3271,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="56"/>
         <source>A license is required</source>
         <comment>Scrobbling: Pop-up title to inform that a license is required to use scrobbling features</comment>
-        <translation>라이센스가 필요합니다</translation>
+        <translation>라이선스가 필요합니다</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="73"/>
@@ -3289,19 +3289,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="91"/>
         <source>A valid license is required to scrobble.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use scrobbling features</comment>
-        <translation>스크로블하려면 유효한 라이센스가 필요합니다.</translation>
+        <translation>스크로블하려면 유효한 라이선스가 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="95"/>
         <source>Your free trial has ended. Buy a license to continue scrobbling.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use scrobbling features after the free trial</comment>
-        <translation>무료 체험이 종료되었습니다. 스크로블링을 계속하려면 라이센스를 구매하세요.</translation>
+        <translation>무료 체험이 종료되었습니다. 스크로블링을 계속하려면 라이선스를 구매하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="100"/>
         <source>Your license has expired. Buy a new license to continue scrobbling.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use scrobbling features after a limited time license has expired</comment>
-        <translation>라이센스가 만료되었습니다. 스크로블링을 계속하려면 새 라이센스를 구매하세요.</translation>
+        <translation>라이센스가 만료되었습니다. 스크로블링을 계속하려면 새 라이선스를 구매하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="116"/>
@@ -3313,7 +3313,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="120"/>
         <source>Buy license</source>
         <comment>Scrobbling: Button text to continue to buy a scrobbling license. Keep this text as short as possible</comment>
-        <translation>라이센스 구매</translation>
+        <translation>라이선스 구매</translation>
     </message>
 </context>
 <context>
@@ -3438,19 +3438,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="355"/>
         <source>Lifetime License</source>
         <comment>Scrobbling: The name for a license that never expires. If it sounds better, keep the word &quot;Lifetime&quot; instead of translating it. In some languages it might sound awkward to translate it</comment>
-        <translation>평생 라이센스</translation>
+        <translation>평생 라이선스</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="361"/>
         <source>Standard License</source>
         <comment>Scrobbling: The name for a standard license that expires after a certain period</comment>
-        <translation>표준 라이센스</translation>
+        <translation>표준 라이선스</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="367"/>
         <source>Free Trial License</source>
         <comment>The name for a license that is granted to the user during the scrobbling free trial. You can also translate this shorter as &quot;Trial License&quot; or &quot;Test License&quot;, whatever comes closer to the English meaning</comment>
-        <translation>무료 체험 라이센스</translation>
+        <translation>무료 체험 라이선스</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicenseInfoCard.cpp" line="401"/>
@@ -3471,7 +3471,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="89"/>
         <source>License</source>
         <comment>Scrobbling: Title of the scrobbling license settings panel</comment>
-        <translation>라이센스</translation>
+        <translation>라이선스</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="133"/>
@@ -3495,19 +3495,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="249"/>
         <source>Scrobbling requires a valid license or an active free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation>스크로블링에는 유효한 라이센스 또는 활성 무료 체험이 필요합니다.</translation>
+        <translation>스크로블링에는 유효한 라이선스 또는 활성 무료 체험이 필요합니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="256"/>
         <source>You can import your license by dragging the license file into this window or by opening the file selector via the button below. Before buying a license you have the option to try all features by starting a free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation>라이센스 파일을 이 창으로 드래그하거나 아래 버튼으로 파일 선택기를 열어 라이센스를 가져올 수 있습니다. 라이센스를 구매하기 전에 무료 체험을 시작해 모든 기능을 사용해 볼 수 있습니다.</translation>
+        <translation>라이센스 파일을 이 창으로 드래그하거나 아래 버튼으로 파일 선택기를 열어 라이선스를 가져올 수 있습니다. 라이선스를 구매하기 전에 무료 체험을 시작해 모든 기능을 사용해 볼 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="298"/>
         <source>Import your license file</source>
         <comment>Scrobbling: Description text for importing a license file into the app</comment>
-        <translation>라이센스 파일 가져오기</translation>
+        <translation>라이선스 파일 가져오기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="301"/>
@@ -3520,7 +3520,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="315"/>
         <source>Get a test license to try all features</source>
         <comment>Scrobbling: Description text for starting a free trial and receiving a test license for evaluating all scrobbling features</comment>
-        <translation>모든 기능을 체험할 테스트 라이센스 받기</translation>
+        <translation>모든 기능을 체험할 테스트 라이선스 받기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="319"/>
@@ -3533,38 +3533,38 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="385"/>
         <source>Buy a license</source>
         <comment>Scrobbling: Description text for buying a scrobbling license</comment>
-        <translation>라이센스 구매</translation>
+        <translation>라이선스 구매</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="335"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="392"/>
         <source>Buy license</source>
         <comment>Scrobbling: Button text for buying a scrobbling license. Keep this short</comment>
-        <translation>라이센스 구매</translation>
+        <translation>라이선스 구매</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="417"/>
         <source>Import a different license</source>
         <comment>Scrobbling: Description text to import a different license when the current license has expired</comment>
-        <translation>다른 라이센스 가져오기</translation>
+        <translation>다른 라이선스 가져오기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="453"/>
         <source>Show the license file in Finder</source>
         <comment>Scrobbling: Description text for the action to show the scrobbling license file in the file explorer (specific for Mac, literally called &quot;Finder&quot;. Do not translate the &quot;Finder&quot; name!)</comment>
-        <translation>Finder에서 라이센스 파일 보기</translation>
+        <translation>Finder에서 라이선스 파일 보기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="459"/>
         <source>Show the license file in File Explorer</source>
         <comment>Scrobbling: Description text for the action to show the scrobbling license file in the file explorer (Windows)</comment>
-        <translation>파일 탐색기에서 라이센스 파일 보기</translation>
+        <translation>파일 탐색기에서 라이선스 파일 보기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="463"/>
         <source>Show the license file in the file browser</source>
         <comment>Scrobbling: Description text for the action to show the scrobbling license file in the file explorer (any OS other than Mac or Windows)</comment>
-        <translation>파일 브라우저에서 라이센스 파일 보기</translation>
+        <translation>파일 브라우저에서 라이선스 파일 보기</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="473"/>
@@ -3576,7 +3576,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="497"/>
         <source>Remove the license and delete it</source>
         <comment>Scrobbling: Description text for removing the imported scrobbling license from the app</comment>
-        <translation>라이센스를 제거하고 삭제</translation>
+        <translation>라이선스를 제거하고 삭제</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="506"/>
@@ -3588,7 +3588,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="524"/>
         <source>Make sure you have a copy of your license file before removing!</source>
         <comment>Scrobbling: Warning text before removing the scrobbling license from the app and deleting the associated file from the file system</comment>
-        <translation>제거하기 전에 라이센스 파일의 사본이 있는지 확인하세요!</translation>
+        <translation>제거하기 전에 라이선스 파일의 사본이 있는지 확인하세요!</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="566"/>
@@ -3618,25 +3618,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="677"/>
         <source>Choose a license to buy and complete the purchase.</source>
         <comment>Scrobbling: Buying a scrobbling license, step 2</comment>
-        <translation>구매할 라이센스를 선택하고 구매를 완료하세요.</translation>
+        <translation>구매할 라이선스를 선택하고 구매를 완료하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="680"/>
         <source>Download the license file from the confirmation e-mail.</source>
         <comment>Scrobbling: Buying a scrobbling license, step 3</comment>
-        <translation>확인 이메일에서 라이센스 파일을 다운로드하세요.</translation>
+        <translation>확인 이메일에서 라이선스 파일을 다운로드하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="683"/>
         <source>Import your license by dragging the license file into this window or by using the file selector. Make sure to keep a copy of your license file in a safe place. That&apos;s it!</source>
         <comment>Scrobbling: Buying a scrobbling license, step 4</comment>
-        <translation>라이센스 파일을 이 창으로 드래그하거나 파일 선택기를 사용하여 라이센스를 가져오세요. 라이센스 파일 사본을 안전한 곳에 보관하세요. 이것으로 완료입니다!</translation>
+        <translation>라이선스 파일을 이 창으로 드래그하거나 파일 선택기를 사용하여 라이선스를 가져오세요. 라이선스 파일 사본을 안전한 곳에 보관하세요. 이것으로 완료입니다!</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="691"/>
         <source>Drag your license file here to import it.</source>
         <comment>Scrobbling: Description text for a drop region where the scrobbling license file can be dragged</comment>
-        <translation>라이센스 파일을 여기로 드래그하여 가져오세요.</translation>
+        <translation>라이선스 파일을 여기로 드래그하여 가져오세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="694"/>
@@ -3648,13 +3648,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="757"/>
         <source>Buy a license</source>
         <comment>Scrobbling: Tab name for the context tab in the scrobbling license panel with instructions on how to buy and import a license</comment>
-        <translation>라이센스 구매</translation>
+        <translation>라이선스 구매</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="781"/>
         <source>Select your license file</source>
         <comment>Scrobbling: File selector window title for selecting a scrobbling license file</comment>
-        <translation>라이센스 파일 선택</translation>
+        <translation>라이선스 파일 선택</translation>
     </message>
 </context>
 <context>
