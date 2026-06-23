@@ -486,7 +486,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>{app_name}이(가) 마음에 드나요?
-후원를 통해 개발을 지원할 수 있습니다. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
+후원을 통해 개발을 지원할 수 있습니다. 더 많은 정보는 이곳을 클릭하거나 트레이 메뉴에서 확인하세요.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6363"/>
@@ -602,7 +602,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/app.cpp" line="5894"/>
         <source>Support development with a donation</source>
         <comment>help link</comment>
-        <translation>후원로 개발을 지원해주세요</translation>
+        <translation>후원으로 개발을 지원해주세요</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5991"/>
