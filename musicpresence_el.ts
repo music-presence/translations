@@ -594,31 +594,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="323"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε την άδεια Scrobbling σας</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="326"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αποθέστε το αρχείο της άδειάς σας σε αυτό το παράθυρο για να το εισάγετε.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="660"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Έξοδος</translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="675"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="682"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Καλοσώρισμα</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="690"/>
@@ -637,31 +637,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="717"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Λογαριασμοί</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="720"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προγράμματα Αναπαραγωγής</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="723"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Διαμόρφωση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="726"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Καλλιτέχνες</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="729"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Άδεια Χρήσης</translation>
+        <translation>Άδεια</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="857"/>
@@ -703,7 +703,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1070"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Θέμα εικονιδίου γραμμής μενού</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1082"/>
@@ -717,14 +717,14 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1128"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation>Ανοιχτό</translation>
+        <translation>Ανοιχτόχρωμο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1086"/>
         <location filename="../src/app/settings/window.cpp" line="1129"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation>Σκούρο</translation>
+        <translation>Σκουρόχρωμο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1118"/>
@@ -736,59 +736,59 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1161"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αλληλεπίδραση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1173"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Για να βγείτε από την εφαρμογή ενώ το εικονίδιο γραμμής μενού είναι κρυμμένο, πατήστε το «{exit_category_name}» στην πλαϊνή μπάρα.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1178"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Για να βγείτε από την εφαρμογή ενώ το εικονίδιο δίσκου είναι κρυμμένο, πατήστε το «{exit_category_name}» στην πλαϊνή μπάρα.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1235"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση του εικονιδίου εφαρμογής στην γραμμή μενού</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1239"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση του εικονιδίου εφαρμογής στην γραμμή εργασίας</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1243"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση του εικονιδίου της εφαρμογής στον δίσκο συστήματος</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1350"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα των ρυθμίσεων με αριστερό κλικ στο εικονίδιο δίσκου</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1315"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα των ρυθμίσεων όταν ανοίξει ξανά η εφαρμογή</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="673"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μεταδεδομένα</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="699"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασίες</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="706"/>
@@ -800,7 +800,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πάντα άνοιγμα της κατηγορίας ρυθμίσεων που χρησιμοποιήθηκε τελευταία φορά</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1400"/>
@@ -812,7 +812,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1406"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation>Άνοιγμα του {app_name} σε κάθε σύνδεση</translation>
+        <translation>Έναρξη του {app_name} έπειτα από επανασύνδεση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1428"/>
@@ -836,13 +836,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1466"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation>Δείτε τι νέο υπάρχει όταν ανοίγεται μία νέα έκδοση</translation>
+        <translation>Δείτε τι νέο υπάρχει όταν ανοίγει μία νέα έκδοση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1492"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation>Γίνεται έλεγχος για ενημερώσεις...</translation>
+        <translation>Γίνεται έλεγχος για ενημερώσεις…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1501"/>
@@ -860,7 +860,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1524"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>Ειδοποίησέ με για τα νέα από τον κατασκευαστή</translation>
+        <translation>Ειδοποίησέ με για νέα από τον κατασκευαστή</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1581"/>
@@ -899,7 +899,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2027"/>
         <source>Try to filter out advertisements</source>
         <comment>setting: fix players that report advertisements</comment>
-        <translation>Προσπαθήστε να φιλτράρετε τις διαφημίσεις</translation>
+        <translation>Προσπάθεια φιλτραρίσματος διαφημίσεων</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2033"/>
@@ -917,13 +917,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2063"/>
         <source>Split the artist and album name</source>
         <comment>apple music reports album and artist in a single field, this setting splits it up</comment>
-        <translation>Ξεχώρισε το όνομα του καλλιτέχνη και του άλμπουμ</translation>
+        <translation>Ξεχωρίστε το όνομα του καλλιτέχνη και του άλμπουμ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2092"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation>Εμφάνιση ως &quot;{player_name}&quot;</translation>
+        <translation>Εμφάνιση ως «{player_name}»</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2114"/>
@@ -959,13 +959,13 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2178"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Για την εμφάνιση προσαρμοσμένου κειμένου, πηγαίνετε στο {discord_developer_portal_url} και πατήστε το «{new_application_button_name}». Έπειτα, εισάγετε το επιθυμητό όνομα και πατήστε το «{create_button_name}». Στην σελίδα που μόλις άνοιξε, αναζητήστε για το «{application_id_section_name}», αντιγράψτε τον αριθμό που εμφανίζεται και επικολλήστε τον στο παραπάνω πεδίο.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2229"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation>Εμφάνιση κειμένου</translation>
+        <translation>Κείμενο εμφάνισης</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2233"/>
@@ -991,32 +991,32 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2307"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation>Γραμμή πολυμέσων</translation>
+        <translation>Τύπος πολυμέσων</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2249"/>
         <location filename="../src/app/settings/window.cpp" line="2311"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2297"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation>Εμφάνιση κειμένου προφίλ</translation>
+        <translation>Κείμενο εμφάνισης προφίλ</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2404"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναγνωριστικό εφαρμογής</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2423"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2449"/>
@@ -1024,20 +1024,20 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2981"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2454"/>
         <location filename="../src/app/settings/window.cpp" line="2969"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>«{quoted_text}»</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2468"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται έλεγχος…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2537"/>
@@ -1067,13 +1067,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2579"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation>Πρόσθεσε στο όνομα του καλλιτέχνη το &quot;{prefix}&quot;</translation>
+        <translation>Πρόσθεσε πριν από το όνομα του καλλιτέχνη το «{prefix}»</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2586"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation>Πρόσθεσε στο όνομα του άλμπουμ το &quot;{prefix}&quot;</translation>
+        <translation>Προσθέστε στο όνομα του άλμπουμ το «{prefix}»</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2592"/>
@@ -1162,13 +1162,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2697"/>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation>Εμφάνιση του &quot;{branding_text}&quot; στο presence</translation>
+        <translation>Εμφάνιση του «{branding_text}» στην παρουσία</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2704"/>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation>Εμφάνιση του κουμπιού &quot;{listen_to_this_song}&quot; ως &quot;{play_on_player}&quot;</translation>
+        <translation>Εμφάνιση του κουμπιού «{listen_to_this_song}» ως «{play_on_player}»</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
@@ -1210,7 +1210,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2750"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation>Επιλογή εικόνας για όταν δεν υπάρχει εξώφυλλο</translation>
+        <translation type="unfinished">Επιλογή εικόνας για όταν δεν υπάρχει εξώφυλλο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2811"/>
@@ -1228,7 +1228,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2945"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα δικτύου</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2977"/>
@@ -1240,7 +1240,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2985"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία αιτήματος</translation>
     </message>
     <message>
         <source>Presence</source>
@@ -1251,7 +1251,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3166"/>
         <source>Enable presence</source>
         <comment>discord setting: enable or disable the discord presence</comment>
-        <translation>Ενεργοποίηση του presence</translation>
+        <translation>Ενεργοποίηση της παρουσίας</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3173"/>
@@ -1263,7 +1263,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3194"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Εναλλαγή presence ανά εφαρμογή</translation>
+        <translation>Εναλλαγή παρουσίας ανά εφαρμογή</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3324"/>
@@ -1275,7 +1275,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3394"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή παρουσίας ανά χρήστη του Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3566"/>
@@ -1304,7 +1304,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3617"/>
         <source>AppleScript automation can be more reliable, but only works with Apple Music and Spotify. Using the native system interface works with all media players.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>Η αυτοματοποίηση AppleScript μπορεί να είναι πιο αξιόπιστη, αλλά δουλεύει μόνο με το Apple Music και το Spotify. Χρησιμοποιώντας τις εγγενής διεπαφές, θα είναι συμβάσιμες όλες οι εφαρμογές πολυμέσων.</translation>
+        <translation>Η αυτοματοποίηση AppleScript μπορεί να είναι πιο αξιόπιστη, αλλά δουλεύει μόνο με το Apple Music και το Spotify. Χρησιμοποιώντας τις εγγενής διεπαφές, θα είναι συμβατές όλες οι εφαρμογές πολυμέσων.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3628"/>
@@ -1316,7 +1316,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3631"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation>Υπάρχει πιθανότητα η εγγενής διεπαφή συστήματος να μη λειτουργεί μετά από μια ενημέρωση του MacOS. Σε αυτή τη περίπτωση, θα γίνει αυτόματη μετάβαση στο AppleScript.</translation>
+        <translation>Υπάρχει πιθανότητα η εγγενής διεπαφή συστήματος να μη λειτουργεί μετά από την επόμενη ενημέρωση του MacOS. Σε αυτή τη περίπτωση, θα γίνει αυτόματη μετάβαση στο AppleScript.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3652"/>
@@ -1346,31 +1346,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="3710"/>
         <source>Use the TIDAL API, when listening to TIDAL</source>
         <comment>services setting</comment>
-        <translation>Χρήση του TIDAL API, όταν γίνεται ακρόαση του TIDAL</translation>
+        <translation>Χρήση του TIDAL API, όταν γίνεται ακρόαση στο TIDAL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3713"/>
         <source>Use the Deezer API, when listening to Deezer</source>
         <comment>services setting</comment>
-        <translation>Χρήση του Deezer API, όταν γίνεται ακρόαση του Deezer</translation>
+        <translation>Χρήση του Deezer API, όταν γίνεται ακρόαση στο Deezer</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3716"/>
         <source>Use the Spotify API, when listening to Spotify</source>
         <comment>services setting</comment>
-        <translation>Χρήση του Spotify API, όταν γίνεται ακρόαση του Spotify</translation>
+        <translation>Χρήση του Spotify API, όταν γίνεται ακρόαση στο Spotify</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3720"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Χρήση του Apple Music API, όταν γίνεται ακρόαση του Apple Music</translation>
+        <translation>Χρήση του Apple Music API, όταν γίνεται ακρόαση στο Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3732"/>
         <source>Use the iTunes API, when listening to Apple Music</source>
         <comment>services setting</comment>
-        <translation>Χρήση του iTunes API, όταν γίνεται ακρόαση του Apple Music</translation>
+        <translation>Χρήση του iTunes API, όταν γίνεται ακρόαση στο Apple Music</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3747"/>
@@ -1416,166 +1416,166 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="3797"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Η αποστολή του κωδικού της χώρας σας είναι απαραίτητο για να βρείτε συγκεκριμένα τραγούδια τα οποία είναι διαθέσιμα σε συγκεκριμένες χώρες και μπορεί να βελτιώσει τα αποτελέσματα αναζητήσεων. Ο κωδικός της χώρας σας θα αφαιρεθεί από οποιονδήποτε σύνδεσμο πριν εμφανιστούν στην κατάστασή σας του Discord.</translation>
+        <translation>Η αποστολή του κωδικού της χώρας σας είναι απαραίτητη για να βρείτε συγκεκριμένα τραγούδια τα οποία είναι διαθέσιμα σε συγκεκριμένες χώρες και μπορεί να βελτιώσει τα αποτελέσματα αναζητήσεων. Ο κωδικός της χώρας σας θα αφαιρεθεί από οποιονδήποτε σύνδεσμο πριν εμφανιστούν στην κατάστασή σας του Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3823"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός χώρας</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3849"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μπορείτε να ορίσετε τον κωδικό χώρας χειροκίνητα, αν η χώρα της συσκευής σας και της υπηρεσίας Streaming δεν είναι ίδια. Ορίστε αυτό στον &lt;a {attributes}&gt;κωδικό χώρας δύο γραμμάτων&lt;/a&gt; της υπηρεσίας Streaming σας.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3858"/>
         <source>Automatic</source>
         <comment>placeholder text for entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3860"/>
         <source>Required</source>
         <comment>placeholder text for a required field while entering personal music API credentials</comment>
-        <translation type="unfinished"></translation>
+        <translation>Απαραίτητο</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4024"/>
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προσωπικά διαπιστευτήρια του Spotify API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4033"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εισαγωγή των δικών σας διαπιστευτηρίων μπορεί να βοηθήσει με την ανάκτηση μεταδεδομένων επιπλέον τραγουδιών πιο έμπιστα. Πηγαίνετε στο &lt;a {attributes}&gt;{spotify_developer_link}&lt;/a&gt; και πατήστε το «{create_app_text}», εισάγετε τις πληροφορίες σας, έπειτα αντιγράψτε το «{client_id_text}» και «{client_secret_text}» και επικολλήστε τα παραπάνω.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
         <source>Personal TIDAL API credentials</source>
         <comment>music API configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προσωπικά διαπιστευτήρια του TIDAL API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4059"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η εισαγωγή των δικών σας διαπιστευτηρίων μπορεί να βοηθήσει με την ανάκτηση μεταδεδομένων επιπλέον τραγουδιών πιο έμπιστα. Πηγαίνετε στο &lt;a {attributes}&gt;{tidal_developer_dashboard_link}&lt;/a&gt; και πατήστε το «{create_app_text}», εισάγετε τις πληροφορίες σας, έπειτα αντιγράψτε το «{client_id_text}» και «{client_secret_text}» και επικολλήστε τα παραπάνω.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4076"/>
         <source>Custom cover proxy server</source>
         <comment>Services configuration group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένο εξώφυλλο διακομιστή διαμεσολάβησης</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4093"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεσμος Websocket</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4124"/>
         <location filename="../src/app/settings/window.cpp" line="4142"/>
         <source>Optional</source>
         <comment>Custom cover proxy server: Placeholder for optional configuration options</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προαιρετικό</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4126"/>
         <source>Username</source>
         <comment>Custom cover proxy server: The username that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα χρήστη</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4192"/>
         <source>Password</source>
         <comment>Custom cover proxy server: The password that is needed for authentication</comment>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4216"/>
         <source>Save</source>
         <comment>Custom cover proxy server: Test and save the entered proxy server information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4222"/>
         <source>Need help? &lt;a {attributes}&gt;Read the documentation&lt;/a&gt;.</source>
         <comment>Custom cover proxy server: Help text on how to get started</comment>
-        <translation type="unfinished"></translation>
+        <translation>Χρειάζεστε βοήθεια; &lt;a {attributes}&gt;Διαβάστε τα έγγραφα&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4242"/>
         <source>Disable TLS verification</source>
         <comment>Custom cover proxy server: Whether to disable verification of the TLS certificate that the server provides. TLS is an acronym that stands for &quot;Transport Layer Security&quot;, it should not be translated</comment>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση επαλήθευσης TLS</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4288"/>
         <source>Testing connection details...</source>
         <comment>Custom cover proxy server: Currently in the process of testing the entered connection details before saving and using them</comment>
-        <translation type="unfinished"></translation>
+        <translation>Γίνεται έλεγχος λεπτομερειών σύνδεσης…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4325"/>
         <source>Connection failed. &lt;a {attributes}&gt;Need help?&lt;/a&gt;</source>
         <comment>Custom cover proxy server: The connection failed with a link to the documentation for help</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία σύνδεσης. &lt;a {attributes}&gt;Χρειάζεστε βοήθεια;&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4333"/>
         <source>Success! Connection details saved.</source>
         <comment>Custom cover proxy server: The connection details were tested successfully and are now saved</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχής! Οι λεπτομέρειες σύνδεσης αποθηκεύτηκαν.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4374"/>
         <source>Maximum image size (in pixels)</source>
         <comment>Custom cover proxy server: The maximum size of uploaded cover images in pixels</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μέγιστο μέγεθος εικόνας (σε pixel)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4420"/>
         <source>Minimum required cache duration (in seconds)</source>
         <comment>Custom cover proxy server: The duration for which cover images are cached on the custom proxy server, in seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μέγιστη διάρκεια απαιτούμενης προσωρινής μνήμης (σε δευτερόλεπτα)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4461"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μπορείτε να τρέξετε τον δικό σας διακομιστή για την εμφάνιση εικόνων εξωφύλλων με υψηλότερη ποιότητα και για να είστε ανεξάρτητος/η από τον ενσωματωμένο διακομιστή. Για περισσότερες πληροφορίες, διαβάστε τα &lt;a {attributes}&gt;έγγραφα&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6700"/>
         <source>View</source>
         <comment>Metadata: Tab title for viewing an edit preset, e.g. a replacement or filter preset. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6847"/>
         <source>A replacement with this name already exists.</source>
         <comment>Metadata: Error message when choosing a name for a replacement edit that is already being used</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μία αντικατάσταση υπάρχει ήδη με αυτό το όνομα.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="6929"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογές</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7027"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αντικαταστάσεις</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7045"/>
         <source>New replacement</source>
         <comment>Metadata: Tab name for creating a new custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Νέα αντικατάσταση</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7056"/>
@@ -1590,7 +1590,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="7103"/>
         <source>Edit replacement</source>
         <comment>Metadata: Tab name for editing an existing custom replacement. Keep this text as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία αντικατάστασης</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7383"/>
@@ -1605,19 +1605,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Κάντε δεξί κλικ στο εικονίδιο γραμμής μενού για να αλλάξετε γρήγορα ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Κάντε δεξί κλικ στο εικονίδιο γραμμής δίσκου για να αλλάξετε γρήγορα ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πλούσια Παρουσία του Discord (Discord Rich Presence)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="46"/>
@@ -1629,31 +1629,31 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="48"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Δείξτε στους φίλους σας τι ακούτε με την εμφάνιση του τρέχοντος τραγουδιού σε αναπαραγωγή στο Discord προφίλ σας! Αυτό λειτουργεί με σχεδόν κάθε πρόγραμμα αναπαραγωγής.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="56"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατάσταση και τρέξιμο της &lt;a {discord_attributes}&gt;εφαρμογής Discord για υπολογιστές&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="65"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Βεβαιωθείτε πως η &lt;a {activity_sharing_attributes}&gt;Κοινοποίηση Δραστηριότητας&lt;/a&gt; είναι ενεργοποιημένη στις ρυθμίσεις λογαριασμού σας στο Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="74"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Παίξτε μουσική με το πρόγραμμα αναπαραγωγής σας. Πρέπει να χρησιμοποιήσετε την έκδοση εφαρμογής για υπολογιστές του προγράμματος αναπαραγωγής σας, αλλά &lt;a {browser_support_attributes}&gt;υποστήριξη για προγράμματα περιήγησης&lt;/a&gt; έρχεται σύντομα. Ανάλογα με το πρόγραμμα αναπαραγωγής σας, ενδεχομένως να χρειαστεί κάποιο &lt;a {plugin_attributes}&gt;πρόσθετο&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="89"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση στις {settings} για γενική διαμόρφωση</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="95"/>
@@ -1665,7 +1665,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="101"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση στην {appearance} για προσαρμογή της κατάστασής σας</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="107"/>
@@ -1677,7 +1677,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="113"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση στις {services} για διαμόρφωση της χρήσης των εξωτερικών υπηρεσιών</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="118"/>
@@ -1689,7 +1689,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="124"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επίσης, ρίξτε μια ματιά στην &lt;a {media_players_attributes}&gt;λίστα υποστηριζόμενων προγραμμάτων αναπαραγωγής&lt;/a&gt;, την &lt;a {help_attributes}&gt;σελίδα βοήθειας&lt;/a&gt; και πώς μπορείτε να &lt;a {add_support_attributes}&gt;υποστηρίξετε ένα άλλο πρόγραμμα αναπαραγωγής&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1698,43 +1698,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Χρειάζεστε βοήθεια;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επισκεφτείτε την &lt;a {help_attributes}&gt;σελίδα βοήθειας&lt;/a&gt; για λύσεις σε συχνά προβλήματα</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετέχετε στον Discord διακομιστή: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναφέρετε κάποιο πρόβλημα ή προτείνετε καινούργιες λειτουργίες &lt;a {issue_tracker_attributes}&gt;εδώ&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ρίξτε μια ματιά στην &lt;a {media_players_attributes}&gt;λίστα υποστηριζόμενων προγραμμάτων αναπαραγωγής&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ανακαλύψτε πώς μπορείτε να &lt;a {add_support_attributes}&gt;υποστηρίξετε ένα άλλο πρόγραμμα αναπαραγωγής&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Διαβάστε τα έγγραφα στο {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -1743,19 +1743,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ας αρχίσουμε</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μάθετε περισσότερα</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση λιγότερων</translation>
     </message>
 </context>
 <context>
@@ -1764,13 +1764,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="300"/>
         <source>Disable</source>
         <comment>Metadata: Disable a metadata pattern replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="301"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a metadata pattern replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση</translation>
     </message>
 </context>
 <context>
@@ -1779,13 +1779,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic replacements</source>
         <comment>Metadata: Basic metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Βασικές αντικαταστήσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="87"/>
         <source>Advanced replacements</source>
         <comment>Metadata: Advanced metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προηγμένες αντικαταστήσεις</translation>
     </message>
 </context>
 <context>
@@ -1794,43 +1794,43 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="23"/>
         <source>Custom replacements are currently only available for scrobbling. Your replacements are only applied after connecting an account.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Οι προσαρμοσμένες αντικαταστήσεις είναι διαθέσιμες μόνο για Scrobbling αυτή τη στιγμή. Οι αντικαταστάσεις σας εφαρμόζονται μόνο αφότου συνδέσετε έναν λογαριασμό.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Οι προσαρμοσμένες αντικαταστάσεις είναι διαθέσιμες μόνο για Scrobbling αυτή τη στιγμή και απαιτούν άδεια.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Οι προσαρμοσμένες αντικαταστήσεις είναι διαθέσιμες μόνο για Scrobbling αυτή τη στιγμή και η δωρεάν δοκιμή σας έχει τελειώσει. Αγοράστε μία άδεια για να συνεχίσετε να χρησιμοποιείτε αυτήν την λειτουργία.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Οι προσαρμοσμένες αντικαταστήσεις είναι διαθέσιμες μόνο για Scrobbling αυτή τη στιγμή και η άδειά σας έχει λήξει. Αγοράστε μία νέα άδεια για να συνεχίσετε να χρησιμοποιείτε αυτήν την λειτουργία.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
         <source>Custom replacements</source>
         <comment>Metadata: Section title for custom regular expression replacements created by the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένες αντικαταστήσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="160"/>
         <source>Create your first replacement</source>
         <comment>Metadata: Button text for creating the first regular expression replacement. No replacements exist when this text is shown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία της πρώτης αντικατάστασής σας</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="164"/>
         <source>Create another replacement</source>
         <comment>Metadata: Button text for creating another regular expression replacement. The user has already created some replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία άλλης αντικατάστασης</translation>
     </message>
 </context>
 <context>
@@ -1839,57 +1839,57 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="18"/>
         <source>{category} / {tab}</source>
         <comment>Link text for a link to a tab in a specific settings category. This e.g. looks like &quot;Edits / Presets&quot; for the &quot;Presets&quot; tab in the &quot;Edits&quot; settings category. You can usually just leave it this way, unless it&apos;s more natural to use a different character other than the slash character to separate the two. If you are translating to a right-to-left language, then you might want to consider switching the two placeholders</comment>
-        <translation type="unfinished"></translation>
+        <translation>{category} / {tab}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="40"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="42"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μεταδεδομένα</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="44"/>
         <source>Edit music metadata with custom regular expressions and useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία μεταδεδομένων μουσικής με προσαρμοσμένες κανονικές εκφράσεις και χρήσιμες προεπιλογές.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="51"/>
         <source>Go to {presets} to look at all available presets</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση σε {presets} για εμφάνιση όλων των διαθέσιμων προεπιλογών</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="56"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="73"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασίες</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="59"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προεπιλογές</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="67"/>
         <source>Go to {replacements} to edit metadata with regular expressions</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση σε {replacements} για επεξεργασία των μεταδεδομένων με κανονικές εκφράσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="76"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αντικαταστάσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="84"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Περισσότεροι τρόποι επεξεργασίας μεταδεδομένων έρχονται σύντομα, ελέγξτε τον &lt;a {roadmap_attributes}&gt;χάρτη μέλλοντος του έργου&lt;/a&gt; για λεπτομέρειες.</translation>
     </message>
 </context>
 <context>
@@ -1898,97 +1898,97 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="125"/>
         <source>Title</source>
         <comment>Metadata: Placeholder text for he title of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Τίτλος</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="129"/>
         <source>Artist</source>
         <comment>Metadata: Placeholder text for he artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Καλλιτέχνης</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="133"/>
         <source>Album</source>
         <comment>Metadata: Placeholder text for he album of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Άλμπουμ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="137"/>
         <source>Album artist</source>
         <comment>Metadata: Placeholder text for he album artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Καλλιτέχνης άλμπουμ</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="141"/>
         <source>Composer</source>
         <comment>Metadata: Placeholder text for he composer of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Συνθέτης</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="157"/>
         <source>Name</source>
         <comment>Metadata: Placeholder text of the input for a name of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="184"/>
         <source>Description</source>
         <comment>Metadata: Placeholder text of the input for a description of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="225"/>
         <source>Replacement type</source>
         <comment>Metadata: Section title for the type of a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Τύπος αντικατάστασης</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="265"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση χαρακτηριστικών μεταδεδομένων που ταιριάζουν σε όλα τα μοτίβα</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="275"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση και αντικατάσταση μερών των χαρακτηριστικών μεταδεδομένων</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="343"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αντικαταστεί χαρακτηριστικά μεταδεδομένων που ταιριάζουν σε όλα τα μοτίβα.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="351"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναζητεί και αντικαταστεί μέρη των χαρακτηριστικών μεταδεδομένων.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="400"/>
         <source>Match patterns</source>
         <comment>Metadata: Section title for regular expression match patterns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ταίριασμα μοτίβων</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="405"/>
         <source>Search patterns</source>
         <comment>Metadata: Section title for regular expression match patterns for the &quot;search and replace&quot; replacement type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση μοτίβων</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="500"/>
         <source>Replacements</source>
         <comment>Metadata: Section title for metadata attribute replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Αντικαταστάσεις</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="542"/>
         <source>Enter at least one search pattern to perform replacements.</source>
         <comment>Metadata: Informational text to inform the user that with the &quot;search and replace&quot; replacement type at least one match pattern has to be entered to perform replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή τουλάχιστον ενός μοτίβου αναζήτησης για την εκτέλεση αντικαταστάσεων.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="874"/>
