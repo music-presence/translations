@@ -1071,7 +1071,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1407"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>打开设置时展示欢迎页面</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1618"/>
@@ -1476,104 +1476,104 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2935"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>链接</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2715"/>
         <location filename="../src/app/settings/window.cpp" line="2930"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>点击标题打开曲目页面</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2719"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>点击艺术家打开艺术家页面</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>点击专辑打开专辑页面</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2728"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>这仅适用于流媒体服务中的歌曲，并且仅当在 {services_panel} 下启用相应的音乐 API 时才适用。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2755"/>
         <source>Show a custom button</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示自定义按钮</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2758"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>自定义按钮 URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2768"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
-        <translation type="unfinished"></translation>
+        <translation>自定义文本</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2824"/>
         <source>Invalid URL</source>
         <comment>The entered URL is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>无效URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2896"/>
         <source>Show a button that links to the song</source>
         <comment>whether to show the &quot;Listen to this song&quot; button in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示一个链接到歌曲的按钮</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2903"/>
         <source>Display the song link button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>将歌曲链接按钮显示为“{play_on_player}”</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2912"/>
         <source>Show the &quot;{branding_text}&quot; button</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>显示“{branding_text}”按钮</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2918"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>歌曲链接按钮仅在流媒体服务中显示，且仅当在 {services_panel} 中启用了相应的音乐 API 时才会显示。如果 {section_name} 下的“{setting_name}”被禁用，则始终显示该按钮，以符合音乐 API 条款。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3974"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>音乐 API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4007"/>
         <source>&lt;p&gt;To use the Spotify API, Spotify Premium is required. Create a Spotify application in the &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, then scroll down to {section_name} and enter the application credentials.&lt;/p&gt;&lt;p&gt;For more information, &lt;a {documentation_attributes}&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;</source>
         <comment>music API configuration: Pop-up text for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;要使用 Spotify API，需要 Spotify Premium 会员。请在&lt;a {spotify_attributes}&gt;Spotify 开发者控制面板&lt;/a&gt;中创建一个 Spotify 应用，然后向下滚动到 {section_name} 并输入应用凭据。&lt;/p&gt;&lt;p&gt;更多信息，请&lt;a {documentation_attributes}&gt;阅读文档&lt;/a&gt;。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4024"/>
         <source>Credentials required</source>
         <comment>music API configuration: Pop-up title for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>需要凭据</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4192"/>
         <source>{size}x{size}</source>
         <comment>music API configuration: text for an image size, e.g. 100x100 pixels or 800x800 pixels. The &quot;size&quot; is always a number</comment>
-        <translation type="unfinished"></translation>
+        <translation>{size}x{size}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
@@ -1585,19 +1585,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4206"/>
         <source>Maximum</source>
         <comment>music API configuration: option for the selection of cover image sizes. this selects the maximum available cover image size</comment>
-        <translation type="unfinished"></translation>
+        <translation>最大</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4237"/>
         <source>Album cover size</source>
         <comment>music API configuration setting: selection for the size of album cover images to use from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>专辑封面大小</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4242"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>选择封面图片尺寸仅影响从音乐 API 获取的封面图片。媒体播放器本地显示的封面图片目前仅限一种尺寸。</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4439"/>
@@ -1932,7 +1932,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic filters</source>
         <comment>Metadata: Basic metadata filter presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>基本筛选器</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="79"/>
@@ -2048,7 +2048,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation type="unfinished"></translation>
+        <translation>使用实用预设编辑音乐元数据。</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
@@ -2337,7 +2337,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementLineEdit.hpp" line="23"/>
         <source>Replace with empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, should be replaced with empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>替换为空白文本</translation>
     </message>
 </context>
 <context>
@@ -2346,25 +2346,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="27"/>
         <source>Match empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, must match empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>匹配空白文本</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="36"/>
         <source>Match case-sensitively</source>
         <comment>Metadata: Text must match case-sensitively</comment>
-        <translation type="unfinished"></translation>
+        <translation>区分大小写</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="44"/>
         <source>Match only the first occurrence</source>
         <comment>Metadata: Only the first instance of the regular expression pattern should be matched</comment>
-        <translation type="unfinished"></translation>
+        <translation>仅匹配第一次出现</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="53"/>
         <source>Regular expression</source>
         <comment>Metadata: Informational text that informs the user that the input is interpreted as a regular expression</comment>
-        <translation type="unfinished"></translation>
+        <translation>正则表达式</translation>
     </message>
 </context>
 <context>
