@@ -1038,7 +1038,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1407"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar página de boas-vindas quando abrir as definições</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1437"/>
@@ -1833,128 +1833,128 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2935"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ligações</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2715"/>
         <location filename="../src/app/settings/window.cpp" line="2930"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clicando no título abre a página da faixa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2719"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clicando no artista abre a página do artista</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clicando no álbum abre a página do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2728"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isto apenas se aplica a músicas de serviços de streaming, e apenas se a respetiva API de música for ativada em {services_panel}.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2755"/>
         <source>Show a custom button</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar um botão personalizado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2758"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL de botão personalizada</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2768"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto personalizado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2824"/>
         <source>Invalid URL</source>
         <comment>The entered URL is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL invalida</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2896"/>
         <source>Show a button that links to the song</source>
         <comment>whether to show the &quot;Listen to this song&quot; button in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar um botão que vai para a música</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2903"/>
         <source>Display the song link button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar o botão de ligação da música como &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2912"/>
         <source>Show the &quot;{branding_text}&quot; button</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar o botão &quot;{branding_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2918"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>O botão de ligação da música é apenas mostrado para serviços de streaming e apenas, se a respetiva API de música for ativada em {services_panel}. É sempre mostrado, se &quot;{setting_name}&quot; em {section_name} estiver desativado, para cumprir com os termos da API de música.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3974"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>APIs de música</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4007"/>
         <source>&lt;p&gt;To use the Spotify API, Spotify Premium is required. Create a Spotify application in the &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, then scroll down to {section_name} and enter the application credentials.&lt;/p&gt;&lt;p&gt;For more information, &lt;a {documentation_attributes}&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;</source>
         <comment>music API configuration: Pop-up text for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Para usar a API do Spotify, o Spotify Premium é necessário. Cria uma aplicação no &lt;a {spotify_attributes}&gt;Painel de Desenvolvedor do Spotify&lt;/a&gt;, depois desce até {section_name} e coloca as credenciais da aplicação.&lt;/p&gt;&lt;p&gt;Para mais informação, &lt;a {documentation_attributes}&gt;lê a documentação&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4024"/>
         <source>Credentials required</source>
         <comment>music API configuration: Pop-up title for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>Credenciais necessárias</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4192"/>
         <source>{size}x{size}</source>
         <comment>music API configuration: text for an image size, e.g. 100x100 pixels or 800x800 pixels. The &quot;size&quot; is always a number</comment>
-        <translation type="unfinished"></translation>
+        <translation>{size}x{size}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Automatic</source>
         <comment>music API configuration: option for the selection of cover image sizes. the optimal cover image size is determined automatically</comment>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4206"/>
         <source>Maximum</source>
         <comment>music API configuration: option for the selection of cover image sizes. this selects the maximum available cover image size</comment>
-        <translation type="unfinished"></translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4237"/>
         <source>Album cover size</source>
         <comment>music API configuration setting: selection for the size of album cover images to use from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da capa do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4242"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecionar o tamanho de uma imagem de capa apenas afeta capas obtidas de APIs de música. Imagens de capa locais de reprodutores média está atualmente limitado a um unico tamanho.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4439"/>
@@ -2289,7 +2289,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic filters</source>
         <comment>Metadata: Basic metadata filter presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filtros básicos</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="79"/>
@@ -2405,7 +2405,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editar metadatos de música com predefinições úteis.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
@@ -2694,7 +2694,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementLineEdit.hpp" line="23"/>
         <source>Replace with empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, should be replaced with empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Substituir com texto vazio</translation>
     </message>
 </context>
 <context>
@@ -2703,25 +2703,25 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="27"/>
         <source>Match empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, must match empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder texto vazio</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="36"/>
         <source>Match case-sensitively</source>
         <comment>Metadata: Text must match case-sensitively</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder entre maiúsculas e minúsculas</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="44"/>
         <source>Match only the first occurrence</source>
         <comment>Metadata: Only the first instance of the regular expression pattern should be matched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder apenas à primeira ocorrência</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="53"/>
         <source>Regular expression</source>
         <comment>Metadata: Informational text that informs the user that the input is interpreted as a regular expression</comment>
-        <translation type="unfinished"></translation>
+        <translation>Expressão regular</translation>
     </message>
 </context>
 <context>
@@ -3951,19 +3951,19 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="24"/>
         <source>Are you sure?</source>
         <comment>Confirmation text for a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">Tens a certeza?</translation>
+        <translation>Tens a certeza?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="26"/>
         <source>Yes</source>
         <comment>Button text to confirm a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">Sim</translation>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="28"/>
         <source>No</source>
         <comment>Button text to deny a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">Não</translation>
+        <translation>Não</translation>
     </message>
 </context>
 <context>
