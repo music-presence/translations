@@ -1390,7 +1390,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1407"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать страницу знакомства при открытии настроек</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1618"/>
@@ -1795,74 +1795,74 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2935"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ссылки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2715"/>
         <location filename="../src/app/settings/window.cpp" line="2930"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Клик по названию открывает страницу трека</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2719"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Клик по исполнителю открывает страницу исполнителя</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Клик по альбому открывает страницу альбома</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2728"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Это применяется только к песням в стриминговых сервисах и только тогда, когда соответствующий Music API включен в разделе {services_panel}.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2755"/>
         <source>Show a custom button</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать кастомную кнопку</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2758"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL кастомной кнопки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2768"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Кастомный текст</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2824"/>
         <source>Invalid URL</source>
         <comment>The entered URL is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Неверный URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2896"/>
         <source>Show a button that links to the song</source>
         <comment>whether to show the &quot;Listen to this song&quot; button in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать кнопку, которая пересылает на песню</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2903"/>
         <source>Display the song link button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Отображать кнопку ссылки песни как &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2912"/>
         <source>Show the &quot;{branding_text}&quot; button</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Показывать кнопку &quot;{branding_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2918"/>
