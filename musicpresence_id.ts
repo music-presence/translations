@@ -1410,7 +1410,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="1407"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan halaman selamat datang ketika membuka pengaturan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1618"/>
@@ -1815,74 +1815,74 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="2935"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tautan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2715"/>
         <location filename="../src/app/settings/window.cpp" line="2930"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik judul untuk membuka halaman trek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2719"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik artis untuk membuka halaman artis</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klik album untuk membuka halaman album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2728"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ini hanya diterapkan untuk lagu dari layanan streaming, dan hanya jika API musik terkait diaktifkan di bawah {services_panel}.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2755"/>
         <source>Show a custom button</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan tombol kustom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2758"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL tombol kustom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2768"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Teks kustom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2824"/>
         <source>Invalid URL</source>
         <comment>The entered URL is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL tidak valid</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2896"/>
         <source>Show a button that links to the song</source>
         <comment>whether to show the &quot;Listen to this song&quot; button in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan tombol tautan lagu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2903"/>
         <source>Display the song link button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan tombol tautan lagu sebagai &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2912"/>
         <source>Show the &quot;{branding_text}&quot; button</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan tombol &quot;{branding_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2918"/>
