@@ -1868,55 +1868,55 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2918"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка ссылки на песню отображается только для стриминговых сервисов и только тогда, когда соответствующий Music API включен в разделе {services_panel}. Она всегда отображается, если &quot;{setting_name}&quot; в {section_name} выключен, чтобы соответствовать условиям Music API.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3974"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Music API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4007"/>
         <source>&lt;p&gt;To use the Spotify API, Spotify Premium is required. Create a Spotify application in the &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, then scroll down to {section_name} and enter the application credentials.&lt;/p&gt;&lt;p&gt;For more information, &lt;a {documentation_attributes}&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;</source>
         <comment>music API configuration: Pop-up text for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Чтобы использовать Spotify API, необходимо иметь Spotify Premium. Создайте приложение Spotify в&lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, затем прокрутите вниз в {section_name} и введите данные приложения.&lt;/p&gt;&lt;p&gt;Чтобы узнать подробнее, &lt;a {documentation_attributes}&gt;прочитайте документацию&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4024"/>
         <source>Credentials required</source>
         <comment>music API configuration: Pop-up title for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>Необходимо ввести данные</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4192"/>
         <source>{size}x{size}</source>
         <comment>music API configuration: text for an image size, e.g. 100x100 pixels or 800x800 pixels. The &quot;size&quot; is always a number</comment>
-        <translation type="unfinished"></translation>
+        <translation>{size}x{size}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4199"/>
         <source>Automatic</source>
         <comment>music API configuration: option for the selection of cover image sizes. the optimal cover image size is determined automatically</comment>
-        <translation type="unfinished">Автоматически</translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4206"/>
         <source>Maximum</source>
         <comment>music API configuration: option for the selection of cover image sizes. this selects the maximum available cover image size</comment>
-        <translation type="unfinished"></translation>
+        <translation>Максимум</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4237"/>
         <source>Album cover size</source>
         <comment>music API configuration setting: selection for the size of album cover images to use from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Размер обложки альбома</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4242"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выбор размера изображения обложки затрагивает только обложки, полученные от Music API. Локальные изображения обложек от медиа-проигрывателей на данный момент ограничены только одним размером.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4439"/>
@@ -2251,7 +2251,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic filters</source>
         <comment>Metadata: Basic metadata filter presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Базовые фильтры</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="79"/>
@@ -2367,7 +2367,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Редактируйте метаданные музыки с помощью полезных заготовок.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
@@ -2656,7 +2656,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementLineEdit.hpp" line="23"/>
         <source>Replace with empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, should be replaced with empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Заменять пустым текстом</translation>
     </message>
 </context>
 <context>
@@ -2665,7 +2665,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="27"/>
         <source>Match empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, must match empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сравнивать пустой текст</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="36"/>
