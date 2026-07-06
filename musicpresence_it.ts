@@ -1791,7 +1791,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
     <message>
         <location filename="../src/app/settings/window.cpp" line="4121"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Inviare il tuo codice Paese è necessario per trovare alcuni brani che sono disponibili solo in alcune nazioni e può migliorare i risultati della ricerca. Il tuo codice Paese è rimosso da ogni link prima che essi vengano mostrati nella tua attività di Discord.</translation>
+        <translation>Inviare il tuo codice Paese è necessario per trovare alcuni brani che sono disponibili solo in alcune nazioni e può migliorare i risultati della ricerca. Il tuo codice Paese viene rimosso dai link prima che vengano mostrati nella tua attività di Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4147"/>
@@ -3259,7 +3259,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="210"/>
         <source>Tracks are scrobbled at the first threshold, whichever is reached earlier.</source>
         <comment>Scrobbling: Description for the &quot;Minimum required playback time&quot; setting</comment>
-        <translation>Lo scrobble dei brani viene effettuato secondo quale prima soglia viene raggiunta.</translation>
+        <translation>Lo scrobble dei brani viene effettuato al raggiungimento della prima soglia.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="223"/>
@@ -3397,7 +3397,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="639"/>
         <source>Error tolerance (in seconds)</source>
         <comment>Scrobbling: The allowed error (in seconds) when tracking playback times for scrobbling</comment>
-        <translation>Tolleranza d&apos;errore (espresso in secondi)</translation>
+        <translation>Tolleranza d&apos;errore (espressa in secondi)</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="676"/>
