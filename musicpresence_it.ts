@@ -2974,7 +2974,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="305"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
-        <translation>raccomandate</translation>
+        <translation>consigliato</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="300"/>
