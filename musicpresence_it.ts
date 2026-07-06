@@ -2980,7 +2980,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="300"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation>Effettua lo scrobble esclusivamente dell&apos;artista principale</translation>
+        <translation>Effettua lo scrobble solo dell&apos;artista principale</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="342"/>
@@ -3961,7 +3961,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="142"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation>Effettua lo scrobble soltanto dell&apos;artista principale</translation>
+        <translation>Effettua lo scrobble solo dell&apos;artista principale</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="162"/>
@@ -3985,7 +3985,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="187"/>
         <source>Scrobble only the primary album artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main album artist</comment>
-        <translation>Effettua lo scrobble soltanto dell&apos;artista principale dell&apos;album</translation>
+        <translation>Effettua lo scrobble solo dell&apos;artista principale dell&apos;album</translation>
     </message>
 </context>
 <context>
