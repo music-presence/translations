@@ -1844,7 +1844,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Donate</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Wesprzyj</translation>
+        <translation>Wesprzyj</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2720"/>
@@ -2226,95 +2226,95 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wesprzyj projekt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} jest stworzone przez pojedynczego dewelopera i polega na donacjach od użytkowników takich jak Ty do otrzymania regularnych aktualizacji. Donacje również umożliwiają na spędzanie czasu nad nowymi funkcjami jak &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; czy &lt;a {listening_along_attributes}&gt;Wspólne słuchanie&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opcje wsparcia</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation>{github_sponsors}: Tylko karta</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez prowizji</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}: Akceptuje cyfrowe portfele</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>5% prowizji</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation>{ko_fi}: Akceptuje PayPal i lokalne formy płatności</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}: Tylko wsparcie comiesięczne</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>8% prowizji</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>Żeby zobaczyć listę ostatnich donacji, aktualnych sponsorów i odpowiedzi na najczęściej zadawane pytania, odwiedź stronę: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
         <source>How your donation helps</source>
         <comment>donation settings panel: title of the section that explains how the donation helps the project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jak Twoje wsparcie pomaga</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wspierając, aktywnie fundujesz tworzenie nowych funkcji:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Scrobblowanie&lt;/a&gt;: Niezawodne i posiadające wiele funkcji scrobblowanie do {lastfm} i innych serwisów jest prawie gotowe do opublikowania i będzie wydane w wersji {version}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Wsparcie przeglądarki&lt;/a&gt;: Wsparcie z róznymi stronami i platformami do odtwarzania muzyki. Działa za pomocą rozszerzenia {media_control}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Wspólne słuchanie&lt;/a&gt;: Słuchaj muzyki wspólnie z Twoimi znajomymi, pomiędzy serwisami streamingowymi i pomiędzy różnymi odtwarzaczami</translation>
     </message>
 </context>
 <context>
@@ -4071,13 +4071,13 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="63"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobblowanie</translation>
+        <translation>Scrobblowanie</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Scrobblowanie jest procesem zachowywania historii Twojego odtwarzania na platformie jak {lastfm_brand}. Jest przydatne do statystyk, rekomendacji muzyki i porównywania Twojego gustu muzycznego z innymi osobami.</translation>
+        <translation>Scrobblowanie jest procesem zachowywania historii Twojego odtwarzania na platformie jak {lastfm_brand}. Jest przydatne do statystyk, rekomendacji muzyki i porównywania Twojego gustu muzycznego z innymi osobami.</translation>
     </message>
 </context>
 <context>
