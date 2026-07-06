@@ -1832,7 +1832,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Donate</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Doar</translation>
+        <translation>Doar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2720"/>
@@ -2214,65 +2214,65 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apoiar o projeto</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} é feito por um único desenvolvedor e depende de doações de utilizadores como tu para receber atualizações contínuas. Doações também fazem possivel que o tempo gasto trabalhando em novas funcionalidades com &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; e &lt;a {listening_along_attributes}&gt;Ouvir em conjunto&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opções de doação</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{github_sponsors}: Apenas em cartão de crédito</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>sen taxas</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}: Aceita carteiras digitais</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>taxa de 5%</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation>{ko_fi}: Aceita PayPal e metodos de pagamento locais</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}: Apenas doações mensais</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de 8%</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para uma lista de doações recentes, patrocinadores atuais e respostas ás perguntas frequentemente perguntadas, visita o website: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
