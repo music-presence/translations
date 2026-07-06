@@ -1252,7 +1252,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="332"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation>Importa la tua licenza di scrobble</translation>
+        <translation>Importa la tua licenza di scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="335"/>
@@ -1270,7 +1270,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="691"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobble</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="688"/>
@@ -2215,7 +2215,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation>{app_name} è sviluppata da un solo sviluppatore e si affida alle donazioni di utenti come te per ricevere aggiornamenti continui. Le donazioni permettono inoltre di dedicare tempo allo sviluppo di nuove funzionalità come lo &lt;a {scrobbling_attributes}&gt;Scrobble&lt;/a&gt; e l’&lt;a {listening_along_attributes}&gt;Ascolto condiviso&lt;/a&gt;.</translation>
+        <translation>{app_name} è sviluppata da un solo sviluppatore e si affida alle donazioni di utenti come te per ricevere aggiornamenti continui. Le donazioni permettono inoltre di dedicare tempo allo sviluppo di nuove funzionalità come lo &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; e l’&lt;a {listening_along_attributes}&gt;Ascolto condiviso&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
@@ -2227,7 +2227,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation>{github_sponsors}: solo Carta di credito</translation>
+        <translation>{github_sponsors}: Solo carta di credito</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
@@ -2285,7 +2285,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation>&lt;a {scrobbling_attributes}&gt;Scrobble&lt;/a&gt;: lo scrobble affidabile e ricco di funzionalità su {lastfm} e altri servizi è quasi pronto per la pubblicazione e verrà rilasciato nella versione {version}</translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: lo scrobbling affidabile e ricco di funzionalità su {lastfm} e altri servizi è quasi pronto per la pubblicazione e verrà rilasciato nella versione {version}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
@@ -2408,25 +2408,25 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="23"/>
         <source>Custom replacements are currently only available for scrobbling. Your replacements are only applied after connecting an account.</source>
         <comment>TODO</comment>
-        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble. Le tue sostituzioni sono applicate solo dopo aver collegato un account.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobbling. Le tue sostituzioni sono applicate solo dopo aver collegato un account.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble e richiedono una licenza.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobbling e richiedono una licenza.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble e il tuo periodo di prova gratuito è terminato. Acquista una licenza per continuare ad utilizzare questa funzione.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobbling e il tuo periodo di prova gratuito è terminato. Acquista una licenza per continuare ad utilizzare questa funzione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble e la tua licenza è scaduta. Acquista una nuova licenza per continuare ad utilizzare questa funzione.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobbling e la tua licenza è scaduta. Acquista una nuova licenza per continuare ad utilizzare questa funzione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
@@ -2889,7 +2889,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="177"/>
         <source>Go to {players} to enable the media players you want to scrobble.</source>
         <comment>Scrobbling: Second step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Vai su {players} per abilitare i lettori multimediali su cui vuoi effettuare lo scrobble.</translation>
+        <translation>Vai su {players} per abilitare i lettori multimediali su cui vuoi effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="184"/>
@@ -2901,7 +2901,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="192"/>
         <source>Go to {configuration} to configure when a track is scrobbled.</source>
         <comment>Scrobbling: Third step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Vai su {configuration} per configurare quando un brano viene registrato per lo scrobble.</translation>
+        <translation>Vai su {configuration} per configurare quando un brano viene registrato per lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="199"/>
@@ -2924,7 +2924,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="207"/>
         <source>Go to {artists} to control how artists are scrobbled.</source>
         <comment>Scrobbling: Fourth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Vai su {artists} per controllare come gli artisti sono soggetti a scrobble.</translation>
+        <translation>Vai su {artists} per controllare come gli artisti sono soggetti allo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="213"/>
@@ -2937,7 +2937,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="221"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways.</source>
         <comment>Scrobbling: Fifth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Vai su {edits} per modificare i metadati della musica soggetta a scrobble in svariati modi.</translation>
+        <translation>Vai su {edits} per modificare i metadati della musica soggetta allo scrobbling in svariati modi.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="228"/>
@@ -2961,13 +2961,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="273"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation>Scrobble dell&apos;artista</translation>
+        <translation>Scrobbling dell&apos;artista</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation>Effettua lo scrobble di tutti gli artisti</translation>
+        <translation>Effettua lo scrobbling di tutti gli artisti</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="295"/>
@@ -2980,13 +2980,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="300"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation>Effettua lo scrobble solo dell&apos;artista principale</translation>
+        <translation>Effettua lo scrobbling solo dell&apos;artista principale</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="342"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation>Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare scrobble di molteplici artisti.</translation>
+        <translation>Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare lo scrobbling di molteplici artisti.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="362"/>
@@ -3013,7 +3013,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="62"/>
         <source>A new license is required to continue scrobbling.</source>
         <comment>Scrobbling: Informative message that a new license has to be bought to use scrobbling features after a limited time license has expired</comment>
-        <translation>Una nuova licenza è richiesta per continuare ad effettuare gli scrobble.</translation>
+        <translation>Una nuova licenza è richiesta per continuare ad effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="70"/>
@@ -3025,7 +3025,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="73"/>
         <source>A license is required to continue scrobbling.</source>
         <comment>Scrobbling: Informative message that a license has to be bought to use scrobbling features after the free trial</comment>
-        <translation>Una licenza è richiesta per continuare ad effettuare gli scrobble.</translation>
+        <translation>Una licenza è richiesta per continuare ad effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="104"/>
@@ -3046,13 +3046,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="60"/>
         <source>Start your &lt;span {attributes}&gt;{duration}-day free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period</comment>
-        <translation>Inizia il tuo &lt;span {attributes}&gt;periodo di prova gratuito di {duration} giorni&lt;/span&gt; per provare tutte le funzioni di scrobble. Dopo il periodo di prova, è richiesta una licenza per continuare ad effettuare gli scrobble.</translation>
+        <translation>Inizia il tuo &lt;span {attributes}&gt;periodo di prova gratuito di {duration} giorni&lt;/span&gt; per provare tutte le funzioni dello scrobbling. Dopo il periodo di prova, è richiesta una licenza per continuare ad effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="72"/>
         <source>Start your &lt;span {attributes}&gt;free trial&lt;/span&gt; to evaluate all scrobbling features. After the evaluation period, a license is required to continue scrobbling.</source>
         <comment>Scrobbling: Text to inform the user that they are about to start their scrobbling free trial period. Alternative text in case the free trial period can&apos;t be loaded from the server</comment>
-        <translation>Inizia il tuo &lt;span {attributes}&gt;periodo di prova gratuito&lt;/span&gt; per provare tutte le funzioni di scrobble. Dopo il periodo di prova, è richiesta una licenza per continuare ad effettuare gli scrobble.</translation>
+        <translation>Inizia il tuo &lt;span {attributes}&gt;periodo di prova gratuito&lt;/span&gt; per provare tutte le funzioni dello scrobbling. Dopo il periodo di prova, è richiesta una licenza per continuare ad effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="94"/>
@@ -3338,7 +3338,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="117"/>
         <source>Configure when and how tracks you listen to are scrobbled.</source>
         <comment>Scrobbling: Description for the general scrobbling configuration</comment>
-        <translation>Configura quando e come viene effettuato lo scrobble di un brano che ascolti.</translation>
+        <translation>Configura quando e come viene effettuato lo scrobbling di un brano che ascolti.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="127"/>
@@ -3362,7 +3362,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="210"/>
         <source>Tracks are scrobbled at the first threshold, whichever is reached earlier.</source>
         <comment>Scrobbling: Description for the &quot;Minimum required playback time&quot; setting</comment>
-        <translation>Lo scrobble dei brani viene effettuato al raggiungimento della prima soglia.</translation>
+        <translation>Lo scrobbling dei brani viene effettuato al raggiungimento della prima soglia.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="223"/>
@@ -3374,13 +3374,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="263"/>
         <source>Tracks with a shorter duration will not be scrobbled.</source>
         <comment>Scrobbling: Description for the &quot;Minimum track duration&quot; setting</comment>
-        <translation>I brani con una durata più corta non saranno soggetti a scrobble.</translation>
+        <translation>I brani con una durata più corta non saranno soggetti allo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="273"/>
         <source>When to scrobble</source>
         <comment>Scrobbling: When the track should be scrobbled. You can also translate this as &quot;Scrobble time point&quot;, if translating &quot;When to scrobble&quot; is cumbersome</comment>
-        <translation>Quando effettuare lo scrobble</translation>
+        <translation>Quando effettuare lo scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="285"/>
@@ -3422,19 +3422,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="389"/>
         <source>Some media players do not report the track duration. In those cases the above thresholds are ignored and the following settings apply instead. Tracks with an unknown duration are always scrobbled at the end of their playback or after being rewinded to the beginning.</source>
         <comment>Scrobbling: Description for the &quot;When the track duration is unknown&quot; settings</comment>
-        <translation>Alcuni lettori multimediali non riportano la durata del brano. In quei casi, le sovrastanti soglie sono ignorate e le seguenti impostazioni vengono invece applicate. I brani con una durata sconosciuta sono sempre soggetti a scrobble alla fine della loro riproduzione o dopo essere stati riavvolti all&apos;inizio.</translation>
+        <translation>Alcuni lettori multimediali non riportano la durata del brano. In quei casi, le sovrastanti soglie sono ignorate e le seguenti impostazioni vengono invece applicate. I brani con una durata sconosciuta sono sempre soggetti allo scrobbling alla fine della loro riproduzione o dopo essere stati riavvolti all&apos;inizio.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="409"/>
         <source>Allow multiple scrobbles</source>
         <comment>Scrobbling: Whether to allow multiple scrobbles, when the track duration is unknown</comment>
-        <translation>Consenti molteplici scrobble</translation>
+        <translation>Consenti molteplici scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="429"/>
         <source>Whether to allow a track with an unknown duration to be scrobbled again when being rewinded to the beginning or when being played on repeat. Note that rewinding early in the track can lead to a scrobble then.</source>
         <comment>Scrobbling: Description for the &quot;Allow multiple scrobbles&quot; setting for when the track duration is unknown</comment>
-        <translation>Il permesso di esecuzione dello scrobble di una traccia con durata sconosciuta quando si riavvolge all&apos;inizio o quando si riproduce in ripetizione. Nota bene che un riavvolgimento all&apos;inizio della traccia, anche se eseguito molto presto, può generare uno scrobble.</translation>
+        <translation>Il permesso di esecuzione dello scrobbling di una traccia con durata sconosciuta quando si riavvolge all&apos;inizio o quando si riproduce in ripetizione. Nota bene che un riavvolgimento all&apos;inizio della traccia, anche se eseguito molto presto, può generare uno scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="441"/>
@@ -3482,7 +3482,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="571"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation>L&apos;opzione &quot;Rigido&quot; previene che venga effettuato prematuramente uno scrobble su un brano, ad esempio quando viene riavvolto o quando una sua sezione viene riprodotta nuovamente.</translation>
+        <translation>L&apos;opzione &quot;Rigido&quot; previene che venga effettuato prematuramente uno scrobbling su un brano, ad esempio quando viene riavvolto o quando una sua sezione viene riprodotta nuovamente.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="585"/>
@@ -3494,7 +3494,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="625"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation>Quando un brano viene riavvolto, dev&apos;essere riavvolto di almeno questo quantitativo per far sì che venga effettuato lo scrobble. Nota bene che un brano deve sempre essere riavvolto almeno della minima durata della riproduzione.</translation>
+        <translation>Quando un brano viene riavvolto, dev&apos;essere riavvolto di almeno questo quantitativo per far sì che venga effettuato lo scrobbling. Nota bene che un brano deve sempre essere riavvolto almeno della minima durata della riproduzione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="639"/>
@@ -3506,7 +3506,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="676"/>
         <source>This value leaves some room for error during tracking. Increasing it can help e.g., when a slider above is at 100% and tracks are occassionally not being scrobbled. You should generally not need to increase this value.</source>
         <comment>Scrobbling: Explanation for the error tolerance configuration option</comment>
-        <translation>Questo parametro lascia del margine d’errore durante lo scrobble. Incrementarlo potrebbe aiutare, ad esempio, quando il cursore di una barra sovrastante è al 100% e occasionalmente non viene effettuato lo scrobble per i brani. Non è necessario, generalmente, incrementare questo parametro.</translation>
+        <translation>Questo parametro lascia del margine d’errore durante lo scrobbling. Incrementarlo potrebbe aiutare, ad esempio, quando il cursore di una barra sovrastante è al 100% e occasionalmente non viene effettuato lo scrobbling per i brani. Non è necessario, generalmente, incrementare questo parametro.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="743"/>
@@ -3551,7 +3551,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="73"/>
         <source>Connect an account first before configuring scrobbling.</source>
         <comment>Scrobbling: Pop-up message that no account is connected yet</comment>
-        <translation>Collega un account per configurare lo scrobble.</translation>
+        <translation>Collega un account per configurare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="78"/>
@@ -3563,19 +3563,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="91"/>
         <source>A valid license is required to scrobble.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use scrobbling features</comment>
-        <translation>È richiesta una licenza valida per effettuare lo scrobble.</translation>
+        <translation>È richiesta una licenza valida per effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="95"/>
         <source>Your free trial has ended. Buy a license to continue scrobbling.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use scrobbling features after the free trial</comment>
-        <translation>Il tuo periodo di prova gratuito è terminato. Acquista una licenza per continuare ad effettuare gli scrobble.</translation>
+        <translation>Il tuo periodo di prova gratuito è terminato. Acquista una licenza per continuare ad effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="100"/>
         <source>Your license has expired. Buy a new license to continue scrobbling.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use scrobbling features after a limited time license has expired</comment>
-        <translation>La tua licenza è scaduta. Acquista una nuova licenza per continuare ad effettuare gli scrobble.</translation>
+        <translation>La tua licenza è scaduta. Acquista una nuova licenza per continuare ad effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="116"/>
@@ -3596,19 +3596,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation>Scrobble</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="21"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobble</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="24"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation>Lo scrobble è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali affinità musicali con altre persone.</translation>
+        <translation>Lo scrobbling è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali affinità musicali con altre persone.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="34"/>
@@ -3626,7 +3626,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="47"/>
         <source>Go to {players} to enable the media players you want to scrobble</source>
         <comment>Scrobbling: Second step of the scrobbling instructions</comment>
-        <translation>Vai su {players} per abilitare i lettori multimediali su cui vuoi effettuare lo scrobble</translation>
+        <translation>Vai su {players} per abilitare i lettori multimediali su cui vuoi effettuare lo scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="53"/>
@@ -3638,7 +3638,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="60"/>
         <source>Go to {configuration} to configure when a track is scrobbled</source>
         <comment>Scrobbling: Third step of the scrobbling instructions</comment>
-        <translation>Vai su {configuration} per configurare quando un brano viene registrato per lo scrobble</translation>
+        <translation>Vai su {configuration} per configurare quando un brano viene registrato per lo scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="66"/>
@@ -3650,7 +3650,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="74"/>
         <source>Go to {artists} to control how artists are scrobbled</source>
         <comment>Scrobbling: Fourth step of the scrobbling instructions</comment>
-        <translation>Vai su {artists} per controllare come gli artisti sono soggetti a scrobble</translation>
+        <translation>Vai su {artists} per controllare come gli artisti sono soggetti allo scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="79"/>
@@ -3662,7 +3662,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="86"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation>Vai su {edits} per modificare i metadati della musica soggetta a scrobble in svariati modi</translation>
+        <translation>Vai su {edits} per modificare i metadati della musica soggetta allo scrobbling in svariati modi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="92"/>
@@ -3769,7 +3769,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="249"/>
         <source>Scrobbling requires a valid license or an active free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation>È richiesta una licenza valida o un periodo di prova gratuito attivo per effettuare lo scrobble.</translation>
+        <translation>È richiesta una licenza valida o un periodo di prova gratuito attivo per effettuare lo scrobbling.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="256"/>
@@ -3943,7 +3943,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="114"/>
         <source>Control whether you want to scrobble all artists or only the primary artist. Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobbled artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled</comment>
-        <translation>Controlla se effettuare lo scrobble di tutti gli artisti o solo di quello principale. Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare scrobble di molteplici artisti.</translation>
+        <translation>Controlla se effettuare lo scrobbling di tutti gli artisti o solo di quello principale. Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare lo scrobbling di molteplici artisti.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="127"/>
@@ -3955,13 +3955,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="138"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation>Effettua lo scrobble di tutti gli artisti</translation>
+        <translation>Effettua lo scrobbling di tutti gli artisti</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="142"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation>Effettua lo scrobble solo dell&apos;artista principale</translation>
+        <translation>Effettua lo scrobbling solo dell&apos;artista principale</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="162"/>
@@ -3979,13 +3979,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="180"/>
         <source>Scrobble all album artists</source>
         <comment>Scrobbling: Option to scrobble all album artists</comment>
-        <translation>Effettua lo scrobble di tutti gli artisti dell&apos;album</translation>
+        <translation>Effettua lo scrobbling di tutti gli artisti dell&apos;album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="187"/>
         <source>Scrobble only the primary album artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main album artist</comment>
-        <translation>Effettua lo scrobble solo dell&apos;artista principale dell&apos;album</translation>
+        <translation>Effettua lo scrobbling solo dell&apos;artista principale dell&apos;album</translation>
     </message>
 </context>
 <context>
@@ -4009,7 +4009,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="22"/>
         <source>You need to connect an account before you can scrobble music from this media player.</source>
         <comment>Scrobbling: Pop-up message that connecting an account is required to enable a media player for scrobbling</comment>
-        <translation>Devi collegare un account prima di poter effettuare gli scrobble da questo lettore multimediale.</translation>
+        <translation>Devi collegare un account prima di poter effettuare lo scrobbling da questo lettore multimediale.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="76"/>
@@ -4027,7 +4027,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="119"/>
         <source>Choose which media players to scrobble by clicking on &quot;{enable_button}&quot;. Tracks are only scrobbled from media players that you enable explicitly.</source>
         <comment>Scrobbling: Description for the list of available media players that can be enabled for scrobbling</comment>
-        <translation>Scegli per quali lettori multimediali effettuare lo scrobble cliccando su &quot;{enable_button}&quot;. Gli unici brani soggetti a scrobble sono quelli provenienti da lettori multimediali che hai abilitato esplicitamente.</translation>
+        <translation>Scegli per quali lettori multimediali effettuare lo scrobbling cliccando su &quot;{enable_button}&quot;. Gli unici brani soggetti allo scrobbling sono quelli provenienti da lettori multimediali che hai abilitato esplicitamente.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="126"/>
@@ -4054,13 +4054,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="63"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Scrobble</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation>Lo scrobble è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali affinità musicali con altre persone.</translation>
+        <translation>Lo scrobbling è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali affinità musicali con altre persone.</translation>
     </message>
 </context>
 <context>
