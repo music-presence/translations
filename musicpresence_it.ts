@@ -31,7 +31,7 @@
         <location filename="../src/app/app.cpp" line="3764"/>
         <source>Click to enable</source>
         <comment>click the checkbox to enable the presence again</comment>
-        <translation>Clicca per abilitare</translation>
+        <translation>Clicca qui per abilitare</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3768"/>
@@ -459,7 +459,7 @@
         <location filename="../src/app/app.cpp" line="5967"/>
         <source>Privacy Notice</source>
         <comment>help link: make sure this uses the proper legal terminology</comment>
-        <translation>Informativa Privacy</translation>
+        <translation>Informativa sulla Privacy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5974"/>
@@ -479,7 +479,7 @@
         <location filename="../src/app/app.cpp" line="6922"/>
         <source>Click to download version {version}</source>
         <comment>update button</comment>
-        <translation>Clicca per scaricare la versione {version}</translation>
+        <translation>Clicca qui per scaricare la versione {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6579"/>
@@ -525,7 +525,7 @@
         <location filename="../src/app/app.cpp" line="6744"/>
         <source>Click to install version {version}</source>
         <comment>update button</comment>
-        <translation>Clicca per installare la versione {version}</translation>
+        <translation>Clicca qui per installare la versione {version}</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="7233"/>
@@ -702,7 +702,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <source>&lt;p&gt;An error occurred while installing the update:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</source>
         <comment>update error popup</comment>
-        <translation>&lt;p&gt;Un errore si è verificato durante l&apos;installazione dell&apos;aggiornamento:&lt;/p&gt;
+        <translation>&lt;p&gt;Si è verificato un errore durante l&apos;installazione dell&apos;aggiornamento:&lt;/p&gt;
 &lt;p&gt;{error_message}&lt;/p&gt;</translation>
     </message>
     <message>
@@ -733,7 +733,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/app.cpp" line="8049"/>
         <source>&lt;p&gt;&lt;b&gt;A new {app_name} version is available.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Read the changelog below to see what&apos;s new.&lt;/p&gt;</source>
         <comment>update available changelog popup</comment>
-        <translation>&lt;p&gt;&lt;b&gt;Una nuova versione di {app_name} è disponibile.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Leggi il changelog sotto per vederne le novità.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;È disponibile una nuova versione di {app_name}.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Leggi il changelog qui sotto per vederne le novità.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8065"/>
@@ -769,7 +769,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/app.cpp" line="8097"/>
         <source>This is only shown when a new version is launched.</source>
         <comment>popup hint</comment>
-        <translation>Questa finestra è mostrata solo quando una nuova versione è avviata.</translation>
+        <translation>Questa finestra viene mostrata solo quando viene avviata una nuova versione.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8108"/>
@@ -815,7 +815,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/app.cpp" line="8289"/>
         <source>Privacy Notice</source>
         <comment>about window: legal term, opens the privacy policy</comment>
-        <translation>Informativa Privacy</translation>
+        <translation>Informativa sulla Privacy</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8292"/>
@@ -1063,7 +1063,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="1494"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation>Manda una notifica quando una nuova versione è disponibile</translation>
+        <translation>Mostra una notifica quando una nuova versione è disponibile</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1511"/>
@@ -1093,7 +1093,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="1569"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation>Manda una notifica quando ci sono novità da parte dello sviluppatore</translation>
+        <translation>Mostra una notifica quando ci sono novità da parte dello sviluppatore</translation>
     </message>
     <message>
         <source>News pop-ups are only shown at the start of the app and never while you are using {app_name}. Leave notifications enabled, to never miss anything.</source>
@@ -1190,13 +1190,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="4095"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation>Prendi e mostra gli artisti secondari</translation>
+        <translation>Recupera e mostra gli artisti secondari</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4106"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation>Prendi e utilizza le immagini di copertina animate (sperimentale)</translation>
+        <translation>Recupera e utilizza le immagini di copertina animate (sperimentale)</translation>
     </message>
     <message>
         <source>Guess the album name when it&apos;s missing</source>
@@ -1768,7 +1768,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
     <message>
         <location filename="../src/app/settings/window.cpp" line="4083"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>Per ulteriori informazioni su quali dati vengono trasmessi a questi servizi e come questi dati vengono utilizzati, leggi l&apos;&lt;a {attributes}&gt;Informativa Privacy&lt;/a&gt;.</translation>
+        <translation>Per ulteriori informazioni su quali dati vengono trasmessi a questi servizi e come questi dati vengono utilizzati, leggi l&apos;&lt;a {attributes}&gt;Informativa sulla Privacy&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4092"/>
@@ -1780,13 +1780,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="4101"/>
         <source>Get album cover images</source>
         <comment>music API configuration setting: gets album cover images from music APIs</comment>
-        <translation>Prendi e mostra le immagini di copertina dell’album</translation>
+        <translation>Recupera e mostra le immagini di copertina dell’album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4112"/>
         <source>Guess the album when it&apos;s missing</source>
         <comment>music API configuration setting: enabling this is useful when the media player does not report the album name, but you are okay with guessing it using one of the music APIs</comment>
-        <translation>Presumi l’album quando è mancante</translation>
+        <translation>Determina automaticamente il titolo dell’album quando è mancante</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4135"/>
@@ -1802,7 +1802,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
     <message>
         <location filename="../src/app/settings/window.cpp" line="4186"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation>È possibile impostare il codice Paese manualmente, se il Paese del tuo dispositivo e del tuo servizio di streaming non coincidono. Impostalo al &lt;a {attributes}&gt;codice Paese composto da due lettere&lt;/a&gt; del tuo servizio di streaming.</translation>
+        <translation>Puoi impostare il codice Paese manualmente, se il Paese del tuo dispositivo e del tuo servizio di streaming non coincidono. Impostalo al &lt;a {attributes}&gt;codice Paese composto da due lettere&lt;/a&gt; del tuo servizio di streaming.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4263"/>
@@ -1827,7 +1827,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Donate</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Fai una donazione</translation>
+        <translation>Fai una donazione</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2720"/>
@@ -1841,19 +1841,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation>Cliccare il titolo del brano apre la pagina del brano</translation>
+        <translation>Cliccare sul titolo del brano apre la pagina del brano</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation>Cliccare il nome dell’artista apre la pagina dell’artista</translation>
+        <translation>Cliccare sul nome dell’artista apre la pagina dell’artista</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2731"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation>Cliccare il nome dell’album apre la pagina dell’album</translation>
+        <translation>Cliccare sul titolo dell’album apre la pagina dell’album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2736"/>
@@ -1955,7 +1955,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="4256"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation>Selezionare una grandezza dell’immagine di copertina ha effetti solo sulle immagini di copertina richiamate dall’API della musica. Le immagini di copertina locali dei lettori multimediali sono momentaneamente limitate ad una sola grandezza.</translation>
+        <translation>Selezionare una grandezza dell’immagine di copertina ha effetti solo sulle immagini di copertina richiamate dall’API della musica. Le immagini di copertina locali dei lettori multimediali sono attualmente limitate ad una sola grandezza.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
@@ -2055,7 +2055,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
     <message>
         <location filename="../src/app/settings/window.cpp" line="4881"/>
         <source>You can host your own server to display higher quality cover images and to be independent of the built-in server. For more information read the &lt;a {attributes}&gt;documentation&lt;/a&gt;.</source>
-        <translation>È possibile creare e gestire un proprio server per mostrare immagini di copertina a più alta qualità e per essere indipendente dal server integrato. Per maggiori informazioni leggi la &lt;a {attributes}&gt;documentazione&lt;/a&gt;.</translation>
+        <translation>Puoi creare e gestire un proprio server per mostrare immagini di copertina di qualità superiore e per essere indipendente dal server integrato. Per maggiori informazioni leggi la &lt;a {attributes}&gt;documentazione&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7424"/>
@@ -2116,13 +2116,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation>È possibile modificare le impostazioni rapidamente facendo clic destro sull’icona nella barra dei menu</translation>
+        <translation>Fai clic destro sull’icona nella barra dei menu per modificare le impostazioni rapidamente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation>È possibile modificare le impostazioni rapidamente facendo clic destro sull’icona nell’area di notifica</translation>
+        <translation>Fai clic destro sull’icona nell’area di notifica per modificare le impostazioni rapidamente</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
@@ -2209,95 +2209,95 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Supporta il progetto</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} è sviluppata da un solo sviluppatore e si affida alle donazioni di utenti come te per ricevere aggiornamenti continui. Le donazioni permettono inoltre di dedicare tempo allo sviluppo di nuove funzionalità come lo &lt;a {scrobbling_attributes}&gt;Scrobble&lt;/a&gt; e l’&lt;a {listening_along_attributes}&gt;Ascolto condiviso&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metodi di donazione</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation>{github_sponsors}: solo Carta di credito</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>nessuna commissione</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}: Accetta portafogli digitali</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>5% di commissioni</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation>{ko_fi}: Accetta Paypal e metodi di pagamento locali</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}: Solo donazioni mensili</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>8% di commissioni</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>Per vedere le donazioni recenti, gli sponsor attuali e le risposte alle domande più frequenti, visita il sito web: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
         <source>How your donation helps</source>
         <comment>donation settings panel: title of the section that explains how the donation helps the project</comment>
-        <translation type="unfinished"></translation>
+        <translation>In che modo aiuta la tua donazione</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Con una donazione, contribuisci attivamente allo sviluppo di nuove funzionalità:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Scrobble&lt;/a&gt;: lo scrobble affidabile e ricco di funzionalità su {lastfm} e altri servizi è quasi pronto per la pubblicazione e verrà rilasciato nella versione {version}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Supporto per browser&lt;/a&gt;: Compatibilità con vari siti web e piattaforme musicali online. Basato sull’estensione browser {media_control}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Ascolto condiviso&lt;/a&gt;: Ascolta musica insieme ai tuoi amici, tra servizi di streaming e lettori multimediali diversi</translation>
     </message>
 </context>
 <context>
@@ -2408,25 +2408,25 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="23"/>
         <source>Custom replacements are currently only available for scrobbling. Your replacements are only applied after connecting an account.</source>
         <comment>TODO</comment>
-        <translation>Le sostituzioni personalizzate sono momentaneamente disponibili solo per lo scrobble. Le tue sostituzioni sono applicate soltanto dopo aver collegato un account.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble. Le tue sostituzioni sono applicate solo dopo aver collegato un account.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation>Le sostituzioni personalizzate sono momentaneamente disponibili solo per lo scrobble e richiedono una licenza.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble e richiedono una licenza.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation>Le sostituzioni personalizzate sono momentaneamente disponibili solo per lo scrobble e il tuo periodo di prova gratuito è terminato. Acquista una licenza per continuare ad utilizzare questa funzione.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble e il tuo periodo di prova gratuito è terminato. Acquista una licenza per continuare ad utilizzare questa funzione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation>Le sostituzioni personalizzate sono momentaneamente disponibili solo per lo scrobble e la tua licenza è scaduta. Acquista una nuova licenza per continuare ad utilizzare questa funzione.</translation>
+        <translation>Le sostituzioni personalizzate sono attualmente disponibili solo per lo scrobble e la tua licenza è scaduta. Acquista una nuova licenza per continuare ad utilizzare questa funzione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
@@ -2639,7 +2639,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="990"/>
         <source>You can restrict this edit to specific media players.</source>
         <comment>Metadata: Informational text to inform the user that this metadata edit can be restricted to specific media players. It&apos;s important that this text implies that it&apos;s optional (they &quot;can&quot;, but they don&apos;t have to). When no media player is selected, the edit is applied to metadata from all media players</comment>
-        <translation>È possibile delimitare questa modifica a specifici lettori multimediali.</translation>
+        <translation>Puoi limitare questa modifica a lettori multimediali specifici.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1149"/>
@@ -2955,7 +2955,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="261"/>
         <source>Please review the following settings, as the defaults might not suit everyone&apos;s needs.</source>
         <comment>Scrobbling: Description for the &quot;Initial setup&quot; section</comment>
-        <translation>È opportuno controllare le seguenti impostazioni, dato che le predefinite potrebbero non soddisfare le esigenze di tutti.</translation>
+        <translation>È opportuno ricontrollare le seguenti impostazioni, dato che le predefinite potrebbero non soddisfare le esigenze di tutti.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="273"/>
@@ -2986,7 +2986,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="342"/>
         <source>Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobble artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled in the account setup panel</comment>
-        <translation>Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare molteplici scrobble di artisti.</translation>
+        <translation>Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare scrobble di molteplici artisti.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="362"/>
@@ -3058,13 +3058,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="94"/>
         <source>Start free trial</source>
         <comment>Scrobbling: Button to start the scrobbling free trial</comment>
-        <translation>Inizia il periodo di prova gratuito</translation>
+        <translation>Inizia la prova gratuita</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="105"/>
         <source>By continuing you agree to the &lt;a {terms_attributes}&gt;Terms&lt;/a&gt; and &lt;a {privacy_attributes}&gt;Privacy Policy&lt;/a&gt;.</source>
         <comment>Scrobbling: Text to inform the user about their consent to the terms and privacy policy by continuing to start the free trial. Use legal language for the words &quot;Terms&quot; and &quot;Privacy Policy&quot;</comment>
-        <translation>Continuando, accetti i &lt;a {terms_attributes}&gt;Termini&lt;/a&gt; e l&apos;&lt;a {privacy_attributes}&gt;Informativa Privacy&lt;/a&gt;.</translation>
+        <translation>Continuando, accetti i &lt;a {terms_attributes}&gt;Termini&lt;/a&gt; e l&apos;&lt;a {privacy_attributes}&gt;Informativa sulla Privacy&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsFreeTrialPage.cpp" line="134"/>
@@ -3221,7 +3221,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="566"/>
         <source>You can currently only connect one account. Support for multiple accounts and more services is coming soon.</source>
-        <translation>Al momento è possibile collegare un solo account. Il supporto per molteplici account e servizi arriverà presto.</translation>
+        <translation>Al momento puoi collegare un solo account. Il supporto per molteplici account e servizi arriverà presto.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="584"/>
@@ -3288,7 +3288,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1075"/>
         <source>Your password is never stored and is only transmitted to authenticate you.</source>
         <comment>Scrobbling: Text after the input boxes for the scrobbling account username and password to assure the user that their password is never stored anywhere</comment>
-        <translation>La tua password non è mai salvata ed è soltanto utilizzata per l’autenticazione.</translation>
+        <translation>La tua password non è mai salvata ed è solo utilizzata per l’autenticazione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1090"/>
@@ -3305,19 +3305,19 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1168"/>
         <source>Authorize access to your account via the link that opened in your browser. Then click &quot;{continue_text}&quot; to complete.</source>
-        <translation>Autorizza l&apos;accesso al tuo account tramite la pagina che si è aperta nel browser. Successivamente clicca &quot;{continue_text}&quot; per completare.</translation>
+        <translation>Autorizza l&apos;accesso al tuo account tramite la pagina che si è aperta nel browser. Successivamente clicca su &quot;{continue_text}&quot; per completare.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1213"/>
         <source>If the link did not open, you can open it manually:</source>
         <comment>Scrobbling: Text before the link to open in a browser to authorize an account for scrobbling</comment>
-        <translation>Se la pagina non si è aperta, è possibile aprirla manualmente:</translation>
+        <translation>Se la pagina non si è aperta, puoi aprirla manualmente:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1317"/>
         <source>An error occured: {error_text}</source>
         <comment>Scrobbling: Error text</comment>
-        <translation>Un errore si è verificato: {error_text}</translation>
+        <translation>Si è verificato un errore: {error_text}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsPanel.cpp" line="1329"/>
@@ -3428,7 +3428,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="409"/>
         <source>Allow multiple scrobbles</source>
         <comment>Scrobbling: Whether to allow multiple scrobbles, when the track duration is unknown</comment>
-        <translation>Permetti molteplici scrobble</translation>
+        <translation>Consenti molteplici scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="429"/>
@@ -3458,7 +3458,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="500"/>
         <source>Only change these settings, if you know what you&apos;re doing.</source>
         <comment>Scrobbling: Description for the &quot;Advanced configuration&quot; category</comment>
-        <translation>Cambia queste impostazioni, soltanto se sai cosa stai facendo.</translation>
+        <translation>Cambia queste impostazioni, solo se sai cosa stai facendo.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="510"/>
@@ -3482,7 +3482,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="571"/>
         <source>The &quot;Strict&quot; option prevents a track from being scrobbled earlier, when e.g. rewinding the track or when playing a section of the track again.</source>
         <comment>Scrobbling: Description for the &quot;Playback time recording&quot; setting</comment>
-        <translation>L&apos;opzione &quot;Rigido&quot; previene che un brano sia soggetto a scrobble prematuramente, ad esempio quando viene riavvolto o quando una sua sezione viene riprodotta nuovamente.</translation>
+        <translation>L&apos;opzione &quot;Rigido&quot; previene che venga effettuato prematuramente uno scrobble su un brano, ad esempio quando viene riavvolto o quando una sua sezione viene riprodotta nuovamente.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="585"/>
@@ -3494,7 +3494,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="625"/>
         <source>When a track is rewinded, it needs to be rewinded by at least this much in order to be scrobbled. Note that a track always needs to be rewinded by at least the minimum required playback time.</source>
         <comment>Scrobbling: Description for the &quot;Minimum rewind duration&quot; setting</comment>
-        <translation>Quando un brano viene riavvolto, dev&apos;essere riavvolto di almeno questo quantitativo per essere soggetto a scrobble. Nota bene che un brano deve sempre essere riavvolto almeno della minima durata della riproduzione.</translation>
+        <translation>Quando un brano viene riavvolto, dev&apos;essere riavvolto di almeno questo quantitativo per far sì che venga effettuato lo scrobble. Nota bene che un brano deve sempre essere riavvolto almeno della minima durata della riproduzione.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingConfigurationPanel.cpp" line="639"/>
@@ -3551,13 +3551,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="73"/>
         <source>Connect an account first before configuring scrobbling.</source>
         <comment>Scrobbling: Pop-up message that no account is connected yet</comment>
-        <translation>È richiesto collegare un account per configurare lo scrobble.</translation>
+        <translation>Collega un account per configurare lo scrobble.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="78"/>
         <source>You need to connect an account for your configuration changes to take effect.</source>
         <comment>Scrobbling: Pop-up message that no account is connected yet</comment>
-        <translation>È necessario collegare un account per rendere effettive le modifiche alle impostazioni.</translation>
+        <translation>Collega un account per rendere effettive le modifiche alle impostazioni.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingInteraction.cpp" line="91"/>
@@ -3757,7 +3757,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="144"/>
         <source>Privacy Policy</source>
         <comment>Scrobbling: Word for Privacy Policy. Use legal language here</comment>
-        <translation>Informativa Privacy</translation>
+        <translation>Informativa sulla Privacy</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="156"/>
@@ -3775,7 +3775,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="256"/>
         <source>You can import your license by dragging the license file into this window or by opening the file selector via the button below. Before buying a license you have the option to try all features by starting a free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation>È possibile importare la tua licenza trascinandone il file dentro questa finestra o selezionandolo tramite il tasto sottostante. Prima di acquistare una licenza hai la possibilità di provare tutte le funzioni iniziando un periodo di prova gratuito.</translation>
+        <translation>Puoi importare la tua licenza trascinandone il file dentro questa finestra o selezionandolo tramite il tasto sottostante. Prima di acquistare una licenza hai la possibilità di provare tutte le funzioni iniziando un periodo di prova gratuito.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="298"/>
@@ -3800,7 +3800,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="319"/>
         <source>Start free trial</source>
         <comment>Scrobbling: Button text for starting the scrobbling free trial. Keep this short</comment>
-        <translation>Inizia il periodo di prova</translation>
+        <translation>Inizia la prova gratuita</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="333"/>
@@ -3874,7 +3874,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="574"/>
         <source>End free trial</source>
         <comment>Scrobbling: Button text to end the free trial</comment>
-        <translation>Termina il periodo di prova gratuito</translation>
+        <translation>Termina la prova gratuita</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="634"/>
@@ -3886,7 +3886,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="667"/>
         <source>Go to the page that opened in your browser. If it did not open automatically, you can click this link to open it manually: {url}</source>
         <comment>Scrobbling: Buying a scrobbling license, step 1</comment>
-        <translation>Vai alla pagina che si è aperta nel tuo browser. Se non si è aperta automaticamente, è possibile cliccare questo link per aprirla manualmente: {url}</translation>
+        <translation>Vai alla pagina che si è aperta nel tuo browser. Se non si è aperta automaticamente, è possibile cliccare su questo link per aprirla manualmente: {url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="677"/>
@@ -3943,7 +3943,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="114"/>
         <source>Control whether you want to scrobble all artists or only the primary artist. Note that certain media players may not report every artist and that some platforms are limited in their ability to process multiple scrobbled artists.</source>
         <comment>Scrobbling: Description for controls on how artists are scrobbled</comment>
-        <translation>Controlla se effettuare lo scrobble di tutti gli artisti o solo di quello principale. Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare molteplici scrobble di artisti.</translation>
+        <translation>Controlla se effettuare lo scrobble di tutti gli artisti o solo di quello principale. Nota bene che alcuni lettori multimediali potrebbero non riportare tutti gli artisti e che alcune piattaforme sono limitate nel processare scrobble di molteplici artisti.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingMetadataPanel.cpp" line="127"/>
@@ -4009,7 +4009,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="22"/>
         <source>You need to connect an account before you can scrobble music from this media player.</source>
         <comment>Scrobbling: Pop-up message that connecting an account is required to enable a media player for scrobbling</comment>
-        <translation>È necessario collegare un account prima di poter effettuare gli scrobble da questo lettore multimediale.</translation>
+        <translation>Devi collegare un account prima di poter effettuare gli scrobble da questo lettore multimediale.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingPlayersPanel.cpp" line="76"/>
@@ -4054,13 +4054,13 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="63"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobble</translation>
+        <translation>Scrobble</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lo scrobble è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali affinità musicali con altre persone.</translation>
     </message>
 </context>
 <context>
