@@ -79,7 +79,7 @@
         <location filename="../src/app/app.cpp" line="4458"/>
         <source>Toggle presence per application</source>
         <comment>text above the list of detected media players</comment>
-        <translation>Abilita/disabilita l’attività</translation>
+        <translation>Abilita/disabilita l’attività per ogni lettore multimediale</translation>
     </message>
     <message>
         <source>Player</source>
@@ -533,7 +533,7 @@
 You can support the development with a donation. Click here or in the tray menu for more info.</source>
         <comment>desktop notification</comment>
         <translation>Ti piace {app_name}?
-Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle applicazioni ridotte ad icona per maggiori informazioni.</translation>
+Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’area di notifica per maggiori informazioni.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6405"/>
@@ -786,7 +786,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
     <message>
         <location filename="../src/app/app.cpp" line="8092"/>
         <source>&lt;p&gt;&lt;b&gt;Click the icon in the tray menu to open the controls.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} runs in the background and can always be accessed this way. You can control which media players are shared in your status and what your status looks like.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Clicca sull&apos;applicazione nell’area di notifica per accedere ai comandi.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} rimane eseguito in background ed è accessibile dal menu delle applicazioni ridotte ad icona. Puoi controllare quali lettori multimediali sono condivisi nella tua attività di Discord e come quest&apos;ultima viene mostrata.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Clicca sull&apos;icona dell’applicazione nell’area di notifica per accedere ai comandi.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;{app_name} resta in esecuzione in background ed è accessibile dal menu delle applicazioni ridotte ad icona. Puoi controllare quali lettori multimediali sono condivisi nella tua attività di Discord e come quest&apos;ultima viene mostrata.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8117"/>
@@ -1207,7 +1207,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../src/app/settings/window.cpp" line="4107"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation>Invia il tuo codice nazionale</translation>
+        <translation>Invia il tuo codice Paese</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1377,7 +1377,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
     <message>
         <location filename="../src/app/settings/window.cpp" line="2198"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation>Per mostrare del testo personalizzato, vai su {discord_developer_portal_url} e clicca su &quot;{new_application_button_name}&quot;. Successivamente inserisci il nome scelto e clicca su &quot;{create_button_name}&quot;. Nella nuova pagina che si è aperta, cerca &quot;{application_id_section_name}&quot;, dopo di che copia il numero a schermo ed incollalo nel campo sovrastante.</translation>
+        <translation>Per mostrare del testo personalizzato, vai su {discord_developer_portal_url} e clicca su &quot;{new_application_button_name}&quot;. Successivamente inserisci il nome scelto e clicca su &quot;{create_button_name}&quot;. Nella nuova pagina che si è aperta, cerca &quot;{application_id_section_name}&quot;, dopodiché copia il numero a schermo ed incollalo nel campo sovrastante.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2249"/>
@@ -1409,7 +1409,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../src/app/settings/window.cpp" line="2327"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation>Tipo di medium</translation>
+        <translation>Tipo di contenuto multimediale</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2269"/>
@@ -1663,7 +1663,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../src/app/settings/window.cpp" line="3448"/>
         <source>Toggle presence per application</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation>Abilita/disabilita l’attività</translation>
+        <translation>Abilita/disabilita l’attività per ogni lettore multimediale</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3578"/>
@@ -1791,18 +1791,18 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
     <message>
         <location filename="../src/app/settings/window.cpp" line="4121"/>
         <source>Sending your country code is required to find certain songs that are only available in specific countries and can improve search results. Your country code is removed from any links before they are shown in your Discord status.</source>
-        <translation>Inviare il tuo codice nazionale è necessario per trovare alcuni brani che sono disponibili solo in alcune nazioni e può migliorare i risultati della ricerca. Il tuo codice nazionale è rimosso da ogni link prima che essi vengano mostrati nella tua attività di Discord.</translation>
+        <translation>Inviare il tuo codice Paese è necessario per trovare alcuni brani che sono disponibili solo in alcune nazioni e può migliorare i risultati della ricerca. Il tuo codice Paese è rimosso da ogni link prima che essi vengano mostrati nella tua attività di Discord.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4147"/>
         <source>Country code</source>
         <comment>music API configuration setting: override for the country code to send to an API to get localized search results</comment>
-        <translation>Codice nazionale</translation>
+        <translation>Codice Paese</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4172"/>
         <source>You can set the country code manually, if your device&apos;s and streaming service&apos;s country mismatch. Set this to the &lt;a {attributes}&gt;two-letter country code&lt;/a&gt; of your streaming service.</source>
-        <translation>È possibile impostare il codice nazionale manualmente, se le nazioni del tuo dispositivo e del tuo servizio di streaming non coincidono. Impostalo al &lt;a {attributes}&gt;codice nazionale composto da due lettere&lt;/a&gt; del tuo servizio di streaming.</translation>
+        <translation>È possibile impostare il codice Paese manualmente, se il Paese del tuo dispositivo e del tuo servizio di streaming non coincidono. Impostalo al &lt;a {attributes}&gt;codice Paese composto da due lettere&lt;/a&gt; del tuo servizio di streaming.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4249"/>
@@ -2400,7 +2400,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation>Modifica i metadata dei brani con utili preimpostazioni.</translation>
+        <translation>Modifica i metadati dei brani con utili preimpostazioni.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
@@ -2834,7 +2834,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="221"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways.</source>
         <comment>Scrobbling: Fifth step under &quot;Next steps&quot; after connecting an account</comment>
-        <translation>Vai su {edits} per modificare i metadata della musica soggetta a scrobble in svariati modi.</translation>
+        <translation>Vai su {edits} per modificare i metadati della musica soggetta a scrobble in svariati modi.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="228"/>
@@ -2864,7 +2864,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation>Esegui lo scrobble di tutti gli artisti</translation>
+        <translation>Effettua lo scrobble di tutti gli artisti</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="295"/>
@@ -2877,7 +2877,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="300"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation>Esegui lo scrobble esclusivamente dell&apos;artista principale</translation>
+        <translation>Effettua lo scrobble esclusivamente dell&apos;artista principale</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="342"/>
@@ -3505,7 +3505,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="24"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation>Lo scrobble è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali combaciamenti di gusti musicali con altre persone.</translation>
+        <translation>Lo scrobble è il processo di archiviazione di una registrazione della tua cronologia d&apos;ascolto su una piattaforma come {lastfm_brand}. È utile per statistiche, suggerimenti musicali ed eventuali affinità musicali con altre persone.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="34"/>
@@ -3559,7 +3559,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="86"/>
         <source>Go to {edits} to edit scrobbled music metadata in various ways</source>
         <comment>Scrobbling: Fifth step of the scrobbling instructions</comment>
-        <translation>Vai su {edits} per modificare i metadata della musica soggetta a scrobble in svariati modi</translation>
+        <translation>Vai su {edits} per modificare i metadati della musica soggetta a scrobble in svariati modi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="92"/>
@@ -3672,7 +3672,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu delle appl
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="256"/>
         <source>You can import your license by dragging the license file into this window or by opening the file selector via the button below. Before buying a license you have the option to try all features by starting a free trial.</source>
         <comment>Scrobbling: Description text of the scrobbling license panel</comment>
-        <translation>È possibile importare la tua licenza trascinandone il file dentro questa finestra o selezionandolo tramite il tasto sottostante. Prima di acquistare una licenza hai la possibilità di provare tutte le funzioni iniziando una periodo di prova gratuito.</translation>
+        <translation>È possibile importare la tua licenza trascinandone il file dentro questa finestra o selezionandolo tramite il tasto sottostante. Prima di acquistare una licenza hai la possibilità di provare tutte le funzioni iniziando un periodo di prova gratuito.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingLicensePanel.cpp" line="298"/>
