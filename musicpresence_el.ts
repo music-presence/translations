@@ -1588,7 +1588,7 @@ You can support the development with a donation. Click here or in the tray menu 
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
         <source>Entering your own credentials can help with retrieving additional song metadata more reliably. Go to &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; and click on &quot;{create_app_text}&quot;, enter your information, then copy the &quot;{client_id_text}&quot; and &quot;{client_secret_text}&quot; and paste them above.</source>
-        <translation>Η εισαγωγή των δικών σας διαπιστευτηρίων μπορεί να βοηθήσει με την ανάκτηση μεταδεδομένων επιπλέον τραγουδιών πιο έμπιστα. Πηγαίνετε στο &lt;a {attributes}&gt;{spotify_developer_link}&lt;/a&gt; και πατήστε το «{create_app_text}», εισάγετε τις πληροφορίες σας, έπειτα αντιγράψτε το «{client_id_text}» και «{client_secret_text}» και επικολλήστε τα παραπάνω.</translation>
+        <translation>Η εισαγωγή των δικών σας διαπιστευτηρίων μπορεί να βοηθήσει με την ανάκτηση μεταδεδομένων επιπλέον τραγουδιών πιο έμπιστα. Πηγαίνετε στο &lt;a {attributes}&gt;{spotify_developer_dashboard_link}&lt;/a&gt; και πατήστε το «{create_app_text}», εισάγετε τις πληροφορίες σας, έπειτα αντιγράψτε το «{client_id_text}» και «{client_secret_text}» και επικολλήστε τα παραπάνω.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4470"/>
