@@ -1741,7 +1741,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4078"/>
         <source>Music API configuration</source>
         <comment>music API configuration group</comment>
-        <translation>Настройки Music API</translation>
+        <translation>Настройки музыкального API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4087"/>
@@ -1820,7 +1820,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2728"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation>Это применяется только к песням в стриминговых сервисах и только тогда, когда соответствующий Music API включен в разделе {services_panel}.</translation>
+        <translation>Это применяется только к песням в стриминговых сервисах и только тогда, когда соответствующий музыкальный API включен в разделе {services_panel}.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2755"/>
@@ -1868,13 +1868,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2918"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation>Кнопка ссылки на песню отображается только для стриминговых сервисов и только тогда, когда соответствующий Music API включен в разделе {services_panel}. Она всегда отображается, если &quot;{setting_name}&quot; в {section_name} выключен, чтобы соответствовать условиям Music API.</translation>
+        <translation>Кнопка ссылки на песню отображается только для стриминговых сервисов и только тогда, когда соответствующий музыкальный API включен в разделе {services_panel}. Она всегда отображается, если &quot;{setting_name}&quot; в {section_name} выключен, чтобы соответствовать условиям музыкального API.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3974"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished">Music API</translation>
+        <translation>Музыкальные API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4007"/>
@@ -1916,7 +1916,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="4242"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation>Выбор размера изображения обложки затрагивает только обложки, полученные от Music API. Локальные изображения обложек от медиа-проигрывателей на данный момент ограничены только одним размером.</translation>
+        <translation>Выбор размера изображения обложки затрагивает только обложки, полученные от музыкальных API. Локальные изображения обложек от медиа-проигрывателей на данный момент ограничены только одним размером.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4439"/>
@@ -2671,19 +2671,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="36"/>
         <source>Match case-sensitively</source>
         <comment>Metadata: Text must match case-sensitively</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сравнивать с учетом регистра</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="44"/>
         <source>Match only the first occurrence</source>
         <comment>Metadata: Only the first instance of the regular expression pattern should be matched</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сравнивать только первое упоминание</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="53"/>
         <source>Regular expression</source>
         <comment>Metadata: Informational text that informs the user that the input is interpreted as a regular expression</comment>
-        <translation type="unfinished"></translation>
+        <translation>Регулярное выражение</translation>
     </message>
 </context>
 <context>
@@ -3918,19 +3918,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="24"/>
         <source>Are you sure?</source>
         <comment>Confirmation text for a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">Вы уверены?</translation>
+        <translation>Вы уверены?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="26"/>
         <source>Yes</source>
         <comment>Button text to confirm a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="28"/>
         <source>No</source>
         <comment>Button text to deny a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">Нет</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
