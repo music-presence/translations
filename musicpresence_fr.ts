@@ -1238,7 +1238,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="335"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation>Glisser-déposer votre fichier de licence dans cette fenêtre pour l&apos;importer.</translation>
+        <translation>Glissez-déposez votre fichier de licence dans cette fenêtre pour l&apos;importer.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="676"/>
@@ -1250,7 +1250,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="691"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Suivi d&apos;écoute (scrobbling)</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="688"/>
@@ -3582,13 +3582,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="21"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation>Suivi d&apos;écoute (scrobbling)</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="24"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation>Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute sur une plate-forme comme {lastfm_brand} par exemple. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
+        <translation>Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute de musique sur une plate-forme comme {lastfm_brand} par exemple. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="34"/>
@@ -4040,7 +4040,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute sur une plate-forme comme {lastfm_brand} par exemple. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
+        <translation>Le Suivi d&apos;écoute (scrobbling) représente le fait de conserver votre historique d&apos;écoute sur une plate-forme comme {lastfm_brand} par exemple. Il est majoritairement utilisé pour vous transmettre des statistiques, des recommandations et pour comparer vos goûts musicaux avec d&apos;autres gens.</translation>
     </message>
 </context>
 <context>
