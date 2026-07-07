@@ -833,7 +833,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/app.cpp" line="8286"/>
         <source>License</source>
         <comment>about window: legal term, license to use the software, opens LICENSE.txt</comment>
-        <translation>Bản quyền</translation>
+        <translation>Giấy phép</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="8289"/>
