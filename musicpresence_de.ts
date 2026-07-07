@@ -961,7 +961,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="690"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Metadaten</translation>
+        <translation>Metadaten</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="691"/>
@@ -973,7 +973,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="688"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="701"/>
@@ -992,7 +992,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="717"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="719"/>
@@ -1609,13 +1609,13 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="737"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Künstler</translation>
+        <translation>Künstler</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="740"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Lizenz</translation>
+        <translation>Lizenz</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1091"/>
@@ -1838,20 +1838,20 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Donate</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Spenden</translation>
+        <translation>Spenden</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige die Willkommensseite, wenn die Einstellungen geöffnet werden</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2720"/>
         <location filename="../src/app/settings/window.cpp" line="2949"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
