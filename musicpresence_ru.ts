@@ -2252,19 +2252,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Скробблинг&lt;/a&gt;: Надежный и многофункциональный скробблинг на {lastfm} и другие сервисы почти готовы к публикации и будут выпущены в версии {version}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Поддержка браузеров&lt;/a&gt;: Совместимость со множеством веб-сайтов и музыкальных онлайн-платформ. Работает на основе расширения для браузеров {media_control}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Прослушивание вместе&lt;/a&gt;: Слушайте музыку вместе со своими друзьями через стриминговые сервисы и через разные медиа-проигрыватели</translation>
     </message>
 </context>
 <context>
