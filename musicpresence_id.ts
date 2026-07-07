@@ -2305,7 +2305,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation>Gabung ke peladen discord: {discord_invite_link}</translation>
+        <translation>Gabung ke peladen Discord: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
