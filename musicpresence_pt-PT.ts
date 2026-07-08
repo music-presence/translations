@@ -1762,7 +1762,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Botão de link personalizado</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
@@ -1965,7 +1965,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="4256"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished">Selecionar o tamanho de uma imagem de capa apenas afeta capas obtidas de APIs de música. Imagens de capa locais de reprodutores média está atualmente limitado a um unico tamanho.</translation>
+        <translation>Selecionar o tamanho de uma imagem de capa apenas afeta capas obtidas de APIs de música. Imagens de capa locais de reprodutores média está atualmente limitado a um unico tamanho.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
@@ -2295,7 +2295,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Fiável e repleto de funcionalidades para o {lastfm} e outros serviços está quase pronto para ser lançado e será disponibilizado na versão {version}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
