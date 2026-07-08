@@ -1043,7 +1043,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>설정을 열 때 환영 페이지 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
@@ -1767,7 +1767,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>커스텀 버튼 링크</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
@@ -1843,129 +1843,129 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Donate</source>
         <comment>settings category</comment>
-        <translation type="unfinished">후원</translation>
+        <translation>후원</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2720"/>
         <location filename="../src/app/settings/window.cpp" line="2949"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>링크</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>제목을 클릭하면 트랙 페이지 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>아티스트를 클릭하면 아티스트 페이지 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2731"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범을 클릭하면 앨범 페이지 열기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2736"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>{services_panel}에서 해당 음악 API가 활성화되어 있는 경우에만 적용됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2763"/>
         <source>Show a custom button</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>커스텀 버튼 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
-        <translation type="unfinished"></translation>
+        <translation>커스텀 텍스트</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2838"/>
         <source>Invalid URL</source>
         <comment>The entered URL is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않은 URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2910"/>
         <source>Show a button that links to the song</source>
         <comment>whether to show the &quot;Listen to this song&quot; button in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>곡 링크 버튼 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2917"/>
         <source>Display the song link button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>곡 링크 버튼을 &quot;{play_on_player}&quot;(으)로 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2926"/>
         <source>Show the &quot;{branding_text}&quot; button</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{branding_text}&quot; 버튼 표시</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2932"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>곡 링크 버튼은 스트리밍 서비스에 대해서만 표시되며, {services_panel}에서 해당 음악 API가 활성화된 경우에만 표시됩니다. 음악 API 약관을 준수하기 위해 {section_name} 아래의 &quot;{setting_name}&quot;이(가) 비활성화된 경우에는 항상 표시됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3988"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>음악 API</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>&lt;p&gt;To use the Spotify API, Spotify Premium is required. Create a Spotify application in the &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, then scroll down to {section_name} and enter the application credentials.&lt;/p&gt;&lt;p&gt;For more information, &lt;a {documentation_attributes}&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;</source>
         <comment>music API configuration: Pop-up text for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Spotify API를 사용하려면 Spotify Premium이 필요합니다. &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;에서 Spotify 애플리케이션을 생성한 후, {section_name}으로 스크롤을 내려 애플리케이션 인증 정보를 입력하세요.&lt;/p&gt;&lt;p&gt;자세한 내용은 &lt;a {documentation_attributes}&gt;도움말 문서&lt;/a&gt;를 읽어보세요.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4038"/>
         <source>Credentials required</source>
         <comment>music API configuration: Pop-up title for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>인증 정보 필요</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4206"/>
         <source>{size}x{size}</source>
         <comment>music API configuration: text for an image size, e.g. 100x100 pixels or 800x800 pixels. The &quot;size&quot; is always a number</comment>
-        <translation type="unfinished"></translation>
+        <translation>{size}x{size}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4213"/>
         <source>Automatic</source>
         <comment>music API configuration: option for the selection of cover image sizes. the optimal cover image size is determined automatically</comment>
-        <translation type="unfinished">자동</translation>
+        <translation>자동</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4220"/>
         <source>Maximum</source>
         <comment>music API configuration: option for the selection of cover image sizes. this selects the maximum available cover image size</comment>
-        <translation type="unfinished"></translation>
+        <translation>최대</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4251"/>
         <source>Album cover size</source>
         <comment>music API configuration setting: selection for the size of album cover images to use from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>앨범 표지 크기</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4256"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>표지 이미지 크기 선택은 음악 API에서 가져오는 표지에만 영향을 미칩니다. 미디어 플레이어의 로컬 표지 이미지는 현재 단일 크기로 제한됩니다.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
@@ -2219,95 +2219,95 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>프로젝트 지원</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name}은 1인 개발자가 제작하며, 지속적인 업데이트를 제공하기 위해 여러분과 같은 사용자의 후원에 의존하고 있습니다. 후원은 &lt;a {scrobbling_attributes}&gt;스크로블링&lt;/a&gt; 및 &lt;a {listening_along_attributes}&gt;함께 듣기&lt;/a&gt;와 같은 새로운 기능을 개발하는 데 시간을 투자할 수 있게 해줍니다.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>후원 옵션</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation>{github_sponsors}: 신용카드만 가능</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>수수료 없음</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}: 디지털 지갑 지원</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>5% 수수료</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation>{ko_fi}: PayPal 및 현지 결제 수단 지원</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}: 정기 후원만 가능</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>8% 수수료</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>최근 후원 명단, 현재 후원자 및 자주 묻는 질문에 대한 답변은 웹사이트를 방문하세요: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
         <source>How your donation helps</source>
         <comment>donation settings panel: title of the section that explains how the donation helps the project</comment>
-        <translation type="unfinished"></translation>
+        <translation>후원금이 어떻게 도움이 되는지</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation type="unfinished"></translation>
+        <translation>후원을 통해 새로운 기능 개발에 직접 기여하실 수 있습니다:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;스크로블링&lt;/a&gt;: {lastfm} 및 기타 서비스로의 안정적이고 풍부한 기능을 갖춘 스크로블링이 거의 출시 준비를 마쳤으며 {version} 버전에 포함될 예정입니다</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;브라우저 지원&lt;/a&gt;: 다양한 웹사이트 및 온라인 음악 플랫폼과의 호환성을 제공합니다. {media_control} 브라우저 확장 프로그램으로 구동됩니다</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;함께 듣기&lt;/a&gt;: 스트리밍 서비스와 미디어 플레이어의 종류에 관계없이 친구들과 함께 음악을 들을 수 있습니다</translation>
     </message>
 </context>
 <context>
@@ -2397,7 +2397,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic filters</source>
         <comment>Metadata: Basic metadata filter presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>기본 필터</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="79"/>
@@ -2513,7 +2513,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation type="unfinished"></translation>
+        <translation>유용한 프리셋으로 음악 메타데이터를 편집하세요.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
@@ -2802,7 +2802,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementLineEdit.hpp" line="23"/>
         <source>Replace with empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, should be replaced with empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>빈 텍스트로 대체</translation>
     </message>
 </context>
 <context>
@@ -2811,25 +2811,25 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="27"/>
         <source>Match empty text</source>
         <comment>Metadata: A given metadata attribute, e.g. the song title, must match empty text</comment>
-        <translation type="unfinished"></translation>
+        <translation>빈 텍스트 일치</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="36"/>
         <source>Match case-sensitively</source>
         <comment>Metadata: Text must match case-sensitively</comment>
-        <translation type="unfinished"></translation>
+        <translation>대소문자 구분하여 일치</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="44"/>
         <source>Match only the first occurrence</source>
         <comment>Metadata: Only the first instance of the regular expression pattern should be matched</comment>
-        <translation type="unfinished"></translation>
+        <translation>첫 번째 일치 항목만 일치</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/metadata/MetadataReplacementMatcherLineEdit.hpp" line="53"/>
         <source>Regular expression</source>
         <comment>Metadata: Informational text that informs the user that the input is interpreted as a regular expression</comment>
-        <translation type="unfinished"></translation>
+        <translation>정규식</translation>
     </message>
 </context>
 <context>
@@ -4064,13 +4064,13 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="63"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">스크로블링</translation>
+        <translation>스크로블링</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">스크로블링은 {lastfm_brand} 같은 플랫폼에 음악 감상 기록을 남기는 과정입니다. 통계, 음악 추천, 다른 사람과 음악 취향이 겹치는 부분을 찾는 데 유용합니다.</translation>
+        <translation>스크로블링은 {lastfm_brand} 같은 플랫폼에 음악 감상 기록을 남기는 과정입니다. 통계, 음악 추천, 다른 사람과 음악 취향이 겹치는 부분을 찾는 데 유용합니다.</translation>
     </message>
 </context>
 <context>
@@ -4079,19 +4079,19 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="24"/>
         <source>Are you sure?</source>
         <comment>Confirmation text for a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">확실합니까?</translation>
+        <translation>확실합니까?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="26"/>
         <source>Yes</source>
         <comment>Button text to confirm a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">예</translation>
+        <translation>예</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/include/music-presence/qt-components/reusable/TinyConfirmationButton.hpp" line="28"/>
         <source>No</source>
         <comment>Button text to deny a sensitive operation. Keep this short</comment>
-        <translation type="unfinished">아니요</translation>
+        <translation>아니요</translation>
     </message>
 </context>
 <context>
