@@ -1195,7 +1195,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Кастомная ссылка кнопки</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
