@@ -882,7 +882,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>自定义按钮链接</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
@@ -1862,95 +1862,95 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>支持此项目</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} 由单人开发者制作，依靠像您这样的用户的捐赠来持续更新。捐赠也使得开发者能够投入时间开发新功能，例如 &lt;a {scrobbling_attributes}&gt;同步&lt;/a&gt; 和 &lt;a {listening_along_attributes}&gt;一起收听&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>捐赠选项</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation>{github_sponsors}：仅限信用卡</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>无手续费</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}：接受电子钱包付款</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>5% 手续费</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{ko_fi}：接受 PayPal 和本地支付方式</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}：仅限每月捐赠</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>8% 手续费</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>如需查看近期捐款列表、当前赞助商以及常见问题解答，请访问网站：{website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
         <source>How your donation helps</source>
         <comment>donation settings panel: title of the section that explains how the donation helps the project</comment>
-        <translation type="unfinished"></translation>
+        <translation>您的捐款如何发挥作用</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation type="unfinished"></translation>
+        <translation>捐款可以积极为新功能开发提供资金：</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;音乐记录&lt;/a&gt;：可靠且功能丰富的音乐记录功能（支持 Last.fm 和其他服务）即将发布，将在版本 {version} 中发布</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;浏览器支持&lt;/a&gt;：兼容多种网站和在线音乐平台。由 {media_control} 浏览器扩展程序提供支持</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;一起听&lt;/a&gt;：与好友跨流媒体服务和不同媒体播放器一起听音乐</translation>
     </message>
 </context>
 <context>
