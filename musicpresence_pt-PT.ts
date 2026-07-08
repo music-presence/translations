@@ -1779,7 +1779,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../src/app/settings/window.cpp" line="4083"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>Para mais informações sobre que dados são transmitidos para estes serviços e em como é usada, por favor lê o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
+        <translation>Para mais informações sobre que dados são transmitidos para estes serviços e em como são usados, por favor, lê o &lt;a {attributes}&gt;Aviso de Privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4092"/>
@@ -1852,19 +1852,19 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation>Clicando no título abre a página da faixa</translation>
+        <translation>Clicar no título abre a página da faixa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation>Clicando no artista abre a página do artista</translation>
+        <translation>Clicar no artista abre a página do artista</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2731"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation>Clicando no álbum abre a página do álbum</translation>
+        <translation>Clicar no álbum abre a página do álbum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2736"/>
@@ -1965,7 +1965,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="4256"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation>Selecionar o tamanho de uma imagem de capa apenas afeta capas obtidas de APIs de música. Imagens de capa locais de reprodutores média está atualmente limitado a um unico tamanho.</translation>
+        <translation>Selecionar o tamanho de uma imagem de capa apenas afeta capas obtidas de APIs de música. Imagens de capa locais dos reprodutores de média estão atualmente limitados a um único tamanho.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
@@ -2225,7 +2225,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation>{app_name} é feito por um único desenvolvedor e depende de doações de utilizadores como tu para receber atualizações contínuas. Doações também fazem possivel que o tempo gasto trabalhando em novas funcionalidades com &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; e &lt;a {listening_along_attributes}&gt;Ouvir em conjunto&lt;/a&gt;.</translation>
+        <translation>O {app_name} é feito por um único desenvolvedor e depende de doações de utilizadores como tu para receber atualizações contínuas. Doações também tornam possível passar tempo a trabalhar em novas funcionalidades, como &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; e &lt;a {listening_along_attributes}&gt;Ouvir em conjunto&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
@@ -2242,7 +2242,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation>sen taxas</translation>
+        <translation>sem taxas</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
@@ -2277,7 +2277,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation>Para uma lista de doações recentes, patrocinadores atuais e respostas ás perguntas frequentemente perguntadas, visita o website: {website_url}</translation>
+        <translation>Para uma lista de doações recentes, patrocinadores atuais e respostas às perguntas frequentemente perguntadas, visita a página: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
@@ -2289,7 +2289,7 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation>Doando, estás ativamente a financiar o desenvolvimento de novas funcionalidades:</translation>
+        <translation>Ao doar, estás ativamente a financiar o desenvolvimento de novas funcionalidades:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
@@ -2301,13 +2301,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Suporte de navegador&lt;/a&gt;: Compatibilidade com várias páginas web e plataformas de música online. Operado pela extensão do navegador {media_control}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Ouvir em conjunto&lt;/a&gt;: Ouve música com os teus amigos, através de serviços streaming e reprodutores multimédia diferentes</translation>
     </message>
 </context>
 <context>
@@ -4059,13 +4059,13 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="63"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
         <source>Scrobbling is the process of keeping a record of your music listening history on a platform like {lastfm_brand}. It&apos;s useful for statistics, music recommendations and finding overlaps in your music taste with other people.</source>
         <comment>Welcome: Introductory line to the scrobbling functionality of the app</comment>
-        <translation type="unfinished">Fazer scrobble é o processo de manter um registo do teu historial de músicas ouvidas numa plataforma como o {lastfm_brand}. É útil para estatísticas, recomendações e encontrar gostos musicais em comum com outras pessoas.</translation>
+        <translation>Fazer scrobble é o processo de manter um registo do teu historial de músicas ouvidas numa plataforma como o {lastfm_brand}. É útil para estatísticas, recomendações e encontrar gostos musicais em comum com outras pessoas.</translation>
     </message>
 </context>
 <context>
