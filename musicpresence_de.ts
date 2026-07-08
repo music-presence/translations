@@ -1262,7 +1262,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Link für eigenen Knopf</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
@@ -1911,73 +1911,73 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="2910"/>
         <source>Show a button that links to the song</source>
         <comment>whether to show the &quot;Listen to this song&quot; button in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige einen Knopf mit Link zur Liedseite</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2917"/>
         <source>Display the song link button as &quot;{play_on_player}&quot;</source>
         <comment>setting for the &quot;Listen to this song&quot; button text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige den Knopf mit Link zur Liedseite als &quot;{play_on_player}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2926"/>
         <source>Show the &quot;{branding_text}&quot; button</source>
         <comment>appearance: whether to show branding in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige den &quot;{branding_text}&quot; Knopf</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2932"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Der Knopf mit Link zur Liedseite wird nur für Streamingdienste angezeigt und nur dann, wenn die entsprechende Musik-API unter {services_panel} aktiviert wurde. Der Knopf wird immer angezeigt, wenn &quot;{setting_name}&quot; unter {section_name} deaktiviert ist, um den Auflagen von Musik-API-Anbietern nachzukommen.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3988"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Musik-APIs</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>&lt;p&gt;To use the Spotify API, Spotify Premium is required. Create a Spotify application in the &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, then scroll down to {section_name} and enter the application credentials.&lt;/p&gt;&lt;p&gt;For more information, &lt;a {documentation_attributes}&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;</source>
         <comment>music API configuration: Pop-up text for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Um die Spotify API zu verwenden wird Spotify Premium benötigt. Erstelle eine Spotify-Anwendung im &lt;a {spotify_attributes}&gt;Spotify Entwickler-Dashboard&lt;/a&gt;, dann scrolle herunter zu {section_name} und gebe die Zugangsdaten für die Anwendung ein.&lt;/p&gt;&lt;p&gt;Für weitere Informationen, &lt;a {documentation_attributes}&gt;lese die Dokumentation&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4038"/>
         <source>Credentials required</source>
         <comment>music API configuration: Pop-up title for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zugangsdaten erforderlich</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4206"/>
         <source>{size}x{size}</source>
         <comment>music API configuration: text for an image size, e.g. 100x100 pixels or 800x800 pixels. The &quot;size&quot; is always a number</comment>
-        <translation type="unfinished"></translation>
+        <translation>{size}x{size}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4213"/>
         <source>Automatic</source>
         <comment>music API configuration: option for the selection of cover image sizes. the optimal cover image size is determined automatically</comment>
-        <translation type="unfinished">Automatisch</translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4220"/>
         <source>Maximum</source>
         <comment>music API configuration: option for the selection of cover image sizes. this selects the maximum available cover image size</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4251"/>
         <source>Album cover size</source>
         <comment>music API configuration setting: selection for the size of album cover images to use from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albumcover-Größe</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4256"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Auswahl einer Albumcover-Größe findet nur bei Coverbildern von Musik-APIs Anwendung. Lokale Coverbilder von Medienspielern sind aktuell auf eine einzige Größe limitiert.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
@@ -2096,7 +2096,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="7475"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation>Voreinstellungen</translation>
+        <translation>Eingebaut</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7601"/>
@@ -2117,7 +2117,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="7708"/>
         <source>Something went wrong</source>
         <comment>Metadata: Popup title for when an error occurred while saving an edit</comment>
-        <translation type="unfinished">Etwas ist schief gelaufen</translation>
+        <translation>Etwas ist schief gelaufen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="7677"/>
@@ -2138,91 +2138,91 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="31"/>
         <source>Right-click the menu bar icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (Apple/Mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klicke mit der rechten Maustaste auf das Menüleisten-Symbol um Einstellungen schnell zu ändern</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="36"/>
         <source>Right-click the tray menu icon to change settings quickly</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence (generic version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Klicke mit der rechten Maustaste auf das Taskleisten-Symbol um Einstellungen schnell zu ändern</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="43"/>
         <source>Discord Rich Presence</source>
         <comment>Welcome: Discord Rich Presence feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord Rich Presence</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="47"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="49"/>
         <source>Show your friends what you are listening to by displaying the currently playing song on your Discord profile! This works with almost any media player.</source>
         <comment>Welcome: Introductory line to the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige deinen Freunden, welche Musik du hörst, indem du das aktuell spielende Lied auf deinem Discord-Profil anzeigst! Es funktioniert mit fast jedem Medienspieler.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="57"/>
         <source>Install and run the &lt;a {discord_attributes}&gt;Discord desktop app&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Installiere und starte die &lt;a {discord_attributes}&gt;Discord Desktop-Anwendung&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="66"/>
         <source>Make sure &lt;a {activity_sharing_attributes}&gt;Activity Sharing&lt;/a&gt; is enabled in your Discord account settings</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stelle sicher, dass das &lt;a {activity_sharing_attributes}&gt;Teilen von Aktivitäten&lt;/a&gt; in deinen Discord-Accounteinstellungen aktiviert ist</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="75"/>
         <source>Play music with your media player. You currently need to use the desktop app version of your media player, but &lt;a {browser_support_attributes}&gt;browser support&lt;/a&gt; is coming soon. Depending on your media player you may also need a &lt;a {plugin_attributes}&gt;plugin&lt;/a&gt;</source>
         <comment>Discord: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spiele Musik mit deinem Medienspieler. Aktuell musst du die Desktopversion deines Medienspielers verwenden, allerdings wird es bald auch &lt;a {browser_support_attributes}&gt;Browser-Unterstützung&lt;/a&gt; geben. Je nach Medienspieler benötigst du unter Umständen auch ein &lt;a {plugin_attributes}&gt;Plugin&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="90"/>
         <source>Go to {settings} for general configuration</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {settings} für grundlegende Konfiguration</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="96"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="102"/>
         <source>Go to {appearance} to customize your status</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {appearance} um deinen Status anzupassen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="108"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Darstellung</translation>
+        <translation>Darstellung</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="114"/>
         <source>Go to {services} to configure how external services are used</source>
         <comment>Scrobbling: Instruction step that explains how to start using Discord Rich Presence</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {services} um die Verwendung externer Dienste zu konfigurieren</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="119"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Dienste</translation>
+        <translation>Dienste</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DiscordIntroPanel.cpp" line="125"/>
         <source>Also have a look at the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;, the &lt;a {help_attributes}&gt;help page&lt;/a&gt; and how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;.</source>
         <comment>Welcome: Additional information about the Discord Rich Presence functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Werfe auch einen Blick auf die &lt;a {media_players_attributes}&gt;Liste unterstützter Medienspieler&lt;/a&gt;, die &lt;a {help_attributes}&gt;Hilfe-Seite&lt;/a&gt; und wie du &lt;a {add_support_attributes}&gt;Unterstützung für weitere Medienspieler&lt;/a&gt; hinzufügen kannst.</translation>
     </message>
 </context>
 <context>
@@ -2231,95 +2231,95 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unterstütze das Projekt</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} wird von einem einzigen Entwickler entwickelt und ist von Spenden durch Nutzer wie dir abhängig, um durchgehend Updates zu erhalten. Spenden ermöglichen es ebenfalls Zeit in die Entwicklung von neuen Features wie &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; und &lt;a {listening_along_attributes}&gt;gemeinsam Musik hören&lt;/a&gt; zu stecken.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Möglichkeiten zu Spenden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation>{github_sponsors}: Ausschließlich Kreditkarten</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>keine Gebühren</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}: Akzeptiert Digital Wallets</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>5% Gebühr</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation>{ko_fi}: Akzeptiert PayPal und lokale Bezahlmethoden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}: Ausschließlich monatliche Spenden</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>8% Gebühr</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>Für eine Auflistung kürzlicher Spenden, aktueller Sponsoren und Antworten auf häufig gestellte Frage, besuche die Webseite: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
         <source>How your donation helps</source>
         <comment>donation settings panel: title of the section that explains how the donation helps the project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wie deine Spende hilft</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mit einer Spende förderst du aktiv die Entwicklung neuer Features:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Zuverlässiges und funktionsreiches Scrobbling zu {lastfm} und anderen Diensten ist nahezu bereit für die Veröffentlichung und wird in Version {version} erscheinen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Browser-Unterstützung&lt;/a&gt;: Kompatibilität mit verschiedensten Webseiten und Online-Musikplattformen. Wird möglich gemacht durch die {media_control} Browser-Erweiterung</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Gemeinsam Musik hören&lt;/a&gt;: Höre gemeinsam mit deinen Freunden Musik, unabhängig vom verwendeten Streamingdienst oder Medienspieler</translation>
     </message>
 </context>
 <context>
@@ -2328,43 +2328,43 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="55"/>
         <source>Need help?</source>
         <comment>Welcome: Help feature section title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benötigst du Hilfe?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="80"/>
         <source>Visit the &lt;a {help_attributes}&gt;help page&lt;/a&gt; for solutions to common problems</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Besuche die &lt;a {help_attributes}&gt;Hilfe-Seite&lt;/a&gt; für Lösungen zu bekannten Problemen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="89"/>
         <source>Join the Discord server: {discord_invite_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trete dem Discord-Server bei: {discord_invite_link}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="98"/>
         <source>Report a bug or suggest a new feature &lt;a {issue_tracker_attributes}&gt;here&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Melde einen Fehler oder schlage ein neues Feature &lt;a {issue_tracker_attributes}&gt;hier&lt;/a&gt; vor</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="108"/>
         <source>Check out the &lt;a {media_players_attributes}&gt;list of supported media players&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Werfe einen Blick auf die &lt;a {media_players_attributes}&gt;Liste der unterstützten Medienspieler&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="118"/>
         <source>Find out how to &lt;a {add_support_attributes}&gt;add support for another media player&lt;/a&gt;</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Finde heraus, wie du &lt;a {add_support_attributes}&gt;Unterstützung für einen neuen Medienspieler&lt;/a&gt; hinzufügen kannst</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lese die Dokumentation unter {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -2373,19 +2373,19 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erste Schritte</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mehr erfahren</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Weniger anzeigen</translation>
     </message>
 </context>
 <context>
@@ -2409,7 +2409,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic filters</source>
         <comment>Metadata: Basic metadata filter presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grundlegende Filter</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="79"/>
@@ -2475,14 +2475,14 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="17"/>
         <source>{category} / {tab}</source>
         <comment>Link text for a link to a tab in a specific settings category. This e.g. looks like &quot;Edits / Presets&quot; for the &quot;Presets&quot; tab in the &quot;Edits&quot; settings category. You can usually just leave it this way, unless it&apos;s more natural to use a different character other than the slash character to separate the two. If you are translating to a right-to-left language, then you might want to consider switching the two placeholders</comment>
-        <translation type="unfinished"></translation>
+        <translation>{category} / {tab}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="81"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="84"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Metadaten</translation>
+        <translation>Metadaten</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="86"/>
@@ -2494,20 +2494,20 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="35"/>
         <source>Go to {presets} to look at all available presets</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu {presets} um alle verfügbaren eingebauten Bearbeitungen zu betrachten</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="39"/>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="63"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Bearbeitungen</translation>
+        <translation>Bearbeitungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="45"/>
         <source>Presets</source>
         <comment>Metadata: Tab name for preset edits. Presets are edits that come with Music Presence</comment>
-        <translation type="unfinished">Voreinstellungen</translation>
+        <translation>Eingebaut</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="57"/>
@@ -2519,19 +2519,19 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="69"/>
         <source>Replacements</source>
         <comment>Metadata: Tab name for custom replacement metadata edits. Replacements modify song metadata by replacing certain parts with e.g. regular expressions</comment>
-        <translation type="unfinished">Ersetzungen</translation>
+        <translation>Ersetzungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeite Musik-Metadaten mit nützlichen eingebauten Bearbeitungen.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Möglichkeiten Metadaten zu bearbeiten sind bald verfügbar. Betrachte den &lt;a {roadmap_attributes}&gt;Projektplan&lt;/a&gt; für mehr Details.</translation>
     </message>
 </context>
 <context>
@@ -2709,7 +2709,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1516"/>
         <source>Miscellaneous</source>
         <comment>Metadata: Section title for miscellaneous settings of an edit</comment>
-        <translation type="unfinished">Sonstiges</translation>
+        <translation>Sonstiges</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
@@ -2965,7 +2965,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="228"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished">Bearbeitungen</translation>
+        <translation>Bearbeitungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="256"/>
@@ -3593,13 +3593,13 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="18"/>
         <source>Scrobbling</source>
         <comment>Welcome: Scrobbling feature section title</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="21"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingIntroPanel.cpp" line="24"/>
@@ -4051,7 +4051,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="63"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Scrobbling</translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/ScrobblingPreviewPanel.cpp" line="75"/>
@@ -4087,19 +4087,19 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="75"/>
         <source>Show this welcome page when opening the settings</source>
         <comment>Welcome: Checkbox whether to show the welcome screen whenever the settings window is opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige diese Willkommensseite beim Öffnen der Einstellungen</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="174"/>
         <source>Welcome to {app_name}</source>
         <comment>Welcome: Title of the &quot;Welcome&quot; settings panel that introduces the functions of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen zu {app_name}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/WelcomePanel.cpp" line="190"/>
         <source>{app_name} is a tool to broadcast your music listening activity to other platforms. Continue reading to get an introduction to all features of the app and how to use them.</source>
         <comment>Welcome: Introductory line to the functionality of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} ist ein Werkzeug um deine Musikhöraktivität an andere Plattformen zu übertragen. Lies weiter, um eine Einführung in alle Funktionen der App zu erhalten und zu erfahren, wie du sie verwendest.</translation>
     </message>
     <message>
         <source>Scrobbling</source>
