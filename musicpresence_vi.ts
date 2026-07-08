@@ -1767,7 +1767,7 @@ Bạn có thể trợ giúp quá trình phát triển bằng một sự quyên g
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liên kết nút tuỳ chỉnh</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
