@@ -1774,7 +1774,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Własny link przycisku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
@@ -2005,7 +2005,7 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <location filename="../src/app/settings/window.cpp" line="4513"/>
         <source>Websocket URL</source>
         <comment>Custom cover proxy server: Websocket server address/URL</comment>
-        <translation>URL Websocket</translation>
+        <translation>URL Websocketa</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4544"/>
