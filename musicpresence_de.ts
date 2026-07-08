@@ -1537,7 +1537,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2716"/>
         <source>These settings do not apply to streaming services</source>
-        <translation>Diese Einstellungen gelten nicht für Streaming-Dienste</translation>
+        <translation>Diese Einstellungen gelten nicht für Streamingdienste.</translation>
     </message>
     <message>
         <source>Display the &quot;{listen_to_this_song}&quot; button as &quot;{play_on_player}&quot;</source>
@@ -1858,37 +1858,37 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öffne die Liedseite mit Klick auf den Liedtitel</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öffne die Künstlerseite mit Klick auf den Künstlernamen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2731"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öffne die Albumseite mit Klick auf den Albumnamen</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2736"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Einstellungen finden nur bei Liedern von Streamingdiensten Anwendung und nur dann, wenn die entsprechende Musik-API unter {services_panel} aktiviert wurde.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2763"/>
         <source>Show a custom button</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeige einen eigenen Knopf</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>URL für eigenen Knopf</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>
