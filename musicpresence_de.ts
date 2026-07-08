@@ -2237,7 +2237,7 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation>{app_name} wird von einem einzigen Entwickler entwickelt und ist von Spenden durch Nutzer wie dir abhängig, um durchgehend Updates zu erhalten. Spenden ermöglichen es ebenfalls Zeit in die Entwicklung von neuen Features wie &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; und &lt;a {listening_along_attributes}&gt;gemeinsam Musik hören&lt;/a&gt; zu stecken.</translation>
+        <translation>{app_name} wird von einem einzigen Entwickler entwickelt und ist von Spenden durch Nutzer wie dir abhängig, um durchgehend Updates zu erhalten. Spenden ermöglichen es ebenfalls, Zeit in die Entwicklung von neuen Features wie &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; und &lt;a {listening_along_attributes}&gt;gemeinsam Musik hören&lt;/a&gt; zu investieren.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
