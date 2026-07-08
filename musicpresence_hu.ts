@@ -1475,6 +1475,12 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="2989"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
@@ -1637,12 +1643,6 @@ Támogathatod a fejlesztést adománnyal. Kattints ide vagy a tálca menüben a 
     <message>
         <location filename="../src/app/settings/window.cpp" line="2763"/>
         <source>Show a custom button</source>
-        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
-        <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
         <translation type="unfinished"></translation>
     </message>

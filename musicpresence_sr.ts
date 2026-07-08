@@ -1332,12 +1332,6 @@ Možete da podržite razvoj sa donacijom. Kliknite ovde ili na ikonicu u Menu Ba
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
-        <source>Custom button URL</source>
-        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
@@ -1531,6 +1525,12 @@ Možete da podržite razvoj sa donacijom. Kliknite ovde ili na ikonicu u Menu Ba
         <source>Personal Spotify API credentials</source>
         <comment>music API configuration group</comment>
         <translation>Lični Spotify API kredencijali</translation>
+    </message>
+    <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3988"/>

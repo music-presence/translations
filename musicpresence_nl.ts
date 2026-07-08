@@ -1207,6 +1207,12 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
         <translation>Controleren...</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
@@ -1846,12 +1852,6 @@ Je kan de ontwikkeling steunen met een donatie. Klik hier of in het taakbalkmenu
     <message>
         <location filename="../src/app/settings/window.cpp" line="2763"/>
         <source>Show a custom button</source>
-        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
-        <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
         <translation type="unfinished"></translation>
     </message>

@@ -1259,6 +1259,12 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <translation>Um beliebigen Text anzuzeigen, öffne {discord_developer_portal_url} und klicke auf &quot;{new_application_button_name}&quot;. Gib den gewünschten Namen ein und klicke auf &quot;{create_button_name}&quot;. Schaue nach &quot;{application_id_section_name}&quot; auf der Seite, die sich im Anschluss öffnet, kopiere die angezeigte Zahl und füge sie in das obige Feld ein.</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
@@ -1885,10 +1891,9 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <translation>Zeige einen eigenen Knopf</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation>URL für eigenen Knopf</translation>
+        <translation type="vanished">URL für eigenen Knopf</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>

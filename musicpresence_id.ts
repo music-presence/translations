@@ -1212,6 +1212,12 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <translation>Memeriksa...</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
@@ -1855,10 +1861,9 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <translation>Tampilkan tombol kustom</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation>URL tombol kustom</translation>
+        <translation type="vanished">URL tombol kustom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>

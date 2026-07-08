@@ -1413,6 +1413,12 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
         <translation>Usar o API do Spotify ao ouvir no Spotify</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
@@ -1515,12 +1521,6 @@ Você pode apoiar seu desenvolvimento com uma doação. Clique aqui ou na bandej
     <message>
         <location filename="../src/app/settings/window.cpp" line="2763"/>
         <source>Show a custom button</source>
-        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
-        <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
         <translation type="unfinished"></translation>
     </message>

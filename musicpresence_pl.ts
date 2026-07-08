@@ -1771,6 +1771,12 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <translation>Korzystaj ze Spotify API podczas słuchania na Spotify</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
         <source>Use the Apple Music API, when listening to Apple Music</source>
         <comment>services setting</comment>
@@ -1885,10 +1891,9 @@ Możesz wesprzeć wsparcie darowizną. Kliknij tutaj lub w zasobniku dla informa
         <translation>Pokaż własny przycisk</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation>URL Własnego przycisku</translation>
+        <translation type="vanished">URL Własnego przycisku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>

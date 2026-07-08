@@ -879,6 +879,12 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>检查中...</translation>
     </message>
     <message>
+        <location filename="../src/app/settings/window.cpp" line="2766"/>
+        <source>Custom button link</source>
+        <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
@@ -1516,10 +1522,9 @@ You can support the development with a donation. Click here or in the tray menu 
         <translation>显示自定义按钮</translation>
     </message>
     <message>
-        <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button URL</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation>自定义按钮 URL</translation>
+        <translation type="vanished">自定义按钮 URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2776"/>
