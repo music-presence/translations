@@ -1899,13 +1899,13 @@ Spende um die Entwicklung zu unterstützen. Klicke hier oder im Menü für mehr 
         <location filename="../src/app/settings/window.cpp" line="2776"/>
         <source>Custom text</source>
         <comment>discord appearance setting: Placeholder text for the text box to enter the display text for a custom button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beliebiger Text</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2838"/>
         <source>Invalid URL</source>
         <comment>The entered URL is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige URL</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2910"/>
