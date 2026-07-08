@@ -1757,7 +1757,7 @@ Puoi supportarne lo sviluppo con una donazione. Clicca qui o nel menu dell’are
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Link del pulsante personalizzato</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
