@@ -1330,19 +1330,19 @@ Podes ajudar no desenvolvimento com uma doação. Clica aqui ou na bandeja do si
         <location filename="../src/app/settings/window.cpp" line="1256"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation>Mostrar o ícone da app na barra do menu</translation>
+        <translation>Mostrar o ícone da aplicação na barra do menu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1260"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation>Mostrar o ícone da app na barra de tarefas</translation>
+        <translation>Mostrar o ícone da aplicação na barra de tarefas</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation>Mostrar o ícone da app na bandeja do sistema</translation>
+        <translation>Mostrar o ícone da aplicação na bandeja do sistema</translation>
     </message>
     <message>
         <source>Open the settings, when the app is launched again</source>
