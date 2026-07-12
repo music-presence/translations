@@ -1737,7 +1737,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bouton personnalisé pour les liens</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4050"/>
@@ -1754,7 +1754,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
     <message>
         <location filename="../src/app/settings/window.cpp" line="4083"/>
         <source>For more information on what data is transmitted to these services and how this data is used, please read the &lt;a {attributes}&gt;Privacy Notice&lt;/a&gt;.</source>
-        <translation>Pour plus d&apos;information sur le type de données transmises ainsi que leur utilisation, lire la &lt;a {attributes}&gt;Politique de confidentialité&lt;/a&gt;.</translation>
+        <translation>Pour plus d&apos;informations sur le type de données transmises ainsi que leur utilisation, lire la &lt;a {attributes}&gt;Politique de confidentialité&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4092"/>
@@ -2212,7 +2212,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation>{github_sponsors}: Carte de crédit seulement</translation>
+        <translation>{github_sponsors}&#xa0;: Carte de crédit seulement</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
@@ -2223,7 +2223,7 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation>{buy_me_a_coffee}: Accepte les portefeuilles numériques</translation>
+        <translation>{buy_me_a_coffee}&#xa0;: Accepte les portefeuilles numériques</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
@@ -2235,13 +2235,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation>{ko_fi}: Accepte PayPal et les moyens de paiement locaux</translation>
+        <translation>{ko_fi}&#xa0;: Accepte PayPal et les moyens de paiement locaux</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation>{patreon}: Dons mensuels seulement</translation>
+        <translation>{patreon}&#xa0;: Dons mensuels seulement</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
@@ -2276,13 +2276,13 @@ Vous pouvez soutenir son développement avec un don. Cliquez ici ou dans le menu
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation>&lt;a {browser_support_attributes}&gt;Support des navigateurs&lt;/a&gt;: Compatibilité avec divers sites web et plateformes en ligne. Fonctionne grâce à l&apos;extension de navigateur {media_control}</translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Support des navigateurs&lt;/a&gt;&#xa0;: Compatibilité avec divers sites web et plateformes en ligne. Fonctionne grâce à l&apos;extension de navigateur {media_control}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation>&lt;a {listening_along_attributes}&gt;Écouter ensemble&lt;/a&gt;: Écoutez de la musique avec vos amis, sur différents services de streaming et via différents lecteurs multimédias</translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Écouter ensemble&lt;/a&gt;&#xa0;: Écoutez de la musique avec vos amis, sur différents services de streaming et via différents lecteurs multimédias</translation>
     </message>
 </context>
 <context>
