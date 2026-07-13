@@ -938,7 +938,7 @@ You can support the development with a donation. Click here or in the tray menu 
         <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>แสดงหน้ายินดีต้อนรับเมื่อเปิดการตั้งค่า</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
