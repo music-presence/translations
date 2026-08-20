@@ -933,7 +933,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="690"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Metadáta</translation>
+        <translation>Metadáta</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="701"/>
@@ -946,7 +946,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="710"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Úpravy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="719"/>
@@ -1025,30 +1025,30 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
     <message>
         <location filename="../src/app/settings/window.cpp" line="1194"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre ukončenie aplikácie v prípade, že je ikona v lište skrytá, klikni na &quot;{exit_category_name}&quot; v postrannom paneli.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1199"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre ukončenie aplikácie v prípade, že je ikona na paneli úloh skrytá, klikni na &quot;{exit_category_name}&quot; v postrannom paneli.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1336"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť nastavenia keď je aplikácia znova spustená</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1392"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vždy otvoriť poslednú otvorenú sekciu nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť uvítaciu stránku pri otvorení nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
@@ -1182,13 +1182,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="2339"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2432"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID aplikácie</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2451"/>
@@ -1202,50 +1202,50 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="3249"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2482"/>
         <location filename="../src/app/settings/window.cpp" line="3237"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;{quoted_text}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2496"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolujem...</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastné tlačidlo s odkazom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba siete</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3245"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3253"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Požiadavka zlyhala</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3662"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Povoliť presence pre jednotlivé účty Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3901"/>
@@ -1320,7 +1320,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="332"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importovať tvoju scrobbling licenciu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="335"/>
@@ -1374,13 +1374,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../src/app/settings/window.cpp" line="737"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interpreti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="740"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Licencia</translation>
+        <translation>Licencia</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1091"/>
@@ -2388,7 +2388,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditCardWidget.cpp" line="301"/>
         <source>Enable</source>
         <comment>Scrobbling: Enable a metadata pattern replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Povoliť</translation>
     </message>
 </context>
 <context>
@@ -2881,13 +2881,13 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="62"/>
         <source>Account successfully connected.</source>
         <comment>Scrobbling: Connecting the scrobbling account was successful</comment>
-        <translation type="unfinished"></translation>
+        <translation>Účet bol úspešne pridaný.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="144"/>
         <source>Next steps</source>
         <comment>Scrobbling: The next steps after connecting a scrobbling account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ďalšie kroky</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="173"/>
@@ -2905,7 +2905,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="184"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Prehrávače</translation>
+        <translation>Prehrávače</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="192"/>
@@ -2918,7 +2918,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="370"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Konfigurácia</translation>
+        <translation>Konfigurácia</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -2936,7 +2936,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="281"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interpreti</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="221"/>
@@ -2954,7 +2954,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="256"/>
         <source>Initial setup</source>
         <comment>Scrobbling: Initial account setup section that is shown directly after connecting a new account</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prvotná inštalácia</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="261"/>
@@ -2966,26 +2966,26 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="273"/>
         <source>Artist scrobbling</source>
         <comment>Scrobbling: Control how artists are scrobbled</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling interpretov</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="290"/>
         <source>Scrobble all artists</source>
         <comment>Scrobbling: Option to scrobble all artists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť scrobbling pre všetkých interpretov</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="295"/>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="305"/>
         <source>recommended</source>
         <comment>Scrobbling: Label for a recommended settings. Must be short text, ideally a single word. Should be lowercase</comment>
-        <translation type="unfinished"></translation>
+        <translation>odporúčané</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="300"/>
         <source>Scrobble only the primary artist</source>
         <comment>Scrobbling: Option to scrobble only the primary/main artist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použiť scrobbling iba pre primárneho interpreta</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountSetupPanel.cpp" line="342"/>
@@ -3012,7 +3012,7 @@ Môžeš podporiť vývoj aplikácie príspevkom. Klikni sem alebo na ikonu v po
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="58"/>
         <source>Your license has expired.</source>
         <comment>Scrobbling: Informative message that the limited time scrobbling license the user is using has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Platnosť tvojej licencie vypršala.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/scrobbling/ScrobblingAccountsBuyLicensePage.cpp" line="62"/>
