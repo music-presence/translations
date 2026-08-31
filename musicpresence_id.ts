@@ -1215,7 +1215,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tombol tautan kustom</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
@@ -1899,31 +1899,31 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="2932"/>
         <source>The song link button is only shown for streaming services and only, if the respective music API is enabled under {services_panel}. It is always shown, if &quot;{setting_name}&quot; under {section_name} is disabled, to comply with music API terms.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tombol tautan hanya ditampilkan untuk layanan streaming dan hanya, jika API musik respektif diaktifkan dibawah {services_panel}. Ini tetap ditampilkan, jika &quot;{setting_name}&quot; dibawah dimatikan, untuk mematuhi ketentuan API musik.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3988"/>
         <source>Music APIs</source>
         <comment>services setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>API Musik</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4021"/>
         <source>&lt;p&gt;To use the Spotify API, Spotify Premium is required. Create a Spotify application in the &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, then scroll down to {section_name} and enter the application credentials.&lt;/p&gt;&lt;p&gt;For more information, &lt;a {documentation_attributes}&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;</source>
         <comment>music API configuration: Pop-up text for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Untuk menggunakan API Spotify, Spotify Premium diperlukan. Buat aplikasi Spotify di &lt;a {spotify_attributes}&gt;Spotify Developer Dashboard&lt;/a&gt;, kemudian gulir ke bawah ke {section_name} dan masukkan kredensial aplikasi.&lt;/p&gt;&lt;p&gt;Untuk informasi selengkapnya, &lt;a {documentation_attributes}&gt;baca dokumentasi&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4038"/>
         <source>Credentials required</source>
         <comment>music API configuration: Pop-up title for the banner that shows when trying to enable a music API that requires credentials, i.e. username and password or a client ID and client secret</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kredensial diperlukan</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4206"/>
         <source>{size}x{size}</source>
         <comment>music API configuration: text for an image size, e.g. 100x100 pixels or 800x800 pixels. The &quot;size&quot; is always a number</comment>
-        <translation type="unfinished"></translation>
+        <translation>{size}x{size}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4213"/>
@@ -1935,19 +1935,19 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../src/app/settings/window.cpp" line="4220"/>
         <source>Maximum</source>
         <comment>music API configuration: option for the selection of cover image sizes. this selects the maximum available cover image size</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maksimal</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4251"/>
         <source>Album cover size</source>
         <comment>music API configuration setting: selection for the size of album cover images to use from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ukuran sampul album</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4256"/>
         <source>Selecting a cover image size only affects covers retrieved from music APIs. Local cover images from media players are currently limited to only a single size.</source>
         <comment>music API configuration setting: Information text for the selection of album cover image sizes from music APIs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Memilih ukuran gambar sampul hanya memengaruhi sampul yang diambil dari API musik. Gambar sampul lokal dari pemutar media saat ini dibatasi untuk ukuran tunggal.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4453"/>
@@ -2201,95 +2201,95 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="62"/>
         <source>Support the project</source>
         <comment>donation settings panel: title of the donation settings panel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dukung proyek ini</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="75"/>
         <source>{app_name} is made by a single developer and relies on donations from users like you to receive continuous updates. Donations also make it possible to spend time working on new features like &lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt; and &lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;.</source>
         <comment>donation settings panel: introduction text</comment>
-        <translation type="unfinished"></translation>
+        <translation>{app_name} dibuat oleh satu pengembang dan bergantung pada donasi dari pengguna seperti Anda untuk mendapatkan pembaruan berkelanjutan. Donasi juga memungkinkan untuk meluangkan waktu mengerjakan fitur-fitur baru seperti &lt;a {scrobbling_attributes}&gt;Skrobbling&lt;/a&gt; dan &lt;a {listening_along_attributes}&gt;Dengarkan bersama&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="102"/>
         <source>Donation options</source>
         <comment>donation settings panel: title of the donation options section that lists ways in which someone can donate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opsi donasi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="152"/>
         <source>{github_sponsors}: Credit card only</source>
         <comment>donation settings panel: GitHub Sponsors donation option. keep this text as short as possible. GitHub Sponsors only accepts credit cards</comment>
-        <translation type="unfinished"></translation>
+        <translation>{github_sponsors}: Hanya kartu kredit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="164"/>
         <source>no fees</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada biaya</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="168"/>
         <source>{buy_me_a_coffee}: Accepts digital wallets</source>
         <comment>donation settings panel: Buy Me a Coffee donation option. keep this text as short as possible. Buy Me a Coffee accepts many digital wallets (Google Pay, Apple Pay, etc.). do not list these wallets inidividually, use one broader term instead</comment>
-        <translation type="unfinished"></translation>
+        <translation>{buy_me_a_coffee}: Menerima dompet digital</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="182"/>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="197"/>
         <source>5% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>Biaya 5%</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="186"/>
         <source>{ko_fi}: Accepts PayPal and local payment methods</source>
         <comment>donation settings panel: Ko-fi donation option. keep this text as short as possible. Ko-fi accepts PayPal and many local payment methods</comment>
-        <translation type="unfinished"></translation>
+        <translation>{ko_fi}: Menerima PayPal dan metode pembayaran lokal</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="201"/>
         <source>{patreon}: Monthly donations only</source>
         <comment>donation settings panel: Patreon donation option. Patreon is only for monthly donatio</comment>
-        <translation type="unfinished"></translation>
+        <translation>{patreon}: Hanya donasi bulanan</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="211"/>
         <source>8% fee</source>
-        <translation type="unfinished"></translation>
+        <translation>biaya 8%</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="222"/>
         <source>For a list of recent donations, current sponsors and answers to frequently asked questions, visit the website: {website_url}</source>
         <comment>donation settings panel: text with further links</comment>
-        <translation type="unfinished"></translation>
+        <translation>Untuk daftar donasi baru-baru ini, sponsor saat ini dan jawaban yang paling sering ditanyakan, kunjungi situs web: {website_url}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="243"/>
         <source>How your donation helps</source>
         <comment>donation settings panel: title of the section that explains how the donation helps the project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bagaimana donasi anda membantu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="267"/>
         <source>By donating, you actively fund the development of new features:</source>
         <comment>donation settings panel: introductory sentence for the list of features that are being worked on. keep this rather short</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dengan berdonasi, Kamu secara aktif mendanai pengembangan fitur-fitur baru:</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="285"/>
         <source>&lt;a {scrobbling_attributes}&gt;Scrobbling&lt;/a&gt;: Reliable and feature-rich scrobbling to {lastfm} and other services is nearly ready to be published and will be released in version {version}</source>
         <comment>donation settings panel: bullet point about the scrobbling feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {scrobbling_attributes}&gt;Skrobbling&lt;/a&gt;: Dapat diandalkan dan kaya fitur skroblling ke {lastfm} dan layanan lainnya hampir siap untuk dipublikasikan dan akan dirilis di versi {version}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="303"/>
         <source>&lt;a {browser_support_attributes}&gt;Browser support&lt;/a&gt;: Compatibility with various websites and online music platforms. Powered by the {media_control} browser extension</source>
         <comment>donation settings panel: bullet point about browser support</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {browser_support_attributes}&gt;Dukungan peramban&lt;/a&gt;: Kompatibilitas dengan berbagai situs web platform musik daring. Didukung oleh ekstensi peramban {media_control}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/DonatePanel.cpp" line="318"/>
         <source>&lt;a {listening_along_attributes}&gt;Listening along&lt;/a&gt;: Listen to music together with your friends, across streaming services and across different media players</source>
         <comment>donation settings panel: bullet point about the listening along (listening together) feature</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a {listening_along_attributes}&gt;Mendengarkan bersama&lt;/a&gt;: Dengarkan musik bersama dengan temanmu, antar layanan musik streaming dan antar pemutar media berbeda</translation>
     </message>
 </context>
 <context>
@@ -2334,7 +2334,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/HelpLinksPanel.cpp" line="128"/>
         <source>Read the documentation at {documentation_link}</source>
         <comment>Welcome: Help item</comment>
-        <translation type="unfinished"></translation>
+        <translation>Baca dokumentasinya di {documentation_link}</translation>
     </message>
 </context>
 <context>
@@ -2343,19 +2343,19 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="126"/>
         <source>Getting started</source>
         <comment>Section title for instructions on how to start using a specific feature of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Memulai</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="184"/>
         <source>Learn more</source>
         <comment>Welcome: Button to learn more about a specific feature of the app and show more information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pelajari selengkapnya</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/IntroPanel.cpp" line="196"/>
         <source>Show less</source>
         <comment>Welcome: Button to show less text after expanding the explanation text of a feature with the &quot;Learn more&quot; button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan lebih sedikit</translation>
     </message>
 </context>
 <context>
@@ -2379,19 +2379,19 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="57"/>
         <source>Basic filters</source>
         <comment>Metadata: Basic metadata filter presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filter dasar</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="79"/>
         <source>Basic replacements</source>
         <comment>Metadata: Basic metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dasar penggantian</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsPresetsPanel.cpp" line="109"/>
         <source>Advanced replacements</source>
         <comment>Metadata: Advanced metadata replacement presets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Penggantian lebih lanjut</translation>
     </message>
 </context>
 <context>
