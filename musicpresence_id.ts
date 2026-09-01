@@ -2400,43 +2400,43 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="23"/>
         <source>Custom replacements are currently only available for scrobbling. Your replacements are only applied after connecting an account.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Penggantian kustom saat ini hanya tersedia untuk skrobbling. Penggantianmu baru akan diterapkan setelah akun tersambung.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="36"/>
         <source>Custom replacements are currently only available for scrobbling and require a license.</source>
         <comment>Scrobbling: Pop-up message that a license is required to use custom metadata replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Penggantian kustom saat ini hanya tersedia untuk skrobbling dan memerlukan lisensi.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="41"/>
         <source>Custom replacements are currently only available for scrobbling and your free trial has ended. Buy a license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a license has to be bought to use custom metadata replacements after the scrobbling free trial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Penggantian kustom saat ini hanya tersedia untuk skrobbling dan uji coba gratismu sudah berakhir. Beli lisensinya untuk lanjut menggunakan fitur ini.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="48"/>
         <source>Custom replacements are currently only available for scrobbling and your license has expired. Buy a new license to continue using this feature.</source>
         <comment>Scrobbling: Pop-up message that a new license has to be bought to use custom metadata replacements after a limited time scrobbling license has expired</comment>
-        <translation type="unfinished"></translation>
+        <translation>Penggantian kustom saat ini hanya tersedia untuk skrobbling dan lisensimu sudah kadaluarsa. Beli lisensi baru untuk lanjut menggunakan fitur ini.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="97"/>
         <source>Custom replacements</source>
         <comment>Metadata: Section title for custom regular expression replacements created by the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kustom penggantian</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="160"/>
         <source>Create your first replacement</source>
         <comment>Metadata: Button text for creating the first regular expression replacement. No replacements exist when this text is shown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buat penggantian pertamamu</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataEditsReplacementsPanel.cpp" line="164"/>
         <source>Create another replacement</source>
         <comment>Metadata: Button text for creating another regular expression replacement. The user has already created some replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buat penggantian yang lain</translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2445,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="17"/>
         <source>{category} / {tab}</source>
         <comment>Link text for a link to a tab in a specific settings category. This e.g. looks like &quot;Edits / Presets&quot; for the &quot;Presets&quot; tab in the &quot;Edits&quot; settings category. You can usually just leave it this way, unless it&apos;s more natural to use a different character other than the slash character to separate the two. If you are translating to a right-to-left language, then you might want to consider switching the two placeholders</comment>
-        <translation type="unfinished"></translation>
+        <translation>{category} / {tab}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="81"/>
@@ -2458,13 +2458,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="86"/>
         <source>Edit music metadata with custom regular expressions and useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sunting metadata musik dengan ekspresi kustom regular dan preset berguna.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="35"/>
         <source>Go to {presets} to look at all available presets</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pergi ke {presets} untuk mencari semua preset tersedia</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="39"/>
@@ -2483,7 +2483,7 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="57"/>
         <source>Go to {replacements} to edit metadata with regular expressions</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pergi ke {replacements} untuk menyunting metadata dengan ekspresi reguler</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="69"/>
@@ -2495,13 +2495,13 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="90"/>
         <source>Edit music metadata with useful presets.</source>
         <comment>Metadata: Introduction panel that explains what the Metadata settings category is for (version that only mentions presets)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sunting metadata musik dengan preset berguna.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/general/MetadataIntroPanel.cpp" line="97"/>
         <source>More ways to edit metadata are coming soon, see the &lt;a {roadmap_attributes}&gt;project roadmap&lt;/a&gt; for details.</source>
         <comment>TODO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lebih banyak cara untuk menyunting metadata akan segera datang, lihat &lt;a {roadmap_attributes}&gt;roadmap proyek&lt;/a&gt; untuk selengkapnya.</translation>
     </message>
 </context>
 <context>
@@ -2510,25 +2510,25 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="131"/>
         <source>Title</source>
         <comment>Metadata: Placeholder text for he title of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Judul</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="135"/>
         <source>Artist</source>
         <comment>Metadata: Placeholder text for he artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artis</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="139"/>
         <source>Album</source>
         <comment>Metadata: Placeholder text for he album of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="143"/>
         <source>Album artist</source>
         <comment>Metadata: Placeholder text for he album artist of the song. Keep this as short as possible</comment>
-        <translation type="unfinished"></translation>
+        <translation>Artis album</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="147"/>
@@ -2540,55 +2540,55 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="163"/>
         <source>Name</source>
         <comment>Metadata: Placeholder text of the input for a name of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="190"/>
         <source>Description</source>
         <comment>Metadata: Placeholder text of the input for a description of a metadata edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deskripsi</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="232"/>
         <source>Replacement type</source>
         <comment>Metadata: Section title for the type of a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipe penggantian</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="272"/>
         <source>Replace attributes of metadata that matches all patterns</source>
         <comment>Metadata: This replacement type is only applied when all match patterns (regular expressions) match. Replacements for metadata attributes replace the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Timpa atribut metadata dengan semua pattern yang cocok</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="282"/>
         <source>Search and replace parts of metadata attributes</source>
         <comment>Metadata: This replacement type searches parts/substrings of metadata attributes and replaces the matched parts/substrings with something else. Unlike the other replacement type only parts of metadata attributes are replaced, not the entire attribute. Keep this brief, the help text already goes into detail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cari dan timpa bagian atribut metadata</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="350"/>
         <source>Replaces attributes of metadata that matches all patterns.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Timpa atribut metadata yang cocok dengan semua pattern.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="358"/>
         <source>Searches and replaces parts of metadata attributes.</source>
         <comment>Metadata: This is a description for a replacement type with a preset. Note the extra &apos;s&apos; with &apos;Replaces&apos; and &apos;searches&apos;. See the other similar translation string for a description of what this text means</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mencari dan timpa bagian atribut metadata.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="408"/>
         <source>Match patterns</source>
         <comment>Metadata: Section title for regular expression match patterns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pattern yang sesuai</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="413"/>
         <source>Search patterns</source>
         <comment>Metadata: Section title for regular expression match patterns for the &quot;search and replace&quot; replacement type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cari pattern</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="513"/>
@@ -2600,80 +2600,80 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="555"/>
         <source>Enter at least one search pattern to perform replacements.</source>
         <comment>Metadata: Informational text to inform the user that with the &quot;search and replace&quot; replacement type at least one match pattern has to be entered to perform replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan salah satu pencarian pattern untuk melakukan penggantian.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="892"/>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1116"/>
         <source>Media players</source>
         <comment>Metadata: Section title for the selection of media players to which a replacement should be restricted</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pemutar media</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="920"/>
         <source>Select</source>
         <comment>Metadata: Button text for a dropdown to select which media players a replacement should be restricted to</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pilih</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="924"/>
         <source>Search</source>
         <comment>Metadata: Placeholder text for searching a media player by name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="926"/>
         <source>Not found</source>
         <comment>Metadata: Informational text to inform the user that a media player that was searched for was not found/does not exist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ditemukan</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="990"/>
         <source>You can restrict this edit to specific media players.</source>
         <comment>Metadata: Informational text to inform the user that this metadata edit can be restricted to specific media players. It&apos;s important that this text implies that it&apos;s optional (they &quot;can&quot;, but they don&apos;t have to). When no media player is selected, the edit is applied to metadata from all media players</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kamu bisa membatasi suntingan ini untuk beberapa pemutar media.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1149"/>
         <source>This edit is only applied to {player_name}.</source>
         <comment>Metadata: Informational text for a preset that it&apos;s only applied to one specific media player.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Penyuntingan ini hanya diterapkan untuk {player_name}.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1196"/>
         <source>Test</source>
         <comment>Metadata: Section title for testing an edit, replacement, filter, etc. Note that &quot;Test&quot; is a verb here, not a noun! As in &quot;to test&quot; and not &quot;the test&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uji</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1201"/>
         <source>Example</source>
         <comment>Metadata: Section title for example metadata that matches a preset edit, replacement, filter, etc.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contoh</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1224"/>
         <source>Matches</source>
         <comment>Metadata: Informational text to inform the user that their match patterns all match, i.e. the edit &quot;matches&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kecocokan</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1252"/>
         <source>Does not match</source>
         <comment>Metadata: Informational text to inform the user that their match patterns do not match, i.e. the edit &quot;does not match&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tidak cocok</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1280"/>
         <source>Result</source>
         <comment>Metadata: Section title for the metadata that is the result of applying a replacement edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hasil</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1487"/>
         <source>Error: {error_message}</source>
         <comment>Metadata: A regular expression failed to compile with the given error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan: {error_message}</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1516"/>
@@ -2685,37 +2685,37 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1538"/>
         <source>Show the field for the composer</source>
         <comment>Metadata: Checkbox for showing the composer attribute with match patterns and replacements. This is hidden by default because the composer is rarely needed for any edits</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan field untuk komposer</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1592"/>
         <source>Suggest this replacement as a preset</source>
         <comment>Metadata: The user may suggest their custom replacement edit as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sarankan penggantian ini sebagai preset</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1606"/>
         <source>Submit</source>
         <comment>Metadata: Button text for submitting a custom replacement as a preset for the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Submit</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1635"/>
         <source>Delete this replacement</source>
         <comment>Metadata: The user may delete custom replacements</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hapus penggantian ini</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1641"/>
         <source>Delete</source>
         <comment>Metadata: Button text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1657"/>
         <source>Are you sure?</source>
         <comment>Metadata: Confirmation text for deleting a custom replacement</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apakah kamu yakin?</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1664"/>
@@ -2733,25 +2733,25 @@ Kamu bisa mendukung pengembangan ini dengan donasi. Klik disini atau di menu bak
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1989"/>
         <source>Missing name</source>
         <comment>Metadata: Error title for a missing name of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nama hilang</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1991"/>
         <source>Enter a name for your replacement.</source>
         <comment>Metadata: Error description for a missing name of an edit. Every edit must have a name that briefly describes what it does</comment>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan nama untuk penggantianmu.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="1997"/>
         <source>Missing match pattern</source>
         <comment>Metadata: Error title for a missing match pattern of an edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pattern yang sesuai tidak ditemukan</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="2000"/>
         <source>At least one match pattern is required.</source>
         <comment>Metadata: Error description for a missing match pattern of an edit. Every edit must have at least one match pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salah satu pattern yang sesuai diperlukan.</translation>
     </message>
     <message>
         <location filename="../vendor/qt-components/src/components/metadata/MetadataReplacementDetailsPanel.cpp" line="2015"/>
