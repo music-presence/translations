@@ -596,13 +596,13 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="332"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling lisansınızı içe aktarın</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="335"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lisans dosyanızı içe aktarmak için bu pencereye sürükleyip bırakın.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="676"/>
@@ -626,7 +626,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="688"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hoşgeldiniz</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="701"/>
@@ -936,7 +936,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="737"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sanatçılar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="740"/>
@@ -984,7 +984,7 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar açıldığında karşılama sayfasını göster</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1626"/>
@@ -1193,32 +1193,32 @@ Bağış yaparak geliştirilmesine destek olabilirsiniz. Daha fazla bilgi için 
         <location filename="../src/app/settings/window.cpp" line="2949"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantılar</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Başlığa tıklandığında parça sayfası açılır</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sanatçının üzerine tıklandığında sanatçı sayfası açılır</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2731"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albüme tıklandığında albüm sayfası açılır</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2736"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bu durum yalnızca akış hizmetlerindeki şarkılar için geçerlidir ve yalnızca {services_panel} altında ilgili müzik API’si etkinleştirilmişse geçerlidir.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2760"/>
