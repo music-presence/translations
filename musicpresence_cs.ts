@@ -1194,19 +1194,19 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="4095"/>
         <source>Get additional artists</source>
         <comment>music API configuration setting: gets all artists for a song, not just the main one. this is useful when media players  or streaming services only report the main artist (most do)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Načítat další interprety</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4106"/>
         <source>Get animated album covers (experimental)</source>
         <comment>music API configuration setting: enables animated album covers. this is experimental/beta and can stop working in the future or not work reliably</comment>
-        <translation type="unfinished"></translation>
+        <translation>Načítat animované obaly alb (experimentální)</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4121"/>
         <source>Send your country code</source>
         <comment>music API configuration setting: this sends the user&apos;s country code, e.g. &apos;US&apos;, to music APIs for localized search results</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odesílat kód vaší země</translation>
     </message>
     <message>
         <source>Show &quot;{music_activity_name}&quot; instead of the player name</source>
@@ -1222,19 +1222,19 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2632"/>
         <source>Show the album name when the artist is missing</source>
         <comment>miscellaneous setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit název alba, pokud chybí interpret</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2643"/>
         <source>Do not show any song information</source>
         <comment>appearance setting: whether to hide all song information</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nezobrazovat žádné informace o skladbě</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2760"/>
         <source>Buttons</source>
         <comment>discord appearance setting group for buttons in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tlačítka</translation>
     </message>
     <message>
         <source>Show &quot;{branding_text}&quot; in the presence</source>
@@ -1245,165 +1245,165 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2565"/>
         <source>Song information</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informace o skladbě</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="676"/>
         <source>Exit</source>
         <comment>special settings category to exit the application, in case the tray icon is hidden and exiting is otherwise not possible</comment>
-        <translation type="unfinished">Ukončit</translation>
+        <translation>Ukončit</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="691"/>
         <source>Scrobbling</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="694"/>
         <source>Donate</source>
         <comment>settings category</comment>
-        <translation type="unfinished">Přispět</translation>
+        <translation>Přispět</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="728"/>
         <source>Accounts</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Účty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="731"/>
         <source>Players</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Přehrávače</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="734"/>
         <source>Configuration</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurace</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1091"/>
         <source>Menu bar icon theme</source>
         <comment>Setting for selecting the theme of the icon in the menu bar (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motiv ikony v řádku nabídek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1182"/>
         <source>Interaction</source>
         <comment>general settings group for controlling how the user interacts with the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ovládání</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1256"/>
         <source>Show the app icon in the menu bar</source>
         <comment>general setting: show or hide the tray icon in the menu bar at the top of the screen (Mac)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazovat ikonu aplikace v řádku nabídek</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1260"/>
         <source>Show the app icon in the task bar</source>
         <comment>general setting: show or hide the tray icon in the task bar (Windows)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazovat ikonu aplikace na hlavním panelu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1264"/>
         <source>Show the app icon in the system tray</source>
         <comment>general setting: show or hide the tray icon in the system tray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazovat ikonu aplikace na hlavním panelu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1371"/>
         <source>Open the settings by left-clicking the tray icon</source>
         <comment>general setting: open the settings window by left-clicking the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít nastavení kliknutím levým tlačítkem na ikonu v oznamovací oblasti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1415"/>
         <source>Show the welcome page when opening the settings</source>
         <comment>general setting: whether to show the welcome page with an introduction to the app when opening the settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Při otevření nastavení zobrazit uvítací stránku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1626"/>
         <source>News pop-ups are only shown at the start of the app and never while you are using it. Leave notifications enabled, so you&apos;re always up-to-date on recent developments.</source>
         <comment>explanation of the settings for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vyskakovací okna s novinkami se zobrazují pouze při spuštění aplikace, nikdy během jejího používání. Ponechte oznámení zapnutá, abyste měli vždy přehled o nejnovějším vývoji.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2257"/>
         <source>Display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazovaný text</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2261"/>
         <location filename="../src/app/settings/window.cpp" line="2331"/>
         <source>Player name</source>
         <comment>Display text type: Shows the player name after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Název přehrávače</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2265"/>
         <source>Artist line</source>
         <comment>Display text type: Shows the line that contains the artist after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Řádek s interpretem</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2269"/>
         <source>Title line</source>
         <comment>Display text type: Shows the line that contains the media title after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Řádek s názvem</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2273"/>
         <location filename="../src/app/settings/window.cpp" line="2335"/>
         <source>Media type</source>
         <comment>Display text type: Shows the media type, e.g. &quot;Music&quot;, after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ média</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2325"/>
         <source>Profile display text</source>
         <comment>discord appearance setting group: determines the display text after e.g. &quot;Listening to&quot; in the user&apos;s profile card, which is separate of the display text under the name of the user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text zobrazený v profilu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2568"/>
         <source>Show the song title and artist on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobrazit skladbu a autora na jednom řádku</translation>
+        <translation>Zobrazit skladbu a autora na jednom řádku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2584"/>
         <source>Show the artist and album on a single line</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobrazit umělce a album na jednom řádku</translation>
+        <translation>Zobrazit umělce a album na jednom řádku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2602"/>
         <source>Swap the order of the song title and artist</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Prohodit pořadí názvu skladby a autora</translation>
+        <translation>Prohodit pořadí názvu skladby a autora</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2607"/>
         <source>Prefix the artist name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the artist name with &quot;by&quot;</comment>
-        <translation type="unfinished">Před jménem umělce uvést &quot;{prefix}&quot;</translation>
+        <translation>Před jméno interpreta přidat &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2614"/>
         <source>Prefix the album name with &quot;{prefix}&quot;</source>
         <comment>appearance: whether to prefix the album name with &quot;on&quot;</comment>
-        <translation type="unfinished">Před názvem alba uveďte &quot;{prefix}&quot;</translation>
+        <translation>Před název alba přidat &quot;{prefix}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2620"/>
         <source>Show the album name</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobrazit název alba</translation>
+        <translation>Zobrazit název alba</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2637"/>
