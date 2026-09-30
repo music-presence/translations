@@ -7,19 +7,19 @@
         <location filename="../src/app/app.cpp" line="3517"/>
         <source>Automation permission denied</source>
         <comment>popup window title that explains that macOS app automation permission is denied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oprávnění k automatizaci zamítnuto</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3523"/>
         <source>&lt;p&gt;&lt;b&gt;{app_name} is not allowed to automate &quot;{player_name}&quot;.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Open your system settings and enable automation for &quot;{player_name}&quot; under &quot;Privacy&amp;nbsp;&amp;amp;&amp;nbsp;Security&quot; &gt; &quot;Automation&quot; &gt; &quot;{app_name}&quot;.&lt;/p&gt;</source>
         <comment>explanation for macOS users where to enable app automation</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;{app_name} nemá povoleno automatizaci „{player_name}“.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Otevřete Nastavení systému a povolte automatizaci pro aplikaci „{player_name}“ v části „Soukromí a zabezpečení“ &gt; „Automatizace“ &gt; „{app_name}“.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3537"/>
         <source>Open settings</source>
         <comment>open the system settings of the device</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="3656"/>
@@ -433,25 +433,25 @@
         <location filename="../src/app/app.cpp" line="2163"/>
         <source>News from the developer</source>
         <comment>News tray menu title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky od vývojáře</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2193"/>
         <source>Dismiss</source>
         <comment>News tray menu hint: Dismisses/ignores the news hint and removes it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="2308"/>
         <source>There currently are no news from the developer. Check back later or enable news notifications in the settings to get notified as soon as there are any news available.</source>
         <comment>popup: shown when there are no latest news available</comment>
-        <translation type="unfinished"></translation>
+        <translation>Momentálně nejsou k dispozici žádné novinky od vývojáře. Zkuste to znovu později nebo v nastavení povolte oznámení o novinkách, abyste byli upozorněni, jakmile budou k dispozici.</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5921"/>
         <source>Something is not working</source>
         <comment>help link: opens troubleshooting page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Něco nefunguje</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="5928"/>
@@ -512,13 +512,13 @@
         <location filename="../src/app/app.cpp" line="6045"/>
         <source>View the latest news</source>
         <comment>help menu: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit nejnovější novinky</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6053"/>
         <source>View changelog</source>
         <comment>help menu: opens the changelog popup</comment>
-        <translation type="unfinished">Zobrazit změny</translation>
+        <translation>Zobrazit přehled změn</translation>
     </message>
     <message>
         <location filename="../src/app/app.cpp" line="6417"/>
@@ -830,19 +830,19 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/news/news_dialog.cpp" line="61"/>
         <source>OK</source>
         <comment>Confirm dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="63"/>
         <source>Close anyway</source>
         <comment>Close a dialog anyways</comment>
-        <translation type="unfinished"></translation>
+        <translation>Přesto zavřít</translation>
     </message>
     <message>
         <location filename="../src/app/news/news_dialog.cpp" line="115"/>
         <source>News</source>
         <comment>News popup window title: This shows news about the app from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
 </context>
 <context>
@@ -851,24 +851,24 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="542"/>
         <source>Check for updates</source>
         <comment>general settings action</comment>
-        <translation type="unfinished">Zkontrolovat aktualizace</translation>
+        <translation>Zkontrolovat aktualizace</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="320"/>
         <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="689"/>
         <source>General</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obecné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="692"/>
         <source>Discord</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Discord</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="720"/>
@@ -876,189 +876,189 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2941"/>
         <source>Services</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Služby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="693"/>
         <source>Advanced</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilé</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="690"/>
         <source>Metadata</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metadata</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="701"/>
         <location filename="../src/app/settings/window.cpp" line="8296"/>
         <source>News</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="710"/>
         <source>Edits</source>
         <comment>subcategory of the &quot;Metadata&quot; settings category. this category is for managing edits/modifications to metadata of songs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Úpravy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="719"/>
         <source>Appearance</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Motiv</translation>
+        <translation>Vzhled</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="874"/>
         <source>Language / {language}</source>
         <comment>language setting: translate to the left of the slash, the right side contains the English version</comment>
-        <translation type="unfinished">Jazyk / {language}</translation>
+        <translation>Jazyk / {language}</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="888"/>
         <source>Help with translating</source>
         <comment>opens the translation guide</comment>
-        <translation type="unfinished">Pomoct s překladem</translation>
+        <translation>Pomoci s překladem</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="893"/>
         <source>Apply</source>
         <comment>apply changes to a setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="902"/>
         <source>System language</source>
         <comment>language setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jazyk systému</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1084"/>
         <source>Appearance</source>
         <comment>general setting group for the appearance of the app</comment>
-        <translation type="unfinished">Motiv</translation>
+        <translation>Vzhled</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1093"/>
         <source>Tray icon theme</source>
         <comment>Setting for selecting the theme of the tray icon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motiv ikony v oznamovací oblasti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1103"/>
         <location filename="../src/app/settings/window.cpp" line="1147"/>
         <source>System theme</source>
         <comment>Option to use the system theme for the app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Systémový motiv</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1105"/>
         <location filename="../src/app/settings/window.cpp" line="1149"/>
         <source>Light</source>
         <comment>Option to use a light app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Světlý</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1107"/>
         <location filename="../src/app/settings/window.cpp" line="1150"/>
         <source>Dark</source>
         <comment>Option to use a dark app theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tmavý</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1139"/>
         <source>App theme</source>
         <comment>Setting for selecting the theme of the app</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motiv aplikace</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1194"/>
         <source>To exit the application, when the menu bar icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete-li aplikaci ukončit, když je ikona v řádku nabídek skrytá, klikněte v postranním panelu na „{exit_category_name}“.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1199"/>
         <source>To exit the application, when the tray icon is hidden, click &quot;{exit_category_name}&quot; in the sidebar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete-li aplikaci ukončit, když je ikona v oznamovací oblasti skrytá, klikněte v postranním panelu na „{exit_category_name}“.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1336"/>
         <source>Open the settings when the app is launched again</source>
         <comment>general setting: open the settings window, when the app is already running and it is launched again</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít nastavení při opětovném spuštění aplikace</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1392"/>
         <source>Always open the last used settings category</source>
         <comment>general setting: open the settings category that was used the last time the settings window was opened</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vždy otevřít naposledy použitou kategorii nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1445"/>
         <source>Windows settings</source>
         <comment>general setting group for settings specific to the Windows operating system</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení systému Windows</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1451"/>
         <source>Start {app_name} at login</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Spustit {app_name} při přihlášení</translation>
+        <translation>Spustit {app_name} při přihlášení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1473"/>
         <source>Updates</source>
         <comment>general setting group for app updates</comment>
-        <translation type="unfinished">Aktualizace</translation>
+        <translation>Aktualizace</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1479"/>
         <source>Install updates automatically</source>
         <comment>general setting</comment>
-        <translation type="unfinished">Instalovat aktualizace automaticky</translation>
+        <translation>Instalovat aktualizace automaticky</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1494"/>
         <source>Notify when a new version is available</source>
         <comment>general setting: show a popup when a new version is available</comment>
-        <translation type="unfinished">Upozornit na novou verzi</translation>
+        <translation>Upozornit, když je k dispozici nová verze</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1511"/>
         <source>See what&apos;s new when launching a new version</source>
         <comment>general setting: show a popup when a new version is launched</comment>
-        <translation type="unfinished">Provést vším novým při spuštění nové verze</translation>
+        <translation>Zobrazit novinky při spuštění nové verze</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1537"/>
         <source>Checking for updates...</source>
         <comment>general settings: status text while waiting for the update check</comment>
-        <translation type="unfinished">Probíhá kontrola aktualizací...</translation>
+        <translation>Kontrola aktualizací…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1546"/>
         <source>View changelog</source>
         <comment>general settings: opens the changelog popup</comment>
-        <translation type="unfinished">Zobrazit změny</translation>
+        <translation>Zobrazit přehled změn</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1566"/>
         <source>News</source>
         <comment>general setting group for app news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1569"/>
         <source>Notify about news from the developer</source>
         <comment>general setting: show a popup when there are news from the developer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Upozorňovat na novinky od vývojáře</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1631"/>
         <source>View the latest news</source>
         <comment>general settings: opens a popup with the latest news</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit nejnovější novinky</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="1699"/>
@@ -1067,19 +1067,19 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="3785"/>
         <source>Reset</source>
         <comment>reset an overridden setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2067"/>
         <source>Individual settings</source>
         <comment>individual settings for a media player</comment>
-        <translation type="unfinished"></translation>
+        <translation>Individuální nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2070"/>
         <source>Always show &quot;{podcast_activity_name}&quot; when listening to podcasts</source>
         <comment>setting: always share podcasts as &quot;Listening to a Podcast&quot;</comment>
-        <translation type="unfinished">Vždy zobrazit &quot;{podcast_activity_name}&quot; při poslechu podcastu</translation>
+        <translation>Při poslechu podcastů vždy zobrazovat „{podcast_activity_name}“</translation>
     </message>
     <message>
         <source>Try to filter out advertisements</source>
@@ -1090,13 +1090,13 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2077"/>
         <source>Only show podcasts in your status</source>
         <comment>setting for spotify: share podcasts, but not any music</comment>
-        <translation type="unfinished">Sdílet pouze podcasty</translation>
+        <translation>Zobrazovat pouze podcasty</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2083"/>
         <source>Never show podcasts</source>
         <comment>setting for spotify: share music, but not any podcasts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nikdy nezobrazovat podcasty</translation>
     </message>
     <message>
         <source>Split the artist and album name</source>
@@ -1107,31 +1107,31 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2120"/>
         <source>Display as &quot;{player_name}&quot;</source>
         <comment>allows to display a media player with a different name, e.g. displaying &quot;Spotube&quot; as &quot;Spotify&quot; in the status</comment>
-        <translation type="unfinished">Zobrazit jako &quot;{player_name}&quot;</translation>
+        <translation>Zobrazit jako &quot;{player_name}&quot;</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2206"/>
         <source>To display custom text, go to {discord_developer_portal_url} and click on &quot;{new_application_button_name}&quot;. Then enter the desired name and click on &quot;{create_button_name}&quot;. On the new page that opened, look for &quot;{application_id_section_name}&quot;, then copy the number that is displayed and paste it into the field above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete-li zobrazit vlastní text, přejděte na {discord_developer_portal_url} a klikněte na „{new_application_button_name}“. Poté zadejte požadovaný název a klikněte na „{create_button_name}“. Na nově otevřené stránce vyhledejte „{application_id_section_name}“, zkopírujte zobrazené číslo a vložte jej do pole výše.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2277"/>
         <location filename="../src/app/settings/window.cpp" line="2339"/>
         <source>Custom</source>
         <comment>Display text type: Shows custom text after e.g. &quot;Listening to&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastní</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2432"/>
         <source>Application ID</source>
         <comment>discord appearance setting group: a custom Discord application ID to use for the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ID aplikace</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2451"/>
         <source>Automatic</source>
         <comment>placeholder text for the &quot;Application ID&quot; setting, which allows the user to enter a custom Discord application ID. this text is shown when the application ID is selected automatically by Music Presence, which is the default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2477"/>
@@ -1139,56 +1139,56 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="3249"/>
         <source>Invalid</source>
         <comment>The entered text is invalid or contains errors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2482"/>
         <location filename="../src/app/settings/window.cpp" line="3237"/>
         <source>&quot;{quoted_text}&quot;</source>
         <comment>Text in quotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>„{quoted_text}“</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2496"/>
         <source>Checking...</source>
         <comment>In the process of validating user input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola…</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3213"/>
         <source>Network error</source>
         <comment>A request to an external server failed due to a network error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chyba sítě</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3245"/>
         <source>Error</source>
         <comment>An error occurred</comment>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3253"/>
         <source>Request failed</source>
         <comment>A request to an external server has failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Požadavek se nezdařil</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3662"/>
         <source>Toggle presence per Discord user</source>
         <comment>discord settings group: overview over all media players and their enabled state</comment>
-        <translation type="unfinished"></translation>
+        <translation>Přepínat aktivitu pro jednotlivé uživatele Discordu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3901"/>
         <source>Switch to AppleScript when an error occurs</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Při chybě přepnout na AppleScript</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3904"/>
         <source>It can happen that the native system interface stops working with the next macOS update. Enable this option to automatically switch to AppleScript then.</source>
         <comment>media detection explanation: please use the same translations that were used for &quot;Use native system interfaces&quot; and &quot;Use AppleScript automation&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Může se stát, že nativní systémové rozhraní po příští aktualizaci macOS přestane fungovat. Povolením této možnosti se pak automaticky přepne na automatizaci pomocí AppleScriptu.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="4095"/>
