@@ -1409,49 +1409,49 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2637"/>
         <source>Show playback information</source>
         <comment>appearance setting: whether to show a live playback position and the song duration</comment>
-        <translation type="unfinished">Zobrazit informace o přehrávání</translation>
+        <translation>Zobrazit informace o přehrávání</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2648"/>
         <source>Paused media</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozastavené přehrávání</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2651"/>
         <source>Show paused media in your status</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Sdílet pozastavená media</translation>
+        <translation>Zobrazovat pozastavené přehrávání ve svém stavu</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2655"/>
         <source>Show a paused icon when music is paused</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobrazit ikonu pozastavení při pozastavení hudby</translation>
+        <translation>Zobrazit ikonu pozastavení při pozastavení hudby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2659"/>
         <source>Freeze the progress bar for paused media</source>
         <comment>appearance: whether to show a progress bar that doesn&apos;t change for paused media</comment>
-        <translation type="unfinished">Zmrazit ukazatel průběhu pro pozastavená média</translation>
+        <translation>Zmrazit ukazatel průběhu při pozastaveném přehrávání</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2673"/>
         <source>Show for how long media is paused</source>
         <comment>appearance: whether to show a timer in the status that counts how long the media has been paused</comment>
-        <translation type="unfinished">Zobrazit jak dlouho jsou média pozastavené</translation>
+        <translation>Zobrazit, jak dlouho je přehrávání pozastaveno</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2687"/>
         <source>Offline players</source>
         <comment>discord appearance setting group for offline media players only, i.e. players that are not streaming services</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offline přehrávače</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2697"/>
         <source>Show a playing icon when music is playing</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished">Zobrazit ikonu přehrávání když hudba hraje</translation>
+        <translation>Zobrazit ikonu přehrávání při přehrávání hudby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2707"/>
@@ -1462,19 +1462,19 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
     <message>
         <location filename="../src/app/settings/window.cpp" line="2716"/>
         <source>These settings do not apply to streaming services</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato nastavení se nevztahují na streamovací služby</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2766"/>
         <source>Custom button link</source>
         <comment>discord appearance setting group: the text for a custom button to show in the Discord status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odkaz vlastního tlačítka</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2989"/>
         <source>Media player logo</source>
         <comment>Placeholder image: The logo of the media player</comment>
-        <translation type="unfinished">Logo přehrávače</translation>
+        <translation>Logo přehrávače médií</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2992"/>
