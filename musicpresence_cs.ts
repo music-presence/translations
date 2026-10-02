@@ -1486,56 +1486,56 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="2995"/>
         <source>Playback state</source>
         <comment>Placeholder image: The playback state of the song shown as a playing or paused icon</comment>
-        <translation type="unfinished">Přehrávací status</translation>
+        <translation>Stav přehrávání</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2999"/>
         <source>CD</source>
         <comment>Placeholder image: An image of a physical CD (Compact Disc)</comment>
-        <translation type="unfinished">CD</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3005"/>
         <source>{app_name} logo</source>
         <comment>Placeholder image: The Music Presence logo</comment>
-        <translation type="unfinished">{app_name} logo</translation>
+        <translation>{app_name} logo</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3012"/>
         <source>Miscellaneous</source>
         <comment>discord appearance setting group for miscellaneous settings</comment>
-        <translation type="unfinished">Různé</translation>
+        <translation>Různé</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3016"/>
         <source>Placeholder for missing cover images</source>
         <comment>setting for placeholder images when there is no cover image</comment>
-        <translation type="unfinished">Náhrada za chybějící grafiku médií</translation>
+        <translation>Zástupný obrázek pro chybějící obal</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3080"/>
         <source>Reset all</source>
         <comment>resets all player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit vše</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="3095"/>
         <source>Remove player</source>
         <comment>removes a tab for player-specific settings from the discord appearance settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat přehrávač</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="383"/>
         <location filename="../src/app/settings/window.cpp" line="3929"/>
         <source>Upload cover images from media players</source>
         <comment>services setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nahrávat obrázky obalů z přehrávačů médií</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="332"/>
         <source>Import your scrobbling license</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importujte licenci pro scrobbling</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="335"/>
