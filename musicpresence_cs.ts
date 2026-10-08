@@ -1541,94 +1541,94 @@ Můžete podpořit vývoj vaším příspěvkem. Další informace získáte kli
         <location filename="../src/app/settings/window.cpp" line="335"/>
         <source>Drop your license file in this window to import it.</source>
         <comment>Scrobbling: Text that is shown when dragging a scrobbling license file into the settings window to import it</comment>
-        <translation type="unfinished"></translation>
+        <translation>Přetáhněte soubor s licencí do tohoto okna a importujte jej.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="688"/>
         <source>Welcome</source>
         <comment>settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vítejte</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="717"/>
         <source>Settings</source>
         <comment>subcategory of the &quot;Discord&quot; settings category</comment>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="737"/>
         <source>Artists</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interpreti</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="740"/>
         <source>License</source>
         <comment>subcategory of the &quot;Scrobbling&quot; settings category</comment>
-        <translation type="unfinished">Licence</translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2142"/>
         <location filename="../src/app/settings/window.cpp" line="3431"/>
         <source>Presence</source>
         <comment>discord appearance setting group</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivita</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2144"/>
         <source>{type} / Listening to …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Poslouchá …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2151"/>
         <source>{type} / Watching …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Sleduje …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2158"/>
         <source>{type} / Playing …</source>
         <comment>Activity type: IMPORTANT: You MUST use Discord&apos;s translation for this. Check the translation in the Discord app and use it here. Replace any dynamic text with an ellipsis character: … - The {type} is replaced with the English version, so it is recognizable for people who do not use the app in their native language.</comment>
-        <translation type="unfinished"></translation>
+        <translation>{type} / Hraje …</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2175"/>
         <source>Activity type</source>
         <comment>which activity type to use, e.g. Listening, Watching or Playing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ aktivity</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2720"/>
         <location filename="../src/app/settings/window.cpp" line="2949"/>
         <source>Links</source>
         <comment>discord appearance setting group for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odkazy</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2723"/>
         <location filename="../src/app/settings/window.cpp" line="2944"/>
         <source>Clicking the title opens the track page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na název skladby otevřít její stránku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2727"/>
         <source>Clicking the artist opens the artist page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na jméno interpreta otevřít jeho stránku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2731"/>
         <source>Clicking the album opens the album page</source>
         <comment>appearance setting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na název alba otevřít jeho stránku</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2736"/>
         <source>This only applies to songs from streaming services, and only if the respective music API is enabled under {services_panel}.</source>
         <comment>appearance setting: explanation for clickable links in the status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toto platí pouze pro skladby ze streamovacích služeb a pouze v případě, že je příslušné hudební API povoleno v sekci {services_panel}.</translation>
     </message>
     <message>
         <location filename="../src/app/settings/window.cpp" line="2763"/>
